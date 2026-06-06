@@ -1,108 +1,976 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>wc26Analyzer | Daily World Cup Insights</title>
-    <!-- 
-        STYLING STRATEGY (Option C - Hybrid):
-        - This file contains ONLY semantic HTML structure
-        - CSS classes provide hooks for external styling
-        - wc26-news repository applies all visual styling
-        - Minimal fallback styles only
-    -->
-    <style>
-        /* Minimal fallback only - wc26-news CSS takes precedence */
-        body {
-            font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-        }
-        img { max-width: 100%; height: auto; }
-        table { border-collapse: collapse; width: 100%; }
-        pre { overflow-x: auto; }
-        /* All styling handled by wc26-news/styles.css */
-    </style>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="description" content="WC26 News — Daily World Cup 2026 analysis by Polar Bear and FootballLoverKitty"/>
+<title>WC26 News ⚽</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet"/>
+<style>
+/* ═══════════════════════════════════════
+   TOKENS
+═══════════════════════════════════════ */
+:root {
+  --red:    #e8192c;
+  --gold:   #f5a623;
+  --blue:   #1a6bff;
+  --green:  #00c853;
+  --ink:    #0a0a0f;
+  --paper:  #f7f4ee;
+
+  /* dark (default) */
+  --bg:         #080c14;
+  --bg2:        #0e1420;
+  --bg3:        #141c2e;
+  --border:     rgba(255,255,255,0.07);
+  --border2:    rgba(255,255,255,0.12);
+  --text:       #eef0f6;
+  --text2:      #8892aa;
+  --text3:      #4a5168;
+  --surface:    #111827;
+
+  --font-head:  'Bebas Neue', sans-serif;
+  --font-body:  'DM Sans', sans-serif;
+  --font-serif: 'Crimson Pro', serif;
+  --max:        1100px;
+}
+[data-theme="light"] {
+  --bg:      #f7f4ee;
+  --bg2:     #eeeae0;
+  --bg3:     #e5e0d4;
+  --border:  rgba(0,0,0,0.08);
+  --border2: rgba(0,0,0,0.14);
+  --text:    #0d0d14;
+  --text2:   #5a5e70;
+  --text3:   #9aa0b4;
+  --surface: #ffffff;
+}
+
+/* ═══════════════════════════════════════
+   RESET
+═══════════════════════════════════════ */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  font-family:var(--font-body);
+  background:var(--bg);
+  color:var(--text);
+  font-size:15px;
+  line-height:1.65;
+  overflow-x:hidden;
+  -webkit-font-smoothing:antialiased;
+}
+a{color:inherit;text-decoration:none}
+img{max-width:100%}
+
+/* ═══════════════════════════════════════
+   BACKGROUND ATMOSPHERE
+═══════════════════════════════════════ */
+.bg-mesh{
+  position:fixed;inset:0;z-index:0;pointer-events:none;
+  background:
+    radial-gradient(ellipse 70% 50% at 10% 20%, rgba(232,25,44,0.06) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 60% at 90% 80%, rgba(26,107,255,0.06) 0%, transparent 60%),
+    radial-gradient(ellipse 50% 40% at 50% 50%, rgba(245,166,35,0.03) 0%, transparent 70%);
+}
+[data-theme="light"] .bg-mesh{
+  background:
+    radial-gradient(ellipse 70% 50% at 10% 20%, rgba(232,25,44,0.04) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 60% at 90% 80%, rgba(26,107,255,0.04) 0%, transparent 60%);
+}
+
+/* ═══════════════════════════════════════
+   HEADER
+═══════════════════════════════════════ */
+.site-header{
+  position:sticky;top:0;z-index:100;
+  background:rgba(8,12,20,0.88);
+  backdrop-filter:blur(16px);
+  border-bottom:1px solid var(--border);
+  transition:background .2s;
+}
+[data-theme="light"] .site-header{
+  background:rgba(247,244,238,0.9);
+}
+.site-header-inner{
+  max-width:var(--max);
+  margin:0 auto;
+  padding:0 24px;
+  height:58px;
+  display:flex;align-items:center;justify-content:space-between;gap:16px;
+}
+.logo{display:flex;align-items:center;gap:12px}
+.logo-ball{
+  width:38px;height:38px;border-radius:50%;
+  background:linear-gradient(135deg,var(--red),#ff6b35);
+  display:flex;align-items:center;justify-content:center;
+  font-size:20px;
+  box-shadow:0 0 20px rgba(232,25,44,0.3);
+  flex-shrink:0;
+}
+.logo-text{
+  font-family:var(--font-head);
+  font-size:26px;letter-spacing:2px;
+  background:linear-gradient(135deg,#fff 0%,rgba(255,255,255,0.7) 100%);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+  line-height:1;
+}
+[data-theme="light"] .logo-text{
+  background:linear-gradient(135deg,#0d0d14,#3a3a50);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+}
+.logo-sub{font-size:10px;color:var(--text3);letter-spacing:2px;text-transform:uppercase;margin-top:2px}
+.header-right{display:flex;align-items:center;gap:10px}
+.header-pill{
+  font-size:11px;font-weight:600;letter-spacing:.5px;
+  padding:5px 12px;border-radius:20px;
+  border:1px solid var(--border2);
+  color:var(--text2);
+  transition:all .15s;
+  display:none;
+}
+@media(min-width:600px){.header-pill{display:flex;align-items:center;gap:5px}}
+.header-pill:hover{border-color:var(--red);color:var(--text)}
+.theme-btn{
+  width:34px;height:34px;border-radius:50%;
+  background:var(--bg3);border:1px solid var(--border2);
+  color:var(--text2);font-size:15px;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
+  transition:all .15s;flex-shrink:0;
+}
+.theme-btn:hover{border-color:var(--gold);color:var(--gold)}
+
+/* ═══════════════════════════════════════
+   HERO BAND
+═══════════════════════════════════════ */
+.hero{
+  position:relative;z-index:1;
+  border-bottom:1px solid var(--border);
+  background:linear-gradient(180deg, var(--bg2) 0%, var(--bg) 100%);
+  overflow:hidden;
+  padding:52px 24px 44px;
+}
+.hero::before{
+  content:'⚽';
+  position:absolute;right:-20px;top:50%;transform:translateY(-50%) rotate(15deg);
+  font-size:220px;opacity:.025;pointer-events:none;
+  filter:blur(2px);
+}
+.hero-inner{max-width:var(--max);margin:0 auto;position:relative}
+.hero-eyebrow{
+  font-size:11px;letter-spacing:4px;text-transform:uppercase;
+  color:var(--red);font-weight:600;margin-bottom:14px;
+  display:flex;align-items:center;gap:10px;
+}
+.hero-eyebrow::before{
+  content:'';width:24px;height:2px;background:var(--red);border-radius:1px;
+}
+.hero-title{
+  font-family:var(--font-head);
+  font-size:clamp(52px,10vw,110px);
+  line-height:.92;
+  letter-spacing:3px;
+  color:#fff;
+  margin-bottom:16px;
+}
+[data-theme="light"] .hero-title{color:var(--ink)}
+.hero-title span{color:var(--red)}
+.hero-desc{
+  font-family:var(--font-serif);
+  font-size:clamp(15px,2vw,18px);
+  color:var(--text2);
+  max-width:520px;
+  line-height:1.7;
+  margin-bottom:28px;
+}
+.hero-pills{display:flex;flex-wrap:wrap;gap:8px}
+.hero-pill{
+  display:flex;align-items:center;gap:6px;
+  font-size:12px;font-weight:600;
+  padding:6px 14px;border-radius:20px;
+  border:1px solid var(--border2);
+  color:var(--text2);
+  background:var(--bg3);
+}
+.hero-pill.active{
+  background:rgba(232,25,44,0.12);
+  border-color:rgba(232,25,44,0.3);
+  color:var(--red);
+}
+
+/* hosts strip */
+.hosts-strip{
+  margin-top:32px;
+  display:flex;flex-wrap:wrap;gap:12px;align-items:center;
+}
+.host-item{
+  display:flex;align-items:center;gap:8px;
+  padding:8px 16px;
+  border-radius:8px;
+  background:var(--bg3);
+  border:1px solid var(--border);
+  font-size:13px;
+}
+.host-flag{font-size:22px}
+.host-name{font-weight:600;color:var(--text)}
+.host-city{font-size:11px;color:var(--text3);margin-top:1px}
+
+/* countdown */
+.countdown-strip{
+  margin-top:20px;
+  display:flex;flex-wrap:wrap;gap:12px;
+}
+.countdown-box{
+  background:var(--bg3);
+  border:1px solid var(--border);
+  border-radius:10px;
+  padding:12px 20px;
+  text-align:center;
+  min-width:72px;
+}
+.countdown-num{
+  font-family:var(--font-head);
+  font-size:32px;letter-spacing:2px;
+  color:var(--gold);line-height:1;
+}
+.countdown-label{
+  font-size:10px;letter-spacing:2px;text-transform:uppercase;
+  color:var(--text3);margin-top:4px;
+}
+
+/* ═══════════════════════════════════════
+   MAIN LAYOUT
+═══════════════════════════════════════ */
+.main-wrap{
+  position:relative;z-index:1;
+  max-width:var(--max);
+  margin:0 auto;
+  padding:40px 24px 80px;
+  display:grid;
+  grid-template-columns:1fr 300px;
+  gap:32px;
+  align-items:start;
+}
+@media(max-width:860px){.main-wrap{grid-template-columns:1fr}}
+
+/* ═══════════════════════════════════════
+   SECTION LABEL
+═══════════════════════════════════════ */
+.section-label{
+  font-family:var(--font-head);
+  font-size:13px;letter-spacing:3px;text-transform:uppercase;
+  color:var(--text3);
+  display:flex;align-items:center;gap:10px;
+  margin-bottom:18px;
+}
+.section-label::after{
+  content:'';flex:1;height:1px;
+  background:linear-gradient(90deg,var(--border2),transparent);
+}
+
+/* ═══════════════════════════════════════
+   FEATURED CARD (latest report)
+═══════════════════════════════════════ */
+.featured{
+  position:relative;
+  border-radius:16px;overflow:hidden;
+  background:var(--bg2);
+  border:1px solid var(--border2);
+  margin-bottom:28px;
+  transition:transform .2s,box-shadow .2s;
+  display:block;
+}
+.featured:hover{
+  transform:translateY(-3px);
+  box-shadow:0 16px 48px rgba(0,0,0,0.4);
+}
+.featured-accent{
+  height:3px;
+  background:linear-gradient(90deg,var(--red),var(--gold),var(--blue));
+}
+.featured-body{padding:26px 26px 22px}
+.featured-meta{
+  display:flex;align-items:center;gap:8px;
+  font-size:11px;letter-spacing:1px;text-transform:uppercase;
+  color:var(--text3);margin-bottom:12px;
+}
+.featured-meta .dot{width:5px;height:5px;border-radius:50%;background:var(--green);animation:pulse-dot 2s infinite}
+@keyframes pulse-dot{0%,100%{box-shadow:0 0 0 0 rgba(0,200,83,.4)}50%{box-shadow:0 0 0 5px rgba(0,200,83,0)}}
+.featured-type{
+  display:inline-flex;align-items:center;gap:5px;
+  font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;
+  padding:3px 10px;border-radius:4px;
+  background:rgba(232,25,44,0.15);color:var(--red);
+  border:1px solid rgba(232,25,44,0.25);
+  margin-bottom:10px;
+}
+.featured-title{
+  font-family:var(--font-serif);
+  font-size:clamp(20px,3vw,28px);
+  font-weight:600;
+  color:var(--text);
+  line-height:1.25;
+  margin-bottom:10px;
+}
+.featured-summary{
+  font-size:14px;color:var(--text2);line-height:1.6;
+  margin-bottom:18px;
+}
+.featured-footer{
+  display:flex;align-items:center;justify-content:space-between;
+  flex-wrap:wrap;gap:10px;
+}
+.featured-authors{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--text3)}
+.featured-authors strong{color:var(--text2)}
+.featured-cta{
+  display:inline-flex;align-items:center;gap:6px;
+  font-size:13px;font-weight:600;
+  color:var(--red);
+  padding:7px 16px;border-radius:8px;
+  border:1px solid rgba(232,25,44,0.3);
+  background:rgba(232,25,44,0.08);
+  transition:all .15s;
+}
+.featured-cta:hover{background:rgba(232,25,44,0.18);border-color:rgba(232,25,44,0.5)}
+.featured-cta svg{transition:transform .15s}
+.featured:hover .featured-cta svg{transform:translateX(3px)}
+
+/* ═══════════════════════════════════════
+   DATE GROUP
+═══════════════════════════════════════ */
+.date-group{margin-bottom:32px}
+.date-header{
+  display:flex;align-items:center;gap:12px;
+  margin-bottom:14px;
+  position:sticky;top:59px;z-index:10;
+  background:var(--bg);
+  padding:8px 0;
+}
+.date-badge{
+  font-family:var(--font-head);
+  font-size:13px;letter-spacing:2px;
+  padding:5px 14px;border-radius:6px;
+  background:var(--bg3);border:1px solid var(--border2);
+  color:var(--text2);white-space:nowrap;
+}
+.date-badge.today{
+  background:rgba(232,25,44,0.12);
+  border-color:rgba(232,25,44,0.3);
+  color:var(--red);
+}
+.date-count{font-size:11px;color:var(--text3)}
+.date-line{flex:1;height:1px;background:var(--border)}
+
+/* ═══════════════════════════════════════
+   REPORT CARD
+═══════════════════════════════════════ */
+.report-card{
+  display:flex;gap:16px;align-items:flex-start;
+  padding:16px 18px;
+  border-radius:12px;
+  background:var(--surface);
+  border:1px solid var(--border);
+  margin-bottom:10px;
+  text-decoration:none;
+  transition:all .18s;
+  position:relative;
+  overflow:hidden;
+}
+.report-card::before{
+  content:'';
+  position:absolute;left:0;top:0;bottom:0;width:3px;
+  background:var(--card-accent,var(--border2));
+  transform:scaleY(0);transform-origin:bottom;
+  transition:transform .2s;
+}
+.report-card:hover{
+  border-color:var(--border2);
+  transform:translateX(4px);
+  box-shadow:0 4px 20px rgba(0,0,0,0.2);
+}
+.report-card:hover::before{transform:scaleY(1)}
+
+.rc-type-icon{
+  width:40px;height:40px;border-radius:8px;
+  background:var(--bg3);border:1px solid var(--border);
+  display:flex;align-items:center;justify-content:center;
+  font-size:18px;flex-shrink:0;
+}
+.rc-body{flex:1;min-width:0}
+.rc-type{
+  font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;
+  color:var(--card-accent,var(--text3));
+  margin-bottom:4px;
+}
+.rc-title{
+  font-family:var(--font-serif);
+  font-size:16px;font-weight:600;
+  color:var(--text);line-height:1.3;
+  margin-bottom:5px;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.rc-summary{
+  font-size:12px;color:var(--text2);
+  line-height:1.5;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+}
+.rc-footer{
+  display:flex;align-items:center;gap:8px;
+  margin-top:8px;flex-wrap:wrap;
+}
+.rc-time{font-size:11px;color:var(--text3)}
+.rc-authors{font-size:11px;color:var(--text3)}
+.rc-arrow{
+  color:var(--text3);flex-shrink:0;margin-top:2px;
+  transition:transform .15s,color .15s;
+}
+.report-card:hover .rc-arrow{transform:translateX(3px);color:var(--text)}
+
+/* type accent colors */
+.report-card[data-type="daily-briefing"]  {--card-accent:#1a6bff}
+.report-card[data-type="match-report"]    {--card-accent:#e8192c}
+.report-card[data-type="tactics"]         {--card-accent:#f5a623}
+.report-card[data-type="transfer-rumors"] {--card-accent:#00c853}
+
+/* ═══════════════════════════════════════
+   SIDEBAR
+═══════════════════════════════════════ */
+.sidebar{display:flex;flex-direction:column;gap:20px}
+
+.sidebar-card{
+  background:var(--surface);
+  border:1px solid var(--border);
+  border-radius:14px;
+  overflow:hidden;
+}
+.sidebar-header{
+  padding:14px 18px 10px;
+  border-bottom:1px solid var(--border);
+  font-family:var(--font-head);
+  font-size:12px;letter-spacing:2px;text-transform:uppercase;
+  color:var(--text3);
+  display:flex;align-items:center;gap:8px;
+}
+.sidebar-body{padding:14px 18px}
+
+/* groups table */
+.groups-list{display:flex;flex-direction:column;gap:4px}
+.group-row{
+  display:flex;align-items:center;gap:10px;
+  padding:7px 10px;border-radius:6px;
+  font-size:12px;
+  transition:background .12s;cursor:default;
+}
+.group-row:hover{background:var(--bg3)}
+.group-letter{
+  font-family:var(--font-head);font-size:14px;letter-spacing:1px;
+  width:20px;text-align:center;color:var(--gold);flex-shrink:0;
+}
+.group-teams{color:var(--text2);flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.group-flags{font-size:14px;flex-shrink:0}
+
+/* stats sidebar */
+.stat-row{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:9px 0;border-bottom:1px solid var(--border);font-size:13px;
+}
+.stat-row:last-child{border-bottom:none}
+.stat-row-label{color:var(--text2)}
+.stat-row-value{font-weight:700;color:var(--text);font-variant-numeric:tabular-nums}
+
+/* authors card */
+.author-item{
+  display:flex;align-items:center;gap:12px;
+  padding:10px 0;border-bottom:1px solid var(--border);
+}
+.author-item:last-child{border-bottom:none}
+.author-avatar{
+  width:38px;height:38px;border-radius:50%;
+  display:flex;align-items:center;justify-content:center;
+  font-size:20px;flex-shrink:0;
+  border:2px solid var(--border2);
+}
+.author-name{font-size:13px;font-weight:600;color:var(--text)}
+.author-role{font-size:11px;color:var(--text3);margin-top:1px}
+
+/* filter tabs */
+.filter-tabs{
+  display:flex;flex-wrap:wrap;gap:6px;
+  margin-bottom:20px;
+}
+.filter-tab{
+  font-size:11px;font-weight:600;letter-spacing:.5px;
+  padding:5px 13px;border-radius:16px;
+  border:1px solid var(--border2);
+  color:var(--text3);cursor:pointer;
+  background:var(--bg3);
+  transition:all .15s;
+}
+.filter-tab:hover{color:var(--text);border-color:var(--border2)}
+.filter-tab.active{
+  background:var(--red);border-color:var(--red);color:#fff;
+}
+.filter-tab[data-filter="match-report"].active   {background:var(--red);border-color:var(--red)}
+.filter-tab[data-filter="tactics"].active        {background:var(--gold);border-color:var(--gold);color:#000}
+.filter-tab[data-filter="daily-briefing"].active {background:var(--blue);border-color:var(--blue)}
+.filter-tab[data-filter="transfer-rumors"].active{background:var(--green);border-color:var(--green);color:#000}
+
+/* empty state */
+.empty-state{
+  text-align:center;padding:60px 20px;
+  color:var(--text3);
+}
+.empty-state .icon{font-size:40px;margin-bottom:12px}
+.empty-state p{font-size:14px}
+
+/* ═══════════════════════════════════════
+   LOADING SKELETON
+═══════════════════════════════════════ */
+.skeleton{
+  background:linear-gradient(90deg, var(--bg3) 25%, var(--bg2) 50%, var(--bg3) 75%);
+  background-size:200% 100%;
+  animation:shimmer 1.5s infinite;
+  border-radius:6px;
+}
+@keyframes shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+
+/* ═══════════════════════════════════════
+   FOOTER
+═══════════════════════════════════════ */
+.site-footer{
+  position:relative;z-index:1;
+  border-top:1px solid var(--border);
+  padding:28px 24px;
+  background:var(--bg2);
+  text-align:center;
+  font-size:12px;color:var(--text3);
+}
+.site-footer a{color:var(--blue);transition:color .15s}
+.site-footer a:hover{color:var(--text)}
+.footer-inner{max-width:var(--max);margin:0 auto}
+.footer-authors{
+  display:flex;justify-content:center;gap:20px;flex-wrap:wrap;
+  margin-bottom:14px;font-size:13px;
+}
+.footer-author{display:flex;align-items:center;gap:6px;color:var(--text2)}
+
+/* ═══════════════════════════════════════
+   ANIMATIONS
+═══════════════════════════════════════ */
+@keyframes fadein{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+.animate-in{animation:fadein .35s ease backwards}
+.animate-in:nth-child(1){animation-delay:.05s}
+.animate-in:nth-child(2){animation-delay:.10s}
+.animate-in:nth-child(3){animation-delay:.15s}
+.animate-in:nth-child(4){animation-delay:.20s}
+.animate-in:nth-child(5){animation-delay:.25s}
+
+/* ═══════════════════════════════════════
+   RESPONSIVE
+═══════════════════════════════════════ */
+@media(max-width:600px){
+  .hero{padding:36px 18px 32px}
+  .main-wrap{padding:24px 16px 60px}
+  .featured-body{padding:18px 18px 16px}
+  .report-card{padding:13px 14px}
+  .rc-title{font-size:14px}
+  .countdown-strip{gap:8px}
+  .countdown-box{padding:10px 14px;min-width:60px}
+  .countdown-num{font-size:26px}
+}
+</style>
 </head>
 <body>
-    <article class="wc-article">
-        <header class="wc-article__header">
-            <h1 class="wc-article__title">⚽ wc26Analyzer</h1>
-            <time class="wc-article__date">Saturday, June 6, 2026</time>
-            <p class="wc-article__subtitle">Automated Tactical Update</p>
-        </header>
-        
-        <main class="wc-article__content">
-            <section class="wc-section">
-  <article class="wc-card">
-    <h2>⚽ 🔥 BREAKING: Pochettino's Tactical Gamble as Knockout Stage Loom</h2>
-    <p><span class="wc-badge wc-breaking">🔥 BREAKING</span> In a stunning development from the USMNT camp in Atlanta, head coach Mauricio Pochettino has hinted at a major tactical shift ahead of their decisive final group match. Facing a highly-structured Italian side, sources close to the training camp confirm the USMNT will pivot from their traditional 4-3-3 to a fluid <span class="wc-highlight">3-4-2-1 hybrid system</span>. This is designed to combat Italy's relentless high-press and exploit spaces behind their advancing wingbacks.</p>
-    
-    <p>The tactical adjustment comes after analytical staff flagged a vulnerabilities in Italy's rest defense during transition phases. By deploying Christian Pulisic and Malik Tillman as dual ten-rolls behind Folarin Balogun, Pochettino aims to overload the half-spaces and force Italy's back three into uncomfortable lateral movements.</p>
+<div class="bg-mesh"></div>
 
-    <div class="wc-stat"><strong>USMNT PPDA (Passes Per Defensive Action):</strong> 8.4 (Tournament Rank: 4th)</div>
-    <div class="wc-stat"><strong>Expected Goals Against (xGA) in Transition:</strong> 0.42 per 90</div>
-  </article>
+<!-- ══ HEADER ══ -->
+<header class="site-header">
+  <div class="site-header-inner">
+    <a href="/" class="logo">
+      <div class="logo-ball">⚽</div>
+      <div>
+        <div class="logo-text">WC26 NEWS</div>
+        <div class="logo-sub">AI · Daily · 2026</div>
+      </div>
+    </a>
+    <div class="header-right">
+      <a href="#reports" class="header-pill">📰 Reports</a>
+      <a href="#groups" class="header-pill">🏆 Groups</a>
+      <button class="theme-btn" id="themeBtn" aria-label="Toggle theme">☀️</button>
+    </div>
+  </div>
+</header>
+
+<!-- ══ HERO ══ -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-eyebrow">FIFA World Cup 2026</div>
+    <h1 class="hero-title">THE<br/><span>BEAUTIFUL</span><br/>GAME</h1>
+    <p class="hero-desc">Daily AI analysis, match reports, and tactical breakdowns — powered by Gemini Flash and written by your favourite animal pundits.</p>
+
+    <div class="hero-pills">
+      <div class="hero-pill active">🔴 Tournament Active</div>
+      <div class="hero-pill">48 Teams</div>
+      <div class="hero-pill">104 Matches</div>
+      <div class="hero-pill" id="heroReportCount">— Reports</div>
+    </div>
+
+    <div class="hosts-strip">
+      <div class="host-item"><span class="host-flag">🇺🇸</span><div><div class="host-name">United States</div><div class="host-city">11 venues</div></div></div>
+      <div class="host-item"><span class="host-flag">🇨🇦</span><div><div class="host-name">Canada</div><div class="host-city">2 venues</div></div></div>
+      <div class="host-item"><span class="host-flag">🇲🇽</span><div><div class="host-name">Mexico</div><div class="host-city">3 venues</div></div></div>
+    </div>
+
+    <div class="countdown-strip" id="countdownStrip">
+      <div class="countdown-box"><div class="countdown-num" id="cdDays">--</div><div class="countdown-label">Days</div></div>
+      <div class="countdown-box"><div class="countdown-num" id="cdHours">--</div><div class="countdown-label">Hours</div></div>
+      <div class="countdown-box"><div class="countdown-num" id="cdMins">--</div><div class="countdown-label">Mins</div></div>
+      <div class="countdown-box" style="border-color:rgba(232,25,44,0.3)">
+        <div class="countdown-num" style="color:var(--red)">19/7</div>
+        <div class="countdown-label">Final</div>
+      </div>
+    </div>
+  </div>
 </section>
 
-<section class="wc-section">
-  <h2>🎯 Tactical Masterclass: Germany's "Box Midfield" Overwhelms Group F</h2>
-  <p>Julian Nagelsmann’s tactical evolution has reached its zenith at this World Cup. Germany’s utilization of an asymmetrical <span class="wc-highlight">3-2-2-3 (W-M) formation</span> in possession has utterly dismantled defensive blocks. By dropping Joshua Kimmich into a deep inverted fullback role alongside Robert Andrich, Germany establishes a secure double-pivot that releases Jamal Musiala and Florian Wirtz to operate freely between the lines.</p>
-  
-  <p>Our tracking data from the last 24 hours reveals how this "box midfield" creates constant numerical superiorities:</p>
-  <ul>
-    <li><strong>👥 Midfield Overloads:</strong> A constant 4v3 or 4v2 advantage in the central corridor, forcing opposing center-backs to step out of line.</li>
-    <li><strong>🔄 Rest Defense:</strong> The deep double-pivot limits counter-attacking avenues, suffocating opponents in their own defensive third.</li>
-    <li><strong>📐 Field Tilt:</strong> Germany currently dominates territorial control, pinning opponents deep with an average field tilt of 72.4%.</li>
-  </ul>
+<!-- ══ MAIN ══ -->
+<div class="main-wrap">
 
-  <div class="wc-stat"><strong>Germany Middle-Third Pass Accuracy:</strong> 93.1%</div>
-  <div class="wc-stat"><strong>Progressive Passes Received (Musiala):</strong> 14.2 per 90</div>
-</section>
+  <!-- LEFT: Feed -->
+  <div>
+    <!-- Featured latest -->
+    <div class="section-label">⚡ Latest Report</div>
+    <div id="featuredSlot">
+      <!-- skeleton -->
+      <div style="border-radius:16px;overflow:hidden;background:var(--bg2);border:1px solid var(--border);margin-bottom:28px">
+        <div class="skeleton" style="height:3px"></div>
+        <div style="padding:26px">
+          <div class="skeleton" style="height:12px;width:120px;margin-bottom:14px"></div>
+          <div class="skeleton" style="height:28px;width:80%;margin-bottom:8px"></div>
+          <div class="skeleton" style="height:28px;width:60%;margin-bottom:14px"></div>
+          <div class="skeleton" style="height:14px;margin-bottom:6px"></div>
+          <div class="skeleton" style="height:14px;width:70%"></div>
+        </div>
+      </div>
+    </div>
 
-<section class="wc-section">
-  <article class="wc-card">
-    <h2>🚑 Injury Update: Mbappe Cleared, But Deschamps Faces Midfield Dilemma</h2>
-    <p><span class="wc-badge">⭐ SQUAD UPDATE</span> France national team doctor Laurent Duchesne confirmed that Kylian Mbappé has completed a full high-intensity training session in Dallas and is <span class="wc-highlight">cleared to start</span> against Uruguay. However, Didier Deschamps faces a significant headache in midfield. Aurélien Tchouaméni picked up a minor calf strain during tactical drills and is highly unlikely to be risked.</p>
-    
-    <p>Without Tchouaméni’s physical dominance and elite interception rate, France may have to transition from a robust 4-3-3 to a more possession-oriented 4-2-3-1, potentially bringing Eduardo Camavinga into a deeper playmaking role alongside Youssouf Fofana.</p>
-    
-    <div class="wc-stat"><strong>Tchouaméni Interceptions per 90:</strong> 3.8 (Squad High)</div>
-    <div class="wc-stat"><strong>France Win Rate Without Tchouaméni (Since 2024):</strong> 54.5% (vs 78.2% with)</div>
-  </article>
-</section>
+    <!-- Filter tabs -->
+    <div id="reports" class="filter-tabs">
+      <button class="filter-tab active" data-filter="all">All</button>
+      <button class="filter-tab" data-filter="daily-briefing">📋 Daily</button>
+      <button class="filter-tab" data-filter="match-report">⚽ Match</button>
+      <button class="filter-tab" data-filter="tactics">🧠 Tactics</button>
+      <button class="filter-tab" data-filter="transfer-rumors">🔄 Transfers</button>
+    </div>
 
-<section class="wc-section">
-  <h2>📊 Matchday Results & Analytical Takeaways</h2>
-  <p>The last 24 hours of action have solidified the knockout bracket, delivering high-octane drama and fascinating data trends across the venues:</p>
-  
-  <ul>
-    <li><strong>🇧🇷 Brazil 2 - 0 Senegal 🇸🇳:</strong> Vinícius Júnior’s gravity on the left wing opened up massive interior corridors for Rodrygo. Senegal's low block held firm for 65 minutes until Brazil’s counter-pressing intensity forced a critical turnover high up the pitch.</li>
-    <li><strong>🇯🇵 Japan 1 - 1 Croatia 🇭🇷:</strong> A tactical chess match. Croatia's aging but elite midfield trio managed to manipulate tempo, neutralising Japan's transition speed. Japan's equalizer came from a brilliantly worked set-piece routine, exploiting Croatia’s zonal marking weakness at the near post.</li>
-    <li><strong>🇦🇷 Argentina 3 - 1 Canada 🇨🇦:</strong> Lionel Scaloni’s side survived an early Canadian press by utilizing Alexis Mac Allister as a press-resistant escape valve. Argentina’s third goal was a masterclass in modern build-up: 18 passes involving all ten outfield players.</li>
-  </ul>
+    <!-- Report feed grouped by date -->
+    <div class="section-label">📰 All Reports</div>
+    <div id="feedSlot">
+      <!-- skeleton rows -->
+      <div style="height:80px;border-radius:12px;background:var(--surface);border:1px solid var(--border);margin-bottom:10px" class="skeleton"></div>
+      <div style="height:80px;border-radius:12px;background:var(--surface);border:1px solid var(--border);margin-bottom:10px" class="skeleton"></div>
+      <div style="height:80px;border-radius:12px;background:var(--surface);border:1px solid var(--border);margin-bottom:10px" class="skeleton"></div>
+    </div>
+  </div>
 
-  <div class="wc-stat"><strong>Brazil PPDA against Senegal:</strong> 6.2 (Elite Counter-press)</div>
-  <div class="wc-stat"><strong>Canada PPDA against Argentina:</strong> 14.8 (Forced into low block)</div>
-</section>
+  <!-- RIGHT: Sidebar -->
+  <aside class="sidebar">
 
-<section class="wc-section">
-  <article class="wc-card">
-    <h2>🏆 Tactical Player of the Day: Estêvão Willian (Brazil)</h2>
-    <p>The 19-year-old sensation, dubbed "Messinho", put on a masterclass of progressive ball-carrying and defensive tracking against Senegal. Operating on the right wing, his ability to isolate defenders 1v1 transformed Brazil's stagnant possession phases into dynamic attacking threats.</p>
-    <p>Most impressively, his defensive work rate under Dorival Júnior has skyrocketed. Estêvão recovered possession <span class="wc-highlight">5 times in the attacking third</span>, triggering immediate transition sequences for the Seleção.</p>
-    
-    <div class="wc-stat"><strong>Successful Dribbles:</strong> 7/9 (78% success rate)</div>
-    <div class="wc-stat"><strong>Chances Created:</strong> 4 (Most on the pitch)</div>
-  </article>
-</section>
-        </main>
-        
-        <footer class="wc-article__footer">
-            <p>Generated by <strong>wc26Analyzer</strong> via Gemini Flash API & GitHub Actions</p>
-            <p class="wc-article__meta">100% AI-generated analysis • Updated daily</p>
-        </footer>
-    </article>
+    <!-- Authors -->
+    <div class="sidebar-card">
+      <div class="sidebar-header">✍️ Your Pundits</div>
+      <div class="sidebar-body">
+        <div class="author-item">
+          <div class="author-avatar">🐻</div>
+          <div><div class="author-name">Polar Bear</div><div class="author-role">Tactical Analysis & Stats</div></div>
+        </div>
+        <div class="author-item">
+          <div class="author-avatar">🐱</div>
+          <div><div class="author-name">FootballLoverKitty</div><div class="author-role">Hot Takes & Predictions</div></div>
+        </div>
+        <div style="margin-top:12px;font-size:11px;color:var(--text3);line-height:1.6">
+          Powered by <strong style="color:var(--text2)">Gemini Flash</strong> + Google Search.<br/>
+          Auto-published daily by <strong style="color:var(--text2)">wc26bot</strong> via GitHub Actions.
+        </div>
+      </div>
+    </div>
+
+    <!-- Tournament stats -->
+    <div class="sidebar-card">
+      <div class="sidebar-header">📊 Tournament</div>
+      <div class="sidebar-body">
+        <div class="stat-row"><span class="stat-row-label">Start Date</span><span class="stat-row-value">11 Jun 2026</span></div>
+        <div class="stat-row"><span class="stat-row-label">Final</span><span class="stat-row-value">19 Jul 2026</span></div>
+        <div class="stat-row"><span class="stat-row-label">Teams</span><span class="stat-row-value">48</span></div>
+        <div class="stat-row"><span class="stat-row-label">Groups</span><span class="stat-row-value">12</span></div>
+        <div class="stat-row"><span class="stat-row-label">Matches</span><span class="stat-row-value">104</span></div>
+        <div class="stat-row"><span class="stat-row-label">Reports</span><span class="stat-row-value" id="sidebarCount">—</span></div>
+      </div>
+    </div>
+
+    <!-- Groups -->
+    <div class="sidebar-card" id="groups">
+      <div class="sidebar-header">🏆 Groups</div>
+      <div class="sidebar-body" style="padding:10px 14px">
+        <div class="groups-list" id="groupsList"></div>
+      </div>
+    </div>
+
+  </aside>
+</div>
+
+<!-- ══ FOOTER ══ -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-authors">
+      <span class="footer-author">🐻 <strong>Polar Bear</strong> — Tactical Analysis</span>
+      <span class="footer-author">🐱 <strong>FootballLoverKitty</strong> — Hot Takes</span>
+    </div>
+    <p>WC26 News · Auto-generated by <a href="https://github.com" target="_blank">wc26bot</a> · <span id="footerYear"></span></p>
+  </div>
+</footer>
+
+<script>
+// ═══════════════════════════════════════
+// DATA
+// ═══════════════════════════════════════
+const GROUPS = {
+  A:["🇲🇽","🇿🇦","🇰🇷","🇨🇿"], B:["🇨🇦","🇧🇦","🇶🇦","🇨🇭"],
+  C:["🇧🇷","🇲🇦","🇭🇹","🏴󠁧󠁢󠁳󠁣󠁴󠁿"], D:["🇺🇸","🇵🇾","🇦🇺","🇹🇷"],
+  E:["🇩🇪","🇨🇼","🇳🇱","🇸🇪"], F:["🇪🇸","🇨🇻","🇸🇦","🇺🇾"],
+  G:["🇧🇪","🇪🇬","🇮🇷","🇳🇿"], H:["🇫🇷","🇸🇳","🇮🇶","🇳🇴"],
+  I:["🇦🇷","🇩🇿","🇦🇹","🇯🇴"], J:["🇬🇭","🇵🇦","🏴󠁧󠁢󠁥󠁮󠁧󠁿","🇭🇷"],
+  K:["🇵🇹","🇨🇩","🇺🇿","🇨🇴"], L:["🇯🇵","🇹🇳","🇨🇮","🇪🇨"],
+};
+
+const TYPE_META = {
+  'daily-briefing':  { icon:'📋', label:'Daily Briefing',  accent:'#1a6bff' },
+  'match-report':    { icon:'⚽', label:'Match Report',    accent:'#e8192c' },
+  'tactics':         { icon:'🧠', label:'Tactics',         accent:'#f5a623' },
+  'transfer-rumors': { icon:'🔄', label:'Transfers',       accent:'#00c853' },
+  'default':         { icon:'📰', label:'Report',          accent:'#8892aa' },
+};
+
+function getTypeMeta(type) {
+  for (const key of Object.keys(TYPE_META)) {
+    if (type && type.includes(key)) return TYPE_META[key];
+  }
+  return TYPE_META['default'];
+}
+
+function parseType(fileSlug) {
+  // e.g. "2026-06-07_match-mex-vs-rsa" → "match-report"
+  if (!fileSlug) return 'default';
+  if (fileSlug.includes('match'))    return 'match-report';
+  if (fileSlug.includes('tactic'))   return 'tactics';
+  if (fileSlug.includes('transfer')) return 'transfer-rumors';
+  if (fileSlug.includes('daily'))    return 'daily-briefing';
+  return 'daily-briefing';
+}
+
+function fmtDate(dateStr) {
+  try {
+    const d = new Date(dateStr + 'T12:00:00Z');
+    return d.toLocaleDateString('en-GB', { weekday:'short', day:'numeric', month:'short', year:'numeric' });
+  } catch(e) { return dateStr; }
+}
+
+function isToday(dateStr) {
+  return new Date().toISOString().split('T')[0] === dateStr;
+}
+
+// ═══════════════════════════════════════
+// GROUPS SIDEBAR
+// ═══════════════════════════════════════
+function renderGroups() {
+  const el = document.getElementById('groupsList');
+  el.innerHTML = Object.entries(GROUPS).map(([g, flags]) =>
+    `<div class="group-row">
+      <span class="group-letter">${g}</span>
+      <span class="group-teams">${flags.slice(0,4).join(' ')}</span>
+    </div>`
+  ).join('');
+}
+
+// ═══════════════════════════════════════
+// COUNTDOWN
+// ═══════════════════════════════════════
+function updateCountdown() {
+  const final = new Date('2026-07-19T20:00:00Z');
+  const now = new Date();
+  const diff = final - now;
+  if (diff <= 0) {
+    document.getElementById('countdownStrip').innerHTML =
+      '<div class="countdown-box"><div class="countdown-num" style="color:var(--gold)">🏆</div><div class="countdown-label">Ended</div></div>';
+    return;
+  }
+  const days  = Math.floor(diff / 86400000);
+  const hours = Math.floor((diff % 86400000) / 3600000);
+  const mins  = Math.floor((diff % 3600000) / 60000);
+  document.getElementById('cdDays').textContent  = String(days).padStart(2,'0');
+  document.getElementById('cdHours').textContent = String(hours).padStart(2,'0');
+  document.getElementById('cdMins').textContent  = String(mins).padStart(2,'0');
+}
+
+// ═══════════════════════════════════════
+// RENDER FEATURED
+// ═══════════════════════════════════════
+function renderFeatured(entry) {
+  const type = parseType(entry.file || entry.date);
+  const meta = getTypeMeta(type);
+  const slot = document.getElementById('featuredSlot');
+  slot.innerHTML = `
+    <a href="${entry.file || '#'}" class="featured animate-in">
+      <div class="featured-accent"></div>
+      <div class="featured-body">
+        <div class="featured-meta">
+          <div class="dot"></div>
+          <span>LATEST</span>
+          <span>·</span>
+          <span>${fmtDate(entry.date)}</span>
+        </div>
+        <div class="featured-type">${meta.icon} ${meta.label}</div>
+        <h2 class="featured-title">${entry.title || 'WC26 Daily Report'}</h2>
+        <p class="featured-summary">${entry.summary || 'Daily World Cup analysis by Polar Bear 🐻 and FootballLoverKitty 🐱.'}</p>
+        <div class="featured-footer">
+          <div class="featured-authors">By <strong>🐻 Polar Bear</strong> &amp; <strong>🐱 FootballLoverKitty</strong></div>
+          <span class="featured-cta">Read Report
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </span>
+        </div>
+      </div>
+    </a>`;
+}
+
+// ═══════════════════════════════════════
+// RENDER FEED (grouped by date)
+// ═══════════════════════════════════════
+function renderFeed(entries, filter) {
+  const slot = document.getElementById('feedSlot');
+  const filtered = filter === 'all' ? entries : entries.filter(e => {
+    const t = parseType(e.file || e.date);
+    return t === filter;
+  });
+
+  if (filtered.length === 0) {
+    slot.innerHTML = `<div class="empty-state"><div class="icon">📭</div><p>No ${filter} reports yet.<br/>Check back after the next run!</p></div>`;
+    return;
+  }
+
+  // Group by date
+  const byDate = {};
+  filtered.forEach(e => {
+    const d = e.date;
+    if (!byDate[d]) byDate[d] = [];
+    byDate[d].push(e);
+  });
+
+  slot.innerHTML = Object.entries(byDate).map(([date, items], gi) => {
+    const todayMark = isToday(date);
+    const cards = items.map((e, ci) => {
+      const type = parseType(e.file || e.date);
+      const meta = getTypeMeta(type);
+      return `
+        <a href="${e.file || '#'}" class="report-card animate-in" data-type="${type}" style="animation-delay:${(gi*3+ci)*.05}s">
+          <div class="rc-type-icon">${meta.icon}</div>
+          <div class="rc-body">
+            <div class="rc-type">${meta.label}</div>
+            <div class="rc-title">${e.title || 'WC26 Report'}</div>
+            <div class="rc-summary">${e.summary || 'Daily World Cup analysis by Polar Bear and FootballLoverKitty.'}</div>
+            <div class="rc-footer">
+              <span class="rc-time">${fmtDate(date)}</span>
+              <span class="rc-authors">· 🐻 &amp; 🐱</span>
+            </div>
+          </div>
+          <svg class="rc-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18l6-6-6-6"/></svg>
+        </a>`;
+    }).join('');
+
+    return `
+      <div class="date-group">
+        <div class="date-header">
+          <div class="date-badge ${todayMark?'today':''}">${todayMark?'TODAY — ':''}${fmtDate(date)}</div>
+          <span class="date-count">${items.length} report${items.length>1?'s':''}</span>
+          <div class="date-line"></div>
+        </div>
+        ${cards}
+      </div>`;
+  }).join('');
+}
+
+// ═══════════════════════════════════════
+// LOAD DATA
+// ═══════════════════════════════════════
+let allEntries = [];
+let activeFilter = 'all';
+
+async function loadFeed() {
+  try {
+    const res = await fetch('data/index.json?' + Date.now());
+    if (!res.ok) throw new Error('not found');
+    const data = await res.json();
+    allEntries = Array.isArray(data) ? data : [];
+
+    if (allEntries.length > 0) {
+      renderFeatured(allEntries[0]);
+    } else {
+      document.getElementById('featuredSlot').innerHTML =
+        `<div class="empty-state"><div class="icon">⏳</div><p>First report coming soon.<br/>wc26bot is warming up!</p></div>`;
+    }
+
+    renderFeed(allEntries, activeFilter);
+
+    const count = allEntries.length;
+    document.getElementById('heroReportCount').textContent = count + ' Report' + (count!==1?'s':'');
+    document.getElementById('sidebarCount').textContent = count;
+
+  } catch(e) {
+    // data/index.json doesn't exist yet — show placeholder
+    document.getElementById('featuredSlot').innerHTML =
+      `<div class="empty-state"><div class="icon">🐻</div><p>Polar Bear is preparing the first report...<br/><small style="color:var(--text3)">data/index.json not found yet</small></p></div>`;
+    document.getElementById('feedSlot').innerHTML =
+      `<div class="empty-state"><div class="icon">🐱</div><p>FootballLoverKitty is sharpening her takes.<br/>Reports appear here after the first workflow run.</p></div>`;
+  }
+}
+
+// ═══════════════════════════════════════
+// FILTER TABS
+// ═══════════════════════════════════════
+document.querySelectorAll('.filter-tab').forEach(btn => {
+  btn.addEventListener('click', function() {
+    document.querySelectorAll('.filter-tab').forEach(b => b.classList.remove('active'));
+    this.classList.add('active');
+    activeFilter = this.dataset.filter;
+    renderFeed(allEntries, activeFilter);
+  });
+});
+
+// ═══════════════════════════════════════
+// THEME TOGGLE
+// ═══════════════════════════════════════
+const themeBtn = document.getElementById('themeBtn');
+function getTheme() { return document.documentElement.getAttribute('data-theme'); }
+function setTheme(t) {
+  document.documentElement.setAttribute('data-theme', t);
+  localStorage.setItem('wc26-theme', t);
+  themeBtn.textContent = t === 'dark' ? '☀️' : '🌙';
+}
+themeBtn.addEventListener('click', () => setTheme(getTheme() === 'dark' ? 'light' : 'dark'));
+// init from storage
+const saved = localStorage.getItem('wc26-theme');
+if (saved) setTheme(saved);
+else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) setTheme('light');
+else setTheme('dark');
+
+// ═══════════════════════════════════════
+// INIT
+// ═══════════════════════════════════════
+document.getElementById('footerYear').textContent = new Date().getFullYear();
+renderGroups();
+updateCountdown();
+setInterval(updateCountdown, 60000);
+loadFeed();
+</script>
 </body>
 </html>
