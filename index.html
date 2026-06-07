@@ -647,12 +647,136 @@ let allEntries=[],activeType='all',activeTeam=null,tagsExpanded=false;
 // ════════════════════════
 // GROUPS
 // ════════════════════════
+// Group standings data
+const STANDINGS={
+  A:{
+    teams:[
+      {name:"Mexico",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"South Africa",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"South Korea",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Czech Republic",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+    ]
+  },
+  B:{
+    teams:[
+      {name:"Canada",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Bosnia and Herzegovina",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Qatar",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Switzerland",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+    ]
+  },
+  C:{
+    teams:[
+      {name:"Brazil",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Morocco",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Haiti",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Scotland",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+    ]
+  },
+  D:{
+    teams:[
+      {name:"USA",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Paraguay",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Australia",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Turkiye",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+    ]
+  },
+  E:{
+    teams:[
+      {name:"Germany",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Curacao",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Netherlands",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Sweden",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+    ]
+  },
+  F:{
+    teams:[
+      {name:"Spain",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Cabo Verde",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Saudi Arabia",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Uruguay",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+    ]
+  },
+  G:{
+    teams:[
+      {name:"Belgium",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Egypt",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"IR Iran",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"New Zealand",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+    ]
+  },
+  H:{
+    teams:[
+      {name:"France",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Senegal",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Iraq",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Norway",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+    ]
+  },
+  I:{
+    teams:[
+      {name:"Argentina",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Algeria",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Austria",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Jordan",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+    ]
+  },
+  J:{
+    teams:[
+      {name:"Ghana",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Panama",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"England",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Croatia",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+    ]
+  },
+  K:{
+    teams:[
+      {name:"Portugal",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Congo DR",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Uzbekistan",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Colombia",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+    ]
+  },
+  L:{
+    teams:[
+      {name:"Côte d'Ivoire",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Ecuador",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Tunisia",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+      {name:"Japan",p:0,w:0,d:0,l:0,gf:0,ga:0,pts:0},
+    ]
+  },
+};
+
+const COUNTRY_CODES_GROUPS={
+  "Mexico":"mx","South Africa":"za","South Korea":"kr","Czech Republic":"cz",
+  "Canada":"ca","Bosnia and Herzegovina":"ba","Qatar":"qa","Switzerland":"ch",
+  "Brazil":"br","Morocco":"ma","Haiti":"ht","Scotland":"gb-sct",
+  "USA":"us","Paraguay":"py","Australia":"au","Turkiye":"tr",
+  "Germany":"de","Curacao":"cw","Netherlands":"nl","Sweden":"se",
+  "Côte d'Ivoire":"ci","Ecuador":"ec","Tunisia":"tn","Japan":"jp",
+  "Spain":"es","Cabo Verde":"cv","Saudi Arabia":"sa","Uruguay":"uy",
+  "Belgium":"be","Egypt":"eg","IR Iran":"ir","New Zealand":"nz",
+  "France":"fr","Senegal":"sn","Iraq":"iq","Norway":"no",
+  "Argentina":"ar","Algeria":"dz","Austria":"at","Jordan":"jo",
+  "Ghana":"gh","Panama":"pa","England":"gb-eng","Croatia":"hr",
+  "Portugal":"pt","Congo DR":"cd","Uzbekistan":"uz","Colombia":"co",
+};
+
 function renderGroups(){
   document.getElementById('groupsList').innerHTML=
-    Object.entries(GROUPS).map(([g,ts])=>
-      `<div class="group-row">
-        <span class="group-ltr">${g}</span>
-        <span class="group-flags">${ts.map(t=>FLAGS[t]||'🏳️').join(' ')}</span>
+    Object.entries(STANDINGS).map(([g,data])=>
+      `<div style="margin-bottom:16px;border-bottom:1px solid var(--border);padding-bottom:12px">
+        <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:10px">Group ${g}</div>
+        ${data.teams.map(team=>{
+          const code=COUNTRY_CODES_GROUPS[team.name]||'xx';
+          return `<div style="display:flex;align-items:center;gap:10px;padding:8px 0;font-size:12px;border-bottom:1px solid var(--border);last:border-bottom:none">
+            <img src="https://flagcdn.com/h24/${code}.png" alt="${team.name}" style="width:24px;height:auto;border-radius:2px"/>
+            <span style="flex:1;color:var(--text2);font-weight:500">${team.name}</span>
+            <span style="color:var(--text3);width:24px;text-align:center" title="Matches">${team.p}</span>
+            <span style="color:var(--text3);width:30px;text-align:center;font-weight:600" title="W-D-L">${team.w}-${team.d}-${team.l}</span>
+            <span style="color:var(--gold);width:24px;text-align:right;font-weight:700" title="Points">${team.pts}</span>
+          </div>`;
+        }).join('')}
       </div>`).join('');
 }
 document.getElementById('groupsToggle').addEventListener('click',function(){
