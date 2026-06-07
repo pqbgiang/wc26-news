@@ -513,57 +513,43 @@ a{color:inherit;text-decoration:none}
   <!-- ══════════ SIDEBAR ══════════ -->
   <aside class="sidebar">
 
-    <!-- Official FIFA WC2026 video -->
+    <!-- Upcoming Fixtures -->
     <div class="sbox">
-      <div class="sbox-title">Official · FIFA WC2026</div>
-      <div class="video-wrap">
-        <iframe
-          src="https://www.youtube.com/embed/OMK7oZBpelc"
-          title="Stories From The Cities — FIFA World Cup 2026"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen>
-        </iframe>
+      <div class="sbox-title">⚡ Next Matches</div>
+      <div id="nextMatches" style="min-height:80px">
+        <div style="font-size:12px;color:var(--text3);text-align:center;padding:20px 0;font-style:italic">Loading matches...</div>
       </div>
-      <p class="video-caption">
-        Stories From The Cities — 3 nations, 16 host cities.
-        <a href="https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026" target="_blank" rel="noopener">Official site →</a>
-      </p>
+      <a href="https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:6px;font-size:12px;color:var(--red);margin-top:8px;text-decoration:none;border-bottom:1px solid rgba(200,16,46,.35);padding-bottom:1px;transition:gap .15s">
+        Full schedule
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </a>
     </div>
 
-    <!-- Trophy -->
+    <!-- Host Nations -->
     <div class="sbox">
-      <div class="sbox-title">The Prize</div>
-      <div class="trophy-wrap">
-        <svg class="trophy-svg" width="110" height="136" viewBox="0 0 110 136" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <rect x="24" y="122" width="62" height="9" rx="3" fill="#c9973a" opacity=".9"/>
-          <rect x="32" y="114" width="46" height="10" rx="2" fill="#b8862e" opacity=".8"/>
-          <rect x="48" y="90" width="14" height="26" rx="3" fill="url(#sg)"/>
-          <path d="M18 16 Q14 66 55 84 Q96 66 92 16 Z" fill="url(#cg)" stroke="#c9973a" stroke-width="1.5"/>
-          <path d="M28 20 Q26 50 42 66" stroke="rgba(255,255,255,.18)" stroke-width="3" stroke-linecap="round"/>
-          <path d="M18 26 Q4 26 4 44 Q4 60 18 60" stroke="#c9973a" stroke-width="5" fill="none" stroke-linecap="round"/>
-          <path d="M92 26 Q106 26 106 44 Q106 60 92 60" stroke="#c9973a" stroke-width="5" fill="none" stroke-linecap="round"/>
-          <ellipse cx="55" cy="50" rx="28" ry="7" stroke="rgba(255,255,255,.07)" stroke-width="1" fill="none"/>
-          <line x1="55" y1="18" x2="55" y2="82" stroke="rgba(255,255,255,.06)" stroke-width="1"/>
-          <text x="55" y="40" text-anchor="middle" font-family="serif" font-size="8" font-weight="bold" fill="rgba(255,255,255,.5)" letter-spacing="1">FIFA</text>
-          <text x="55" y="51" text-anchor="middle" font-family="serif" font-size="6.5" fill="rgba(255,255,255,.35)" letter-spacing="1.5">WORLD CUP</text>
-          <text x="55" y="62" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="rgba(255,255,255,.55)">2026</text>
-          <defs>
-            <linearGradient id="cg" x1="18" y1="16" x2="92" y2="84" gradientUnits="userSpaceOnUse">
-              <stop offset="0%" stop-color="#e8c060"/>
-              <stop offset="45%" stop-color="#c9973a"/>
-              <stop offset="100%" stop-color="#8a6010"/>
-            </linearGradient>
-            <linearGradient id="sg" x1="48" y1="90" x2="62" y2="116" gradientUnits="userSpaceOnUse">
-              <stop offset="0%" stop-color="#c9973a"/>
-              <stop offset="100%" stop-color="#8a6010"/>
-            </linearGradient>
-          </defs>
-        </svg>
-        <div class="trophy-caption">
-          <strong>FIFA World Cup 2026™</strong>
-          11 June – 19 July 2026
+      <div class="sbox-title">🏟️ Host Nations</div>
+      <div style="display:flex;flex-direction:column;gap:12px">
+        <div style="padding:10px;background:var(--bg2);border-radius:6px;border-left:3px solid #1560cc">
+          <div style="font-size:13px;font-weight:600;color:var(--text);margin-bottom:4px">🇺🇸 United States</div>
+          <div style="font-size:11px;color:var(--text3);line-height:1.5">
+            12 venues across 11 cities<br/>
+            Capacity: 2.7M+ seats
+          </div>
         </div>
-        <div class="trophy-hosts">🇺🇸 🇨🇦 🇲🇽</div>
+        <div style="padding:10px;background:var(--bg2);border-radius:6px;border-left:3px solid #c8102e">
+          <div style="font-size:13px;font-weight:600;color:var(--text);margin-bottom:4px">🇨🇦 Canada</div>
+          <div style="font-size:11px;color:var(--text3);line-height:1.5">
+            3 venues in major cities<br/>
+            Toronto, Vancouver, Edmonton
+          </div>
+        </div>
+        <div style="padding:10px;background:var(--bg2);border-radius:6px;border-left:3px solid #c9973a">
+          <div style="font-size:13px;font-weight:600;color:var(--text);margin-bottom:4px">🇲🇽 Mexico</div>
+          <div style="font-size:11px;color:var(--text3);line-height:1.5">
+            3 venues in key cities<br/>
+            Mexico City, Guadalajara, Monterrey
+          </div>
+        </div>
       </div>
     </div>
 
@@ -900,6 +886,45 @@ else if(window.matchMedia&&window.matchMedia('(prefers-color-scheme:light)').mat
 else setTheme('dark');
 
 // ════════════════════════
+// NEXT MATCHES
+// ════════════════════════
+async function loadNextMatches(){
+  try{
+    const res=await fetch('data/match.json?'+Date.now());
+    if(!res.ok)throw new Error('Failed to fetch matches');
+    const data=await res.json();
+
+    const today=new Date().toISOString().split('T')[0];
+    const upcoming=data.matches.filter(m=>m.date>=today&&m.status==='scheduled').slice(0,3);
+
+    if(!upcoming.length){
+      document.getElementById('nextMatches').innerHTML='<div style="font-size:12px;color:var(--text3);text-align:center;padding:20px 0;font-style:italic">Tournament concluded.</div>';
+      return;
+    }
+
+    const html=upcoming.map(m=>{
+      const mDate=new Date(m.kickoff_utc);
+      const isToday=m.date===today;
+      const dLabel=isToday?'Today':new Date(m.date+'T12:00:00Z').toLocaleDateString('en-GB',{month:'short',day:'numeric'});
+      const time=mDate.toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'});
+      const homeTeam=m.home_team.name;
+      const awayTeam=m.away_team.name;
+      const homeFlag=FLAGS[homeTeam]||'🏳️';
+      const awayFlag=FLAGS[awayTeam]||'🏳️';
+      return `<div style="padding:12px 0;border-bottom:1px solid var(--border);last:border-bottom:none">
+        <div style="font-size:11px;color:var(--text3);margin-bottom:4px">${isToday?'⏱️ ':''}${dLabel}</div>
+        <div style="font-size:13px;color:var(--text2);font-weight:500">${homeFlag} ${homeTeam} <span style="color:var(--text3)">vs</span> ${awayFlag} ${awayTeam}</div>
+        <div style="font-size:11px;color:var(--text3);margin-top:3px">${time} UTC</div>
+      </div>`;
+    }).join('');
+
+    document.getElementById('nextMatches').innerHTML=html;
+  }catch(e){
+    document.getElementById('nextMatches').innerHTML='<div style="font-size:12px;color:var(--text3);text-align:center;padding:20px 0;font-style:italic">Unable to load matches.</div>';
+  }
+}
+
+// ════════════════════════
 // INIT
 // ════════════════════════
 document.getElementById('footerYear').textContent=new Date().getFullYear();
@@ -907,6 +932,7 @@ document.getElementById('mastheadDate').textContent=
   new Date().toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
 renderGroups();
 loadData();
+loadNextMatches();
 </script>
 </body>
 </html>
