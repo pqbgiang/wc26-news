@@ -224,7 +224,9 @@ a{color:inherit;text-decoration:none}
 .filt.active{background:var(--red);border-color:var(--red);color:#fff}
 .filt[data-filter="tactics"].active{background:var(--gold);border-color:var(--gold);color:var(--ink)}
 .filt[data-filter="daily-briefing"].active{background:#1560cc;border-color:#1560cc;color:#fff}
-.filt[data-filter="transfer-rumors"].active{background:#0a7a4a;border-color:#0a7a4a;color:#fff}
+.filt[data-filter="team-analysis"].active{background:#9b5de5;border-color:#9b5de5;color:#fff}
+.filt[data-filter="team-preparation"].active{background:#00b4d8;border-color:#00b4d8;color:#fff}
+.filt[data-filter="tactical-breakdown"].active{background:#f72585;border-color:#f72585;color:#fff}
 
 /* ═══════════════════ DATE GROUP ═══════════════════ */
 .date-group{margin-bottom:28px}
@@ -284,10 +286,12 @@ a{color:inherit;text-decoration:none}
   border:1px solid var(--border2);border-radius:3px;color:var(--text3);
 }
 /* type accent */
-.rcard[data-type="match-report"]   {--dot-color:var(--red)}
-.rcard[data-type="daily-briefing"] {--dot-color:#1560cc}
-.rcard[data-type="tactics"]        {--dot-color:var(--gold)}
-.rcard[data-type="transfer-rumors"]{--dot-color:#0a7a4a}
+.rcard[data-type="match-report"]       {--dot-color:var(--red)}
+.rcard[data-type="daily-briefing"]     {--dot-color:#1560cc}
+.rcard[data-type="tactics"]            {--dot-color:var(--gold)}
+.rcard[data-type="team-analysis"]      {--dot-color:#9b5de5}
+.rcard[data-type="team-preparation"]   {--dot-color:#00b4d8}
+.rcard[data-type="tactical-breakdown"] {--dot-color:#f72585}
 
 /* ═══════════════════ SIDEBAR ═══════════════════ */
 .sidebar{display:flex;flex-direction:column;gap:28px}
@@ -455,7 +459,9 @@ a{color:inherit;text-decoration:none}
         <div class="strip-sec" data-filter="daily-briefing">Daily</div>
         <div class="strip-sec" data-filter="match-report">Match Reports</div>
         <div class="strip-sec" data-filter="tactics">Tactics</div>
-        <div class="strip-sec" data-filter="transfer-rumors">Transfers</div>
+        <div class="strip-sec" data-filter="team-analysis">Team Analysis</div>
+        <div class="strip-sec" data-filter="team-preparation">Match Prep</div>
+        <div class="strip-sec" data-filter="tactical-breakdown">Tactical Deep-Dives</div>
       </div>
       <div class="strip-right" id="dispatchCount">— dispatches</div>
     </div>
@@ -491,7 +497,9 @@ a{color:inherit;text-decoration:none}
       <button class="filt" data-filter="daily-briefing">📋 Daily</button>
       <button class="filt" data-filter="match-report">⚽ Match</button>
       <button class="filt" data-filter="tactics">🧠 Tactics</button>
-      <button class="filt" data-filter="transfer-rumors">🔄 Transfers</button>
+      <button class="filt" data-filter="team-analysis">👥 Teams</button>
+      <button class="filt" data-filter="team-preparation">🎯 Prep</button>
+      <button class="filt" data-filter="tactical-breakdown">📊 Deep-Dive</button>
     </div>
 
     <!-- Feed -->
@@ -646,17 +654,29 @@ const GROUPS={
   L:["Côte d'Ivoire","Ecuador","Tunisia","Japan"],
 };
 const TYPE_META={
-  'daily-briefing': {icon:'📋',label:'Daily Briefing'},
-  'match-report':   {icon:'⚽',label:'Match Report'},
-  'tactics':        {icon:'🧠',label:'Tactics'},
-  'transfer-rumors':{icon:'🔄',label:'Transfers'},
-  'default':        {icon:'📰',label:'Dispatch'},
+  'daily-briefing':     {icon:'📋',label:'Daily Briefing'},
+  'match-report':       {icon:'⚽',label:'Match Report'},
+  'tactics':            {icon:'🧠',label:'Tactics'},
+  'team-analysis':      {icon:'👥',label:'Team Analysis'},
+  'team-preparation':   {icon:'🎯',label:'Match Preparation'},
+  'tactical-breakdown': {icon:'📊',label:'Tactical Deep-Dive'},
+  'default':            {icon:'📰',label:'Dispatch'},
 };
-function parseType(slug){
+function parseType(slug, type){
+  if(type){
+    if(type==='team-analysis') return 'team-analysis';
+    if(type==='team-preparation') return 'team-preparation';
+    if(type==='tactical-breakdown') return 'tactical-breakdown';
+    if(type==='match-report') return 'match-report';
+    if(type==='tactics') return 'tactics';
+    if(type==='daily-briefing') return 'daily-briefing';
+  }
   if(!slug)return 'default';
   if(slug.includes('match'))   return 'match-report';
   if(slug.includes('tactic'))  return 'tactics';
-  if(slug.includes('transfer'))return 'transfer-rumors';
+  if(slug.includes('team-analysis')) return 'team-analysis';
+  if(slug.includes('team-preparation')) return 'team-preparation';
+  if(slug.includes('tactical-breakdown')) return 'tactical-breakdown';
   return 'daily-briefing';
 }
 function fmtDate(d){
@@ -697,7 +717,7 @@ function renderLead(e){
       `<div class="empty"><div class="empty-icon">⏳</div>First dispatch coming soon.</div>`;
     return;
   }
-  const type=parseType(e.file||e.type);
+  const type=parseType(e.file||e.type, e.type);
   const meta=TYPE_META[type]||TYPE_META['default'];
   const teamFlags=(e.teams||[]).slice(0,5).map(t=>FLAGS[t]||'').join(' ');
   document.getElementById('leadSlot').innerHTML=`
@@ -760,7 +780,7 @@ function renderTeamTags(){
 // ════════════════════════
 function getFiltered(){
   return allEntries.filter(e=>{
-    const typeOk=activeType==='all'||parseType(e.file||e.type)===activeType;
+    const typeOk=activeType==='all'||parseType(e.file||e.type, e.type)===activeType;
     const teamOk=!activeTeam||(e.teams||[]).includes(activeTeam);
     return typeOk&&teamOk;
   });
@@ -777,7 +797,7 @@ function renderFeed(){
   slot.innerHTML=Object.entries(byDate).map(([date,items],gi)=>{
     const today=isToday(date);
     const cards=items.map((e,ci)=>{
-      const type=parseType(e.file||e.type);
+      const type=parseType(e.file||e.type, e.type);
       const meta=TYPE_META[type]||TYPE_META['default'];
       const chips=(e.teams||[]).slice(0,4).map(t=>
         `<span class="rcard-chip">${FLAGS[t]||''} ${t}</span>`).join('');
