@@ -47,6 +47,37 @@
   color: var(--wc-blue);
 }
 
+/* ── Match card dark theme ── */
+[data-theme="dark"] .wc-match-card {
+  background: linear-gradient(135deg, #1c2128 0%, #161b22 100%);
+  border-color: rgba(255,255,255,.1);
+  box-shadow: 0 4px 20px rgba(0,0,0,.4);
+}
+[data-theme="dark"] .wc-match-card:hover {
+  border-color: var(--wc-blue);
+  box-shadow: 0 8px 40px rgba(0,0,0,.5);
+}
+[data-theme="dark"] .wc-match-header {
+  background: linear-gradient(135deg, #001d42 0%, #0f2a52 100%);
+}
+[data-theme="dark"] .wc-match-teams {
+  border-bottom-color: rgba(255,255,255,.1);
+}
+[data-theme="dark"] .wc-key-battle {
+  background: linear-gradient(120deg, rgba(56,139,253,.12) 0%, rgba(56,139,253,.06) 100%);
+  border-left-color: var(--wc-blue);
+}
+[data-theme="dark"] .wc-key-battle-label {
+  color: var(--wc-blue);
+}
+[data-theme="dark"] .wc-prediction {
+  background: #161b22;
+  border-top-color: rgba(255,255,255,.1);
+}
+[data-theme="dark"] .wc-prediction-score {
+  color: var(--wc-blue);
+}
+
 /* ── Table header ── */
 [data-theme="dark"] .wc-table th {
   background: #1c2d47;
