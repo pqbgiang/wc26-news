@@ -1,25 +1,6 @@
 [
   {
     "date": "2026-06-07",
-    "type": "transfer-rumors",
-    "file": "pages/2026-06-07_transfer-rumors.html",
-    "title": "WC26 Report · WC26 · Sunday, June 7, 2026",
-    "summary": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England Medical Update: Jude Bellingham has been cleared of structural ankle damage following a scan in Philadelphia. The Real Madrid midfielder sustained a heavy blow during training,",
-    "teams": [
-      "Japan",
-      "Senegal",
-      "USA",
-      "Germany",
-      "Argentina",
-      "England",
-      "Qatar",
-      "Switzerland",
-      "Spain",
-      "France"
-    ]
-  },
-  {
-    "date": "2026-06-07",
     "type": "team-preparation",
     "file": "pages/2026-06-07_team-preparation_brazil.html",
     "title": "Team Preparation — Brazil",
