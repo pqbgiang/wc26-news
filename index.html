@@ -663,20 +663,23 @@ const TYPE_META={
   'default':            {icon:'📰',label:'Dispatch'},
 };
 function parseType(slug, type){
-  if(type){
-    if(type==='team-analysis') return 'team-analysis';
-    if(type==='team-preparation') return 'team-preparation';
-    if(type==='tactical-breakdown') return 'tactical-breakdown';
-    if(type==='match-report') return 'match-report';
-    if(type==='tactics') return 'tactics';
-    if(type==='daily-briefing') return 'daily-briefing';
-  }
-  if(!slug)return 'default';
-  if(slug.includes('match'))   return 'match-report';
-  if(slug.includes('tactic'))  return 'tactics';
+  // Use explicit type if provided
+  if(type==='team-analysis') return 'team-analysis';
+  if(type==='team-preparation') return 'team-preparation';
+  if(type==='tactical-breakdown') return 'tactical-breakdown';
+  if(type==='match-report') return 'match-report';
+  if(type==='tactics') return 'tactics';
+  if(type==='daily-briefing') return 'daily-briefing';
+
+  // Fallback to slug detection
+  if(!slug) return 'daily-briefing';
   if(slug.includes('team-analysis')) return 'team-analysis';
   if(slug.includes('team-preparation')) return 'team-preparation';
   if(slug.includes('tactical-breakdown')) return 'tactical-breakdown';
+  if(slug.includes('match-report')) return 'match-report';
+  if(slug.includes('match')) return 'match-report';
+  if(slug.includes('tactics') || slug.includes('tactic')) return 'tactics';
+
   return 'daily-briefing';
 }
 function fmtDate(d){
