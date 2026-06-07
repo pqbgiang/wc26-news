@@ -857,6 +857,22 @@ async function loadNextMatches(){
       return;
     }
 
+    // Country code mapping for SVG flags
+    const COUNTRY_CODES={
+      "Mexico":"mx","South Africa":"za","Korea Republic":"kr","Czechia":"cz",
+      "Canada":"ca","Bosnia and Herzegovina":"ba","Qatar":"qa","Switzerland":"ch",
+      "Brazil":"br","Morocco":"ma","Haiti":"ht","Scotland":"gb-sct",
+      "USA":"us","Paraguay":"py","Australia":"au","Turkiye":"tr",
+      "Germany":"de","Curacao":"cw","Netherlands":"nl","Sweden":"se",
+      "Côte d'Ivoire":"ci","Ecuador":"ec","Tunisia":"tn","Japan":"jp",
+      "Spain":"es","Cabo Verde":"cv","Saudi Arabia":"sa","Uruguay":"uy",
+      "Belgium":"be","Egypt":"eg","IR Iran":"ir","New Zealand":"nz",
+      "France":"fr","Senegal":"sn","Iraq":"iq","Norway":"no",
+      "Argentina":"ar","Algeria":"dz","Austria":"at","Jordan":"jo",
+      "Ghana":"gh","Panama":"pa","England":"gb-eng","Croatia":"hr",
+      "Portugal":"pt","Congo DR":"cd","Uzbekistan":"uz","Colombia":"co",
+    };
+
     const html=upcoming.map((m,idx)=>{
       const mDate=new Date(m.kickoff_utc);
       const isToday=m.date===today;
@@ -864,27 +880,33 @@ async function loadNextMatches(){
       const time=mDate.toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'});
       const homeTeam=m.home_team.name;
       const awayTeam=m.away_team.name;
-      const homeFlag=FLAGS[homeTeam]||'🏳️';
-      const awayFlag=FLAGS[awayTeam]||'🏳️';
+      const homeCode=COUNTRY_CODES[homeTeam]||'xx';
+      const awayCode=COUNTRY_CODES[awayTeam]||'xx';
       const colors=['#ff6b6b','#4ecdc4','#ffe66d'];
       const bgColor=colors[idx%3];
       const isDark=document.documentElement.getAttribute('data-theme')==='dark';
       const textColor=isDark?'#fff':'#0f0f12';
+      const groupLabel=m.group||m.stage||'';
+      const stadiumLabel=m.stadium||'';
       return `<div style="padding:14px;margin-bottom:10px;border-radius:8px;background:linear-gradient(135deg,${bgColor}15 0%,${bgColor}08 100%);border:1.5px solid ${bgColor}40;transition:all .2s;cursor:pointer">
-        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px">
-          <span style="font-size:12px;font-weight:700;color:${bgColor};letter-spacing:.5px;text-transform:uppercase">${isToday?'⚡ Today':'📅 '+dLabel}</span>
+        <div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:10px">
+          <div>
+            <div style="font-size:12px;font-weight:700;color:${bgColor};letter-spacing:.5px;text-transform:uppercase">${isToday?'⚡ Today':'📅 '+dLabel}</div>
+            ${groupLabel?`<div style="font-size:10px;color:var(--text3);margin-top:2px">${groupLabel}</div>`:''}
+            ${stadiumLabel?`<div style="font-size:10px;color:var(--text3);margin-top:1px">📍 ${stadiumLabel}</div>`:''}
+          </div>
           <span style="font-size:13px;font-weight:600;color:${textColor}">${time}</span>
         </div>
         <div style="display:flex;align-items:center;justify-content:space-between;gap:12px;padding:8px 0">
           <div style="flex:1;text-align:center">
-            <div style="font-size:28px;margin-bottom:4px">${homeFlag}</div>
+            <img src="https://flagcdn.com/h48/${homeCode}.png" alt="${homeTeam}" style="width:48px;height:auto;border-radius:4px;margin-bottom:6px;box-shadow:0 2px 8px rgba(0,0,0,.15)"/>
             <div style="font-size:11px;color:var(--text2);font-weight:500">${homeTeam}</div>
           </div>
           <div style="text-align:center">
             <div style="font-size:11px;font-weight:700;color:${bgColor};letter-spacing:1px">VS</div>
           </div>
           <div style="flex:1;text-align:center">
-            <div style="font-size:28px;margin-bottom:4px">${awayFlag}</div>
+            <img src="https://flagcdn.com/h48/${awayCode}.png" alt="${awayTeam}" style="width:48px;height:auto;border-radius:4px;margin-bottom:6px;box-shadow:0 2px 8px rgba(0,0,0,.15)"/>
             <div style="font-size:11px;color:var(--text2);font-weight:500">${awayTeam}</div>
           </div>
         </div>
