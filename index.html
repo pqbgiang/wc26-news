@@ -870,8 +870,6 @@ async function loadNextMatches(){
 // INIT
 // ════════════════════════
 document.getElementById('footerYear').textContent=new Date().getFullYear();
-document.getElementById('mastheadDate').textContent=
-  new Date().toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
 renderGroups();
 loadData();
 loadNextMatches();
