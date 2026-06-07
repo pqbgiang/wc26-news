@@ -1,6 +1,18 @@
 [
   {
     "date": "2026-06-07",
+    "type": "team-preparation",
+    "file": "pages/2026-06-07_team-preparation_brazil.html",
+    "title": "WC26 Report · Sunday, June 7, 2026",
+    "summary": "The equation is stark for Dorival Júnior’s 🇧🇷 Brazil: only a victory over Marcelo Bielsa’s high-flying 🇺🇾 Uruguay will secure top spot in Group G and ensure a smoother route through the knockout s",
+    "teams": [
+      "Uruguay",
+      "Brazil",
+      "France"
+    ]
+  },
+  {
+    "date": "2026-06-07",
     "type": "daily-briefing",
     "file": "pages/2026-06-07_daily-briefing.html",
     "title": "WC26 Report — 2026-06-07",
