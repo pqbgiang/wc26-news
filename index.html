@@ -797,7 +797,8 @@ async function loadData(){
     renderTeamTags();
     renderFeed();
     const n=allEntries.length;
-    document.getElementById('dispatchCount').textContent=n+' dispatch'+(n!==1?'es':'');
+    const dispatchEl=document.getElementById('dispatchCount');
+    if(dispatchEl)dispatchEl.textContent=n+' dispatch'+(n!==1?'es':'');
     document.getElementById('sidebarCount').textContent=n;
     document.getElementById('pbCount').textContent=allEntries.filter((_,i)=>i%2===0).length;
     document.getElementById('flkCount').textContent=allEntries.filter((_,i)=>i%2!==0).length;
@@ -819,21 +820,6 @@ document.querySelectorAll('.filt').forEach(btn=>{
     document.querySelectorAll('.filt').forEach(b=>b.classList.remove('active'));
     this.classList.add('active');
     activeType=this.dataset.filter;
-    // sync strip
-    document.querySelectorAll('.strip-sec').forEach(b=>{
-      b.classList.toggle('active',b.dataset.filter===activeType);
-    });
-    renderFeed();
-  });
-});
-document.querySelectorAll('.strip-sec').forEach(btn=>{
-  btn.addEventListener('click',function(){
-    document.querySelectorAll('.strip-sec').forEach(b=>b.classList.remove('active'));
-    this.classList.add('active');
-    activeType=this.dataset.filter;
-    document.querySelectorAll('.filt').forEach(b=>{
-      b.classList.toggle('active',b.dataset.filter===activeType);
-    });
     renderFeed();
   });
 });
