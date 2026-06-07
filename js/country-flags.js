@@ -41,6 +41,12 @@ function injectCountryFlags() {
     }
 
     const text = node.textContent;
+
+    // Skip if text already contains emoji flags (avoid double flags)
+    if (/[\uD83C-\uD83E][\uDC00-\uDE00]/.test(text)) {
+      continue;
+    }
+
     let hasMatch = false;
 
     // Check if any country name exists in this node
