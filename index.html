@@ -913,8 +913,12 @@ async function loadNextMatches(){
       const awayFlag=FLAGS[awayTeam]||'🏳️';
       return `<div style="padding:12px 0;border-bottom:1px solid var(--border);last:border-bottom:none">
         <div style="font-size:11px;color:var(--text3);margin-bottom:4px">${isToday?'⏱️ ':''}${dLabel}</div>
-        <div style="font-size:13px;color:var(--text2);font-weight:500">${homeFlag} ${homeTeam} <span style="color:var(--text3)">vs</span> ${awayFlag} ${awayTeam}</div>
-        <div style="font-size:11px;color:var(--text3);margin-top:3px">${time} UTC</div>
+        <div style="font-size:14px;color:var(--text);font-weight:600;letter-spacing:.3px;display:flex;align-items:center;justify-content:space-between;gap:8px">
+          <span style="flex:1;text-align:right">${homeFlag}</span>
+          <span style="color:var(--text3);font-size:12px;font-weight:400">vs</span>
+          <span style="flex:1;text-align:left">${awayFlag}</span>
+        </div>
+        <div style="font-size:11px;color:var(--text3);margin-top:3px;text-align:center">${time} UTC</div>
       </div>`;
     }).join('');
 
