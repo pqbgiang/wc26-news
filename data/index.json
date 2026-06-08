@@ -1,49 +1,7 @@
-[
-  {
-    "slug": "2026-06-08_tactics",
-    "date": "2026-06-08",
-    "type": "tactics",
-    "file": "pages/2026-06-08_tactics.html",
-    "title": "Tactical Trends Dominating the Tournament",
-    "summary": "Tactical analysis of the dominant strategies and formations emerging in World Cup 2026 as teams adapt their playbooks.",
-    "teams": [],
-    "jsonPath": "data/reports/2026-06-08_tactics.json",
-    "provider": "claude",
-    "model": "claude-haiku-4-5-20251001",
-    "generatedAt": "2026-06-08T12:00:00Z",
-    "searchQueries": 5,
-    "verified": false
-  },
-  {
-    "slug": "2026-06-08_daily-briefing",
-    "date": "2026-06-08",
-    "type": "daily-briefing",
-    "file": "pages/2026-06-08_daily-briefing.html",
-    "title": "World Cup Pulse Update",
-    "summary": "Daily briefing on World Cup 2026 key developments, upcoming matches, and tournament status as we approach the opening fixtures.",
-    "teams": [],
-    "jsonPath": "data/reports/2026-06-08_daily-briefing.json",
-    "provider": "claude",
-    "model": "claude-haiku-4-5-20251001",
-    "generatedAt": "2026-06-08T10:00:00Z",
-    "searchQueries": 4,
-    "verified": false
-  },
-  {
-    "slug": "2026-06-08_team-preparation_brazil",
-    "date": "2026-06-08",
-    "type": "team-preparation",
-    "file": "pages/2026-06-08_team-preparation_brazil.html",
-    "title": "Brazil Squad Pulse",
-    "summary": "Brazil’s final preparations and tactical blueprint for their World Cup 2026 campaign, including squad status and key matchups ahead.",
-    "teams": [
-      "Brazil"
-    ],
-    "jsonPath": "data/reports/2026-06-08_team-preparation_brazil.json",
-    "provider": "claude",
-    "model": "claude-haiku-4-5-20251001",
-    "generatedAt": "2026-06-08T14:30:00Z",
-    "searchQueries": 4,
-    "verified": false
-  }
-]
+﻿{
+    "reports":  [
+
+                ],
+    "lastUpdated":  "2026-06-09T01:18:05Z",
+    "totalReports":  0
+}
