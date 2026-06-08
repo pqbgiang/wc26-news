@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-08",
+    "type": "daily-briefing",
+    "file": "pages/2026-06-08_daily-briefing.html",
+    "title": "WC26 Report · WC26 · Monday, June 8, 2026",
+    "summary": "The 2026 FIFA World Cup begins on June 11, leaving just three days before the opening match at the Estadio Azteca in Mexico City. With final days before the tournament featuring latest World Cup news,",
+    "teams": [
+      "England",
+      "Mexico",
+      "Brazil",
+      "Argentina",
+      "Germany",
+      "Canada",
+      "Portugal",
+      "Scotland",
+      "Tunisia",
+      "Japan",
+      "Belgium",
+      "Egypt"
+    ]
+  },
+  {
+    "date": "2026-06-08",
     "type": "team-preparation",
     "file": "pages/2026-06-08_team-preparation_brazil.html",
     "title": "Team Preparation brazil · WC26 · Monday, June 8, 2026",
