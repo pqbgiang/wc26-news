@@ -1,3 +1,5 @@
-
 # Local testing (temporary)
 pages/test-report.html
+
+# Backups
+*.bak
