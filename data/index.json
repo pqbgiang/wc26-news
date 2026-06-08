@@ -1,6 +1,27 @@
 [
   {
     "date": "2026-06-08",
+    "type": "tactics",
+    "file": "pages/2026-06-08_tactics.html",
+    "title": "WC26 Report · WC26 · Monday, June 8, 2026",
+    "summary": "Tournament Status: World Cup 2026 begins June 11 at Estadio Azteca, Mexico City — Official group stage play has not yet commenced. Current activity consists of final warm-up fixtures and last-minute s",
+    "teams": [
+      "Germany",
+      "Mexico",
+      "Brazil",
+      "Canada",
+      "New Zealand",
+      "England",
+      "Scotland",
+      "USA",
+      "Tunisia",
+      "Japan",
+      "Belgium",
+      "Egypt"
+    ]
+  },
+  {
+    "date": "2026-06-08",
     "type": "daily-briefing",
     "file": "pages/2026-06-08_daily-briefing.html",
     "title": "WC26 Report · WC26 · Monday, June 8, 2026",
