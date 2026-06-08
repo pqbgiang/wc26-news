@@ -1,7 +1,18 @@
-﻿{
-    "reports":  [
-
-                ],
-    "lastUpdated":  "2026-06-09T01:18:05Z",
-    "totalReports":  0
-}
+[
+  {
+    "slug": "2026-06-08_team-preparation_france",
+    "file": "pages/2026-06-08_team-preparation_france.html",
+    "type": "team-preparation",
+    "title": "Is France Match-Ready?",
+    "summary": "World Cup 2026 analysis: France",
+    "teams": [
+      "France"
+    ],
+    "date": "2026-06-08",
+    "jsonPath": "data/reports/2026-06-08_team-preparation_france.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  }
+]
