@@ -1,174 +1,49 @@
 [
   {
+    "slug": "2026-06-08_tactics",
     "date": "2026-06-08",
     "type": "tactics",
     "file": "pages/2026-06-08_tactics.html",
-    "title": "WC26 Report · WC26 · Monday, June 8, 2026",
-    "summary": "Tournament Status: World Cup 2026 begins June 11 at Estadio Azteca, Mexico City — Official group stage play has not yet commenced. Current activity consists of final warm-up fixtures and last-minute s",
-    "teams": [
-      "Germany",
-      "Mexico",
-      "Brazil",
-      "Canada",
-      "New Zealand",
-      "England",
-      "Scotland",
-      "USA",
-      "Tunisia",
-      "Japan",
-      "Belgium",
-      "Egypt"
-    ]
+    "title": "Tactical Trends Dominating the Tournament",
+    "summary": "Tactical analysis of the dominant strategies and formations emerging in World Cup 2026 as teams adapt their playbooks.",
+    "teams": [],
+    "jsonPath": "data/reports/2026-06-08_tactics.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "generatedAt": "2026-06-08T12:00:00Z",
+    "searchQueries": 5,
+    "verified": false
   },
   {
+    "slug": "2026-06-08_daily-briefing",
     "date": "2026-06-08",
     "type": "daily-briefing",
     "file": "pages/2026-06-08_daily-briefing.html",
-    "title": "WC26 Report · WC26 · Monday, June 8, 2026",
-    "summary": "The 2026 FIFA World Cup begins on June 11, leaving just three days before the opening match at the Estadio Azteca in Mexico City. With final days before the tournament featuring latest World Cup news,",
-    "teams": [
-      "England",
-      "Mexico",
-      "Brazil",
-      "Argentina",
-      "Germany",
-      "Canada",
-      "Portugal",
-      "Scotland",
-      "Tunisia",
-      "Japan",
-      "Belgium",
-      "Egypt"
-    ]
+    "title": "World Cup Pulse Update",
+    "summary": "Daily briefing on World Cup 2026 key developments, upcoming matches, and tournament status as we approach the opening fixtures.",
+    "teams": [],
+    "jsonPath": "data/reports/2026-06-08_daily-briefing.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "generatedAt": "2026-06-08T10:00:00Z",
+    "searchQueries": 4,
+    "verified": false
   },
   {
+    "slug": "2026-06-08_team-preparation_brazil",
     "date": "2026-06-08",
     "type": "team-preparation",
     "file": "pages/2026-06-08_team-preparation_brazil.html",
-    "title": "Team Preparation brazil · WC26 · Monday, June 8, 2026",
-    "summary": "Brazil opens Group C on Saturday, June 13 at 6 p.m. ET against Morocco\n, marking the tournament's first high-stakes tactical examination. \nBrazil bring the highest ceiling and the deepest attacking ta",
+    "title": "Brazil Squad Pulse",
+    "summary": "Brazil’s final preparations and tactical blueprint for their World Cup 2026 campaign, including squad status and key matchups ahead.",
     "teams": [
-      "Brazil",
-      "Morocco",
-      "Egypt"
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "type": "team-preparation",
-    "file": "pages/2026-06-07_team-preparation_czechia.html",
-    "title": "Team Preparation Czechia · WC26 · Sunday, June 7, 2026",
-    "summary": "Ivan Hašek’s 🇨🇿 Czechia head into this Group D finale needing at least a point to guarantee progression, but their tactical blueprint must target all three. Facing Mauricio Pochettino’s high-energy",
-    "teams": [
-      "Czechia",
-      "USA"
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "type": "team-preparation",
-    "file": "pages/2026-06-07_team-preparation_colombia.html",
-    "title": "Team Preparation Colombia · WC26 · Sunday, June 7, 2026",
-    "summary": "Following statement victories in their opening matches, 🇨🇴 Colombia and 🇩🇪 Germany collide in East Rutherford with the top spot of Group F on the line. Néstor Lorenzo's 🇨🇴 Colombia side, riding",
-    "teams": [
-      "Colombia",
-      "Germany"
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "type": "team-preparation",
-    "file": "pages/2026-06-07_team-preparation_canada.html",
-    "title": "Team Preparation Canada · WC26 · Sunday, June 7, 2026",
-    "summary": "The equation at BC Place is mouthwatering. Both 🇨🇦 Canada and 🇺🇾 Uruguay enter this final group stage match tied on four points, having dismantled 🇩🇿 Algeria and shared spoils with 🇦🇺 Australi",
-    "teams": [
-      "Canada",
-      "Uruguay",
-      "Australia",
-      "Spain",
-      "Algeria"
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "type": "team-preparation",
-    "file": "pages/2026-06-07_team-preparation_cabo-verde.html",
-    "title": "Team Preparation Cabo Verde · WC26 · Sunday, June 7, 2026",
-    "summary": "Following an opening-day stalemate, Bubista’s 🇨🇻 Cabo Verde face their ultimate tactical litmus test in Group C against Marcelo Bielsa’s hyper-vertical 🇺🇾 Uruguay. For the Blue Sharks, this match",
-    "teams": [
-      "Cabo Verde",
-      "Uruguay"
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "type": "team-preparation",
-    "file": "pages/2026-06-07_team-preparation_bosnia-and-herzegovina.html",
-    "title": "Team Preparation Bosnia and Herzegovina · WC26 · Sunday, June 7, 2026",
-    "summary": "Following a gritty opening draw, Sergej Barbarez's 🇧🇦 Bosnia and Herzegovina face a defining tactical test against the ultra-fluid, high-pressing machine of 🇯🇵 Japan. For 🇧🇦 Bosnia and Herzegovi",
-    "teams": [
-      "Bosnia and Herzegovina",
-      "Japan"
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "type": "team-preparation",
-    "file": "pages/2026-06-07_team-preparation_austria.html",
-    "title": "Team Preparation Austria · WC26 · Sunday, June 7, 2026",
-    "summary": "This final Group D encounter presents a classic stylistic conflict on the world stage. Ralf Rangnick’s 🇦🇹 Austria side enter this match needing a victory to secure safe passage to the Round of 16. T",
-    "teams": [
-      "Japan",
-      "Austria"
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "type": "team-preparation",
-    "file": "pages/2026-06-07_team-preparation_australia.html",
-    "title": "Team Preparation Australia · WC26 · Sunday, June 7, 2026",
-    "summary": "Tony Popovic’s 🇦🇺 Australia enters this final Group H fixture knowing that a draw will secure their ticket to the knockout stages of the 2026 FIFA World Cup. Following a resilient 1-0 victory over E",
-    "teams": [
-      "Croatia",
-      "Australia",
-      "Ecuador"
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "type": "team-preparation",
-    "file": "pages/2026-06-07_team-preparation_argentina.html",
-    "title": "Team Preparation Argentina · WC26 · Sunday, June 7, 2026",
-    "summary": "A blockbuster iteration of modern international football’s most compelling rivalry. With both 🇦🇷 Argentina and 🇫🇷 France having secured qualification to the knockout stages, this final group-stage",
-    "teams": [
-      "France",
-      "Argentina"
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "type": "team-preparation",
-    "file": "pages/2026-06-07_team-preparation_brazil.html",
-    "title": "Team Preparation — Brazil",
-    "summary": "The equation is stark for Dorival Júnior’s 🇧🇷 Brazil: only a victory over Marcelo Bielsa’s high-flying 🇺🇾 Uruguay will secure top spot in Group G and ensure a smoother route through the knockout s",
-    "teams": [
-      "Uruguay",
-      "Brazil",
-      "France"
-    ]
-  },
-  {
-    "date": "2026-06-07",
-    "type": "daily-briefing",
-    "file": "pages/2026-06-07_daily-briefing.html",
-    "title": "WC26 Report — 2026-06-07",
-    "summary": "Daily World Cup analysis by Polar Bear 🐻 and FootballLoverKitty 🐱"
-  },
-  {
-    "date": "2026-06-06",
-    "type": "daily-briefing",
-    "file": "pages/2026-06-06_daily-briefing.html",
-    "title": "WC26 Report — 2026-06-06",
-    "summary": "Daily World Cup analysis by Polar Bear 🐻 and FootballLoverKitty 🐱"
+      "Brazil"
+    ],
+    "jsonPath": "data/reports/2026-06-08_team-preparation_brazil.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "generatedAt": "2026-06-08T14:30:00Z",
+    "searchQueries": 4,
+    "verified": false
   }
 ]

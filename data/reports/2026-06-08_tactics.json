@@ -1,0 +1,28 @@
+{
+  "type": "tactics",
+  "date": "2026-06-08",
+  "provider": "claude",
+  "model": "claude-haiku-4-5-20251001",
+  "searchQueries": 5,
+  "generatedAt": "2026-06-08T12:00:00Z",
+  "summary": "Tactical analysis of the dominant strategies and formations emerging in World Cup 2026 as teams adapt their playbooks.",
+  "content": {
+    "sections": [
+      {
+        "title": "Formation Trends",
+        "emoji": "📋",
+        "items": [
+          {
+            "type": "tactical",
+            "headline": "Winning strategies emerging",
+            "body": "Teams are adapting to modern tactics with a blend of defensive solidity and attacking fluidity. The 4-3-3 and 3-5-2 formations dominate as coaches balance control with creativity.",
+            "metadata": {
+              "formation": "4-3-3 / 3-5-2",
+              "playstyle": "Adaptive, Possession-Based"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
