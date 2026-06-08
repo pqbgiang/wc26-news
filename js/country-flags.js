@@ -5,7 +5,7 @@
  */
 
 const COUNTRY_FLAGS = {
-  "Mexico":"mx","South Africa":"za","Korea Republic":"kr","Czechia":"cz",
+  "Mexico":"mx","South Africa":"za","South Korea":"kr","Czech Republic":"cz",
   "Canada":"ca","Bosnia and Herzegovina":"ba","Qatar":"qa","Switzerland":"ch",
   "Brazil":"br","Morocco":"ma","Haiti":"ht","Scotland":"gb-sct",
   "USA":"us","Paraguay":"py","Australia":"au","Turkiye":"tr",
