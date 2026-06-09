@@ -1,21 +1,5 @@
 [
   {
-    "slug": "2026-06-09_team-preparation_mexico",
-    "file": "pages/2026-06-09_team-preparation_mexico.html",
-    "type": "team-preparation",
-    "title": "Is Mexico Match-Ready?",
-    "summary": "World Cup 2026 analysis: Mexico",
-    "teams": [
-      "Mexico"
-    ],
-    "date": "2026-06-09",
-    "jsonPath": "data/reports/2026-06-09_team-preparation_mexico.json",
-    "provider": "claude",
-    "model": "claude-haiku-4-5-20251001",
-    "searchQueries": 0,
-    "verified": false
-  },
-  {
     "slug": "2026-06-09_team-preparation_germany",
     "file": "pages/2026-06-09_team-preparation_germany.html",
     "type": "team-preparation",
