@@ -1,10 +1,120 @@
 {
   "type": "team-preparation",
-  "date": "2026-06-09",
   "team": "Mexico",
   "provider": "claude",
+  "date": "2026-06-09",
+  "sections": [
+    {
+      "title": "Squad & Injury Status",
+      "emoji": "👥",
+      "items": [
+        {
+          "type": "injury",
+          "headline": "Goalkeeper Malagón Out with ACL Tear",
+          "body": "<cite index=\"6-2\">Luis Ángel Malagón, expected to start in net for Mexico, suffered a torn ACL early in the year and will miss the tournament.</cite> <cite index=\"6-8\">This saw Guillermo Ochoa back into the national team fold after the program had seemingly moved on from the 40-year-old legend.</cite>"
+        },
+        {
+          "type": "squad",
+          "headline": "Ochoa Confirmed for Record Sixth World Cup",
+          "body": "<cite index=\"11-21\">Evergreen goalkeeper Guillermo Ochoa could feature in his sixth World Cup campaign.</cite> <cite index=\"6-23,6-24\">Ochoa, age 40, is set to take part in a record sixth World Cup, level with Cristiano Ronaldo.</cite>"
+        },
+        {
+          "type": "injury",
+          "headline": "Lozano & Huescas Excluded Due to Fitness",
+          "body": "<cite index=\"5-1\">Hirving Lozano was left out because of disciplinary issues and limited playing time with San Diego FC.</cite> <cite index=\"5-2\">Rodrigo Huescas was excluded as he continues recovering from a serious knee injury.</cite>"
+        },
+        {
+          "type": "squad",
+          "headline": "Returning Players Being Monitored",
+          "body": "<cite index=\"5-8\">Aguirre decided to monitor several players returning from injuries, including Luis Chávez, César Huerta, Julián Araujo, and captain Edson Álvarez, who is expected to be one of the emotional and tactical leaders of the squad.</cite>"
+        }
+      ]
+    },
+    {
+      "title": "Current Form & Morale",
+      "emoji": "⚡",
+      "items": [
+        {
+          "type": "form",
+          "headline": "Strong Pre-Tournament Run",
+          "body": "<cite index=\"10-1,10-2\">Mexico have been in strong form recently, winning 3 of their last 5 matches (60% win rate), scoring 9 goals and conceding 2 during this period.</cite>"
+        },
+        {
+          "type": "analysis",
+          "headline": "Recent Competitive Success",
+          "body": "<cite index=\"6-25,6-26\">Under Javier Aguirre's third spell, Mexico led them to victory in the 2024/25 CONCACAF Nations League and then led Mexico to the 2025 CONCACAF Gold Cup crown, beating the U.S. in the final.</cite>"
+        },
+        {
+          "type": "analysis",
+          "headline": "Home Advantage Expectations",
+          "body": "<cite index=\"11-4\">After quarter-final finishes at the home editions in 1970 and 1986, Mexico arrive at this year's global football showpiece, hoping to replicate the success of their 2025 CONCACAF Gold Cup campaign.</cite>"
+        }
+      ]
+    },
+    {
+      "title": "Group Stage Fixtures",
+      "emoji": "🏆",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Opening Match vs South Africa",
+          "body": "<cite index=\"22-1\">Thursday, June 11: Group A: Mexico vs. South Africa (Mexico City), 1 p.m. local / 3 p.m. ET.</cite> <cite index=\"18-15,18-16\">The two teams have faced each other four times, most recently in a 1–1 draw in the 2010 FIFA World Cup opening match, with South Africa as the host nation. This match will take place exactly 16 years after.</cite>"
+        },
+        {
+          "type": "match",
+          "headline": "Second Match vs South Korea",
+          "body": "<cite index=\"7-22\">Mexico then face South Korea on June 18 in Guadalajara.</cite> <cite index=\"18-19\">The teams have played three times, most recently in a 2016 friendly, a 2–1 victory for the South Koreans.</cite>"
+        },
+        {
+          "type": "match",
+          "headline": "Final Group Match vs Czechia",
+          "body": "<cite index=\"7-22\">Mexico face Czechia on June 24 in Mexico City.</cite> <cite index=\"18-23,18-25\">Mexico and Czechia have met 15 times including twice in the World Cup, with Mexico winning both matches: 3–1 in the 1998 tournament in France, and 2–1 in the 2018 edition in Russia.</cite>"
+        }
+      ]
+    },
+    {
+      "title": "Key Players & Tactical Setup",
+      "emoji": "⚙️",
+      "items": [
+        {
+          "type": "squad",
+          "headline": "Veteran Striker Jiménez in Prime Form",
+          "body": "<cite index=\"11-19,11-20\">All eyes will be on Mexico's hero and veteran striker, Raúl Jiménez. The 34-year-old arrives at his home World Cup after a strong season with Premier League club Fulham, in which he reached double digits in the scoring charts.</cite>"
+        },
+        {
+          "type": "tactical",
+          "headline": "Captain Edson Álvarez as Tactical Leader",
+          "body": "<cite index=\"6-9\">Experienced midfielder Edson Alvarez has been included on the roster, having only just barely returned from ankle surgery before the end of the club season.</cite> He anchors the midfield and leadership structure."
+        },
+        {
+          "type": "tactical",
+          "headline": "Midfield Depth & Experience",
+          "body": "<cite index=\"11-21\">Mexico have abundance of talent in young midfielders Gilberto Mora and Obed Vargas.</cite> <cite index=\"6-23\">With five players in the squad who have at least 90 international appearances and nine more with at least 40, Mexico relies heavily on experience.</cite>"
+        }
+      ]
+    },
+    {
+      "title": "Tournament Outlook",
+      "emoji": "🎯",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Pressure of Home Hosting",
+          "body": "<cite index=\"5-9,5-10,5-11\">Mexico is preparing for one of the biggest moments in its football history. The 2026 FIFA World Cup will be hosted by Mexico, the United States and Canada, and El Tri hopes home-field advantage can help deliver a historic run. Mexico will once again try to use the energy of its fans to reach at least the quarterfinals, a stage the national team has only achieved when hosting the World Cup in 1970 and 1986.</cite>"
+        },
+        {
+          "type": "analysis",
+          "headline": "Betting Odds & Realistic Ceiling",
+          "body": "<cite index=\"7-2,7-3\">Mexico are long shots to win the tournament despite home advantage, sitting well down the outright board behind the European and South American contenders. Prices range from around 67.00 to 81.00 in decimal, a sign of how differently sportsbooks weigh a home run against the squad's ceiling.</cite>"
+        },
+        {
+          "type": "analysis",
+          "headline": "Group A Scenario",
+          "body": "<cite index=\"18-2\">The group consists of Mexico (co-host), South Africa, South Korea, and Czechia.</cite> <cite index=\"21-2\">Mexico has not reached a World Cup quarterfinal since 1986 when current manager Javier Aguirre was playing on the team.</cite>"
+        }
+      ]
+    }
+  ],
   "model": "claude-haiku-4-5-20251001",
-  "searchQueries": 0,
-  "content": "{\n  \"type\": \"team-preparation\",\n  \"date\": \"2026-06-09\",\n  \"sections\": [\n    {\n      \"title\": \"Opening Match Preview: Mexico vs South Africa\",\n      \"emoji\": \"🏆\",\n      \"items\": [\n        {\n          \"type\": \"match\",\n          \"headline\": \"Tournament Opener at Estadio Azteca - Thursday, June 11, 3:00 PM ET\",\n          \"body\": \"PREVIEW: Mexico kicks off the 2026 FIFA World Cup against South Africa in the tournament's opening fixture at Estadio Azteca in Mexico City. This is a historic rematch of the 2010 World Cup opener, which ended 1-1. Mexico holds home advantage with a 5W-0L-2D record in seven games at Estadio Azteca across two World Cups. Climate, elevation, and strong home support provide tactical benefits for El Tri.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\", \"🇿🇦 South Africa\"],\n            \"venue\": \"Estadio Azteca, Mexico City\",\n            \"group\": \"Group A\",\n            \"isPreview\": true\n          }\n        }\n      ]\n    },\n    {\n      \"title\": \"Opponent Analysis: South Africa's Tactical Identity\",\n      \"emoji\": \"📊\",\n      \"items\": [\n        {\n          \"type\": \"tactical\",\n          \"headline\": \"Formation & Playing Style Under Hugo Broos\",\n          \"body\": \"South Africa operates with tactical fluidity, alternating between 4-2-3-1 base and expansive 4-2-4 structures. Their identity balances patient positional play with devastating vertical pace. Broos employs a 2-2/2-4 low-phase build-up pattern with goalkeeper Ronwen Williams acting as an extra outfielder, deliberately baiting opposition pressure to trigger rapid counter-sequences. Wingers track back defensively while the team presses high with clear competitive mentality.\",\n          \"metadata\": {\n            \"teams\": [\"🇿🇦 South Africa\"]\n          }\n        },\n        {\n          \"type\": \"tactical\",\n          \"headline\": \"Key Attacking Threats & Speed Elements\",\n          \"body\": \"South Africa's primary attacking dimension relies on raw pace through Oswin Appollis (expected left winger) and Relebohile Mofokeng (no.10 playmaker). These players are highly dangerous in exploiting space against high defensive lines. Lyle Foster leads the line as primary striker but has struggled with confidence in pre-tournament friendlies. The team held 85% possession against Nicaragua but scored zero goals—highlighting a limited cutting edge that Mexico must expose.\",\n          \"metadata\": {\n            \"teams\": [\"🇿🇦 South Africa\"]\n          }\n        },\n        {\n          \"type\": \"tactical\",\n          \"headline\": \"Defensive Structure & Midfield Anchor\",\n          \"body\": \"South Africa's rest-defense structure is designed to choke counter-attacks at source. Teboho Mokoena (Mamelodi Sundowns, 29 years old, 50+ caps) is the almost-certain starter as defensive midfield anchor, partnering either Jayden Adams or Sphephelo Sithole. Central defenders Siyabonga Ngezana and Mbekezeli Mbokazi form a physical back line. Captain Ronwen Williams' distribution from goalkeeper is a key press-avoidance mechanism.\",\n          \"metadata\": {\n            \"teams\": [\"🇿🇦 South Africa\"]\n          }\n        }\n      ]\n    },\n    {\n      \"title\": \"Defensive Setup: Tactical Recommendations vs South Africa\",\n      \"emoji\": \"🛡️\",\n      \"items\": [\n        {\n          \"type\": \"tactical\",\n          \"headline\": \"Countering South Africa's Press & Distribution\",\n          \"body\": \"ANALYSIS: South Africa will attempt to bait Mexico's press through goalkeeper Williams' deliberate delays, then exploit central midfield combinations or advance playmakers to break the press. Mexico should avoid excessive pressure on Williams—instead, focus defensive shape on compacting the space between Mokoena and the advanced playmaker Mofokeng. Direct pressure on Appollis and Mofokeng before they receive possession is critical to disrupt ball progression into attacking zones.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\"]\n          }\n        },\n        {\n          \"type\": \"tactical\",\n          \"headline\": \"Defending South Africa's Vertical Pace Threats\",\n          \"body\": \"ANALYSIS: Oswin Appollis (left winger) and Tshepang Moremi/Kamogelo Sebelebele (right wing options) are explosive in counter-attacking transitions. Mexico's fullbacks—particularly Jesus Gallardo on the left—must maintain compact positioning and not be drawn out of shape by Appollis's dribbling. A deeper defensive line with controlled pressing will limit space for South Africa's pace runners. Captain Edson Alvarez's positioning in midfield is vital to screen direct throughballs into Foster.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\"]\n          }\n        },\n        {\n          \"type\": \"tactical\",\n          \"headline\": \"Addressing South Africa's Limited Cutting Edge\",\n          \"body\": \"ANALYSIS: Lyle Foster struggled in pre-tournament friendlies and lacks confidence. Mexico's center backs—likely Cesar Montes and either Santiago Gimenez or Guillermo Ochoa's distribution support—should dominate Foster aerially and physically. South Africa's weakness is converting possession into clear-cut chances (85% possession, zero goals vs Nicaragua). Mexico can exploit this by avoiding excessive defensive passivity and maintaining organized shape to force hurried finishing.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\"]\n          }\n        }\n      ]\n    },\n    {\n      \"title\": \"Attacking Plan: Exploiting South Africa's Defensive Vulnerabilities\",\n      \"emoji\": \"⚔️\",\n      \"items\": [\n        {\n          \"type\": \"tactical\",\n          \"headline\": \"Targeting the Midfield Transition & Set Pieces\",\n          \"body\": \"ANALYSIS: South Africa's midfield lacks depth and is their primary weakness. With Mokoena as the sole defensive shield, Mexico should exploit pressing triggers through early ball progression to Santiago Gimenez or Raul Jimenez in attacking midfield roles. Set pieces (corners, free kicks) are a tactical avenue—Mexico's physical presence and height advantage (Ochoa veteran leadership, experienced defenders) should target aerial dominance. South Africa's AFCON performance (2-1 loss to Cameroon in R16) suggests vulnerability to organized pressing.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\"]\n          }\n        },\n        {\n          \"type\": \"tactical\",\n          \"headline\": \"Wide Overloads & Fullback Circulation\",\n          \"body\": \"ANALYSIS: Jesus Gallardo (left-back) and the right-flank fullback should actively drift into advanced positions to create numerical superiority against Appollis and the right winger. Mexico's midfield should control tempo through Edson Alvarez's distribution, allowing fullbacks space to progress. The wide channels are Mexico's most dangerous territory—South Africa's wingers must track back, creating defensive pressure that can be exploited through quick switches.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\"]\n          }\n        },\n        {\n          \"type\": \"tactical\",\n          \"headline\": \"Raul Jimenez as Primary Focal Point\",\n          \"body\": \"ANALYSIS: Raul Jimenez's experience, work rate, and positioning intelligence should dominate South Africa's center-back pairing (Ngezana, Mbokazi). Unlike Foster, Jimenez links-up play effectively. Mexico should use early crosses and direct penetration through Jimenez to disrupt South Africa's defensive organization. His movement into deeper spaces will also drag defenders away, creating space for Mexico's advancing midfielders.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\"]\n          }\n        }\n      ]\n    },\n    {\n      \"title\": \"Key Matchups: Player Battles & Tactical Contests\",\n      \"emoji\": \"💪\",\n      \"items\": [\n        {\n          \"type\": \"tactical\",\n          \"headline\": \"Edson Alvarez vs Teboho Mokoena - Midfield Control\",\n          \"body\": \"West Ham midfielder Alvarez (Mexico captain, recently returned from ankle surgery) faces Mokoena (Sundowns, 29-year-old experienced midfielder). Alvarez's positioning and press resistance are critical to controlling tempo. If Alvarez's ankle fitness restricts mobility, Mokoena's long-range distribution could exploit gaps. Mexico must ensure Alvarez remains protected and not over-extended defensively in his first match.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\", \"🇿🇦 South Africa\"]\n          }\n        },\n        {\n          \"type\": \"tactical\",\n          \"headline\": \"Jesus Gallardo vs Oswin Appollis - Defensive Discipline vs Explosive Pace\",\n          \"body\": \"Gallardo's recovery pace and marking discipline will be tested by Appollis's dribbling and directness. Appollis is a confirmed starter on the left wing. If Gallardo overcommits, Appollis's pace will create dangerous attacking transitions. Mexico's defensive shape must provide cover for Gallardo, forcing Appollis to operate within tight spaces.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\", \"🇿🇦 South Africa\"]\n          }\n        },\n        {\n          \"type\": \"tactical\",\n          \"headline\": \"Cesar Montes/Santiago Gimenez vs Lyle Foster - Aerial & Physical Dominance\",\n          \"body\": \"Mexico's center-back(s) must dominate Foster physically and aerially. Foster lacks confidence but possesses pace. Controlling Foster's movement patterns and winning first-contact duels will prevent South Africa's attacking buildup. Gimenez's ankle recovery (recently fit) will be vital if he starts alongside Montes.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\", \"🇿🇦 South Africa\"]\n          }\n        },\n        {\n          \"type\": \"tactical\",\n          \"headline\": \"Guillermo Ochoa vs Ronwen Williams - Veteran Goalkeeper Experience\",\n          \"body\": \"Ochoa (40 years old, sixth World Cup appearance) faces Williams (Sundowns captain, skilled distributor). Ochoa's command of the box and penalty-area positioning must be immaculate. Williams will attempt to trigger counter-attacks through precise distribution—Ochoa's distribution accuracy will be vital for Mexico's forward play.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\", \"🇿🇦 South Africa\"]\n          }\n        }\n      ]\n    },\n    {\n      \"title\": \"Mexico Squad Status: Confirmed Injuries & Fitness Updates\",\n      \"emoji\": \"🚑\",\n      \"items\": [\n        {\n          \"type\": \"breaking\",\n          \"headline\": \"Luis Malagun ACL Injury - Ochoa Returns\",\n          \"body\": \"Goalkeeper Luis Malagon suffered a torn ACL early 2026 and will miss the tournament. This forced 40-year-old Guillermo Ochoa back into the national team fold after seemingly being phased out. Ochoa's record sixth World Cup appearance creates both experience and durability questions.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\"]\n          }\n        },\n        {\n          \"type\": \"breaking\",\n          \"headline\": \"Edson Alvarez - Recent Ankle Surgery (February 2026)\",\n          \"body\": \"West Ham captain Alvarez was only 'barely fit' before the end of club season after ankle surgery in February. Aguirre included him on the roster, but his full 90-minute capability remains uncertain. His ankle condition could affect his press resistance and vertical movement. Official fitness status for June 11 requires confirmation from team medical staff.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\"]\n          }\n        },\n        {\n          \"type\": \"breaking\",\n          \"headline\": \"Santiago Gimenez - Ankle Injury Recovery\",\n          \"body\": \"Forward Santiago Gimenez recently battled ankle injury to regain fitness ahead of the tournament but has been included in Aguirre's 26-man squad. His availability against South Africa depends on pre-match medical clearance. If unavailable, Mexico's attacking depth shifts to alternatives.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\"]\n          }\n        },\n        {\n          \"type\": \"breaking\",\n          \"headline\": \"Hirving Lozano & Marcel Ruiz - Squad Exclusions\",\n          \"body\": \"Star winger Hirving 'Chucky' Lozano was omitted from even the preliminary 55-man roster due to injury (barely played for San Diego FC) and locker-room disputes. Marcel Ruiz's CONCACAF Champions Cup injury proved insurmountable for inclusion. Forward Henry Martin (age 33) also missed the cut. Mexico's squad depth in attacking positions is constrained.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\"]\n          }\n        },\n        {\n          \"type\": \"breaking\",\n          \"headline\": \"Official Squad Status as of June 9\",\n          \"body\": \"Mexico named 26-man final squad on approximately May 30 (per tournament rules: final deadline Saturday, May 30). No official injuries reported for core players beyond Alvarez (ankle recovery status) and Gimenez (ankle recovery status). Ochoa confirmed as primary goalkeeper. All changes must occur 24 hours before June 11 kickoff only in extraordinary circumstances.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\"]\n          }\n        }\n      ]\n    },\n    {\n      \"title\": \"Pre-Match Preparation Focus Areas\",\n      \"emoji\": \"🎯\",\n      \"items\": [\n        {\n          \"type\": \"tactical\",\n          \"headline\": \"Javier Aguirre's Third World Cup Tenure & Home Advantage Strategy\",\n          \"body\": \"Aguirre (in his third stint as Mexico manager) has emphasized home advantage as 'priceless.' Mexico's historical record at Estadio Azteca is exceptional (5W-0L-2D). Aguirre's leadership after winning 2024/25 CONCACAF Nations League and 2025 Gold Cup provides tactical stability. His messaging will center on exploiting altitude, climate, and home support—all advantages against a South African team unfamiliar with Mexico City conditions.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\"]\n          }\n        },\n        {\n          \"type\": \"tactical\",\n          \"headline\": \"Historical Context: Mexico's Fifth Game Curse\",\n          \"body\": \"Mexico has not reached a World Cup quarterfinal since 1986. The 'Curse of El Quinto Partido' (Fifth Game) refers to seven consecutive World Cup exits in the last 16 (1994-2018). Aguirre held this curse has broken on home soil—his squad's psychology must center on tournament progression, not just opening victory. South Africa presents a beatable opener to build momentum.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\"]\n          }\n        },\n        {\n          \"type\": \"tactical\",\n          \"headline\": \"Rotation & Rotation Risk Management\",\n          \"body\": \"With Santiago Gimenez and Edson Alvarez fitness uncertain, Aguirre may need tactical flexibility for rotations across the June 11-24 group stage. Against South Africa specifically, if Gimenez cannot start, Mexico's forward line shifts to Raul Jimenez + Alexis Vega or alternative attacking midfielders. Planning for backup lineups is critical given injury profile.\",\n          \"metadata\": {\n            \"teams\": [\"🇲🇽 Mexico\"]\n          }\n        }\n      ]\n    }",
-  "generatedAt": "2026-06-09T01:39:38.778Z"
+  "generatedAt": "2026-06-09T09:44:28.252Z"
 }
