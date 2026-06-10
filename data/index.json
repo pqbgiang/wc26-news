@@ -64,6 +64,22 @@
     "verified": false
   },
   {
+    "slug": "2026-06-10_team-preparation_canada",
+    "file": "pages/2026-06-10_team-preparation_canada.html",
+    "type": "team-preparation",
+    "title": "Canada's Pre-Match Status",
+    "summary": "World Cup 2026 analysis: Canada",
+    "teams": [
+      "Canada"
+    ],
+    "date": "2026-06-10",
+    "jsonPath": "data/reports/2026-06-10_team-preparation_canada.json",
+    "provider": "claude",
+    "model": "claude-sonnet-4-6",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
     "slug": "2026-06-09_daily-briefing",
     "file": "pages/2026-06-09_daily-briefing.html",
     "type": "daily-briefing",
