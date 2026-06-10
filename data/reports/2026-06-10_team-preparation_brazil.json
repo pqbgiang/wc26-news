@@ -5,259 +5,277 @@
   "date": "2026-06-10",
   "sections": [
     {
-      "title": "Squad & Injury Status",
+      "title": "Squad Status & Injuries",
       "emoji": "🏥",
       "items": [
         {
           "type": "injury",
-          "headline": "Wesley OUT — Thigh Injury Rules Out Right Back",
-          "body": "Right back Wesley suffered a left thigh muscle injury during Brazil's pre-tournament friendly against Egypt on June 6 in Cleveland, confirmed by the CBF on June 7. He has been replaced by midfielder Éderson Silva in the 26-man squad. FOX Sports reported the injury was significant enough to rule Wesley out of the entire tournament.",
+          "headline": "Rodrygo Ruled Out (Confirmed)",
+          "body": "<cite index=\"1-20,1-21\">Rodrygo suffered a torn ACL and meniscus in March, ruling him out for the rest of 2026.</cite> <cite index=\"1-22\">He was second-top scorer with three goals during qualifying for Brazil.</cite>",
           "metadata": {
-            "player": "Wesley",
-            "injuryType": "Muscle tear, left thigh",
-            "status": "OUT",
-            "replacement": "Éderson Silva",
-            "source": "FOX Sports / CBF, June 7 2026"
+            "status": "out",
+            "injury": "ACL and meniscus tear",
+            "impact": "key attacking depth"
           }
         },
         {
           "type": "injury",
-          "headline": "Neymar Calf Concern — Status Uncertain",
-          "body": "Neymar, 34, did not travel to Cleveland with the squad for the Egypt friendly due to a calf injury, per FOX Sports. ESPN noted he was handed a squad place after Estêvão's hamstring injury, making him now Brazil's primary injury wildcard heading into Group C.",
+          "headline": "Estêvão Out (Hamstring)",
+          "body": "<cite index=\"1-3,1-4\">Estêvão pulled up against Manchester United in April with a hamstring injury and has been left off Brazil's preliminary squad.</cite> <cite index=\"1-6\">He was a likely starter in a team that did not score freely during qualifying.</cite>",
           "metadata": {
-            "player": "Neymar",
-            "injuryType": "Calf",
-            "status": "Doubtful / monitoring",
-            "source": "FOX Sports, June 7 2026"
+            "status": "out",
+            "injury": "hamstring tear",
+            "impact": "winger depth"
           }
         },
         {
           "type": "injury",
-          "headline": "Estêvão & Rodrygo — Major Absentees",
-          "body": "Estêvão tore his hamstring against Manchester United in April and was left off the preliminary squad entirely. Rodrygo suffered a torn ACL and meniscus in Real Madrid's 1-0 loss to Getafe in March, ruling him out for the rest of 2026. ESPN described this as \"a major issue\" for manager Carlo Ancelotti, stripping Brazil of wing depth.",
+          "headline": "Wesley Withdrawn (Defensive Blow)",
+          "body": "<cite index=\"2-2,2-4\">Right-back Wesley picked up an injury during a friendly against Egypt and was unable to continue with the national team.</cite> <cite index=\"2-12,2-13\">Danilo remains the only specialist right-back in the squad; Wesley was his primary backup, representing a loss of valuable depth in a historically strong position.</cite>",
           "metadata": {
-            "player": "Estêvão / Rodrygo",
-            "injuryType": "Hamstring / ACL+Meniscus",
-            "status": "OUT (tournament)",
-            "source": "ESPN Injuries Tracker, 2026"
+            "status": "replaced",
+            "replacement": "Éderson (Atalanta midfielder)",
+            "injury": "undisclosed"
           }
         },
         {
           "type": "injury",
-          "headline": "Militão Also Missing from Defence",
-          "body": "Éder Militão suffered a hamstring tear requiring surgery, ruling him out of the World Cup. ESPN noted this elevates Bremer (Juventus), Fabrício Bruno (Cruzeiro), and potentially Roger Ibañez into more prominent defensive roles. Marquinhos and Gabriel Magalhães remain the first-choice centre-back pairing.",
+          "headline": "Militão Out (Hamstring Surgery)",
+          "body": "<cite index=\"1-26\">Militão's hamstring tear requiring surgery has ruled him out of the World Cup.</cite> <cite index=\"1-27,1-28\">Gabriel Magalhães has risen to partner Marquinhos regularly, with Bremer and Fabrício Bruno set for more prominent roles.</cite>",
           "metadata": {
-            "player": "Éder Militão",
-            "injuryType": "Hamstring (surgery)",
-            "status": "OUT (tournament)",
-            "source": "ESPN Injuries Tracker, 2026"
+            "status": "out",
+            "injury": "hamstring tear (surgery)",
+            "impact": "defensive depth"
+          }
+        },
+        {
+          "type": "injury",
+          "headline": "Neymar Fitness (Calf Concern)",
+          "body": "<cite index=\"5-10,5-11\">Neymar suffered a grade-two calf injury and is expected to be sidelined for two to three weeks, placing his availability for Brazil's June 13 opener against Morocco in doubt, though he should be available later in the group stage.</cite>",
+          "metadata": {
+            "status": "managed",
+            "injury": "calf strain (Grade 2)",
+            "availability": "doubtful for opener"
           }
         }
       ]
     },
     {
-      "title": "Key Players Available",
+      "title": "Current Form & Recent Results",
       "emoji": "⚽",
       "items": [
         {
-          "type": "squad",
-          "headline": "Vinícius Jr — Star Attacker Leads the Line",
-          "body": "Vinícius Júnior is Brazil's standout threat on the left wing and remains fully available. FourFourTwo noted he had a slightly below-par club season but is still expected to be a decisive force at international level. Yahoo Sports confirms the front three built around Vinícius, Raphinha, and Matheus Cunha.",
+          "type": "form",
+          "headline": "Strong Pre-Tournament Momentum",
+          "body": "<cite index=\"8-1,8-2\">Brazil won 3 of their last 5 matches with a 60% win rate, scoring 13 goals and conceding 7 during this period.</cite> <cite index=\"12-1\">Most recently, Brazil defeated Egypt 2-1 in a friendly on June 6.</cite>",
           "metadata": {
-            "player": "Vinícius Júnior",
-            "club": "Real Madrid",
-            "position": "LW",
-            "status": "Available"
+            "recent_matches": "5",
+            "wins": "3",
+            "goal_differential": "+6"
           }
         },
         {
-          "type": "squad",
-          "headline": "Marquinhos & Gabriel Magalhães — Defensive Spine",
-          "body": "Marquinhos remains the cornerstone of the backline, having captained PSG to back-to-back Champions League titles in 2024-25 and 2025-26. Arsenal's Gabriel Magalhães partners him in central defence. Yahoo Sports described them as Brazil's most consistent unit heading into the tournament.",
+          "type": "form",
+          "headline": "Pre-Tournament Friendlies (May-June 2026)",
+          "body": "<cite index=\"9-1\">Brazil's pre-tournament results include defeats to France (1-2 on March 26) and Japan (3-2), victories over Croatia (3-1), Panama (6-2), and Egypt (2-1).</cite>",
           "metadata": {
-            "player": "Marquinhos / Gabriel Magalhães",
-            "status": "Available",
-            "roles": "CB pairing"
+            "w": "3",
+            "d": "0",
+            "l": "2",
+            "gf": "15",
+            "ga": "8"
           }
         },
         {
-          "type": "squad",
-          "headline": "Neymar Earns Late Recall at 34",
-          "body": "Neymar earned a place in the final 26 after Estêvão's injury, taking his spot per ESPN. FourFourTwo noted his inclusion is \"one of the strongest squads at the tournament\" news items, though calf fitness remains a concern. His availability for the opening match vs Morocco is not confirmed.",
+          "type": "stat",
+          "headline": "Ancelotti's Record (12 Matches)",
+          "body": "<cite index=\"8-7\">Under Carlo Ancelotti's leadership, the team has achieved a 58% win rate across 12 matches, averaging 1.92 points per game.</cite>",
           "metadata": {
-            "player": "Neymar",
-            "age": 34,
-            "goals": "79 (all-time record)",
-            "status": "In squad / calf concern"
-          }
-        },
-        {
-          "type": "squad",
-          "headline": "Casemiro & Bruno Guimarães — Midfield Anchor",
-          "body": "Yahoo Sports highlighted that the Casemiro–Bruno Guimarães partnership gives Brazil \"genuine security in central midfield, something Brazil have not consistently had since their 2002 triumph.\" Both are fully fit and expected starters. Lucas Paquetá completes the midfield three.",
-          "metadata": {
-            "players": [
-              "Casemiro",
-              "Bruno Guimarães",
-              "Lucas Paquetá"
-            ],
-            "formation_role": "CM / DM",
-            "status": "Available"
+            "matches": "12",
+            "win_rate": "58%",
+            "ppg": "1.92"
           }
         }
       ]
     },
     {
-      "title": "Recent Form & Friendlies",
-      "emoji": "📊",
-      "items": [
-        {
-          "type": "form",
-          "headline": "2-1 Win vs Egypt — Pre-Tournament Confidence",
-          "body": "Brazil beat Egypt 2-1 on June 6 at Huntington Bank Field, Cleveland, in their final pre-World Cup warm-up. The result was positive but overshadowed by Wesley's injury exit early in the match. Sofascore confirmed the result.",
-          "metadata": {
-            "match": "Brazil 2-1 Egypt",
-            "date": "2026-06-06",
-            "venue": "Huntington Bank Field, Cleveland",
-            "type": "International Friendly"
-          }
-        },
-        {
-          "type": "form",
-          "headline": "6-2 Rout of Panama — Attack Firing",
-          "body": "Brazil hammered Panama 6-2 on May 31 in their first pre-tournament friendly, signalling strong attacking intent under Carlo Ancelotti. Goal.com's fixture data confirms the scoreline, suggesting the front line is in good rhythm ahead of Group C.",
-          "metadata": {
-            "match": "Brazil 6-2 Panama",
-            "date": "2026-05-31",
-            "type": "International Friendly"
-          }
-        },
-        {
-          "type": "form",
-          "headline": "Mixed Results: Lost to France, Beat Croatia",
-          "body": "In March 2026 friendlies, Brazil lost 2-1 to France and beat Croatia 3-1. The loss to France raised media questions about defensive shape, while the Croatia win showed attacking quality. The contrasting results reflect the squad's inconsistency theme.",
-          "metadata": {
-            "results": [
-              {
-                "match": "Brazil 1-2 France",
-                "date": "2026-03-26"
-              },
-              {
-                "match": "Brazil 3-1 Croatia",
-                "date": "2026-03-31"
-              }
-            ],
-            "type": "International Friendlies"
-          }
-        }
-      ]
-    },
-    {
-      "title": "Manager & Tactical Setup",
-      "emoji": "🧠",
+      "title": "Tactical Setup & Formation",
+      "emoji": "📋",
       "items": [
         {
           "type": "tactical",
-          "headline": "Ancelotti's 4-3-3 — European Structure for Brazil",
-          "body": "Carlo Ancelotti, who took over Brazil in May 2025 after leaving Real Madrid, is the first non-Brazilian to coach the Seleção at a World Cup. Yahoo Sports confirmed his preferred 4-3-3, with Alisson in goal, a back four, midfield trio of Casemiro, Bruno Guimarães, and Paquetá, and a front three of Vinícius, Cunha, and Raphinha.",
+          "headline": "Ancelotti's 4-3-3 Structure",
+          "body": "<cite index=\"15-9,15-11\">Ancelotti's preferred 4-3-3 structure brings composure to the squad and gives the team defensive solidity and attacking width.</cite> <cite index=\"15-2\">Ancelotti uses patient build-up play to release the front three into high-value attacking zones, giving the attack cleaner structure than in recent cycles.</cite>",
           "metadata": {
-            "manager": "Carlo Ancelotti",
             "formation": "4-3-3",
-            "captain": "Marquinhos (reported)",
-            "source": "Yahoo Sports / FourFourTwo"
+            "philosophy": "build-up-play transition"
           }
         },
         {
           "type": "tactical",
-          "headline": "Ancelotti's Real Madrid Connection — Familiar Bonds",
-          "body": "FourFourTwo noted that Ancelotti's recent Real Madrid tenure means several Brazilian players — including Vinícius, Militão (injured), and Rodrygo (injured) — are familiar with his methods, aiding cohesion. His club pedigree spans all five major European leagues.",
+          "headline": "Midfield Control Strategy",
+          "body": "<cite index=\"2-15,2-16,2-17\">Rather than seeking a direct replacement at right-back, Ancelotti appears focused on strengthening control in midfield; Ederson provides physical presence, ball-winning ability, and progressive passing at Atalanta.</cite>",
           "metadata": {
-            "tacticalNote": "Real Madrid familiarity aids integration",
-            "keyPlayers": [
-              "Vinícius Júnior",
-              "Casemiro"
-            ]
+            "midfield_duo": "Casemiro, Bruno Guimarães, Lucas Paquetá, Ederson",
+            "priority": "possession control"
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Expected First XI",
+          "body": "<cite index=\"15-10\">Brazil's expected first-choice XI features Alisson in goal, a back four of Wesley, Gabriel, Marquinhos, and Alex Sandro, a midfield three of Casemiro, Bruno Guimarães, and Lucas Paquetá, and an attack of Vinícius Júnior, Matheus Cunha, and Raphinha.</cite>",
+          "metadata": {
+            "formation": "4-3-3",
+            "goalkeeper": "Alisson"
           }
         }
       ]
     },
     {
-      "title": "Group C Fixture Preview",
-      "emoji": "🗓️",
+      "title": "Key Players & Current Form",
+      "emoji": "⭐",
       "items": [
         {
-          "type": "match",
-          "headline": "Match 1: Brazil vs Morocco — June 13, MetLife Stadium",
-          "body": "Brazil open Group C against Morocco on June 13 at MetLife Stadium, East Rutherford, New Jersey (6:00 p.m. ET). Morocco are a physically organised, AFCON-pedigree side and rank as the stiffest test in the group. Brazil have never lost a World Cup group-stage game against Morocco.",
+          "type": "analysis",
+          "headline": "Vinícius Júnior (Main Weapon)",
+          "body": "<cite index=\"6-21,6-22\">Vinícius Jr is Brazil's most potent attacking weapon with pace, trickery and goal threat; he scored 16 goals in La Liga this season after thriving under Ancelotti at Real Madrid.</cite> <cite index=\"6-23,6-24\">However, he has not delivered as much in a Brazil shirt (8 goals in 43 appearances); Ancelotti has moved him from left wing to central striker, which can limit his space and defensive cover abilities.</cite>",
           "metadata": {
-            "match": "Brazil vs Morocco",
-            "date": "2026-06-13",
-            "venue": "MetLife Stadium, East Rutherford, NJ",
-            "kickoff": "18:00 ET",
-            "groupStage": "Group C, Matchday 1"
+            "club": "Real Madrid",
+            "role": "striker",
+            "goals_2025_26": "16 La Liga"
           }
         },
         {
-          "type": "match",
-          "headline": "Match 2: Brazil vs Haiti — June 19, Philadelphia",
-          "body": "Brazil face Haiti on June 19 at Lincoln Financial Field, Philadelphia (9:00 p.m. ET). Brazil beat Haiti 7-1 in the 2016 Copa América Centenario and have never lost to them. A comfortable win is expected to strengthen goal difference.",
+          "type": "analysis",
+          "headline": "Raphinha (Crucial Form Player)",
+          "body": "<cite index=\"6-16\">Raphinha arrives high on confidence after a sensational season at La Liga champions Barcelona, combining creativity and direct running with composure and deadliness in front of goal.</cite> <cite index=\"15-1\">Raphinha was Brazil's top scorer in qualifying with five goals.</cite>",
           "metadata": {
-            "match": "Brazil vs Haiti",
-            "date": "2026-06-19",
-            "venue": "Lincoln Financial Field, Philadelphia",
-            "kickoff": "21:00 ET",
-            "groupStage": "Group C, Matchday 2",
-            "h2h": "Brazil lead all-time: 7-1 in 2016 Copa América"
+            "club": "Barcelona",
+            "form": "excellent",
+            "qualifying_goals": "5"
           }
         },
         {
-          "type": "match",
-          "headline": "Match 3: Scotland vs Brazil — June 24, Miami",
-          "body": "The group concludes on June 24 at Hard Rock Stadium, Miami (6:00 p.m. ET). Brazil hold a perfect World Cup record against Scotland: four previous meetings (1974–1998) yielding three Brazilian wins and one draw. Scotland have never beaten Brazil at a World Cup.",
+          "type": "analysis",
+          "headline": "Neymar (Experience Over Fitness)",
+          "body": "<cite index=\"6-2,6-3\">Despite lacking match fitness in March, Ancelotti named Neymar in his World Cup squad; Ancelotti noted he has been playing consistently and improved his physical condition recently.</cite> <cite index=\"6-5\">At 34, Neymar hopes to emulate Ronaldo, who returned after a two-year injury layoff to lead Brazil to glory in 2002.</cite>",
           "metadata": {
-            "match": "Scotland vs Brazil",
-            "date": "2026-06-24",
-            "venue": "Hard Rock Stadium, Miami Gardens, FL",
-            "kickoff": "18:00 ET",
-            "groupStage": "Group C, Matchday 3",
-            "h2hWC": "Brazil W3 D1 L0 vs Scotland at World Cup"
+            "age": "34",
+            "club": "Santos",
+            "role": "experienced depth"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Midfield Stability (Casemiro & Bruno G.)",
+          "body": "<cite index=\"15-4,15-15\">Bruno Guimarães has become one of the most accomplished midfielders in the Premier League at Newcastle; Casemiro has enjoyed a late-career renaissance under Michael Carrick at Manchester United, providing genuine security in central midfield—something Brazil have not consistently had since 2002.</cite>",
+          "metadata": {
+            "casemiro": "Manchester United",
+            "bruno_guimaraes": "Newcastle",
+            "role": "defensive anchors"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Defensive Leadership (Marquinhos & Gabriel)",
+          "body": "<cite index=\"15-3\">Marquinhos, approaching his century of international caps, won the Champions League with PSG as captain in 2024-25 and remains the cornerstone of the defensive line alongside Arsenal's Gabriel Magalhães.</cite> <cite index=\"6-19\">The defense is experienced and well marshalled by Marquinhos and should have the luxury of playing in front of world-class Alisson.</cite>",
+          "metadata": {
+            "marquinhos": "PSG",
+            "gabriel": "Arsenal",
+            "alisson": "Liverpool"
           }
         }
       ]
     },
     {
-      "title": "Group Stage Prediction",
-      "emoji": "🔮",
+      "title": "Group Stage Preview",
+      "emoji": "🌍",
       "items": [
         {
-          "type": "analysis",
-          "headline": "Brazil Expected to Top Group C with Relative Ease",
-          "body": "Yahoo Sports' preview stated Brazil will \"top Group C with few difficulties against Scotland, Morocco, and Haiti.\" Morocco provide the toughest challenge on Matchday 1, but Brazil's squad depth and Ancelotti's structure make them heavy favourites for 7–9 points. The expanded format means even a third-place finish would likely still advance them.",
+          "type": "match",
+          "headline": "Group C Composition",
+          "body": "<cite index=\"17-1,24-2\">Brazil is in Group C with Morocco, Haiti, and Scotland.</cite> <cite index=\"24-1\">The group stage runs from June 13 to 24, 2026.</cite>",
           "metadata": {
-            "prediction": "Group C winners",
-            "expectedPoints": "7-9",
-            "biggestThreat": "Morocco (Matchday 1)",
-            "source": "Yahoo Sports 2026 WC Preview"
-          }
-        },
-        {
-          "type": "analysis",
-          "headline": "Semi-Final the Realistic Peak; Title Within Reach",
-          "body": "Yahoo Sports assessed a semi-final exit as \"the most probable outcome,\" with Spain or Argentina likely posing a challenge that exposes defensive fragility. However, the piece also acknowledged the squad has \"one of their best chances in over two decades\" given Ancelotti's structure and Vinícius Júnior's quality. Key risk factor: injuries to Rodrygo, Estêvão, and Militão thin the squad significantly.",
-          "metadata": {
-            "realisticCeiling": "Semi-final / Final",
-            "riskFactors": [
-              "Rodrygo OUT",
-              "Estêvão OUT",
-              "Militão OUT",
-              "Neymar fitness"
+            "group": "C",
+            "opponents": [
+              "Morocco",
+              "Haiti",
+              "Scotland"
             ],
-            "source": "Yahoo Sports / ESPN 2026"
+            "dates": "June 13-24, 2026"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Brazil vs. Morocco (June 13)",
+          "body": "<cite index=\"18-32\">Brazil faces Morocco on Saturday, June 13 at 6 p.m. (FS1) at MetLife Stadium, East Rutherford, New Jersey.</cite> Morocco reached the World Cup semifinal in 2022; this is a potentially competitive opener.",
+          "metadata": {
+            "opponent": "Morocco",
+            "date": "June 13, 2026",
+            "venue": "MetLife Stadium",
+            "time": "6 p.m. ET"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Brazil vs. Haiti (June 19)",
+          "body": "<cite index=\"18-32\">Brazil plays Haiti on Friday, June 19 at 8:30 p.m. (Fox) at Lincoln Financial Field, Philadelphia.</cite> Haiti is the weakest group opponent; Brazil are strong favorites to win.",
+          "metadata": {
+            "opponent": "Haiti",
+            "date": "June 19, 2026",
+            "venue": "Lincoln Financial Field",
+            "time": "8:30 p.m. ET"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Brazil vs. Scotland (June 24)",
+          "body": "<cite index=\"18-32\">Brazil concludes group play against Scotland on Wednesday, June 24 at 6 p.m. (Fox) at Hard Rock Stadium, Miami.</cite> Scotland returned to the World Cup after 28 years; Brazil should dominate.",
+          "metadata": {
+            "opponent": "Scotland",
+            "date": "June 24, 2026",
+            "venue": "Hard Rock Stadium",
+            "time": "6 p.m. ET"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tournament Outlook & Predictions",
+      "emoji": "🏆",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Group Stage Prospects",
+          "body": "<cite index=\"15-17\">Brazil will top Group C with few difficulties against Scotland, Morocco, and Haiti.</cite> The team is strong favorites to advance, though Neymar's fitness could affect their starting XI in the opener.",
+          "metadata": {
+            "prediction": "group winners",
+            "confidence": "high"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Knockout Stage Reality",
+          "body": "<cite index=\"15-18,15-19\">With Ancelotti's structure and Vinícius Júnior at his peak, they have one of their best chances in over two decades of reaching and winning a final; however, a semi-final exit feels most probable, with Spain or Argentina likely to expose Brazil's defensive fragility under sudden pressure.</cite>",
+          "metadata": {
+            "best_case": "final",
+            "realistic": "semifinal",
+            "concern": "defensive fragility"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Overall Tournament Assessment",
+          "body": "<cite index=\"6-6,6-9\">While one of the least fancied Brazilian World Cup sides of all time, Ancelotti's squad is still loaded with talent; Brazil have gone 24 years without lifting the trophy after recent disappointments including a 7-1 home loss to Germany in 2014 and penalty loss to Croatia in the 2022 quarterfinals.</cite>",
+          "metadata": {
+            "trophy_drought": "24 years",
+            "last_win": "2002",
+            "current_strength": "moderate favorites"
           }
         }
       ]
     }
   ],
-  "model": "claude-sonnet-4-6",
-  "generatedAt": "2026-06-10T04:46:20.402Z"
+  "model": "claude-haiku-4-5-20251001",
+  "generatedAt": "2026-06-10T12:37:00.354Z"
 }
