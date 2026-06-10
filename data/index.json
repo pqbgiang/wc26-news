@@ -80,6 +80,22 @@
     "verified": false
   },
   {
+    "slug": "2026-06-10_team-preparation_bosnia",
+    "file": "pages/2026-06-10_team-preparation_bosnia.html",
+    "type": "team-preparation",
+    "title": "Is Bosnia and Herzegovina Match-Ready?",
+    "summary": "World Cup 2026 analysis: Bosnia and Herzegovina",
+    "teams": [
+      "Bosnia and Herzegovina"
+    ],
+    "date": "2026-06-10",
+    "jsonPath": "data/reports/2026-06-10_team-preparation_bosnia.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
     "slug": "2026-06-09_daily-briefing",
     "file": "pages/2026-06-09_daily-briefing.html",
     "type": "daily-briefing",
