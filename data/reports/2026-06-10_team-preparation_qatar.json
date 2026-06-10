@@ -1,0 +1,216 @@
+{
+  "type": "team-preparation",
+  "team": "Qatar",
+  "provider": "claude",
+  "date": "2026-06-10",
+  "sections": [
+    {
+      "title": "Squad Status & Availability",
+      "emoji": "👥",
+      "items": [
+        {
+          "type": "squad",
+          "headline": "Final 26-Man Squad Confirmed",
+          "body": "<cite index=\"4-19\">Qatar announced their final squad on June 1</cite>. <cite index=\"1-1\">Striker Almoez Ali, the top scorer in the Asian qualifying for the World Cup with 12 goals, and star winger Akram Afif are two of Qatar's brightest players</cite>.",
+          "metadata": {
+            "confirmed": true,
+            "count": 26,
+            "keyPlayers": [
+              "Almoez Ali",
+              "Akram Afif",
+              "Boualem Khoukhi",
+              "Hassan Al-Haydos"
+            ]
+          }
+        },
+        {
+          "type": "injury",
+          "headline": "Almoez Ali Recovery Concerns",
+          "body": "<cite index=\"9-12,9-13\">Almoez Ali has not played more than two matches throughout this year due to injury and surgery. Coach Lopetegui emphasized he needs rhythm for the competition, having played only two or two-and-a-half matches at most</cite>.",
+          "metadata": {
+            "player": "Almoez Ali",
+            "status": "available",
+            "concern": "match_fitness",
+            "matches_this_year": 2
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Akram Afif in Peak Form",
+          "body": "<cite index=\"9-14\">Akram is an influential player in top form and participates regularly with his team, which is beneficial for both him and Qatar</cite>. <cite index=\"1-9\">Afif along with defender Boualem Khoukhi are mainstays of the team, with the duo having played each minute of their World Cup debut on home soil four years ago</cite>.",
+          "metadata": {
+            "player": "Akram Afif",
+            "status": "excellent",
+            "role": "attacking_midfielder"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Pre-Tournament Preparation",
+      "emoji": "🏋️",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Rigorous Training Camp Underway",
+          "body": "<cite index=\"9-1,9-2\">Qatar is undergoing a rigorous training camp at home ahead of the World Cup, with coach Julen Lopetegui stressing focus on keeping players injury-free. The Spaniard expressed pride in leading the group that qualified on merit</cite>.",
+          "metadata": {
+            "coach": "Julen Lopetegui",
+            "location": "Doha, Qatar",
+            "focus": [
+              "injury_prevention",
+              "match_fitness"
+            ]
+          }
+        },
+        {
+          "type": "form",
+          "headline": "Friendly Matches Scheduled",
+          "body": "<cite index=\"9-11,9-12\">After a 10-day training camp with high-quality sessions, Qatar will play three friendly matches before the World Cup: against Sudan in Doha, then Ireland in Dublin, and finally El Salvador in Los Angeles</cite>.",
+          "metadata": {
+            "friendlies": [
+              {
+                "opponent": "Sudan",
+                "location": "Doha"
+              },
+              {
+                "opponent": "Ireland",
+                "location": "Dublin"
+              },
+              {
+                "opponent": "El Salvador",
+                "location": "Los Angeles"
+              }
+            ]
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Strong Club Season Foundation",
+          "body": "<cite index=\"9-8,9-9\">Preparation started immediately after the end of the local season, which was good with strong competition that helped develop national team players' levels</cite>.",
+          "metadata": {
+            "preparation_phase": "post_domestic_season",
+            "readiness": "positive"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Group B Challenge",
+      "emoji": "⚽",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Group Stage Fixtures Confirmed",
+          "body": "<cite index=\"9-3\">Qatar is in Group B and will face Switzerland in San Francisco on June 13, Canada on June 18 in Vancouver, and Bosnia & Herzegovina on June 24 in Seattle</cite>.",
+          "metadata": {
+            "matches": [
+              {
+                "opponent": "Switzerland",
+                "date": "2026-06-13",
+                "venue": "Levi's Stadium, Santa Clara",
+                "kickoff": "12:00 PDT"
+              },
+              {
+                "opponent": "Canada",
+                "date": "2026-06-18",
+                "venue": "BC Place, Vancouver",
+                "kickoff": "18:00 PDT"
+              },
+              {
+                "opponent": "Bosnia and Herzegovina",
+                "date": "2026-06-24",
+                "venue": "Lumen Field, Seattle",
+                "kickoff": "12:00 PDT"
+              }
+            ]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Group B Complexity Assessment",
+          "body": "<cite index=\"19-1,19-2,19-3\">Drawn with Switzerland, Canada and Bosnia and Herzegovina, Qatar faces a difficult but not impossible challenge. After comprehensively losing all three matches in 2022, they now aim to prove competitive at this level</cite>.",
+          "metadata": {
+            "group": "B",
+            "opponents": [
+              "Switzerland",
+              "Canada",
+              "Bosnia and Herzegovina"
+            ],
+            "difficulty": "moderate"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tactical Framework & Expectations",
+      "emoji": "📋",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Lopetegui's Possession-Based System",
+          "body": "<cite index=\"19-16,19-17\">Lopetegui's Qatar side are disciplined, built around possession football and collective compactness. In just a few months, he has given the team a clear identity and renewed confidence</cite>.",
+          "metadata": {
+            "coach": "Julen Lopetegui",
+            "formation": "possession_based",
+            "strengths": [
+              "discipline",
+              "compactness",
+              "identity"
+            ]
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Attacking Efficiency Goal",
+          "body": "<cite index=\"19-5\">If Qatar can improve their attacking efficiency, having scored only one goal at the previous World Cup, while maintaining defensive solidity, they could realistically target their first points at the tournament</cite>.",
+          "metadata": {
+            "previous_performance": {
+              "goals_scored": 1,
+              "tournament": "2022"
+            },
+            "target": "group_stage_points"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Afif's Tournament Responsibility",
+          "body": "<cite index=\"19-6,19-7\">After a disappointing 2022 World Cup, 2026 represents an opportunity for Afif to establish himself on the biggest stage. Many of Qatar's ambitions will rest on his shoulders</cite>.",
+          "metadata": {
+            "key_player": "Akram Afif",
+            "pressure": "high",
+            "role": "playmaker"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Qualification Context & Motivation",
+      "emoji": "🏆",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "First Qualification Via Merit",
+          "body": "<cite index=\"11-2,11-3\">The two-time reigning Asian champions will play at the FIFA World Cup 2026, their first via the qualification route. After competing at the 2022 World Cup as tournament hosts, Qatar qualified following three successful rounds of qualifiers</cite>.",
+          "metadata": {
+            "milestone": "first_merit_qualification",
+            "previous_appearance": "2022_host",
+            "regional_success": "2x AFC Asian Cup winner"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Redemption Narrative",
+          "body": "<cite index=\"19-2\">After losing all three matches in 2022, Qatar now aim to translate their African Cup success to the global stage and prove they can compete at World Cup level</cite>.",
+          "metadata": {
+            "2022_result": "0 wins, 0 draws, 3 losses",
+            "motivation": "redemption",
+            "regional_credentials": "strong"
+          }
+        }
+      ]
+    }
+  ],
+  "model": "claude-haiku-4-5-20251001",
+  "generatedAt": "2026-06-10T14:03:43.654Z"
+}
