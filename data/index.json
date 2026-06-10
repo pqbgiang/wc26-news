@@ -32,6 +32,38 @@
     "verified": false
   },
   {
+    "slug": "2026-06-10_team-preparation_south-korea",
+    "file": "pages/2026-06-10_team-preparation_south-korea.html",
+    "type": "team-preparation",
+    "title": "Final Preparations: South Korea",
+    "summary": "World Cup 2026 analysis: South Korea",
+    "teams": [
+      "South Korea"
+    ],
+    "date": "2026-06-10",
+    "jsonPath": "data/reports/2026-06-10_team-preparation_south-korea.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-10_team-preparation_czech-republic",
+    "file": "pages/2026-06-10_team-preparation_czech-republic.html",
+    "type": "team-preparation",
+    "title": "Final Preparations: Czech Republic",
+    "summary": "World Cup 2026 analysis: Czech Republic",
+    "teams": [
+      "Czech Republic"
+    ],
+    "date": "2026-06-10",
+    "jsonPath": "data/reports/2026-06-10_team-preparation_czech-republic.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
     "slug": "2026-06-09_daily-briefing",
     "file": "pages/2026-06-09_daily-briefing.html",
     "type": "daily-briefing",
