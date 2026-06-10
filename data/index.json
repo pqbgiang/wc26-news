@@ -1,5 +1,21 @@
 [
   {
+    "slug": "2026-06-10_team-preparation_brazil",
+    "file": "pages/2026-06-10_team-preparation_brazil.html",
+    "type": "team-preparation",
+    "title": "Brazil Squad Pulse",
+    "summary": "World Cup 2026 analysis: Brazil",
+    "teams": [
+      "Brazil"
+    ],
+    "date": "2026-06-10",
+    "jsonPath": "data/reports/2026-06-10_team-preparation_brazil.json",
+    "provider": "claude",
+    "model": "claude-sonnet-4-6",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
     "slug": "2026-06-09_daily-briefing",
     "file": "pages/2026-06-09_daily-briefing.html",
     "type": "daily-briefing",
