@@ -1,0 +1,119 @@
+{
+  "tournament": "FIFA World Cup 2026",
+  "stage": "Round of 32",
+  "total_matches": 16,
+  "matches": [
+    {
+      "match_number": 73,
+      "date": "2026-06-28",
+      "home_team": "Group A Runner-up",
+      "away_team": "Group B Runner-up",
+      "venue": "Los Angeles Stadium"
+    },
+    {
+      "match_number": 74,
+      "date": "2026-06-29",
+      "home_team": "Group E Winner",
+      "away_team": "3rd Place Group A/B/C/D/F",
+      "venue": "Boston Stadium"
+    },
+    {
+      "match_number": 75,
+      "date": "2026-06-29",
+      "home_team": "Group F Winner",
+      "away_team": "Group C Runner-up",
+      "venue": "Estadio Monterrey"
+    },
+    {
+      "match_number": 76,
+      "date": "2026-06-29",
+      "home_team": "Group C Winner",
+      "away_team": "Group F Runner-up",
+      "venue": "Houston Stadium"
+    },
+    {
+      "match_number": 77,
+      "date": "2026-06-30",
+      "home_team": "Group I Winner",
+      "away_team": "3rd Place Group C/D/F/G/H",
+      "venue": "New York New Jersey Stadium"
+    },
+    {
+      "match_number": 78,
+      "date": "2026-06-30",
+      "home_team": "Group E Runner-up",
+      "away_team": "Group I Runner-up",
+      "venue": "Dallas Stadium"
+    },
+    {
+      "match_number": 79,
+      "date": "2026-06-30",
+      "home_team": "Group A Winner",
+      "away_team": "3rd Place Group C/E/F/H/I",
+      "venue": "Mexico City Stadium"
+    },
+    {
+      "match_number": 80,
+      "date": "2026-07-01",
+      "home_team": "Group L Winner",
+      "away_team": "3rd Place Group E/H/I/J/K",
+      "venue": "Atlanta Stadium"
+    },
+    {
+      "match_number": 81,
+      "date": "2026-07-01",
+      "home_team": "Group D Winner",
+      "away_team": "3rd Place Group B/E/F/I/J",
+      "venue": "San Francisco Bay Area Stadium"
+    },
+    {
+      "match_number": 82,
+      "date": "2026-07-01",
+      "home_team": "Group G Winner",
+      "away_team": "3rd Place Group A/E/H/I/J",
+      "venue": "Seattle Stadium"
+    },
+    {
+      "match_number": 83,
+      "date": "2026-07-02",
+      "home_team": "Group K Runner-up",
+      "away_team": "Group L Runner-up",
+      "venue": "Toronto Stadium"
+    },
+    {
+      "match_number": 84,
+      "date": "2026-07-02",
+      "home_team": "Group H Winner",
+      "away_team": "Group J Runner-up",
+      "venue": "Los Angeles Stadium"
+    },
+    {
+      "match_number": 85,
+      "date": "2026-07-02",
+      "home_team": "Group B Winner",
+      "away_team": "3rd Place Group E/F/G/I/J",
+      "venue": "BC Place Vancouver"
+    },
+    {
+      "match_number": 86,
+      "date": "2026-07-03",
+      "home_team": "Group J Winner",
+      "away_team": "Group H Runner-up",
+      "venue": "Miami Stadium"
+    },
+    {
+      "match_number": 87,
+      "date": "2026-07-03",
+      "home_team": "Group K Winner",
+      "away_team": "3rd Place Group D/E/I/J/L",
+      "venue": "Kansas City Stadium"
+    },
+    {
+      "match_number": 88,
+      "date": "2026-07-03",
+      "home_team": "Group D Runner-up",
+      "away_team": "Group G Runner-up",
+      "venue": "Dallas Stadium"
+    }
+  ]
+}
