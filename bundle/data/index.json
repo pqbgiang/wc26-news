@@ -1,0 +1,284 @@
+[
+  {
+    "slug": "2026-06-11_daily-briefing",
+    "file": "pages/2026-06-11_daily-briefing.html",
+    "type": "daily-briefing",
+    "title": "World Cup Pulse Update",
+    "summary": "World Cup 2026 analysis: daily briefing",
+    "teams": [],
+    "date": "2026-06-11",
+    "jsonPath": "data/reports/2026-06-11_daily-briefing.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-11_tactics",
+    "file": "pages/2026-06-11_tactics.html",
+    "type": "daily-briefing",
+    "title": "World Cup Pulse Update",
+    "summary": "World Cup 2026 analysis: daily briefing",
+    "teams": [],
+    "date": "2026-06-11",
+    "jsonPath": "data/reports/2026-06-11_tactics.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-10_team-preparation_brazil",
+    "file": "pages/2026-06-10_team-preparation_brazil.html",
+    "type": "team-preparation",
+    "title": "Brazil Squad Pulse",
+    "summary": "World Cup 2026 analysis: Brazil",
+    "teams": [
+      "Brazil"
+    ],
+    "date": "2026-06-10",
+    "jsonPath": "data/reports/2026-06-10_team-preparation_brazil.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-10_team-preparation_south-africa",
+    "file": "pages/2026-06-10_team-preparation_south-africa.html",
+    "type": "team-preparation",
+    "title": "South Africa Injury Watch",
+    "summary": "World Cup 2026 analysis: South Africa",
+    "teams": [
+      "South Africa"
+    ],
+    "date": "2026-06-10",
+    "jsonPath": "data/reports/2026-06-10_team-preparation_south-africa.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-10_team-preparation_south-korea",
+    "file": "pages/2026-06-10_team-preparation_south-korea.html",
+    "type": "team-preparation",
+    "title": "Final Preparations: South Korea",
+    "summary": "World Cup 2026 analysis: South Korea",
+    "teams": [
+      "South Korea"
+    ],
+    "date": "2026-06-10",
+    "jsonPath": "data/reports/2026-06-10_team-preparation_south-korea.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-10_team-preparation_czech-republic",
+    "file": "pages/2026-06-10_team-preparation_czech-republic.html",
+    "type": "team-preparation",
+    "title": "Final Preparations: Czech Republic",
+    "summary": "World Cup 2026 analysis: Czech Republic",
+    "teams": [
+      "Czech Republic"
+    ],
+    "date": "2026-06-10",
+    "jsonPath": "data/reports/2026-06-10_team-preparation_czech-republic.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-10_team-preparation_canada",
+    "file": "pages/2026-06-10_team-preparation_canada.html",
+    "type": "team-preparation",
+    "title": "Canada's Pre-Match Status",
+    "summary": "World Cup 2026 analysis: Canada",
+    "teams": [
+      "Canada"
+    ],
+    "date": "2026-06-10",
+    "jsonPath": "data/reports/2026-06-10_team-preparation_canada.json",
+    "provider": "claude",
+    "model": "claude-sonnet-4-6",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-10_team-preparation_bosnia",
+    "file": "pages/2026-06-10_team-preparation_bosnia.html",
+    "type": "team-preparation",
+    "title": "Is Bosnia and Herzegovina Match-Ready?",
+    "summary": "World Cup 2026 analysis: Bosnia and Herzegovina",
+    "teams": [
+      "Bosnia and Herzegovina"
+    ],
+    "date": "2026-06-10",
+    "jsonPath": "data/reports/2026-06-10_team-preparation_bosnia.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-10_team-preparation_colombia",
+    "file": "pages/2026-06-10_team-preparation_colombia.html",
+    "type": "team-preparation",
+    "title": "Colombia Squad Pulse",
+    "summary": "World Cup 2026 analysis: Colombia",
+    "teams": [
+      "Colombia"
+    ],
+    "date": "2026-06-10",
+    "jsonPath": "data/reports/2026-06-10_team-preparation_colombia.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-10_team-preparation_paraguay",
+    "file": "pages/2026-06-10_team-preparation_paraguay.html",
+    "type": "team-preparation",
+    "title": "Paraguay's Pre-Match Status",
+    "summary": "World Cup 2026 analysis: Paraguay",
+    "teams": [
+      "Paraguay"
+    ],
+    "date": "2026-06-10",
+    "jsonPath": "data/reports/2026-06-10_team-preparation_paraguay.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-10_team-preparation_morocco",
+    "file": "pages/2026-06-10_team-preparation_morocco.html",
+    "type": "team-preparation",
+    "title": "Morocco Braces for Battle",
+    "summary": "World Cup 2026 analysis: Morocco",
+    "teams": [
+      "Morocco"
+    ],
+    "date": "2026-06-10",
+    "jsonPath": "data/reports/2026-06-10_team-preparation_morocco.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-10_team-preparation_qatar",
+    "file": "pages/2026-06-10_team-preparation_qatar.html",
+    "type": "team-preparation",
+    "title": "Qatar Injury Watch",
+    "summary": "World Cup 2026 analysis: Qatar",
+    "teams": [
+      "Qatar"
+    ],
+    "date": "2026-06-10",
+    "jsonPath": "data/reports/2026-06-10_team-preparation_qatar.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-09_daily-briefing",
+    "file": "pages/2026-06-09_daily-briefing.html",
+    "type": "daily-briefing",
+    "title": "World Cup Pulse Update",
+    "summary": "World Cup 2026 tournament briefing: opening matches, schedule, and host nation status",
+    "teams": [],
+    "date": "2026-06-09",
+    "jsonPath": "data/reports/2026-06-09_daily-briefing.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-09_team-preparation_germany",
+    "file": "pages/2026-06-09_team-preparation_germany.html",
+    "type": "team-preparation",
+    "title": "Is Germany Match-Ready?",
+    "summary": "World Cup 2026 analysis: Germany",
+    "teams": [
+      "Germany"
+    ],
+    "date": "2026-06-09",
+    "jsonPath": "data/reports/2026-06-09_team-preparation_germany.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-09_team-preparation_mexico",
+    "file": "pages/2026-06-09_team-preparation_mexico.html",
+    "type": "team-preparation",
+    "title": "Is Mexico Match-Ready?",
+    "summary": "World Cup 2026 analysis: Mexico",
+    "teams": [
+      "Mexico"
+    ],
+    "date": "2026-06-09",
+    "jsonPath": "data/reports/2026-06-09_team-preparation_mexico.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-08_team-preparation_france",
+    "file": "pages/2026-06-08_team-preparation_france.html",
+    "type": "team-preparation",
+    "title": "Is France Match-Ready?",
+    "summary": "World Cup 2026 analysis: France",
+    "teams": [
+      "France"
+    ],
+    "date": "2026-06-08",
+    "jsonPath": "data/reports/2026-06-08_team-preparation_france.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-08_team-preparation_brazil",
+    "file": "pages/2026-06-08_team-preparation_brazil.html",
+    "type": "team-preparation",
+    "title": "Brazil's Elite Squad",
+    "summary": "World Cup 2026 analysis: Brazil",
+    "teams": [
+      "Brazil"
+    ],
+    "date": "2026-06-08",
+    "jsonPath": "data/reports/2026-06-08_team-preparation_brazil.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 4,
+    "verified": false
+  },
+  {
+    "slug": "2026-06-08_team-preparation_argentina",
+    "file": "pages/2026-06-08_team-preparation_argentina.html",
+    "type": "team-preparation",
+    "title": "Final Preparations: Argentina",
+    "summary": "World Cup 2026 analysis: Argentina",
+    "teams": [
+      "Argentina"
+    ],
+    "date": "2026-06-08",
+    "jsonPath": "data/reports/2026-06-08_team-preparation_argentina.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  }
+]
