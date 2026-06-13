@@ -14,6 +14,20 @@
     "verified": false
   },
   {
+    "slug": "2026-06-13_morning",
+    "file": "pages/2026-06-13_morning.html",
+    "type": "daily-briefing",
+    "title": "Tournament Headlines & Analysis",
+    "summary": "World Cup 2026 analysis: daily briefing",
+    "teams": [],
+    "date": "2026-06-13",
+    "jsonPath": "data/reports/2026-06-13_morning.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
     "slug": "2026-06-12_tactics",
     "file": "pages/2026-06-12_tactics.html",
     "type": "daily-briefing",
