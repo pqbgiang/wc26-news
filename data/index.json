@@ -3,8 +3,8 @@
     "slug": "2026-06-12_tactics",
     "file": "pages/2026-06-12_tactics.html",
     "type": "daily-briefing",
-    "title": "World Cup Pulse Update",
-    "summary": "World Cup 2026 analysis: daily briefing",
+    "title": "Tournament Headlines & Analysis",
+    "summary": "Mexico defeated South Africa 2-0 in the tournament opener at Azteca Stadium. South Africa's Sphephelo Sithole received the first red card of the tourn…",
     "teams": [],
     "date": "2026-06-12",
     "jsonPath": "data/reports/2026-06-12_tactics.json",
@@ -17,8 +17,8 @@
     "slug": "2026-06-11_daily-briefing",
     "file": "pages/2026-06-11_daily-briefing.html",
     "type": "daily-briefing",
-    "title": "World Cup Pulse Update",
-    "summary": "World Cup 2026 analysis: daily briefing",
+    "title": "Tournament Headlines & Analysis",
+    "summary": "The 2026 FIFA World Cup opens at Mexico City Stadium with hosts Mexico facing South Africa in Group A. This marks a rematch of the 2010 World Cup open…",
     "teams": [],
     "date": "2026-06-11",
     "jsonPath": "data/reports/2026-06-11_daily-briefing.json",
@@ -31,8 +31,8 @@
     "slug": "2026-06-11_tactics",
     "file": "pages/2026-06-11_tactics.html",
     "type": "daily-briefing",
-    "title": "World Cup Pulse Update",
-    "summary": "World Cup 2026 analysis: daily briefing",
+    "title": "Tournament Headlines & Analysis",
+    "summary": "Co-host Mexico plays South Africa in the opening match at Estadio Azteca in Mexico City at 3 p.m. ET. South Korea and Czechia follow in Group A later …",
     "teams": [],
     "date": "2026-06-11",
     "jsonPath": "data/reports/2026-06-11_tactics.json",
@@ -46,7 +46,7 @@
     "file": "pages/2026-06-10_team-preparation_brazil.html",
     "type": "team-preparation",
     "title": "Brazil Squad Pulse",
-    "summary": "World Cup 2026 analysis: Brazil",
+    "summary": "Rodrygo suffered a torn ACL and meniscus in March, ruling him out for the rest of 2026. He was second-top scorer with three goals during qualifying fo…",
     "teams": [
       "Brazil"
     ],
@@ -62,7 +62,7 @@
     "file": "pages/2026-06-10_team-preparation_south-africa.html",
     "type": "team-preparation",
     "title": "South Africa Injury Watch",
-    "summary": "World Cup 2026 analysis: South Africa",
+    "summary": "Lyle Foster, 25, leads the attack with Premier League experience and 10 international goals including crucial AFCON moments. Captain Ronwen Williams, …",
     "teams": [
       "South Africa"
     ],
@@ -78,7 +78,7 @@
     "file": "pages/2026-06-10_team-preparation_south-korea.html",
     "type": "team-preparation",
     "title": "Final Preparations: South Korea",
-    "summary": "World Cup 2026 analysis: South Korea",
+    "summary": "South Korea defender Cho Yu-min is ruled out with a foot injury. This forces Hong Myung-bo to adjust defensive pairing options ahead of Group A matche…",
     "teams": [
       "South Korea"
     ],
@@ -94,7 +94,7 @@
     "file": "pages/2026-06-10_team-preparation_czech-republic.html",
     "type": "team-preparation",
     "title": "Final Preparations: Czech Republic",
-    "summary": "World Cup 2026 analysis: Czech Republic",
+    "summary": "Ten players from reigning Czech champions Slavia Prague form the squad backbone, with Souček and Wolves defender Ladislav Krejčí bringing Premier Leag…",
     "teams": [
       "Czech Republic"
     ],
@@ -110,7 +110,7 @@
     "file": "pages/2026-06-10_team-preparation_canada.html",
     "type": "team-preparation",
     "title": "Canada's Pre-Match Status",
-    "summary": "World Cup 2026 analysis: Canada",
+    "summary": "Canada Soccer announced their final 26-man roster for the 2026 FIFA World Cup, headlined by captain Alphonso Davies (Bayern Munich) and all-time leadi…",
     "teams": [
       "Canada"
     ],
@@ -126,7 +126,7 @@
     "file": "pages/2026-06-10_team-preparation_bosnia.html",
     "type": "team-preparation",
     "title": "Is Bosnia and Herzegovina Match-Ready?",
-    "summary": "World Cup 2026 analysis: Bosnia and Herzegovina",
+    "summary": "Bosnia named 26 players with breakdown of three goalkeepers, eight defenders, ten midfielders, and five forwards. Bosnia was the first of 48 nations t…",
     "teams": [
       "Bosnia and Herzegovina"
     ],
@@ -142,7 +142,7 @@
     "file": "pages/2026-06-10_team-preparation_colombia.html",
     "type": "team-preparation",
     "title": "Colombia Squad Pulse",
-    "summary": "World Cup 2026 analysis: Colombia",
+    "summary": "James Rodríguez, who won the Golden Boot at the 2014 World Cup, is Colombia's captain; the 34-year-old recently switched to Minnesota United in the ML…",
     "teams": [
       "Colombia"
     ],
@@ -158,7 +158,7 @@
     "file": "pages/2026-06-10_team-preparation_paraguay.html",
     "type": "team-preparation",
     "title": "Paraguay's Pre-Match Status",
-    "summary": "World Cup 2026 analysis: Paraguay",
+    "summary": "Paraguay named 3 goalkeepers, 8 defenders, 9 midfielders, and 6 forwards. Gustavo Gomez captains the side, which lands in Group D alongside Australia,…",
     "teams": [
       "Paraguay"
     ],
@@ -174,7 +174,7 @@
     "file": "pages/2026-06-10_team-preparation_morocco.html",
     "type": "team-preparation",
     "title": "Morocco Braces for Battle",
-    "summary": "World Cup 2026 analysis: Morocco",
+    "summary": "Abde Ezzalzouli was substituted during Morocco's friendly against Norway and subsequently diagnosed with an internal knee ligament sprain, leading to …",
     "teams": [
       "Morocco"
     ],
@@ -190,7 +190,7 @@
     "file": "pages/2026-06-10_team-preparation_qatar.html",
     "type": "team-preparation",
     "title": "Qatar Injury Watch",
-    "summary": "World Cup 2026 analysis: Qatar",
+    "summary": "Qatar announced their final squad on June 1. Striker Almoez Ali, the top scorer in the Asian qualifying for the World Cup with 12 goals, and star wing…",
     "teams": [
       "Qatar"
     ],
@@ -205,8 +205,8 @@
     "slug": "2026-06-09_daily-briefing",
     "file": "pages/2026-06-09_daily-briefing.html",
     "type": "daily-briefing",
-    "title": "World Cup Pulse Update",
-    "summary": "World Cup 2026 tournament briefing: opening matches, schedule, and host nation status",
+    "title": "Tournament Headlines & Analysis",
+    "summary": "Mexico hosts South Africa in the opening match at Estadio Azteca in Mexico City on June 11. The tournament runs from June 11 to July 19, 2026, marking…",
     "teams": [],
     "date": "2026-06-09",
     "jsonPath": "data/reports/2026-06-09_daily-briefing.json",
@@ -220,7 +220,7 @@
     "file": "pages/2026-06-09_team-preparation_germany.html",
     "type": "team-preparation",
     "title": "Is Germany Match-Ready?",
-    "summary": "World Cup 2026 analysis: Germany",
+    "summary": "Lennart Karl withdrew injured and was replaced by Assan Ouédraogo in Germany's 26-man squad. Manuel Neuer's calf injury kept him out of pre-World Cup …",
     "teams": [
       "Germany"
     ],
@@ -236,7 +236,7 @@
     "file": "pages/2026-06-09_team-preparation_mexico.html",
     "type": "team-preparation",
     "title": "Is Mexico Match-Ready?",
-    "summary": "World Cup 2026 analysis: Mexico",
+    "summary": "Luis Ángel Malagón, expected to start in net for Mexico, suffered a torn ACL early in the year and will miss the tournament. This saw Guillermo Ochoa …",
     "teams": [
       "Mexico"
     ],
@@ -267,8 +267,8 @@
     "slug": "2026-06-08_team-preparation_brazil",
     "file": "pages/2026-06-08_team-preparation_brazil.html",
     "type": "team-preparation",
-    "title": "Brazil's Elite Squad",
-    "summary": "World Cup 2026 analysis: Brazil",
+    "title": "Brazil Squad Pulse",
+    "summary": "Brazil's final preparations and tactical blueprint for their World Cup 2026 campaign, including squad status and key matchups ahead.",
     "teams": [
       "Brazil"
     ],
