@@ -1,9 +1,241 @@
-2:I[9107,[],"ClientPageRoot"]
-3:I[1667,["448","static/chunks/448-a4c8c30021088ee7.js","301","static/chunks/app/entry/%5Bslug%5D/page-8378ab03bfe57670.js"],"default",1]
-4:I[4707,[],""]
-6:I[6423,[],""]
-7:I[1188,["185","static/chunks/app/layout-491a3196073d060b.js"],"default"]
-5:["slug","2026-06-08_team-preparation_france","d"]
-0:["2mASbhyhc9vhL-gmndJ8Y",[[["",{"children":["entry",{"children":[["slug","2026-06-08_team-preparation_france","d"],{"children":["__PAGE__?{\"slug\":\"2026-06-08_team-preparation_france\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["entry",{"children":[["slug","2026-06-08_team-preparation_france","d"],{"children":["__PAGE__",{},[["$L1",["$","$L2",null,{"props":{"params":{"slug":"2026-06-08_team-preparation_france"},"searchParams":{"slug":"2026-06-08_team-preparation_france"}},"Component":"$3"}],null],null],null]},[[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","entry","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null],null]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","entry","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/wc26-news/_next/static/css/454b1acded4a50ff.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","data-theme":"dark","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1.0"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@400;500;600&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"children":[["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}],["$","$L7",null,{}]]}]]}]],null],null],["$L8",null]]]]
-8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Pitch Report · World Cup 2026 Daily Feed ⚽"}],["$","meta","3",{"name":"description","content":"Pitch Report — Daily World Cup 2026 Chronicles. Expert tactical analysis, match reports, and tournament insights."}]]
+2:I[2972,["972","static/chunks/972-f13e98fbb857c6fb.js","301","static/chunks/app/entry/%5Bslug%5D/page-aa21556a698a9692.js"],""]
+3:I[1826,["972","static/chunks/972-f13e98fbb857c6fb.js","301","static/chunks/app/entry/%5Bslug%5D/page-aa21556a698a9692.js"],"default"]
+5:I[4707,[],""]
+7:I[6423,[],""]
+8:I[1188,["185","static/chunks/app/layout-491a3196073d060b.js"],"default"]
+4:T3733,{
+  "type": "team-preparation",
+  "date": "2026-06-08",
+  "sections": [
+    {
+      "title": "🔥 MATCH PREVIEW",
+      "emoji": "🔥",
+      "items": [
+        {
+          "type": "match",
+          "headline": "France vs Senegal - World Cup Group I Opener",
+          "body": "France open their 2026 World Cup campaign against Senegal at MetLife Stadium in East Rutherford, New Jersey on Tuesday, June 16 (21:00 CET / 3:00 p.m. ET). This is France's first confirmed fixture and their opening group stage test in a Group I that also features Iraq and Norway.",
+          "metadata": {
+            "teams": ["France", "Senegal"],
+            "venue": "MetLife Stadium, East Rutherford, New Jersey",
+            "group": "Group I",
+            "isPreview": true
+          }
+        }
+      ]
+    },
+    {
+      "title": "🇸🇳 OPPONENT ANALYSIS: Senegal",
+      "emoji": "⚽",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Confirmed Formation & Playing Style",
+          "body": "Senegal operates a structured 4-2-3-1/4-3-3 system under coach Pape Thiaw that prioritizes defensive solidity while utilizing direct attacking transitions. The Lions emphasize high pressing, smooth transitions between defensive and attacking phases, and rapid ball circulation through speedster wingers in wide areas. Their tactical identity relies on winger pace and directness rather than intricate midfield creativity, which historically presents both a strength in transition and a vulnerability against organized, high-pressing defenses.",
+          "metadata": {
+            "teams": ["Senegal"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Key Confirmed Threats",
+          "body": "Sadio Mané (Al-Nassr), 34, captains the side as Senegal's all-time record goalscorer with 55 international goals. He scored five goals in qualifying and was AFCON 2025 Player of the Tournament. Nicolas Jackson (Bayern Munich/Chelsea loan), Iliman Ndiaye (Everton), and Ismaïla Sarr (Crystal Palace) provide attacking depth with Premier League experience. In midfield, Idrissa Gana Gueye (Fenerbahçe), Senegal's most-capped player with 131 appearances, screens defensively. Defensively, captain Kalidou Koulibaly (103 caps, age 34) anchors the center with Moussa Niakhaté alongside. Édouard Mendy (former Chelsea) guards the goal.",
+          "metadata": {
+            "teams": ["Senegal"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Confirmed Weaknesses to Exploit",
+          "body": "Senegal's midfield lacks elite creativity and incisive passing to break down compact defenses. Both Koulibaly (34) and Mané (34) are aging, and relying heavily on winger pace in transition means they are vulnerable to sides that control possession and compress space between the lines. Senegal conceded just two goals en route to the AFCON 2025 title but face significantly tougher attacking opponents in France and Norway. Creative inconsistency in advanced positions is a documented limitation.",
+          "metadata": {
+            "teams": ["Senegal"]
+          }
+        },
+        {
+          "type": "breaking",
+          "headline": "Historical Context: 2002 Upset",
+          "body": "Senegal defeated defending champion France 1-0 in their only prior World Cup meeting at the 2002 tournament opener in Seoul. France will not underestimate Pape Thiaw's side, which also beat England 3-1 at Wembley last June.",
+          "metadata": {
+            "teams": ["France", "Senegal"]
+          }
+        }
+      ]
+    },
+    {
+      "title": "🛡️ DEFENSIVE SETUP",
+      "emoji": "🛡️",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Pressing & Transition Management",
+          "body": "France must prevent Senegal's quick transitions through early, coordinated pressing—particularly winning the ball high when Gueye screens defensively. Senegal are dangerous in space, so France should avoid loose possession in midfield. Deschamps' proven 4-3-3/4-2-3-1 structure with Aurélien Tchouaméni and N'Golo Kanté as the defensive midfield pairing offers the control and mobility to disrupt Senegal's directness.",
+          "metadata": {
+            "teams": ["France"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Isolating Mané & Managing Width",
+          "body": "Mané remains a threat despite age due to his technical quality and decision-making. France's fullbacks—Lucas Digne (Aston Villa) on the left, Malo Gusto (Chelsea) on the right—must balance defensive cover with aggressive pressing. Contain width early; Senegal thrive on wide platform transitions. Cover the space between fullback and center-back where Jackson and Ndiaye operate best.",
+          "metadata": {
+            "teams": ["France"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Defending Set Pieces & Direct Play",
+          "body": "Senegal use Krepin Diatta, El Hadji Malick Diouf, Ismail Jakobs, and Lamine Camara as corner takers; Mané takes direct free kicks and penalties. With Koulibaly and Niakhaté strong aerially, France center-backs Jules Koundé (Barcelona), Ibrahima Konate (Liverpool), Dayot Upamecano (Bayern Munich), and William Saliba (Arsenal) must be alert to second-ball control and clearing lines.",
+          "metadata": {
+            "teams": ["France"]
+          }
+        }
+      ]
+    },
+    {
+      "title": "⚔️ ATTACKING PLAN",
+      "emoji": "⚔️",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Exploiting Defensive Age & Tactical Gaps",
+          "body": "Koulibaly (34) and Niakhaté have shown early-season fatigue. France's pace in wide areas—particularly Ousmane Dembélé (PSG, Ballon d'Or winner), Désiré Doué, and Michael Olise—can stretch Senegal's fullbacks. Run at them repeatedly in the opening 20 minutes to establish rhythm and test their recovery speed. Senegal's compact defensive structure creates space for quick transitions; exploit this by playing one or two-touch passes through the lines.",
+          "metadata": {
+            "teams": ["France"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Central Midfield Dominance & Control",
+          "body": "France have superior midfield quality. Tchouaméni and Kanté should dominate possession and tempo. Warren Zaire-Emery (PSG) or Adrien Rabiot (AC Milan) in the box-to-box role offer aggressive pressing and creative runs. Control the first 15 minutes to absorb Senegal's usual high-intensity start, then dictate play.",
+          "metadata": {
+            "teams": ["France"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Targeting Gueye & Breaking Defensive Midfield Shield",
+          "body": "Idrissa Gueye screens the defense but is vulnerable to pressing. France's midfield should identify early if Gueye is stretched or isolated, then push through the lines quickly. Kylian Mbappé's pressing (Real Madrid captain in form) combined with Dembélé's movement can create early turnovers leading to direct chances.",
+          "metadata": {
+            "teams": ["France"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Utilizing Width vs. Senegal's Fullbacks",
+          "body": "Senegal's fullbacks are experienced (Diatta, Diouf, Jakobs) but not elite defenders. France should target early crosses from deep or combine down the flanks with Digne/Gusto supporting attacks. Dembélé's directness and Olise's creativity from the right wing offer clear attacking avenues.",
+          "metadata": {
+            "teams": ["France"]
+          }
+        }
+      ]
+    },
+    {
+      "title": "🔗 KEY MATCHUPS",
+      "emoji": "🔗",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Mbappé vs. Koulibaly & Niakhaté",
+          "body": "France captain Kylian Mbappé (Real Madrid, 56 goals for France) leads the line and needs just one goal to match Just Fontaine's World Cup record of 13. Mbappé's explosive pace and pressing will test Koulibaly's positional discipline. This matchup determines France's attacking rhythm in the first half.",
+          "metadata": {
+            "teams": ["France", "Senegal"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Dembélé vs. Senegal Fullbacks",
+          "body": "Ousmane Dembélé (PSG, 35 goals in 2024-25 Champions League season, recent Ballon d'Or winner) will face Senegal's right flank. Dembélé's directness and previous Champions League form give France a clear advantage in one-on-one situations. Expect him to operate as a primary attacking catalyst on the right.",
+          "metadata": {
+            "teams": ["France", "Senegal"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Tchouaméni & Kanté vs. Gueye & Senegal Midfield",
+          "body": "Real Madrid's Aurélien Tchouaméni and N'Golo Kanté (Fenerbahçe) provide France with elite midfield control. Senegal's midfield anchored by Gueye cannot match this quality in possession or pressing intensity. France should dominate tempo and transition speed in central areas.",
+          "metadata": {
+            "teams": ["France", "Senegal"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Mendy vs. France Attack",
+          "body": "Édouard Mendy (former Chelsea, AFCON 2025 standout) has delivered consistent shot-stopping. Mbappé, Dembélé, and supporting attackers should test him early to assess sharpness after AFCON intensity. Mendy's distribution and sweeping are solid—France must press aggressively to avoid simple Senegal transitions.",
+          "metadata": {
+            "teams": ["France", "Senegal"]
+          }
+        }
+      ]
+    },
+    {
+      "title": "⚕️ SQUAD STATUS: Confirmed Injuries & Fitness",
+      "emoji": "⚕️",
+      "items": [
+        {
+          "type": "breaking",
+          "headline": "William Saliba - Injury Concern (Confirmed)",
+          "body": "Arsenal center-back William Saliba played all 120 minutes of the Champions League final in Budapest (June 7) but is experiencing pain from a previous injury. The French Football Federation (FFF) expressed genuine concern about his participation ahead of France's first match. Foot Mercato reported Saliba could be sidelined for several weeks, with his World Cup status in doubt as of June 8. Deschamps has adequate alternatives but Saliba's absence would be unwelcome. Monitor his status daily through official FFF announcements.",
+          "metadata": {
+            "teams": ["France"]
+          }
+        },
+        {
+          "type": "breaking",
+          "headline": "Hugo Ekitiké - Ruled Out (Confirmed)",
+          "body": "Liverpool forward Hugo Ekitiké suffered a season-ending Achilles injury in April. He was notably excluded from France's final 26-man squad announced June 2. This is a confirmed absentee with no replacement expectations.",
+          "metadata": {
+            "teams": ["France"]
+          }
+        },
+        {
+          "type": "breaking",
+          "headline": "Kylian Mbappé - Thigh Injury Reported",
+          "body": "Mbappé reported recent struggles with a thigh injury ahead of the World Cup. As of June 8, he is included in the confirmed squad and is expected to start. His status should be verified in official training updates from June 10-15.",
+          "metadata": {
+            "teams": ["France"]
+          }
+        },
+        {
+          "type": "breaking",
+          "headline": "Core Squad - Confirmed Available",
+          "body": "Ousmane Dembélé (PSG, fit after Champions League final June 7), Aurélien Tchouaméni (Real Madrid), N'Golo Kanté (Fenerbahçe), Jules Koundé (Barcelona), Ibrahima Konate (Liverpool), Dayot Upamecano (Bayern Munich), and Mike Maignan (AC Milan) are all confirmed fit and in the official 26-man squad. PSG contingent (Dembélé, Lucas Hernandez, Warren Zaire-Emery) and Arsenal players (Saliba pending, plus supporters) arrived late after Champions League commitments but are now in camp.",
+          "metadata": {
+            "teams": ["France"]
+          }
+        },
+        {
+          "type": "breaking",
+          "headline": "Notable Absences",
+          "body": "Eduardo Camavinga (Real Madrid) was excluded due to limited playing time and injuries during his season. Randal Kolo Muani (Tottenham) was replaced by Jean-Philippe Mateta (Crystal Palace) in the 26-man list. Florian Thauvin (Lens) also missed selection despite strong Ligue 1 form. These are confirmed exclusions by Didier Deschamps.",
+          "metadata": {
+            "teams": ["France"]
+          }
+        }
+      ]
+    },
+    {
+      "title": "📊 TACTICAL FRAMEWORK",
+      "emoji": "📊",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "France's Expected Setup",
+          "body": "Deschamps will likely deploy a 4-3-3 or 4-2-3-1 formation. Probable starting XI: Maignan (GK); Gusto (RB), Koundé (CB), Konate (CB), Digne (LB); Tchouaméni (CM), Kanté (CM); Dembélé (RW), Doué/Olise (CAM), Mbappé (LW); with Griezmann or another forward capable of flexible positioning. Depth across all lines ensures tactical flexibility and personnel freshness across three group matches.",
+          "metadata": {
+            "teams": ["France"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Managing Tournament Intensity",
+          "body": "France are heavy favorites in Group I but cannot afford complacency. Deschamps, in his final tournament after 14 years, has confirmed he will prioritize tactical discipline and humility. Early dominance in midfield should translate to controlled scorelines, avoiding unnecessary fatigue before matches against Iraq and Norway.",
+          "metadata": {
+            "teams": ["France"]
+          }
+        }
+      ]
+    }6:["slug","2026-06-08_team-preparation_france","d"]
+0:["SFqSsyz98vhi5HHxh-kk8",[[["",{"children":["entry",{"children":[["slug","2026-06-08_team-preparation_france","d"],{"children":["__PAGE__?{\"slug\":\"2026-06-08_team-preparation_france\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["entry",{"children":[["slug","2026-06-08_team-preparation_france","d"],{"children":["__PAGE__",{},[["$L1",[["$","header",null,{"className":"masthead","children":[["$","div",null,{"className":"mast-tier1","children":[["$","div",null,{"className":"mast-tier1-left","children":["$","div",null,{"className":"mast-logo-compact","children":[["$","div",null,{"className":"mast-logo-icon","children":"⚽"}],["$","div",null,{"className":"mast-logo-text","children":"FIFA WC 2026"}],["$","div",null,{"className":"mast-logo-sep","children":"|"}],["$","div",null,{"className":"mast-host-countries","children":"CANADA · MEXICO · USA"}]]}]}],["$","div",null,{"className":"mast-tier1-right","children":["$","div",null,{"className":"mast-info-compact","children":["$","span",null,{"className":"mast-info-date","children":"Jun 13"}]}]}]]}],["$","div",null,{"className":"mast-tier2","children":[["$","div",null,{"className":"mast-brand","children":[["$","div",null,{"className":"mast-title","children":["Pitch ",["$","em",null,{"children":"Report"}],["$","span",null,{"className":"ball-bounce","children":"⚽"}]]}],["$","div",null,{"className":"mast-tagline","children":"Your Daily World Cup Dispatch"}]]}],["$","nav",null,{"className":"mast-nav","children":["$","$L2",null,{"href":"/","className":"mast-nav-link","children":"← Back to News"}]}],["$","div",null,{"className":"mast-backdrop","children":"🏆"}]]}]]}],["$","div",null,{"className":"wrap","style":{"gridTemplateColumns":"1fr"},"children":["$","main",null,{"style":{"maxWidth":"800px","margin":"0 auto"},"children":["$","$L3",null,{"report":{"type":"team-preparation","date":"2026-06-08","team":"France","provider":"claude","model":"claude-haiku-4-5-20251001","searchQueries":0,"content":"$4","generatedAt":"2026-06-08T19:04:02.607Z"},"title":"Is France Match-Ready?","date":"2026-06-08","type":"team-preparation","teams":["France"],"prevEntry":{"slug":"2026-06-09_team-preparation_mexico","file":"pages/2026-06-09_team-preparation_mexico.html","type":"team-preparation","title":"Is Mexico Match-Ready?","summary":"Luis Ángel Malagón, expected to start in net for Mexico, suffered a torn ACL early in the year and will miss the tournament. This saw Guillermo Ochoa …","teams":["Mexico"],"date":"2026-06-09","jsonPath":"data/reports/2026-06-09_team-preparation_mexico.json","provider":"claude","model":"claude-haiku-4-5-20251001","searchQueries":0,"verified":false},"nextEntry":{"slug":"2026-06-08_team-preparation_brazil","file":"pages/2026-06-08_team-preparation_brazil.html","type":"team-preparation","title":"Brazil Squad Pulse","summary":"Brazil's final preparations and tactical blueprint for their World Cup 2026 campaign, including squad status and key matchups ahead.","teams":["Brazil"],"date":"2026-06-08","jsonPath":"data/reports/2026-06-08_team-preparation_brazil.json","provider":"claude","model":"claude-haiku-4-5-20251001","searchQueries":4,"verified":false}}]}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"site-footer-inner","children":["$","div",null,{"className":"footer-content","children":["$","div",null,{"className":"footer-text","children":["Pitch Report · 🐻 ",["$","strong",null,{"children":"Polar Bear"}]," & 🐱 ",["$","strong",null,{"children":"FootballLoverKitty"}]," · World Cup 2026 · ",2026]}]}]}]}]],null],null],null]},[[null,["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","entry","children","$6","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null],null]},[null,["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","entry","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/wc26-news/_next/static/css/454b1acded4a50ff.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","data-theme":"dark","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1.0"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@400;500;600&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"children":[["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}],["$","$L8",null,{}]]}]]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Is France Match-Ready?"}],["$","meta","3",{"name":"description","content":"Is France Match-Ready?"}]]
 1:null

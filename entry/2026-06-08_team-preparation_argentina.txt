@@ -1,9 +1,227 @@
-2:I[9107,[],"ClientPageRoot"]
-3:I[1667,["448","static/chunks/448-a4c8c30021088ee7.js","301","static/chunks/app/entry/%5Bslug%5D/page-8378ab03bfe57670.js"],"default",1]
-4:I[4707,[],""]
-6:I[6423,[],""]
-7:I[1188,["185","static/chunks/app/layout-491a3196073d060b.js"],"default"]
-5:["slug","2026-06-08_team-preparation_argentina","d"]
-0:["2mASbhyhc9vhL-gmndJ8Y",[[["",{"children":["entry",{"children":[["slug","2026-06-08_team-preparation_argentina","d"],{"children":["__PAGE__?{\"slug\":\"2026-06-08_team-preparation_argentina\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["entry",{"children":[["slug","2026-06-08_team-preparation_argentina","d"],{"children":["__PAGE__",{},[["$L1",["$","$L2",null,{"props":{"params":{"slug":"2026-06-08_team-preparation_argentina"},"searchParams":{"slug":"2026-06-08_team-preparation_argentina"}},"Component":"$3"}],null],null],null]},[[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","entry","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null],null]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","entry","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/wc26-news/_next/static/css/454b1acded4a50ff.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","data-theme":"dark","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1.0"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@400;500;600&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"children":[["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}],["$","$L7",null,{}]]}]]}]],null],null],["$L8",null]]]]
-8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Pitch Report · World Cup 2026 Daily Feed ⚽"}],["$","meta","3",{"name":"description","content":"Pitch Report — Daily World Cup 2026 Chronicles. Expert tactical analysis, match reports, and tournament insights."}]]
+2:I[2972,["972","static/chunks/972-f13e98fbb857c6fb.js","301","static/chunks/app/entry/%5Bslug%5D/page-aa21556a698a9692.js"],""]
+3:I[1826,["972","static/chunks/972-f13e98fbb857c6fb.js","301","static/chunks/app/entry/%5Bslug%5D/page-aa21556a698a9692.js"],"default"]
+5:I[4707,[],""]
+7:I[6423,[],""]
+8:I[1188,["185","static/chunks/app/layout-491a3196073d060b.js"],"default"]
+4:T3607,{
+  "type": "team-preparation",
+  "date": "2026-06-08",
+  "sections": [
+    {
+      "title": "Match Overview",
+      "emoji": "🔥",
+      "items": [
+        {
+          "type": "breaking",
+          "headline": "Argentina vs Algeria — Group J Opener",
+          "body": "Argentina's World Cup title defense begins against Algeria at Arrowhead Stadium (Kansas City) on June 16, 2026. Defending champions face a Fennecs side making their first World Cup appearance since 2014, armed with creative talent and defensive structure under Vladimir Petković.",
+          "metadata": {
+            "teams": ["Argentina", "Algeria"],
+            "venue": "Arrowhead Stadium, Kansas City",
+            "group": "J",
+            "isPreview": true
+          }
+        }
+      ]
+    },
+    {
+      "title": "Opponent Analysis: Algeria 🇩🇿",
+      "emoji": "📊",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Formation & Playing Style",
+          "body": "Algeria typically operates in a 4-2-3-1 setup under Vladimir Petković, though a 3-4-2-1 variant has been deployed. The structure prioritizes defensive solidity through a compact mid-block, minimising space in behind while exploiting width through full-backs Rayan Aït-Nouri (Manchester City left) and right-side support. Central midfield pivot features Ismaël Bennacer and Hicham Boudaoui for control. Petković emphasizes structured possession first, then transitions via pace of Amine Gouiri and Riyad Mahrez in wide areas.",
+          "metadata": {
+            "teams": ["Algeria"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Key Attacking Threats",
+          "body": "Riyad Mahrez (35, Al-Ahli, captain) remains the creative engine—113 caps, 38 goals, free-kick specialist with proven ability to unlock defenses on the right flank. Mohamed Amoura (25, Wolfsburg) finished qualifying with 10 goals in eight matches and provides pace to disrupt defensive shape. Amine Gouiri (Marseille) and Anis Hadj Moussa (Feyenoord) offer secondary attacking options. Strength lies in quick counterattacking transitions, not dominating possession against elite opponents.",
+          "metadata": {
+            "teams": ["Algeria"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Defensive Setup & Vulnerabilities",
+          "body": "Aïssa Mandi (Lille, 116 caps, captain) anchors the back line. Ramy Bensebaini (Borussia Dortmund, left-back) provides attacking threat from set pieces. However, Algeria has been exposed to counterattacks in wide areas historically; a subpar rest defense leaves them vulnerable when pressed high. Algeria's biggest weakness is defensive disorganization when the compact structure breaks down. Goalkeeper Luca Zidane (Granada, son of Zinedine Zidane) recovered from a jaw fracture to make the squad.",
+          "metadata": {
+            "teams": ["Algeria"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Set-Piece Profile",
+          "body": "Riyad Mahrez is a proven free-kick threat. Ramy Bensebaini represents set-piece danger from left-back. Corner and free-kick delivery should be monitored, particularly into the box where Mandi and Bensebaini can create." ,
+          "metadata": {
+            "teams": ["Algeria"]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Defensive Setup: How to Neutralize Algeria",
+      "emoji": "🛡️",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Exploiting Wide Vulnerabilities",
+          "body": "Algeria's defensive disorganization in wide areas is the primary vulnerability to target. Nicolás González and Alejandro Garnacho on the wings should probe down the flanks aggressively, particularly against Rayan Aït-Nouri's left side. Rapid ball progression through Rodrigo De Paul and Enzo Fernández into attacking midfield spaces will stretch Algeria's defensive block and create overload situations in the channels.",
+          "metadata": {
+            "teams": ["Argentina"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Midfield Control Strategy",
+          "body": "Dominate the middle third through Enzo Fernández and Rodrigo De Paul's intensity. Algeria's Bennacer-Boudaoui pivot will seek to regain possession quickly for transition moments; Argentina must press high on these two midfielders to limit their distribution time. Use Lautaro Martínez's intelligent movement to drop deep, receive possession, and break lines vertically rather than horizontally into congested areas.",
+          "metadata": {
+            "teams": ["Argentina"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Containing Mahrez & Amoura",
+          "body": "Assign Cristian Romero and Nicolás Otamendi clear man-marking responsibilities on set pieces where Mahrez operates. Gonzalo Montiel (if fit) and Nahuel Molina must track back aggressively when Mahrez drifts into wider spaces. Amoura's pace requires discipline from center-backs; do not allow him space to accelerate into the box from flank movements. Pressing high on Amoura when he receives possession away from goal will limit his threat.",
+          "metadata": {
+            "teams": ["Argentina"]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Attacking Plan: Exploiting Algeria's Defensive Gaps",
+      "emoji": "⚽",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Direct Transitions & Pace",
+          "body": "Algeria's compact mid-block leaves space for direct vertical passes. Lautaro Martínez should be positioned to receive in the half-space between Algeria's center-backs and full-backs, where he can turn and drive toward goal. Rapid ball circulation from deep to Julian Alvarez (recovery complete) will exploit Algeria's tendency toward slower positional play. Speed in transition is Argentina's primary weapon—quick passes from goalkeeper Emiliano Martínez through the thirds will overwhelm Algeria's structure.",
+          "metadata": {
+            "teams": ["Argentina"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Lionel Messi's Role (Fitness Dependent)",
+          "body": "Messi is recovering from left hamstring muscle fatigue; Argentina remain confident he will be fit for the opener despite individual training. If available, Messi should operate in a left-sided advanced role where he can dictate from deeper positions and avoid high-intensity pressing duels early. His presence will stretch Algeria's structure, but do not expect full intensity in the first 30 minutes.",
+          "metadata": {
+            "teams": ["Argentina"]
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Numerical Advantage Down the Right",
+          "body": "Nicolás González or Alejandro Garnacho should exploit Algeria's left-back positioning. Rayan Aït-Nouri, while technically sound (Manchester City), can be isolated in 1v1 situations. Overload the right flank with fullback support (Montiel/Molina/Giay) to create crossing opportunities. Lautaro Martínez should anticipate cutback passes from the byline.",
+          "metadata": {
+            "teams": ["Argentina"]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Key Matchups",
+      "emoji": "🔄",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Enzo Fernández vs Ismaël Bennacer",
+          "body": "Both are possession-dominant midfielders with defensive responsibility. Fernández must win the midfield battle early; Bennacer's experience (AC Milan) will test Argentina's intensity. This duel will define tempo and Argentina's ability to control the first 45 minutes.",
+          "metadata": {
+            "teams": ["Argentina", "Algeria"]
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Cristian Romero vs Mohamed Amoura",
+          "body": "Romero has fully recovered from his knee sprain and was cleared for full training. Amoura's pace (10 qualifying goals) demands athletic defender management. This 1v1 duel is critical; Romero's recovery speed will determine whether Amoura can exploit spaces in behind.",
+          "metadata": {
+            "teams": ["Argentina", "Algeria"]
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Nicolás González / Garnacho vs Rayan Aït-Nouri",
+          "body": "Argentina's wingers should repeatedly probe Aït-Nouri down Algeria's left flank. While technically competent, he can be isolated. This represents Argentina's most consistent avenue to create overload situations and crosses.",
+          "metadata": {
+            "teams": ["Argentina", "Algeria"]
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Lautaro Martínez vs Aïssa Mandi",
+          "body": "Mandi (116 caps) is a composed, experienced defender. Lautaro's intelligent runs and link-up play will test Mandi's positioning. Argentina should target Lautaro in the half-space to turn and progress.",
+          "metadata": {
+            "teams": ["Argentina", "Algeria"]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Squad Status: Confirmed Injuries & Fitness Updates",
+      "emoji": "🏥",
+      "items": [
+        {
+          "type": "team",
+          "headline": "CLEARED FOR FULL PARTICIPATION",
+          "body": "Cristian Romero (defender, Tottenham) – Fully recovered from lateral knee ligament injury suffered April 12. Cleared for full training as of Monday, June 3. Julian Alvarez (forward, Atlético Madrid) – Fully recovered from ankle sprain. Cleared for full training and expected to feature in remaining friendlies.",
+          "metadata": {
+            "teams": ["Argentina"]
+          }
+        },
+        {
+          "type": "team",
+          "headline": "MANAGING THROUGH TRAINING (Racing vs Time)",
+          "body": "Lionel Messi (forward, Inter Miami) – Recovering from left hamstring muscle fatigue since May 24. Training individually under medical supervision but Argentina remain confident he will be fit for June 16 opener. Presence not considered at risk, though intensity management critical. Leandro Paredes (midfielder) – Hamstring injury with estimated 3-week recovery time. Faces race against time for group opener; ruled out of both friendlies (Honduras June 6, Iceland June 9). Emiliano Martínez (goalkeeper) – Recovering from minor fractured ring finger on right hand. Will sit out both friendlies; race against time to be fully fit for World Cup opener.",
+          "metadata": {
+            "teams": ["Argentina"]
+          }
+        },
+        {
+          "type": "team",
+          "headline": "WORKING BACK TO FULL FITNESS (Conditional Availability)",
+          "body": "Nahuel Molina (right-back) – Managing muscle tear. Unable to train with squad ahead of Honduras friendly. Agustín Giay and Nicolás Capaldo brought in as additional cover. Gonzalo Montiel (right-back) – Muscle tear, same status as Molina. His availability for group stage depends on recovery progress in coming week. Nicolás González (winger) – Muscle tear, working back to fitness. Nicolás Paz – Knee contusion, progressing in recovery. Thiago Almada – Muscle overload. All players expected to recover but timeline uncertain.",
+          "metadata": {
+            "teams": ["Argentina"]
+          }
+        },
+        {
+          "type": "team",
+          "headline": "RULED OUT",
+          "body": "Leonardo Balerdi (center-back) – Confirmed ruled out of entire 2026 World Cup due to soleus muscle injury in right leg. Awaiting squad replacement decision by head coach Lionel Scaloni after final friendly vs Iceland (June 9).",
+          "metadata": {
+            "teams": ["Argentina"]
+          }
+        },
+        {
+          "type": "team",
+          "headline": "Scaloni's Contingency Plans",
+          "body": "Scaloni stated: 'We are not at 100% with several of the players.' Right-back depth is acute concern; Agustín Giay and Nicolás Capaldo drafted as emergency cover for Montiel/Molina. Goalkeeping depth monitored with Gerónimo Rulli and Juan Musso as backup options to Martínez. Final roster decisions will be made after Iceland friendly on June 9. Two pre-tournament friendlies (Honduras June 6, Iceland June 9) serve as final fitness assessment windows.",
+          "metadata": {
+            "teams": ["Argentina"]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Prediction & Analysis",
+      "emoji": "🎯",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "OPINION: Expected Outcome & Key Variables",
+          "body": "Argentina should win this group, as confirmed by multiple tactical analysts. Against Algeria specifically, Argentina's technical superiority, midfield control, and attacking depth should prove decisive. However, Algeria's defensive organization and Mahrez's experience create minor disruption risk if Argentina become complacent or sloppy in possession. The outcome hinges on: (1) Messi's fitness and intensity; (2) Martínez's availability and reflexes; (3) Argentina's discipline in transition defense (Algeria exploits counterattacking space); (4) whether right-back injuries (Montiel/Molina) force tactical adjustments. Expected result: Argentina to win 2-0 to 1-0, though Algeria's quality should prevent a thrashing. Algeria is ranked 28th globally—not a bottom-tier opponent. Expect a professional, controlled performance from Argentina rather than a dominant display.",
+          "metadata": {
+            "teams": ["Argentina", "Algeria"]
+          }
+        }
+      ]
+    }
+  ]
+}6:["slug","2026-06-08_team-preparation_argentina","d"]
+0:["SFqSsyz98vhi5HHxh-kk8",[[["",{"children":["entry",{"children":[["slug","2026-06-08_team-preparation_argentina","d"],{"children":["__PAGE__?{\"slug\":\"2026-06-08_team-preparation_argentina\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["entry",{"children":[["slug","2026-06-08_team-preparation_argentina","d"],{"children":["__PAGE__",{},[["$L1",[["$","header",null,{"className":"masthead","children":[["$","div",null,{"className":"mast-tier1","children":[["$","div",null,{"className":"mast-tier1-left","children":["$","div",null,{"className":"mast-logo-compact","children":[["$","div",null,{"className":"mast-logo-icon","children":"⚽"}],["$","div",null,{"className":"mast-logo-text","children":"FIFA WC 2026"}],["$","div",null,{"className":"mast-logo-sep","children":"|"}],["$","div",null,{"className":"mast-host-countries","children":"CANADA · MEXICO · USA"}]]}]}],["$","div",null,{"className":"mast-tier1-right","children":["$","div",null,{"className":"mast-info-compact","children":["$","span",null,{"className":"mast-info-date","children":"Jun 13"}]}]}]]}],["$","div",null,{"className":"mast-tier2","children":[["$","div",null,{"className":"mast-brand","children":[["$","div",null,{"className":"mast-title","children":["Pitch ",["$","em",null,{"children":"Report"}],["$","span",null,{"className":"ball-bounce","children":"⚽"}]]}],["$","div",null,{"className":"mast-tagline","children":"Your Daily World Cup Dispatch"}]]}],["$","nav",null,{"className":"mast-nav","children":["$","$L2",null,{"href":"/","className":"mast-nav-link","children":"← Back to News"}]}],["$","div",null,{"className":"mast-backdrop","children":"🏆"}]]}]]}],["$","div",null,{"className":"wrap","style":{"gridTemplateColumns":"1fr"},"children":["$","main",null,{"style":{"maxWidth":"800px","margin":"0 auto"},"children":["$","$L3",null,{"report":{"type":"team-preparation","date":"2026-06-08","team":"Argentina","provider":"claude","model":"claude-haiku-4-5-20251001","searchQueries":0,"content":"$4","generatedAt":"2026-06-08T19:16:36.126Z"},"title":"Final Preparations: Argentina","date":"2026-06-08","type":"team-preparation","teams":["Argentina"],"prevEntry":{"slug":"2026-06-08_team-preparation_brazil","file":"pages/2026-06-08_team-preparation_brazil.html","type":"team-preparation","title":"Brazil Squad Pulse","summary":"Brazil's final preparations and tactical blueprint for their World Cup 2026 campaign, including squad status and key matchups ahead.","teams":["Brazil"],"date":"2026-06-08","jsonPath":"data/reports/2026-06-08_team-preparation_brazil.json","provider":"claude","model":"claude-haiku-4-5-20251001","searchQueries":4,"verified":false},"nextEntry":null}]}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"site-footer-inner","children":["$","div",null,{"className":"footer-content","children":["$","div",null,{"className":"footer-text","children":["Pitch Report · 🐻 ",["$","strong",null,{"children":"Polar Bear"}]," & 🐱 ",["$","strong",null,{"children":"FootballLoverKitty"}]," · World Cup 2026 · ",2026]}]}]}]}]],null],null],null]},[[null,["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","entry","children","$6","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null],null]},[null,["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","entry","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/wc26-news/_next/static/css/454b1acded4a50ff.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","data-theme":"dark","children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1.0"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@400;500;600&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"children":[["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}],["$","$L8",null,{}]]}]]}]],null],null],["$L9",null]]]]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Final Preparations: Argentina"}],["$","meta","3",{"name":"description","content":"Final Preparations: Argentina"}]]
 1:null
