@@ -1,0 +1,143 @@
+{
+  "type": "daily-briefing",
+  "team": null,
+  "provider": "claude",
+  "date": "2026-06-13",
+  "sections": [
+    {
+      "title": "Group Stage Status",
+      "emoji": "📊",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Mexico Dominant in Tournament Opener",
+          "body": "<cite index=\"12-1,12-2\">Mexico opened the tournament with a 2-0 win over South Africa at Estadio Azteca, with Julián Quiñones scoring in the ninth minute and Raúl Jiménez doubling the lead in the second half.</cite> <cite index=\"19-6\">The match saw three red cards issued (Yaya Sithole, Themba Zwane, and César Montes), the most in any World Cup match for 20 years.</cite>",
+          "metadata": {
+            "match": "Mexico 2-0 South Africa",
+            "date": "2026-06-11",
+            "venue": "Estadio Azteca, Mexico City"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "South Korea Stages Second-Half Rally",
+          "body": "<cite index=\"1-16\">Hwang In-Beom and Oh Hyeon-Gyu each scored for South Korea, helping them recover from a second-half deficit to beat Czechia 2-1.</cite> <cite index=\"1-8,1-9\">Czechia's Ladislav Krejcí opened the scoring in the 59th minute, but South Korea made crafty substitutions and recovered nicely.</cite>",
+          "metadata": {
+            "match": "South Korea 2-1 Czechia",
+            "date": "2026-06-11",
+            "group": "Group A"
+          }
+        },
+        {
+          "type": "stat",
+          "headline": "Tournament Format Expansion",
+          "body": "<cite index=\"4-3,4-4\">The 2026 FIFA World Cup runs from 11 June to 19 July with a record 48 teams competing in 12 groups of four, with the top two teams and eight best third-place finishers advancing to the knockout stages.</cite> <cite index=\"13-6\">The tournament features 104 total matches.</cite>",
+          "metadata": {
+            "teams": 48,
+            "groups": 12,
+            "total_matches": 104
+          }
+        }
+      ]
+    },
+    {
+      "title": "Key Injuries & Fitness",
+      "emoji": "🏥",
+      "items": [
+        {
+          "type": "injury",
+          "headline": "USA Center-Back Richards Cleared to Play",
+          "body": "<cite index=\"20-1,20-2\">Chris Richards took part in a full training session with the U.S. men's national team after recovering from an ankle injury suffered in May, and appears to be progressing well ahead of the Americans' World Cup opener against Paraguay.</cite>",
+          "metadata": {
+            "player": "Chris Richards",
+            "team": "USA",
+            "status": "fit",
+            "position": "center-back"
+          }
+        },
+        {
+          "type": "injury",
+          "headline": "Brazil Loses Rodrygo to Season-Ending Injury",
+          "body": "<cite index=\"20-5\">Brazil enters the tournament without one of its most dangerous attackers after Rodrygo suffered a season-ending knee injury.</cite>",
+          "metadata": {
+            "player": "Rodrygo",
+            "team": "Brazil",
+            "status": "ruled_out",
+            "injury": "knee"
+          }
+        },
+        {
+          "type": "injury",
+          "headline": "Canada Concerns Over Alphonso Davies",
+          "body": "<cite index=\"22-8,22-9\">Alphonso Davies' status is a massive question mark for co-host Canada, with Davies out for Friday's Group B opener against Bosnia and Herzegovina and could miss more time.</cite>",
+          "metadata": {
+            "player": "Alphonso Davies",
+            "team": "Canada",
+            "status": "doubtful",
+            "position": "defender"
+          }
+        },
+        {
+          "type": "injury",
+          "headline": "Paraguay Faces Enciso Setback",
+          "body": "<cite index=\"22-3,22-4\">Enciso was stretchered off in Paraguay's pre-World Cup friendly against Nicaragua; the Strasbourg midfielder is one of the top young talents in the 48-team field but could be sidelined for at least one game.</cite>",
+          "metadata": {
+            "player": "Enciso",
+            "team": "Paraguay",
+            "status": "questionable",
+            "position": "midfielder"
+          }
+        },
+        {
+          "type": "injury",
+          "headline": "England Managing Saka's Achilles",
+          "body": "<cite index=\"20-12,20-13\">Bukayo Saka is expected to be available for England's World Cup campaign, though he continues to manage an Achilles issue that has limited his workload in training, and England is likely to monitor his minutes closely.</cite>",
+          "metadata": {
+            "player": "Bukayo Saka",
+            "team": "England",
+            "status": "available",
+            "condition": "managed"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Upcoming Matches",
+      "emoji": "⚽",
+      "items": [
+        {
+          "type": "match",
+          "headline": "USA Faces Paraguay in Group B",
+          "body": "<cite index=\"11-2\">On Friday 12 June, the USA begins their campaign against Paraguay.</cite> <cite index=\"21-5\">The United States men's national team will kick off its tournament on Friday night at SoFi Stadium in Los Angeles.</cite>",
+          "metadata": {
+            "match": "USA vs Paraguay",
+            "date": "2026-06-12",
+            "venue": "SoFi Stadium, Los Angeles",
+            "group": "Group B"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Canada Hosts Bosnia and Herzegovina",
+          "body": "<cite index=\"11-2\">On Friday 12 June, hosts Canada begins their campaign against Bosnia and Herzegovina.</cite>",
+          "metadata": {
+            "match": "Canada vs Bosnia and Herzegovina",
+            "date": "2026-06-12",
+            "group": "Group B"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Dense Match Schedule Ahead",
+          "body": "<cite index=\"15-6,15-7,15-8,15-9,15-10,15-11\">Matches continue on June 13-14 with Qatar-Switzerland and teams including Brazil-Morocco, Haiti-Scotland, Australia-Turkey, and Germany-Curacao, followed by June 15-17 with matches involving France, Argentina, and Portugal among others.</cite>",
+          "metadata": {
+            "days_ahead": 5,
+            "matches_scheduled": 28
+          }
+        }
+      ]
+    }
+  ],
+  "model": "claude-haiku-4-5-20251001",
+  "generatedAt": "2026-06-13T12:28:02.105Z"
+}
