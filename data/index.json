@@ -11,7 +11,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Mexico Dominant in Tournament Opener",
+      "South Korea Stages Second-Half Rally",
+      "Tournament Format Expansion"
+    ]
   },
   {
     "slug": "2026-06-13_morning",
@@ -25,7 +30,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Opening Matches Completed",
+      "Historic 48-Team Format Begins",
+      "Mexico Leads After Day 1"
+    ]
   },
   {
     "slug": "2026-06-13_morning-group_stage",
@@ -39,7 +49,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Group B Scramble: Switzerland's Qualifier Status vs Qatar's Desperation",
+      "Group C's Heavyweight Showdown Sets Early Tone",
+      "Haiti's Historic Return Demands Bold Early Statement"
+    ]
   },
   {
     "slug": "2026-06-13_post-match-group_stage",
@@ -67,7 +82,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Mexico opens with dominant 2-0 win",
+      "48-team format expands knockout stage",
+      "Brazil faces attacking void without Rodrygo"
+    ]
   },
   {
     "slug": "2026-06-11_daily-briefing",
@@ -81,7 +101,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Mexico vs South Africa - Estadio Azteca",
+      "48-Team Format Expansion",
+      "Key Debutant Nations"
+    ]
   },
   {
     "slug": "2026-06-11_tactics",
@@ -95,7 +120,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Mexico vs South Africa opener",
+      "Tournament format confirmed",
+      "Argentina: Messi returning from hamstring"
+    ]
   },
   {
     "slug": "2026-06-10_team-preparation_brazil",
@@ -111,7 +141,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Rodrygo Ruled Out (Confirmed)",
+      "Estêvão Out (Hamstring)",
+      "Wesley Withdrawn (Defensive Blow)"
+    ]
   },
   {
     "slug": "2026-06-10_team-preparation_south-africa",
@@ -127,7 +162,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Key Players Confirmed Available",
+      "Final 26-Player Squad Submitted",
+      "No Major Injury Reports Pre-Tournament"
+    ]
   },
   {
     "slug": "2026-06-10_team-preparation_south-korea",
@@ -143,7 +183,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Cho Yu-min Ruled Out",
+      "26-Man Squad Finalized",
+      "Goalkeeping: Kim Seung-gyu Leads"
+    ]
   },
   {
     "slug": "2026-06-10_team-preparation_czech-republic",
@@ -159,7 +204,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Core European Players Available",
+      "Adam Hložek Recovery Confirmed",
+      "Schick Fitness Paramount"
+    ]
   },
   {
     "slug": "2026-06-10_team-preparation_canada",
@@ -175,7 +225,12 @@
     "provider": "claude",
     "model": "claude-sonnet-4-6",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "26-Man Squad Confirmed by Jesse Marsch",
+      "Marcelo Flores Replaced by Jayden Nelson",
+      "Davies Hamstring — Race to Be Fit for Opener"
+    ]
   },
   {
     "slug": "2026-06-10_team-preparation_bosnia",
@@ -191,7 +246,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Full 26-Man Squad Confirmed",
+      "Edin Džeko Leads Despite Age",
+      "Youth Movement Emerging"
+    ]
   },
   {
     "slug": "2026-06-10_team-preparation_colombia",
@@ -207,7 +267,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Captain James Rodríguez leads experience",
+      "Star forward in career-best form",
+      "Defensive backbone anchored by Palace duo"
+    ]
   },
   {
     "slug": "2026-06-10_team-preparation_paraguay",
@@ -223,7 +288,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Core Squad Composition",
+      "Key Attacking Players",
+      "Defensive Foundation"
+    ]
   },
   {
     "slug": "2026-06-10_team-preparation_morocco",
@@ -239,7 +309,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Ezzalzouli Rules Out — MCL Sprain",
+      "Hakimi Thigh Concern Before Brazil Opener",
+      "Multiple Fitness Concerns Pre-Squad Announcement"
+    ]
   },
   {
     "slug": "2026-06-10_team-preparation_qatar",
@@ -255,7 +330,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Final 26-Man Squad Confirmed",
+      "Almoez Ali Recovery Concerns",
+      "Akram Afif in Peak Form"
+    ]
   },
   {
     "slug": "2026-06-09_daily-briefing",
@@ -269,7 +349,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Mexico vs South Africa opens 2026 World Cup",
+      "48-team format brings historic expansion",
+      "USA begins Group D campaign Friday"
+    ]
   },
   {
     "slug": "2026-06-09_team-preparation_germany",
@@ -285,7 +370,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Lennart Karl ruled out with torn muscle",
+      "Key players available and ready",
+      "Serge Gnabry unavailable"
+    ]
   },
   {
     "slug": "2026-06-09_team-preparation_mexico",
@@ -301,7 +391,12 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Goalkeeper Malagón Out with ACL Tear",
+      "Ochoa Confirmed for Record Sixth World Cup",
+      "Lozano & Huescas Excluded Due to Fitness"
+    ]
   },
   {
     "slug": "2026-06-08_team-preparation_france",
