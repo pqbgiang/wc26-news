@@ -1,9 +1,47 @@
 [
   {
+    "slug": "2026-06-17_morning-group_stage",
+    "file": "pages/2026-06-17_morning-group_stage.html",
+    "type": "morning-group_stage",
+    "title": "Today's World Cup 2026 Group Stage Showdowns",
+    "summary": "World Cup 2026 analysis: morning group_stage",
+    "teams": [],
+    "date": "2026-06-17",
+    "jsonPath": "data/reports/2026-06-17_morning-group_stage.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Portugal's Golden Generation Faces Congo DR's Resilient Challenge",
+      "England vs. Croatia: A Familiar Rivalry Reignites in Group L",
+      "Ghana and Panama Battle for Early Group L Advantage"
+    ]
+  },
+  {
+    "slug": "2026-06-15_morning-group_stage",
+    "file": "pages/2026-06-15_morning-group_stage.html",
+    "type": "morning-group_stage",
+    "title": "Group Stage - Opening Weekend",
+    "summary": "World Cup 2026 analysis: morning group_stage",
+    "teams": [],
+    "date": "2026-06-15",
+    "jsonPath": "data/reports/2026-06-15_morning-group_stage.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Spain's Masterclass Begins Against Cabo Verde's Historic Moment",
+      "Belgium's Salah Duel: Garcia's Red Devils Face Egypt's Qualifier Elite",
+      "Uruguay's Bielsa Against Saudi Arabia's Upset Legacy"
+    ]
+  },
+  {
     "slug": "2026-06-14_post-match-group_stage",
     "file": "pages/2026-06-14_post-match-group_stage.html",
     "type": "post-match-group_stage",
-    "title": "post match group_stage",
+    "title": "Florian Wirtz's Masterclass: Germany Dominates Curaçao",
     "summary": "World Cup 2026 analysis: post match group_stage",
     "teams": [],
     "date": "2026-06-14",
@@ -12,6 +50,25 @@
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
     "verified": false
+  },
+  {
+    "slug": "2026-06-14_morning-group_stage",
+    "file": "pages/2026-06-14_morning-group_stage.html",
+    "type": "morning-group_stage",
+    "title": "Four Clashes, One Dream: Title Contenders Face Decisive Openers",
+    "summary": "World Cup 2026 analysis: morning group_stage",
+    "teams": [],
+    "date": "2026-06-14",
+    "jsonPath": "data/reports/2026-06-14_morning-group_stage.json",
+    "provider": "claude",
+    "model": "claude-haiku-4-5-20251001",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Nagelsmann's Masterclass vs History's Biggest Underdog",
+      "Oranje's Title Hunger Meets Japan's Historic Momentum",
+      "Africa's Dark Horse Meets South America's Wall"
+    ]
   },
   {
     "slug": "2026-06-13_post-match",
@@ -55,7 +112,7 @@
     "slug": "2026-06-13_morning-group_stage",
     "file": "pages/2026-06-13_morning-group_stage.html",
     "type": "morning-group_stage",
-    "title": "morning group_stage",
+    "title": "Group Stage - Matchday 2",
     "summary": "World Cup 2026 analysis: morning group_stage",
     "teams": [],
     "date": "2026-06-13",
@@ -65,16 +122,16 @@
     "searchQueries": 0,
     "verified": false,
     "highlights": [
-      "Group B Scramble: Switzerland's Qualifier Status vs Qatar's Desperation",
-      "Group C's Heavyweight Showdown Sets Early Tone",
-      "Haiti's Historic Return Demands Bold Early Statement"
+      "Desert Strikers Face Alpine Architects",
+      "Seleção's Redemption Arc vs Africa's Rising Giants",
+      "52-Year Journey Meets 28-Year Wait—Historic Moment for Underdogs"
     ]
   },
   {
     "slug": "2026-06-13_post-match-group_stage",
     "file": "pages/2026-06-13_post-match-group_stage.html",
     "type": "post-match-group_stage",
-    "title": "post match group_stage",
+    "title": "Breel Embolo's Masterclass: Qatar Dominates Switzerland",
     "summary": "World Cup 2026 analysis: post match group_stage",
     "teams": [],
     "date": "2026-06-13",

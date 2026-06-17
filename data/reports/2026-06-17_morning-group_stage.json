@@ -1,0 +1,197 @@
+{
+  "type": "morning-group_stage",
+  "team": null,
+  "date": "2026-06-17",
+  "sections": [
+    {
+      "title": "Today's World Cup 2026 Group Stage Showdowns",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Portugal's Golden Generation Faces Congo DR's Resilient Challenge",
+          "body": "Portugal, a tournament favorite, kicks off their World Cup campaign against Congo DR in a Group K opener. This marks the first-ever international meeting between these two nations, adding an element of unpredictability to the clash.",
+          "metadata": {
+            "homeTeam": "Portugal",
+            "awayTeam": "Congo DR",
+            "kickoffUTC": "12:00",
+            "venue": "NRG Stadium, Houston, Texas, USA"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "England vs. Croatia: A Familiar Rivalry Reignites in Group L",
+          "body": "England and Croatia renew their storied rivalry in a crucial Group L encounter. Their head-to-head record shows England with a slight edge, but Croatia has historically performed well in high-stakes matches against the Three Lions, including a 2018 World Cup semi-final victory.",
+          "metadata": {
+            "homeTeam": "England",
+            "awayTeam": "Croatia",
+            "kickoffUTC": "15:00",
+            "venue": "AT&T Stadium, Arlington, Texas, USA"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Ghana and Panama Battle for Early Group L Advantage",
+          "body": "Ghana and Panama face each other for the first time in international football, making this Group L fixture a fresh contest. Panama enters with a higher world ranking and slightly better recent form, setting the stage for an intriguing battle.",
+          "metadata": {
+            "homeTeam": "Ghana",
+            "awayTeam": "Panama",
+            "kickoffUTC": "19:00",
+            "venue": "BMO Field, Toronto, Ontario, Canada"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Uzbekistan's World Cup Debut Against Colombia in Group K",
+          "body": "Uzbekistan makes their World Cup debut against a strong Colombian side in Group K. This match marks the first-ever meeting between these two nations, with Colombia being the clear favorites.",
+          "metadata": {
+            "homeTeam": "Uzbekistan",
+            "awayTeam": "Colombia",
+            "kickoffUTC": "20:00",
+            "venue": "Estadio Azteca, Mexico City, Mexico"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Group K: Portugal's Ambition Meets Debutant Uzbekistan",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Portugal vs Congo DR: H2H History & Form",
+          "body": "There is no recorded head-to-head history between Portugal and Congo DR, making this their inaugural encounter. Portugal enters the tournament in strong form, with four wins, one draw, and one defeat in their last six matches, scoring 15 goals.",
+          "metadata": {
+            "homeTeam": "Portugal",
+            "awayTeam": "Congo DR",
+            "kickoffUTC": "12:00",
+            "venue": "NRG Stadium, Houston, Texas, USA"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Portugal Key Player Availability & Tactical Angles",
+          "body": "Cristiano Ronaldo is fit after a minor hamstring injury, though Nuno Mendes recently left a friendly early with concerns. Portugal's attacking prowess, led by Ronaldo and a deep squad, will likely dominate possession, while Congo DR will aim for defensive solidity and counter-attacks.",
+          "metadata": {
+            "homeTeam": "Portugal",
+            "awayTeam": "Congo DR",
+            "kickoffUTC": "12:00",
+            "venue": "NRG Stadium, Houston, Texas, USA"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Uzbekistan vs Colombia: H2H History & Form",
+          "body": "Uzbekistan and Colombia have no prior head-to-head meetings, adding an element of novelty to this Group K fixture. Colombia boasts a stronger recent record with four wins and two losses in their last six matches, scoring 12 goals.",
+          "metadata": {
+            "homeTeam": "Uzbekistan",
+            "awayTeam": "Colombia",
+            "kickoffUTC": "20:00",
+            "venue": "Estadio Azteca, Mexico City, Mexico"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Uzbekistan Key Player Availability & Tactical Angles",
+          "body": "Uzbekistan, in their World Cup debut, will likely focus on a disciplined defensive structure and look to exploit any Colombian vulnerabilities on the break. Colombia, with creative players like James Rodriguez and Luis Diaz, will seek to control the midfield and dictate the tempo.",
+          "metadata": {
+            "homeTeam": "Uzbekistan",
+            "awayTeam": "Colombia",
+            "kickoffUTC": "20:00",
+            "venue": "Estadio Azteca, Mexico City, Mexico"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Group L: European Giants Clash, African Hopefuls Meet",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "England vs Croatia: H2H History & Form",
+          "body": "England holds a superior head-to-head record against Croatia with six wins to Croatia's three and two draws from 11 meetings. However, Croatia famously defeated England in the 2018 World Cup semi-finals.",
+          "metadata": {
+            "homeTeam": "England",
+            "awayTeam": "Croatia",
+            "kickoffUTC": "15:00",
+            "venue": "AT&T Stadium, Arlington, Texas, USA"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "England Key Player Availability & Tactical Angles",
+          "body": "England faces a setback with Tino Livramento ruled out due to a calf injury, replaced by Trevoh Chalobah. Declan Rice and Bukayo Saka are managing discomfort but are expected to play. England's attacking talent will test Croatia's experienced midfield and disciplined defense.",
+          "metadata": {
+            "homeTeam": "England",
+            "awayTeam": "Croatia",
+            "kickoffUTC": "15:00",
+            "venue": "AT&T Stadium, Arlington, Texas, USA"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Ghana vs Panama: H2H History & Form",
+          "body": "Ghana and Panama have no prior head-to-head matches in international football. Ghana's recent form has been challenging with one draw and five defeats in their last six matches, while Panama has two wins, two draws, and two losses in the same period.",
+          "metadata": {
+            "homeTeam": "Ghana",
+            "awayTeam": "Panama",
+            "kickoffUTC": "19:00",
+            "venue": "BMO Field, Toronto, Ontario, Canada"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Ghana Key Player Availability & Tactical Angles",
+          "body": "Ghana is significantly impacted by injuries, with key midfielder Mohammed Kudus and defender Mohammed Salisu ruled out. Panama, ranked higher, will likely aim to exploit Ghana's defensive vulnerabilities and capitalize on their own scoring consistency.",
+          "metadata": {
+            "homeTeam": "Ghana",
+            "awayTeam": "Panama",
+            "kickoffUTC": "19:00",
+            "venue": "BMO Field, Toronto, Ontario, Canada"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Group Stage Implications: Early Battles for Qualification",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Group K: Portugal and Colombia Eye Strong Starts",
+          "body": "Victories for Portugal and Colombia would immediately establish them as frontrunners in Group K, putting significant pressure on Congo DR and Uzbekistan. Goal difference could become crucial early on if both favorites secure wins.",
+          "metadata": {}
+        },
+        {
+          "type": "analysis",
+          "headline": "Group L: England vs Croatia Sets the Tone",
+          "body": "The England vs. Croatia result will heavily influence Group L dynamics. A win for either side provides a crucial early advantage, while a draw keeps the group wide open, especially with Ghana and Panama also vying for points.",
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "title": "Live Watch Alerts: Key Moments to Anticipate",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Star Power in Group K",
+          "body": "Watch for Cristiano Ronaldo's impact in the Portugal vs. Congo DR match, particularly his set-piece prowess and finishing. In the Uzbekistan vs. Colombia game, keep an eye on Colombia's creative midfielders and wingers to unlock Uzbekistan's defense.",
+          "metadata": {}
+        },
+        {
+          "type": "analysis",
+          "headline": "Midfield Battle in Group L",
+          "body": "The midfield duel between England and Croatia will be pivotal, with both teams boasting world-class talent. Expect tactical adjustments and intense pressure in the central areas.",
+          "metadata": {}
+        },
+        {
+          "type": "analysis",
+          "headline": "Potential Upsets and Defensive Stands",
+          "body": "Congo DR's strong defensive record in recent matches suggests they could frustrate Portugal. Ghana's defensive struggles could lead to a high-scoring affair against Panama, making it a potential upset watch.",
+          "metadata": {}
+        }
+      ]
+    }
+  ],
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-17T02:10:25.387Z"
+}

@@ -113,7 +113,7 @@
     "group": "Group E",
     "stage": "group_stage",
     "status": "scheduled",
-    "startTime": "2026-06-14T12:00:00Z",
+    "startTime": "2026-06-14T17:00:00Z",
     "venue": "Houston Stadium",
     "homeTeam": { "teamId": "GER", "name": "Germany", "score": null },
     "awayTeam": { "teamId": "CUW", "name": "Curaçao", "score": null },
