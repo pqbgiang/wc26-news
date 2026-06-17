@@ -1,0 +1,88 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-17",
+  "matches": [
+    {
+      "teams": [
+        "Portugal",
+        "Congo DR"
+      ],
+      "status": "upcoming",
+      "score": null,
+      "scorers": [],
+      "assists": [],
+      "key_moments": [],
+      "standout_performers": [],
+      "tactical_summary": null,
+      "stats": null,
+      "metadata": {
+        "group": "K",
+        "kickoffUTC": "12:00",
+        "venue": "NRG Stadium, Houston, Texas"
+      }
+    },
+    {
+      "teams": [
+        "England",
+        "Croatia"
+      ],
+      "status": "upcoming",
+      "score": null,
+      "scorers": [],
+      "assists": [],
+      "key_moments": [],
+      "standout_performers": [],
+      "tactical_summary": null,
+      "stats": null,
+      "metadata": {
+        "group": "L",
+        "kickoffUTC": "15:00",
+        "venue": "AT&T Stadium, Arlington, Texas"
+      }
+    },
+    {
+      "teams": [
+        "Ghana",
+        "Panama"
+      ],
+      "status": "upcoming",
+      "score": null,
+      "scorers": [],
+      "assists": [],
+      "key_moments": [],
+      "standout_performers": [],
+      "tactical_summary": null,
+      "stats": null,
+      "metadata": {
+        "group": "L",
+        "kickoffUTC": "19:00",
+        "venue": "BMO Field, Toronto, Canada"
+      }
+    },
+    {
+      "teams": [
+        "Uzbekistan",
+        "Colombia"
+      ],
+      "status": "upcoming",
+      "score": null,
+      "scorers": [],
+      "assists": [],
+      "key_moments": [],
+      "standout_performers": [],
+      "tactical_summary": null,
+      "stats": null,
+      "metadata": {
+        "group": "K",
+        "kickoffUTC": "20:00",
+        "venue": "Estadio Azteca, Mexico City, Mexico"
+      }
+    }
+  ],
+  "group_standings": [],
+  "narrative": "All four World Cup 2026 group stage matches scheduled for June 17, 2026, are yet to be played. No results or match details are available at this time, with all fixtures listed as upcoming.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-17T09:53:22.811Z"
+}
