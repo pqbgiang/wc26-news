@@ -14,6 +14,25 @@
     "verified": false
   },
   {
+    "slug": "2026-06-18_morning-group_stage",
+    "file": "pages/2026-06-18_morning-group_stage.html",
+    "type": "morning-group_stage",
+    "title": "Group Stage Showdowns: Qualification Hopes on the Line",
+    "summary": "World Cup 2026 analysis: morning group_stage",
+    "teams": [],
+    "date": "2026-06-18",
+    "jsonPath": "data/reports/2026-06-18_morning-group_stage.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Czechia vs South Africa: Battle for Survival in Group A",
+      "Switzerland vs Bosnia & Herzegovina: European Clash for Group B Supremacy",
+      "Canada vs Qatar: North American Hosts Face Asian Champions"
+    ]
+  },
+  {
     "slug": "2026-06-17_morning-group_stage",
     "file": "pages/2026-06-17_morning-group_stage.html",
     "type": "morning-group_stage",
