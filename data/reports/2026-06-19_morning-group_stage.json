@@ -1,0 +1,214 @@
+{
+  "type": "morning-group_stage",
+  "team": null,
+  "date": "2026-06-19",
+  "sections": [
+    {
+      "title": "Group Stage Showdowns: Qualification Hopes on the Line",
+      "items": [
+        {
+          "type": "match",
+          "headline": "USA vs Australia: Battle for Group D Supremacy",
+          "body": "Co-hosts USA and Australia clash in a pivotal Group D encounter, with the winner securing a spot in the Round of 32. Both teams enter this match with confidence after winning their opening fixtures, setting the stage for a high-stakes contest.",
+          "metadata": {
+            "homeTeam": "USA",
+            "awayTeam": "Australia",
+            "kickoffUTC": "12:00",
+            "venue": "Lumen Field, Seattle, USA"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "USA vs Australia: Head-to-Head and Current Form",
+          "body": "The USA holds a slight edge in their head-to-head record against Australia, having won two of their four previous friendly encounters, with one draw and one Australian victory. This will be their first competitive meeting in a World Cup. The USA defeated Paraguay 4-1 in their opener, showcasing strong attacking play, while Australia secured a surprising 2-0 win against Türkiye, highlighting their defensive solidity and counter-attacking threat.",
+          "metadata": {
+            "homeTeam": "USA",
+            "awayTeam": "Australia",
+            "kickoffUTC": "12:00",
+            "venue": "Lumen Field, Seattle, USA"
+          }
+        },
+        {
+          "type": "form",
+          "headline": "Key Player Watch: Pulisic Doubt for USA, Socceroos Unchanged",
+          "body": "The biggest concern for the United States is the fitness of Christian Pulisic, who sustained a calf injury in their opening match against Paraguay. His participation remains uncertain, which could impact the USA's attacking dynamics. Australia, however, is expected to field an unchanged lineup following their impressive victory.",
+          "metadata": {
+            "homeTeam": "USA",
+            "awayTeam": "Australia",
+            "kickoffUTC": "12:00",
+            "venue": "Lumen Field, Seattle, USA"
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Tactical Battle: USA's Attack vs. Australia's Resilience",
+          "body": "The USA's attacking quality, led by players like Folarin Balogun, will test Australia's disciplined defense and counter-attacking prowess. Australia's strategy will likely involve absorbing pressure and exploiting spaces on the break, a tactic that proved effective against Türkiye. The midfield battle will be crucial in dictating the tempo."
+        },
+        {
+          "type": "match",
+          "headline": "Scotland vs Morocco: Group C's Intriguing Clash",
+          "body": "Scotland, currently leading Group C after a 1-0 win over Haiti, faces a strong Moroccan side that held Brazil to a 1-1 draw. This match at Gillette Stadium is crucial for both teams' aspirations of advancing to the knockout stages.",
+          "metadata": {
+            "homeTeam": "Scotland",
+            "awayTeam": "Morocco",
+            "kickoffUTC": "18:00",
+            "venue": "Gillette Stadium, Foxborough, Massachusetts, USA"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Scotland vs Morocco: Rare Encounter, Strong Form",
+          "body": "Scotland and Morocco have met only once before, a 1998 World Cup group stage match where Morocco secured a dominant 3-0 victory. Morocco enters this game with strong recent form, including their draw against Brazil, while Scotland will look to build on their opening win.",
+          "metadata": {
+            "homeTeam": "Scotland",
+            "awayTeam": "Morocco",
+            "kickoffUTC": "18:00",
+            "venue": "Gillette Stadium, Foxborough, Massachusetts, USA"
+          }
+        },
+        {
+          "type": "form",
+          "headline": "Morocco's Defensive Strength Meets Scotland's Pragmatism",
+          "body": "Morocco has shown defensive solidity, limiting Brazil's attack in their opening draw. Scotland, known for their pragmatic approach, will aim to frustrate Morocco and capitalize on set pieces or counter-attacks. Both teams appear to have full squads available."
+        },
+        {
+          "type": "tactical",
+          "headline": "Midfield Control Key in Scotland-Morocco Battle",
+          "body": "Morocco's technical ability in midfield will challenge Scotland's disciplined structure. The Atlas Lions will likely seek to dominate possession and create chances through intricate passing, while Scotland will rely on their robust defense and quick transitions."
+        },
+        {
+          "type": "match",
+          "headline": "Türkiye vs Paraguay: Desperate for Points in Group D",
+          "body": "Both Türkiye and Paraguay suffered defeats in their opening Group D matches, making this encounter a must-win for their knockout stage hopes. The match at Levi's Stadium promises a fierce contest as both teams seek to ignite their World Cup campaigns.",
+          "metadata": {
+            "homeTeam": "Türkiye",
+            "awayTeam": "Paraguay",
+            "kickoffUTC": "20:00",
+            "venue": "Levi's Stadium, Santa Clara, USA"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Türkiye vs Paraguay: First Competitive Meeting",
+          "body": "Türkiye and Paraguay have only met once before, a goalless friendly draw in 1995, making this their first competitive fixture. Türkiye lost 2-0 to Australia, despite having numerous shots, while Paraguay fell 4-1 to the USA, highlighting defensive vulnerabilities.",
+          "metadata": {
+            "homeTeam": "Türkiye",
+            "awayTeam": "Paraguay",
+            "kickoffUTC": "20:00",
+            "venue": "Levi's Stadium, Santa Clara, USA"
+          }
+        },
+        {
+          "type": "form",
+          "headline": "Türkiye Seeks Efficiency, Paraguay Needs Defensive Stability",
+          "body": "Türkiye showed attacking intent but lacked clinical finishing in their opener. Paraguay, on the other hand, needs significant defensive improvement after conceding four goals. Key players like Hakan Çalhanoğlu for Türkiye and Julio Enciso for Paraguay will be vital."
+        },
+        {
+          "type": "tactical",
+          "headline": "Midfield Battle to Dictate Türkiye-Paraguay Outcome",
+          "body": "Türkiye will likely aim to control possession and create chances through their creative midfielders. Paraguay will need to tighten their defense and look for opportunities on the counter, potentially through the pace of their wingers."
+        },
+        {
+          "type": "match",
+          "headline": "Brazil vs Haiti: Seleção Seeks First Win in Group C",
+          "body": "Five-time champions Brazil, after drawing their opening match against Morocco, will be eager to secure their first victory against Haiti in Group C. Haiti, despite a spirited performance, lost their opener to Scotland and faces a formidable challenge.",
+          "metadata": {
+            "homeTeam": "Brazil",
+            "awayTeam": "Haiti",
+            "kickoffUTC": "21:00",
+            "venue": "Lincoln Financial Field, Philadelphia, USA"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Brazil vs Haiti: Dominant H2H for Seleção",
+          "body": "Brazil has a perfect record against Haiti, winning all three previous encounters, including a dominant 7-1 victory in the 2016 Copa América. This historical dominance, coupled with Brazil's quest for their first World Cup 2026 win, sets a clear expectation for the match.",
+          "metadata": {
+            "homeTeam": "Brazil",
+            "awayTeam": "Haiti",
+            "kickoffUTC": "21:00",
+            "venue": "Lincoln Financial Field, Philadelphia, USA"
+          }
+        },
+        {
+          "type": "form",
+          "headline": "Neymar Doubt for Brazil, Haiti's Resilience Tested",
+          "body": "Neymar is back in training but is unlikely to be fit for Brazil's clash with Haiti, though Brazil boasts significant attacking depth. Haiti showed resilience against Scotland despite their loss, and will need to maintain a high level of defensive organization against Brazil's potent attack."
+        },
+        {
+          "type": "tactical",
+          "headline": "Brazil's Attacking Prowess vs. Haiti's Defensive Resolve",
+          "body": "Brazil will likely employ an attacking strategy, aiming to break down Haiti's defense early and secure a comfortable win. Haiti's tactical approach will focus on defensive compactness and attempting to hit Brazil on the counter-attack, hoping to frustrate the South American giants."
+        }
+      ]
+    },
+    {
+      "title": "Group Stage Implications: The Road to the Knockouts",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Group D: USA or Australia to Secure Early Qualification",
+          "body": "The winner of the USA vs Australia match will qualify for the Round of 32, taking an early lead in Group D. For Türkiye and Paraguay, a draw would be detrimental, as both teams are desperate for points after opening losses to keep their qualification hopes alive.",
+          "metadata": {}
+        },
+        {
+          "type": "analysis",
+          "headline": "Group C: Brazil Seeks Momentum, Scotland Aims to Consolidate",
+          "body": "A win for Brazil against Haiti is crucial to gain momentum and improve their standing after a draw with Morocco. Scotland can consolidate their top spot with a positive result against Morocco, while a Moroccan victory would significantly boost their chances of advancing. Haiti faces an uphill battle for qualification after their opening loss."
+        }
+      ]
+    },
+    {
+      "title": "Live Watch Alerts: Key Moments to Catch",
+      "items": [
+        {
+          "type": "live-alert",
+          "headline": "Early Goals and Star Player Duels in USA vs Australia",
+          "body": "Watch for early attacking intent from both sides, especially with the USA's potent offense. The performance of Folarin Balogun for the USA and Nestory Irankunda for Australia could be decisive. Keep an eye on how Australia's defense handles the USA's pressure.",
+          "metadata": {
+            "homeTeam": "USA",
+            "awayTeam": "Australia",
+            "kickoffUTC": "12:00",
+            "venue": "Lumen Field, Seattle, USA"
+          }
+        },
+        {
+          "type": "live-alert",
+          "headline": "Tactical Battle and Set Pieces in Scotland vs Morocco",
+          "body": "This match could be a tight, tactical affair. Look for Morocco's creative play in midfield and Scotland's defensive organization. Set pieces could be a key avenue for goals for Scotland, while Morocco will rely on individual brilliance.",
+          "metadata": {
+            "homeTeam": "Scotland",
+            "awayTeam": "Morocco",
+            "kickoffUTC": "18:00",
+            "venue": "Gillette Stadium, Foxborough, Massachusetts, USA"
+          }
+        },
+        {
+          "type": "live-alert",
+          "headline": "High Stakes and Defensive Errors in Türkiye vs Paraguay",
+          "body": "Expect both teams to push for a win, potentially leading to an open game. Defensive errors could be costly, given both teams' struggles in their opening matches. Look for moments of individual brilliance to break the deadlock.",
+          "metadata": {
+            "homeTeam": "Türkiye",
+            "awayTeam": "Paraguay",
+            "kickoffUTC": "20:00",
+            "venue": "Levi's Stadium, Santa Clara, USA"
+          }
+        },
+        {
+          "type": "live-alert",
+          "headline": "Brazil's Attack vs Haiti's Resilience",
+          "body": "Brazil will likely dominate possession and create numerous scoring opportunities. Watch for their star forwards to make an impact. Haiti's ability to absorb pressure and launch quick counter-attacks will be crucial to their chances of an upset.",
+          "metadata": {
+            "homeTeam": "Brazil",
+            "awayTeam": "Haiti",
+            "kickoffUTC": "21:00",
+            "venue": "Lincoln Financial Field, Philadelphia, USA"
+          }
+        }
+      ]
+    }
+  ],
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-19T13:32:42.364Z"
+}
