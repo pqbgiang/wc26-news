@@ -1,0 +1,40 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-19",
+  "matches": [
+    {
+      "teams": [
+        "USA",
+        "Australia"
+      ],
+      "status": "upcoming"
+    },
+    {
+      "teams": [
+        "Scotland",
+        "Morocco"
+      ],
+      "status": "upcoming"
+    },
+    {
+      "teams": [
+        "Türkiye",
+        "Paraguay"
+      ],
+      "status": "upcoming"
+    },
+    {
+      "teams": [
+        "Brazil",
+        "Haiti"
+      ],
+      "status": "upcoming"
+    }
+  ],
+  "group_standings": [],
+  "narrative": "Results for the World Cup 2026 Group Stage matches scheduled for June 19, 2026, at the specified UTC times were not available at the time of this analysis. All listed matches are currently marked as upcoming.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-19T09:47:06.400Z"
+}
