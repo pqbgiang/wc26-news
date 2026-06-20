@@ -1,5 +1,19 @@
 [
   {
+    "slug": "2026-06-20_post-match-group_stage",
+    "file": "pages/2026-06-20_post-match-group_stage.html",
+    "type": "post-match-group_stage",
+    "title": "post match group_stage",
+    "summary": "World Cup 2026 analysis: post match group_stage",
+    "teams": [],
+    "date": "2026-06-20",
+    "jsonPath": "data/reports/2026-06-20_post-match-group_stage.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false
+  },
+  {
     "slug": "2026-06-19_post-match-group_stage",
     "file": "pages/2026-06-19_post-match-group_stage.html",
     "type": "post-match-group_stage",

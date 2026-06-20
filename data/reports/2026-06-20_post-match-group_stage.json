@@ -1,0 +1,40 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-20",
+  "matches": [
+    {
+      "teams": [
+        "Netherlands",
+        "Sweden"
+      ],
+      "status": "upcoming"
+    },
+    {
+      "teams": [
+        "Germany",
+        "Ivory Coast"
+      ],
+      "status": "upcoming"
+    },
+    {
+      "teams": [
+        "Ecuador",
+        "Curaçao"
+      ],
+      "status": "upcoming"
+    },
+    {
+      "teams": [
+        "Tunisia",
+        "Japan"
+      ],
+      "status": "upcoming"
+    }
+  ],
+  "group_standings": [],
+  "narrative": "All scheduled matches for June 20, 2026, are yet to be played. Kickoff times for these Group E and Group F fixtures are later today, with results and group standings to follow upon completion.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-20T08:23:58.276Z"
+}
