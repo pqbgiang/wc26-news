@@ -4,37 +4,99 @@
   "matches": [
     {
       "teams": [
-        "Netherlands",
-        "Sweden"
+        "T�rkiye",
+        "Paraguay"
       ],
-      "status": "upcoming"
-    },
-    {
-      "teams": [
-        "Germany",
-        "Ivory Coast"
+      "status": "completed",
+      "score": "0-1",
+      "scorers": [
+        {
+          "player": "Matías Galarza",
+          "team": "Paraguay",
+          "minute": "2'"
+        }
       ],
-      "status": "upcoming"
-    },
-    {
-      "teams": [
-        "Ecuador",
-        "Curaçao"
+      "assists": [
+        {
+          "player": "Julio Enciso",
+          "team": "Paraguay",
+          "minute": "2'"
+        }
       ],
-      "status": "upcoming"
-    },
-    {
-      "teams": [
-        "Tunisia",
-        "Japan"
+      "key_moments": [
+        "Goal by Matías Galarza (Paraguay) in the 2nd minute, the fastest of the tournament so far.",
+        "Red card for Miguel Almirón (Paraguay) before halftime (45+2') for a confrontational situation.",
+        "T�rkiye's Can Uzun missed a major opportunity to equalize in the 75th minute.",
+        "Merih Demiral (T�rkiye) headed wide from close range in stoppage time (90+4')."
       ],
-      "status": "upcoming"
+      "standout_performers": [
+        {
+          "player": "Matías Galarza",
+          "team": "Paraguay",
+          "reason": "Scored the decisive early goal that secured the win."
+        },
+        {
+          "player": "Julio Enciso",
+          "team": "Paraguay",
+          "reason": "Provided the assist for the goal and was a key attacking threat."
+        },
+        {
+          "player": "Paraguay Defense",
+          "team": "Paraguay",
+          "reason": "Held firm with 10 men for the entire second half against relentless pressure."
+        },
+        {
+          "player": "Hakan Çalhanoğlu",
+          "team": "T�rkiye",
+          "reason": "Orchestrated many of T�rkiye's attacks but couldn't find the breakthrough."
+        }
+      ],
+      "tactical_summary": "Paraguay secured an early lead and then adopted a highly defensive posture, which became even more pronounced after a first-half red card. T�rkiye dominated possession and launched numerous attacks in the second half but struggled to break down Paraguay's disciplined ten-man defense, lacking a clinical finish.",
+      "stats": {
+        "possession": "78% (2nd half for T�rkiye)",
+        "shots": "33 (2nd half for T�rkiye)"
+      }
     }
   ],
-  "group_standings": [],
-  "narrative": "All scheduled matches for June 20, 2026, are yet to be played. Kickoff times for these Group E and Group F fixtures are later today, with results and group standings to follow upon completion.",
+  "group_standings": [
+    {
+      "group": "D",
+      "provisional": true,
+      "table": [
+        {
+          "team": "USA",
+          "played": 2,
+          "pts": 6,
+          "gd": 5,
+          "gf": 6
+        },
+        {
+          "team": "Australia",
+          "played": 2,
+          "pts": 3,
+          "gd": 0,
+          "gf": 2
+        },
+        {
+          "team": "Paraguay",
+          "played": 2,
+          "pts": 3,
+          "gd": -2,
+          "gf": 2
+        },
+        {
+          "team": "T�rkiye",
+          "played": 2,
+          "pts": 0,
+          "gd": -3,
+          "gf": 0
+        }
+      ]
+    }
+  ],
+  "narrative": "Paraguay secured a vital 1-0 victory over T�rkiye, with Matías Galarza scoring the fastest goal of the tournament just 64 seconds into the match. Despite playing the entire second half with 10 men after Miguel Almirón's red card, Paraguay's resolute defense held firm against T�rkiye's relentless attacks. This result not only earned Paraguay their first points but also confirmed T�rkiye's elimination from the World Cup and ensured the USA won Group D.",
   "team": null,
   "provider": "gemini",
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-06-20T08:23:58.276Z"
+  "generatedAt": "2026-06-20T18:22:54.004Z"
 }
