@@ -1,0 +1,157 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-21",
+  "matches": [
+    {
+      "teams": [
+        "Netherlands",
+        "Sweden"
+      ],
+      "status": "completed",
+      "score": "5-1",
+      "scorers": [
+        {
+          "player": "Brian Brobbey",
+          "team": "Netherlands",
+          "minute": "5'"
+        },
+        {
+          "player": "Brian Brobbey",
+          "team": "Netherlands",
+          "minute": "17'"
+        },
+        {
+          "player": "Cody Gakpo",
+          "team": "Netherlands",
+          "minute": "47'"
+        },
+        {
+          "player": "Cody Gakpo",
+          "team": "Netherlands",
+          "minute": "54'"
+        },
+        {
+          "player": "Anthony Elanga",
+          "team": "Sweden",
+          "minute": "59'"
+        },
+        {
+          "player": "Crysencio Summerville",
+          "team": "Netherlands",
+          "minute": "89'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Cody Gakpo",
+          "team": "Netherlands",
+          "minute": "5'"
+        },
+        {
+          "player": "Denzel Dumfries",
+          "team": "Netherlands",
+          "minute": "17'"
+        },
+        {
+          "player": "Denzel Dumfries",
+          "team": "Netherlands",
+          "minute": "47'"
+        },
+        {
+          "player": "Crysencio Summerville",
+          "team": "Netherlands",
+          "minute": "54'"
+        },
+        {
+          "player": "Alexander Isak",
+          "team": "Sweden",
+          "minute": "59'"
+        },
+        {
+          "player": "Memphis Depay",
+          "team": "Netherlands",
+          "minute": "89'"
+        }
+      ],
+      "key_moments": [
+        "Goal by Brian Brobbey (Netherlands) at 5'",
+        "Goal by Brian Brobbey (Netherlands) at 17'",
+        "Sweden's Gustaf Lagerbielke had a goal disallowed for offside before halftime",
+        "Yellow card for Gabriel Gudmundsson (Sweden) at 53'",
+        "Goal by Anthony Elanga (Sweden) at 59'",
+        "Yellow card for Yasin Ayari (Sweden) at 75'",
+        "Yellow card for Lucas Bergvall (Sweden) at 80'",
+        "Goal by Crysencio Summerville (Netherlands) at 89'"
+      ],
+      "standout_performers": [
+        {
+          "player": "Brian Brobbey",
+          "team": "Netherlands",
+          "reason": "Scored two predatory goals early in the match, causing constant problems for the Swedish defense."
+        },
+        {
+          "player": "Cody Gakpo",
+          "team": "Netherlands",
+          "reason": "Contributed two goals and an assist, showcasing an outstanding attacking performance."
+        },
+        {
+          "player": "Denzel Dumfries",
+          "team": "Netherlands",
+          "reason": "Provided two crucial assists, consistently creating dangerous opportunities from the right flank."
+        },
+        {
+          "player": "Bart Verbruggen",
+          "team": "Netherlands",
+          "reason": "Made several key saves, denying Sweden's numerous chances and preserving the Dutch lead."
+        }
+      ],
+      "tactical_summary": "The Netherlands delivered a ruthless attacking display, capitalizing on early opportunities and maintaining pressure throughout the match with effective wing play. Sweden, despite creating numerous chances and having more shots, struggled with clinical finishing and were overwhelmed by the Dutch firepower.",
+      "stats": {
+        "possession": "Netherlands 48%, Sweden 43%",
+        "shots": "Netherlands 10, Sweden 16",
+        "xg": "Netherlands 1.5, Sweden 1.1"
+      }
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "F",
+      "provisional": true,
+      "table": [
+        {
+          "team": "Netherlands",
+          "played": 2,
+          "pts": 4,
+          "gd": 4,
+          "gf": 7
+        },
+        {
+          "team": "Japan",
+          "played": 2,
+          "pts": 4,
+          "gd": 4,
+          "gf": 6
+        },
+        {
+          "team": "Sweden",
+          "played": 2,
+          "pts": 3,
+          "gd": 0,
+          "gf": 6
+        },
+        {
+          "team": "Tunisia",
+          "played": 2,
+          "pts": 0,
+          "gd": -8,
+          "gf": 1
+        }
+      ]
+    }
+  ],
+  "narrative": "The Netherlands secured a dominant 5-1 victory over Sweden in Houston, with Brian Brobbey and Cody Gakpo each scoring twice, significantly boosting their position in Group F. This emphatic win, combined with Japan's 4-0 victory over Tunisia, has reshaped the group standings, placing the Netherlands and Japan at the top with four points each.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-21T12:14:50.782Z"
+}
