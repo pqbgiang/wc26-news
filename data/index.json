@@ -1,5 +1,24 @@
 [
   {
+    "slug": "2026-06-21_morning-group_stage",
+    "file": "pages/2026-06-21_morning-group_stage.html",
+    "type": "morning-group_stage",
+    "title": "Today's Marquee Matchups: Group Stage Battles Intensify",
+    "summary": "World Cup 2026 analysis: morning group_stage",
+    "teams": [],
+    "date": "2026-06-21",
+    "jsonPath": "data/reports/2026-06-21_morning-group_stage.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Spain's Technical Prowess vs. Saudi Arabia's Defensive Resolve",
+      "Belgium's Golden Generation Faces Iran's Tactical Discipline",
+      "Uruguay's Experience Meets Cabo Verde's Underdog Spirit"
+    ]
+  },
+  {
     "slug": "2026-06-20_post-match-group_stage",
     "file": "pages/2026-06-20_post-match-group_stage.html",
     "type": "post-match-group_stage",
