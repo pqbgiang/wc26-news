@@ -14,6 +14,25 @@
     "verified": false
   },
   {
+    "slug": "2026-06-22_morning-group_stage",
+    "file": "pages/2026-06-22_morning-group_stage.html",
+    "type": "morning-group_stage",
+    "title": "Today's World Cup 2026 Group Stage Showdowns",
+    "summary": "World Cup 2026 analysis: morning group_stage",
+    "teams": [],
+    "date": "2026-06-22",
+    "jsonPath": "data/reports/2026-06-22_morning-group_stage.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Argentina vs Austria: Albiceleste Seek Early Knockout Berth",
+      "H2H & Form: Argentina's Dominance Meets Austria's Resurgence",
+      "Tactical Battle: Messi's Magic vs. Austrian Discipline"
+    ]
+  },
+  {
     "slug": "2026-06-21_morning-group_stage",
     "file": "pages/2026-06-21_morning-group_stage.html",
     "type": "morning-group_stage",
