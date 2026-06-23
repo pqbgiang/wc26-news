@@ -1,24 +1,5 @@
 [
   {
-    "slug": "2026-06-23_morning-group_stage",
-    "file": "pages/2026-06-23_morning-group_stage.html",
-    "type": "morning-group_stage",
-    "title": "Group K Showdown: Portugal Seeks First Win, Colombia Aims to Consolidate Lead",
-    "summary": "World Cup 2026 analysis: morning group_stage",
-    "teams": [],
-    "date": "2026-06-23",
-    "jsonPath": "data/reports/2026-06-23_morning-group_stage.json",
-    "provider": "gemini",
-    "model": "gemini-2.5-flash",
-    "searchQueries": 0,
-    "verified": false,
-    "highlights": [
-      "Portugal vs Uzbekistan: European Giants Face Debutants in Houston",
-      "H2H History: A First Competitive Encounter",
-      "Current Form: Portugal Stumbles, Uzbekistan Seeks Redemption"
-    ]
-  },
-  {
     "slug": "2026-06-22_post-match-group_stage",
     "file": "pages/2026-06-22_post-match-group_stage.html",
     "type": "post-match-group_stage",
