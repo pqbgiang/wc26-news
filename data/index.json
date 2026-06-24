@@ -5,7 +5,12 @@
     "type": "morning-group_stage",
     "title": "Group Stage Showdowns: Qualification Hopes on the Line",
     "summary": "World Cup 2026 analysis: morning group_stage",
-    "teams": [],
+    "teams": [
+      "Bosnia & Herzegovina",
+      "Qatar",
+      "Switzerland",
+      "Canada"
+    ],
     "date": "2026-06-24",
     "jsonPath": "data/reports/2026-06-24_morning-group_stage.json",
     "provider": "gemini",
@@ -24,13 +29,21 @@
     "type": "post-match-group_stage",
     "title": "Cristiano Ronaldo's Masterclass: Portugal Dominates Uzbekistan",
     "summary": "World Cup 2026 analysis: post match group_stage",
-    "teams": [],
+    "teams": [
+      "Portugal",
+      "Uzbekistan"
+    ],
     "date": "2026-06-24",
     "jsonPath": "data/reports/2026-06-24_post-match-group_stage.json",
     "provider": "gemini",
     "model": "gemini-2.5-flash",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Portugal 5-0 Uzbekistan",
+      "Goal by Cristiano Ronaldo (6') - became the first player to score in six World Cups.",
+      "Cristiano Ronaldo (Portugal): Scored two historic goals, leading the attack with clinical finishing."
+    ]
   },
   {
     "slug": "2026-06-23_morning-group_stage",
@@ -38,7 +51,12 @@
     "type": "morning-group_stage",
     "title": "Group K Showdown: Portugal Seeks First Win, Colombia Aims to Consolidate Lead",
     "summary": "World Cup 2026 analysis: morning group_stage",
-    "teams": [],
+    "teams": [
+      "Portugal",
+      "Uzbekistan",
+      "Colombia",
+      "Congo DR"
+    ],
     "date": "2026-06-23",
     "jsonPath": "data/reports/2026-06-23_morning-group_stage.json",
     "provider": "gemini",
@@ -57,13 +75,21 @@
     "type": "post-match-group_stage",
     "title": "Mikel Oyarzabal's Masterclass: Spain Dominates Saudi Arabia",
     "summary": "World Cup 2026 analysis: post match group_stage",
-    "teams": [],
+    "teams": [
+      "Spain",
+      "Saudi Arabia"
+    ],
     "date": "2026-06-22",
     "jsonPath": "data/reports/2026-06-22_post-match-group_stage.json",
     "provider": "gemini",
     "model": "gemini-2.5-flash",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Spain 4-0 Saudi Arabia",
+      "10' Goal by Lamine Yamal (Spain), opening the scoring.",
+      "Mikel Oyarzabal (Spain): Scored two goals and provided an assist, spearheading Spain's attack."
+    ]
   },
   {
     "slug": "2026-06-22_morning-group_stage",
@@ -71,7 +97,12 @@
     "type": "morning-group_stage",
     "title": "Today's World Cup 2026 Group Stage Showdowns",
     "summary": "World Cup 2026 analysis: morning group_stage",
-    "teams": [],
+    "teams": [
+      "Argentina",
+      "Austria",
+      "France",
+      "Iraq"
+    ],
     "date": "2026-06-22",
     "jsonPath": "data/reports/2026-06-22_morning-group_stage.json",
     "provider": "gemini",
@@ -90,7 +121,12 @@
     "type": "morning-group_stage",
     "title": "Today's Marquee Matchups: Group Stage Battles Intensify",
     "summary": "World Cup 2026 analysis: morning group_stage",
-    "teams": [],
+    "teams": [
+      "Spain",
+      "Saudi Arabia",
+      "Belgium",
+      "Iran"
+    ],
     "date": "2026-06-21",
     "jsonPath": "data/reports/2026-06-21_morning-group_stage.json",
     "provider": "gemini",
@@ -109,13 +145,20 @@
     "type": "post-match-group_stage",
     "title": "Tunisia 1-1 Japan",
     "summary": "World Cup 2026 analysis: post match group_stage",
-    "teams": [],
+    "teams": [
+      "Tunisia",
+      "Japan"
+    ],
     "date": "2026-06-21",
     "jsonPath": "data/reports/2026-06-21_post-match-group_stage.json",
     "provider": "gemini",
     "model": "gemini-2.5-flash",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Tunisia 1-1 Japan",
+      "Both teams scored one goal each, resulting in a draw."
+    ]
   },
   {
     "slug": "2026-06-20_post-match-group_stage",
@@ -123,13 +166,21 @@
     "type": "post-match-group_stage",
     "title": "Matías Galarza's Masterclass: Türkiye Dominates Paraguay",
     "summary": "World Cup 2026 analysis: post match group_stage",
-    "teams": [],
+    "teams": [
+      "Türkiye",
+      "Paraguay"
+    ],
     "date": "2026-06-20",
     "jsonPath": "data/reports/2026-06-20_post-match-group_stage.json",
     "provider": "gemini",
     "model": "gemini-2.5-flash",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Türkiye 0-1 Paraguay",
+      "Goal by Matías Galarza (Paraguay) in the 2nd minute, the fastest of the tournament so far.",
+      "Matías Galarza (Paraguay): Scored the decisive early goal that secured the win."
+    ]
   },
   {
     "slug": "2026-06-20_morning-group_stage",
@@ -137,7 +188,12 @@
     "type": "morning-group_stage",
     "title": "Group Stage Showdowns: Crucial Battles Across Groups E & F",
     "summary": "World Cup 2026 analysis: morning group_stage",
-    "teams": [],
+    "teams": [
+      "Netherlands",
+      "Sweden",
+      "Germany",
+      "Ivory Coast"
+    ],
     "date": "2026-06-20",
     "jsonPath": "data/reports/2026-06-20_morning-group_stage.json",
     "provider": "gemini",
@@ -156,13 +212,23 @@
     "type": "post-match-group_stage",
     "title": "post match group_stage",
     "summary": "World Cup 2026 analysis: post match group_stage",
-    "teams": [],
+    "teams": [
+      "USA",
+      "Australia",
+      "Scotland",
+      "Morocco"
+    ],
     "date": "2026-06-19",
     "jsonPath": "data/reports/2026-06-19_post-match-group_stage.json",
     "provider": "gemini",
     "model": "gemini-2.5-flash",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "USA vs Australia",
+      "Scotland vs Morocco",
+      "Türkiye vs Paraguay"
+    ]
   },
   {
     "slug": "2026-06-19_morning-group_stage",
@@ -170,7 +236,12 @@
     "type": "morning-group_stage",
     "title": "Group Stage Showdowns: Qualification Hopes on the Line",
     "summary": "World Cup 2026 analysis: morning group_stage",
-    "teams": [],
+    "teams": [
+      "USA",
+      "Australia",
+      "Scotland",
+      "Morocco"
+    ],
     "date": "2026-06-19",
     "jsonPath": "data/reports/2026-06-19_morning-group_stage.json",
     "provider": "gemini",
@@ -189,13 +260,23 @@
     "type": "post-match-group_stage",
     "title": "post match group_stage",
     "summary": "World Cup 2026 analysis: post match group_stage",
-    "teams": [],
+    "teams": [
+      "Czechia",
+      "South Africa",
+      "Switzerland",
+      "Bosnia & Herzegovina"
+    ],
     "date": "2026-06-18",
     "jsonPath": "data/reports/2026-06-18_post-match-group_stage.json",
     "provider": "gemini",
     "model": "gemini-2.5-flash",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Czechia vs South Africa",
+      "Switzerland vs Bosnia & Herzegovina",
+      "Canada vs Qatar"
+    ]
   },
   {
     "slug": "2026-06-18_morning-group_stage",
@@ -203,7 +284,12 @@
     "type": "morning-group_stage",
     "title": "Group Stage Showdowns: Qualification Hopes on the Line",
     "summary": "World Cup 2026 analysis: morning group_stage",
-    "teams": [],
+    "teams": [
+      "Czechia",
+      "South Africa",
+      "Switzerland",
+      "Bosnia & Herzegovina"
+    ],
     "date": "2026-06-18",
     "jsonPath": "data/reports/2026-06-18_morning-group_stage.json",
     "provider": "gemini",
@@ -222,7 +308,12 @@
     "type": "morning-group_stage",
     "title": "Group Stage Showdowns: Portugal, England Headline Day's Action",
     "summary": "World Cup 2026 analysis: morning group_stage",
-    "teams": [],
+    "teams": [
+      "Portugal",
+      "Congo DR",
+      "England",
+      "Croatia"
+    ],
     "date": "2026-06-17",
     "jsonPath": "data/reports/2026-06-17_morning-group_stage.json",
     "provider": "gemini",
@@ -241,13 +332,23 @@
     "type": "post-match-group_stage",
     "title": "post match group_stage",
     "summary": "World Cup 2026 analysis: post match group_stage",
-    "teams": [],
+    "teams": [
+      "Portugal",
+      "Congo DR",
+      "England",
+      "Croatia"
+    ],
     "date": "2026-06-17",
     "jsonPath": "data/reports/2026-06-17_post-match-group_stage.json",
     "provider": "gemini",
     "model": "gemini-2.5-flash",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Portugal vs Congo DR",
+      "England vs Croatia",
+      "Ghana vs Panama"
+    ]
   },
   {
     "slug": "2026-06-15_morning-group_stage",
@@ -274,13 +375,23 @@
     "type": "post-match-group_stage",
     "title": "Florian Wirtz's Masterclass: Germany Dominates Curaçao",
     "summary": "World Cup 2026 analysis: post match group_stage",
-    "teams": [],
+    "teams": [
+      "Germany",
+      "Curaçao",
+      "Netherlands",
+      "Japan"
+    ],
     "date": "2026-06-14",
     "jsonPath": "data/reports/2026-06-14_post-match-group_stage.json",
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Germany 4-0 Curaçao",
+      "Germany dominated from start to finish at NRG Stadium, Houston",
+      "Florian Wirtz (Germany): Scored and controlled midfield play"
+    ]
   },
   {
     "slug": "2026-06-14_morning-group_stage",
@@ -364,13 +475,23 @@
     "type": "post-match-group_stage",
     "title": "Breel Embolo's Masterclass: Qatar Dominates Switzerland",
     "summary": "World Cup 2026 analysis: post match group_stage",
-    "teams": [],
+    "teams": [
+      "Qatar",
+      "Switzerland",
+      "Brazil",
+      "Morocco"
+    ],
     "date": "2026-06-13",
     "jsonPath": "data/reports/2026-06-13_post-match-group_stage.json",
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Qatar 1-1 Switzerland",
+      "Embolo penalty (14th min): Remo Freuler brought down by goalkeeper Mahmoud Abunada",
+      "Breel Embolo (Switzerland): Clinical penalty conversion and multiple chances created in dominant display"
+    ]
   },
   {
     "slug": "2026-06-12_tactics",
@@ -746,6 +867,11 @@
     "provider": "claude",
     "model": "claude-haiku-4-5-20251001",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Argentina vs Algeria — Group J Opener",
+      "Formation & Playing Style",
+      "Key Attacking Threats"
+    ]
   }
 ]
