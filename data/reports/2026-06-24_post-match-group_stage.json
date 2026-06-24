@@ -4,88 +4,113 @@
   "matches": [
     {
       "teams": [
-        "Switzerland",
-        "Canada"
+        "Bosnia & Herzegovina",
+        "Qatar"
       ],
       "status": "completed",
-      "score": "2-1",
+      "score": "3-1",
       "scorers": [
         {
-          "player": "Ruben Vargas",
-          "team": "Switzerland",
-          "minute": "46'"
+          "player": "Kerim Alajbegovic",
+          "team": "Bosnia & Herzegovina",
+          "minute": "29'"
         },
         {
-          "player": "Johan Manzambi",
-          "team": "Switzerland",
-          "minute": "57'"
+          "player": "Sultan Al-Brake (OG)",
+          "team": "Bosnia & Herzegovina",
+          "minute": "34'"
         },
         {
-          "player": "Promise David",
-          "team": "Canada",
-          "minute": "76'"
+          "player": "Hassan Al Haydos",
+          "team": "Qatar",
+          "minute": "42'"
+        },
+        {
+          "player": "Ermin Mahmic",
+          "team": "Bosnia & Herzegovina",
+          "minute": "80'"
         }
       ],
       "assists": [
         {
-          "player": "Johan Manzambi",
-          "team": "Switzerland",
-          "minute": "46'"
+          "player": "Ivan Basic",
+          "team": "Bosnia & Herzegovina",
+          "minute": "29'"
         },
         {
-          "player": "Breel Embolo",
-          "team": "Switzerland",
-          "minute": "57'"
+          "player": "Edmílson Junior",
+          "team": "Qatar",
+          "minute": "42'"
+        },
+        {
+          "player": "Dennis Hadzikadunic",
+          "team": "Bosnia & Herzegovina",
+          "minute": "80'"
         }
       ],
       "key_moments": [
-        "Ruben Vargas scored immediately after halftime to give Switzerland the lead (46').",
-        "Johan Manzambi extended Switzerland's lead to 2-0 with a goal in the 57th minute.",
-        "Promise David pulled one back for Canada in the 76th minute, making it 2-1.",
-        "Yellow cards were issued to Cyle Larin (Canada) and Granit Xhaka (Switzerland) in the 31st minute for unsporting behavior."
+        "Goal: Kerim Alajbegovic opens scoring for Bosnia & Herzegovina (29').",
+        "Own Goal: Sultan Al-Brake deflects a shot into his own net, doubling Bosnia's lead (34').",
+        "Goal: Hassan Al Haydos pulls one back for Qatar before halftime (42').",
+        "Post Hit: Edin Dzeko's shot strikes the post, denying Bosnia a third goal (39').",
+        "Injury: Qatar captain Hassan Al Haydos is substituted due to injury (56').",
+        "Goal: Ermin Mahmic secures Bosnia's victory with a late goal (80')."
       ],
       "standout_performers": [
         {
-          "player": "Johan Manzambi",
-          "team": "Switzerland",
-          "reason": "Scored a goal and provided an assist, contributing to both Swiss goals."
+          "player": "Kerim Alajbegovic",
+          "team": "Bosnia & Herzegovina",
+          "reason": "Scored the opening goal and was instrumental in creating chances."
         },
         {
-          "player": "Ruben Vargas",
-          "team": "Switzerland",
-          "reason": "Opened the scoring with a crucial goal right after the break."
+          "player": "Ivan Basic",
+          "team": "Bosnia & Herzegovina",
+          "reason": "Provided a key assist and maintained a high tempo with accurate passing."
         },
         {
-          "player": "Promise David",
-          "team": "Canada",
-          "reason": "Scored Canada's only goal, keeping their hopes alive late in the match."
+          "player": "Hassan Al Haydos",
+          "team": "Qatar",
+          "reason": "Scored Qatar's only goal and led the team as captain before his injury."
         }
       ],
-      "tactical_summary": "Switzerland capitalized on a strong start to the second half, scoring two quick goals to establish a commanding lead. Canada struggled to break down the Swiss defense for much of the game but found a late consolation goal, showcasing resilience despite the deficit.",
-      "stats": {}
+      "tactical_summary": "Bosnia & Herzegovina dictated possession and built attacks methodically, aiming to break down Qatar's defense with structured play. Qatar, in turn, sought to exploit counter-attacking opportunities and created high-quality chances despite less possession.",
+      "stats": {
+        "possession": {
+          "home": 59,
+          "away": 41
+        },
+        "shots": {
+          "home": 9,
+          "away": 4
+        },
+        "xg": {
+          "home": 0.5,
+          "away": 0.51
+        }
+      }
     }
   ],
   "group_standings": [
     {
       "group": "B",
-      "provisional": false,
+      "provisional": true,
       "table": [
         {
-          "team": "Switzerland",
-          "played": 3,
-          "pts": 7,
-          "gd": 4,
+          "team": "Canada",
+          "played": 2,
+          "pts": 4,
+          "gd": 6,
           "gf": 7
         },
         {
-          "team": "Canada",
-          "played": 3,
+          "team": "Switzerland",
+          "played": 2,
           "pts": 4,
-          "gd": 5,
-          "gf": 8
+          "gd": 3,
+          "gf": 5
         },
         {
-          "team": "Bosnia and Herzegovina",
+          "team": "Bosnia & Herzegovina",
           "played": 3,
           "pts": 4,
           "gd": -1,
@@ -101,9 +126,9 @@
       ]
     }
   ],
-  "narrative": "Switzerland secured the top spot in Group B with a decisive 2-1 victory over Canada, demonstrating their clinical finishing in the second half. Despite the loss, Canada's superior goal difference from earlier matches ensured they finished second in the group, advancing to the knockout stages alongside Switzerland.",
+  "narrative": "Bosnia & Herzegovina secured a vital 3-1 victory over Qatar in Kansas City, keeping their hopes of advancing to the knockout stages alive. This result, achieved through a combination of structured play and a late insurance goal, eliminates Qatar from the tournament.",
   "team": null,
   "provider": "gemini",
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-06-24T21:01:55.005Z"
+  "generatedAt": "2026-06-24T21:08:57.236Z"
 }
