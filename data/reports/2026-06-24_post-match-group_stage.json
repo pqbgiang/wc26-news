@@ -4,136 +4,106 @@
   "matches": [
     {
       "teams": [
-        "Portugal",
-        "Uzbekistan"
+        "Switzerland",
+        "Canada"
       ],
       "status": "completed",
-      "score": "5-0",
+      "score": "2-1",
       "scorers": [
         {
-          "player": "Cristiano Ronaldo",
-          "team": "Portugal",
-          "minute": "6'"
+          "player": "Ruben Vargas",
+          "team": "Switzerland",
+          "minute": "46'"
         },
         {
-          "player": "Nuno Mendes",
-          "team": "Portugal",
-          "minute": "17'"
+          "player": "Johan Manzambi",
+          "team": "Switzerland",
+          "minute": "57'"
         },
         {
-          "player": "Cristiano Ronaldo",
-          "team": "Portugal",
-          "minute": "39'"
-        },
-        {
-          "player": "Abduvohid Nematov",
-          "team": "Uzbekistan",
-          "minute": "60' (OG)"
-        },
-        {
-          "player": "Rafael Leão",
-          "team": "Portugal",
-          "minute": "87'"
+          "player": "Promise David",
+          "team": "Canada",
+          "minute": "76'"
         }
       ],
       "assists": [
         {
-          "player": "João Cancelo",
-          "team": "Portugal",
-          "minute": "6'"
+          "player": "Johan Manzambi",
+          "team": "Switzerland",
+          "minute": "46'"
         },
         {
-          "player": "Bruno Fernandes",
-          "team": "Portugal",
-          "minute": "39'"
-        },
-        {
-          "player": "Bruno Fernandes",
-          "team": "Portugal",
-          "minute": "60'"
-        },
-        {
-          "player": "Nélson Semedo",
-          "team": "Portugal",
-          "minute": "87'"
+          "player": "Breel Embolo",
+          "team": "Switzerland",
+          "minute": "57'"
         }
       ],
       "key_moments": [
-        "Goal by Cristiano Ronaldo (6') - became the first player to score in six World Cups.",
-        "Goal by Nuno Mendes (17') from a free-kick.",
-        "Goal by Cristiano Ronaldo (39') - surpassed Eusebio as Portugal's all-time leading World Cup scorer.",
-        "Uzbekistan's Azizjon Ganiev had a goal disallowed for a foul (around 30').",
-        "Own goal by Uzbekistan goalkeeper Abduvohid Nematov (60')."
+        "Ruben Vargas scored immediately after halftime to give Switzerland the lead (46').",
+        "Johan Manzambi extended Switzerland's lead to 2-0 with a goal in the 57th minute.",
+        "Promise David pulled one back for Canada in the 76th minute, making it 2-1.",
+        "Yellow cards were issued to Cyle Larin (Canada) and Granit Xhaka (Switzerland) in the 31st minute for unsporting behavior."
       ],
       "standout_performers": [
         {
-          "player": "Cristiano Ronaldo",
-          "team": "Portugal",
-          "reason": "Scored two historic goals, leading the attack with clinical finishing."
+          "player": "Johan Manzambi",
+          "team": "Switzerland",
+          "reason": "Scored a goal and provided an assist, contributing to both Swiss goals."
         },
         {
-          "player": "Nuno Mendes",
-          "team": "Portugal",
-          "reason": "Scored a superb free-kick and was highly influential on the left flank."
+          "player": "Ruben Vargas",
+          "team": "Switzerland",
+          "reason": "Opened the scoring with a crucial goal right after the break."
         },
         {
-          "player": "Bruno Fernandes",
-          "team": "Portugal",
-          "reason": "Provided two assists and dictated Portugal's offensive play from midfield."
+          "player": "Promise David",
+          "team": "Canada",
+          "reason": "Scored Canada's only goal, keeping their hopes alive late in the match."
         }
       ],
-      "tactical_summary": "Portugal showcased a dominant attacking display, controlling possession and exploiting the flanks to create numerous scoring opportunities. Uzbekistan struggled defensively against Portugal's relentless pressure and failed to mount significant threats, managing only a disallowed goal.",
-      "stats": {
-        "possession": {
-          "home": 66,
-          "away": 34
-        },
-        "shots": {
-          "home": 17,
-          "away": 7
-        }
-      }
+      "tactical_summary": "Switzerland capitalized on a strong start to the second half, scoring two quick goals to establish a commanding lead. Canada struggled to break down the Swiss defense for much of the game but found a late consolation goal, showcasing resilience despite the deficit.",
+      "stats": {}
     }
   ],
   "group_standings": [
     {
-      "group": "K",
-      "provisional": true,
+      "group": "B",
+      "provisional": false,
       "table": [
         {
-          "team": "Colombia",
-          "played": 2,
-          "pts": 6,
-          "gd": 3,
-          "gf": 4
+          "team": "Switzerland",
+          "played": 3,
+          "pts": 7,
+          "gd": 4,
+          "gf": 7
         },
         {
-          "team": "Portugal",
-          "played": 2,
+          "team": "Canada",
+          "played": 3,
           "pts": 4,
           "gd": 5,
-          "gf": 6
+          "gf": 8
         },
         {
-          "team": "DR Congo",
-          "played": 2,
-          "pts": 1,
+          "team": "Bosnia and Herzegovina",
+          "played": 3,
+          "pts": 4,
           "gd": -1,
-          "gf": 1
+          "gf": 5
         },
         {
-          "team": "Uzbekistan",
-          "played": 2,
-          "pts": 0,
-          "gd": -7,
-          "gf": 1
+          "team": "Qatar",
+          "played": 3,
+          "pts": 1,
+          "gd": -8,
+          "gf": 2
         }
       ]
     }
   ],
-  "narrative": "Portugal delivered a resounding 5-0 victory over Uzbekistan, with Cristiano Ronaldo scoring twice and setting new World Cup records, including becoming the first player to score in six tournaments. This dominant performance significantly boosts Portugal's chances of advancing to the knockout stages, while Uzbekistan's World Cup debut campaign is on the brink of elimination after two consecutive defeats.",
+  "narrative": "Switzerland secured the top spot in Group B with a decisive 2-1 victory over Canada, demonstrating their clinical finishing in the second half. Despite the loss, Canada's superior goal difference from earlier matches ensured they finished second in the group, advancing to the knockout stages alongside Switzerland.",
   "team": null,
   "provider": "gemini",
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-06-24T13:27:18.362Z"
+  "generatedAt": "2026-06-24T21:01:55.005Z"
 }
