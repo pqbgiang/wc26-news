@@ -49,15 +49,23 @@
     "slug": "2026-06-24_post-match-group_stage",
     "file": "pages/2026-06-24_post-match-group_stage_por-vs-uzb.html",
     "type": "post-match-group_stage",
-    "title": "post match group_stage",
+    "title": "Cristiano Ronaldo's Masterclass: Portugal Dominates Uzbekistan",
     "summary": "World Cup 2026 analysis: post match group_stage",
-    "teams": [],
+    "teams": [
+      "Portugal",
+      "Uzbekistan"
+    ],
     "date": "2026-06-24",
     "jsonPath": "data/reports/2026-06-24_post-match-group_stage_por-vs-uzb.json",
     "provider": "gemini",
     "model": "gemini-2.5-flash",
     "searchQueries": 0,
-    "verified": false
+    "verified": false,
+    "highlights": [
+      "Portugal 5-0 Uzbekistan",
+      "Goal by Cristiano Ronaldo (6') - became the first player to score in six World Cups.",
+      "Cristiano Ronaldo (Portugal): Scored two historic goals, leading the attack with clinical finishing."
+    ]
   },
   {
     "slug": "2026-06-24_post-match-group_stage",
