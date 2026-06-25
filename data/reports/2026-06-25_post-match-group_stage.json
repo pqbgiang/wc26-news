@@ -4,57 +4,78 @@
   "matches": [
     {
       "teams": [
-        "South Africa",
-        "South Korea"
+        "Czechia",
+        "Mexico"
       ],
       "status": "completed",
-      "score": "1-0",
+      "score": "0-3",
       "scorers": [
         {
-          "player": "Thapelo Maseko",
-          "team": "South Africa",
-          "minute": "63'"
+          "player": "Mateo Chávez",
+          "team": "Mexico",
+          "minute": "55'"
+        },
+        {
+          "player": "Julián Quiñones",
+          "team": "Mexico",
+          "minute": "61'"
+        },
+        {
+          "player": "Álvaro Fidalgo",
+          "team": "Mexico",
+          "minute": "90+4'"
         }
       ],
       "assists": [
         {
-          "player": "Tshepang Moremi",
-          "team": "South Africa",
-          "minute": "63'"
+          "player": "Luis Romo",
+          "team": "Mexico",
+          "minute": "55'"
+        },
+        {
+          "player": "Gilberto Mora",
+          "team": "Mexico",
+          "minute": "61'"
+        },
+        {
+          "player": "Roberto Alvarado",
+          "team": "Mexico",
+          "minute": "90+4'"
         }
       ],
       "key_moments": [
-        "2' Kim Min-jae's header cleared off the line by Aubrey Modiba (South Africa)",
-        "Half-time: Son Heung-min introduced for South Korea",
-        "63' Goal by Thapelo Maseko (South Africa)",
-        "90'+ Ronwen Williams (South Africa) makes crucial save from Jin Seob Park"
+        "55' Goal: Mateo Chávez breaks the deadlock for Mexico with a calm finish.",
+        "61' Goal: Julián Quiñones extends Mexico's lead, poking home from close range.",
+        "78' Substitution: Legendary goalkeeper Guillermo Ochoa enters the game for Mexico, marking his sixth World Cup appearance.",
+        "90+4' Goal: Álvaro Fidalgo adds a late third goal, sealing Mexico's dominant victory.",
+        "Injury: Czechia's Tomas Soucek was helped off the field after jarring his knee, raising concerns for his tournament."
       ],
       "standout_performers": [
         {
-          "player": "Thapelo Maseko",
-          "team": "South Africa",
-          "reason": "Scored the historic winning goal, securing South Africa's first-ever knockout stage berth."
+          "player": "Gilberto Mora",
+          "team": "Mexico",
+          "reason": "The 17-year-old became the youngest player to start a World Cup game in 24 years and was instrumental in Mexico's second goal."
         },
         {
-          "player": "Ronwen Williams",
-          "team": "South Africa",
-          "reason": "Made key saves, including a crucial stop in stoppage time, to preserve the clean sheet and victory."
+          "player": "Mateo Chávez",
+          "team": "Mexico",
+          "reason": "Scored the crucial opening goal with pace and composure, setting Mexico on their way to victory."
         },
         {
-          "player": "Kim Seung-gyu",
-          "team": "South Korea",
-          "reason": "Made excellent double saves in the first half to keep South Korea in the game."
+          "player": "Denis Visinsky",
+          "team": "Czechia",
+          "reason": "Showed early aggression and was lively in the opening exchanges, creating Czechia's best early chance."
         }
       ],
-      "tactical_summary": "South Africa executed a disciplined tactical plan, absorbing pressure and capitalizing on a swift counter-attack in the second half. Despite dominating possession, South Korea struggled to break down the resilient South African defense and lacked a decisive cutting edge in the final third.",
+      "tactical_summary": "Mexico absorbed early pressure from Czechia, who started aggressively, before asserting control in the second half. El Tri's clinical finishing and defensive solidity were key, allowing them to capitalize on opportunities and secure a comfortable win.",
       "stats": {
         "possession": {
-          "home": 32,
-          "away": 68
+          "home": 58,
+          "away": 42
         },
         "shots": {
           "home": 13,
-          "away": 5
+          "away": 11
         }
       }
     }
@@ -95,9 +116,9 @@
       ]
     }
   ],
-  "narrative": "South Africa secured a historic 1-0 victory over South Korea, with Thapelo Maseko's second-half goal sending them into the World Cup knockout stages for the first time ever. This result means South Africa finishes second in Group A, while South Korea now faces an anxious wait to see if their three points and -1 goal difference are enough to qualify as one of the best third-placed teams.",
+  "narrative": "Mexico completed a perfect group stage campaign with a commanding 3-0 victory over Czechia, securing their spot in the Round of 32 as Group A winners. This result eliminated Czechia from the tournament, while South Africa advanced as group runners-up and South Korea awaits to see if their third-place finish is enough to progress.",
   "team": null,
   "provider": "gemini",
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-06-25T11:47:50.531Z"
+  "generatedAt": "2026-06-25T12:13:13.793Z"
 }
