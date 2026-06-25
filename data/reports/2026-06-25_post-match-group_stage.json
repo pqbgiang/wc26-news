@@ -1,0 +1,109 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-25",
+  "matches": [
+    {
+      "teams": [
+        "Scotland",
+        "Brazil"
+      ],
+      "status": "completed",
+      "score": "0-3",
+      "scorers": [
+        {
+          "player": "Vinicius Junior",
+          "team": "Brazil",
+          "minute": "7'"
+        },
+        {
+          "player": "Vinicius Junior",
+          "team": "Brazil",
+          "minute": "45+3'"
+        },
+        {
+          "player": "Cunha",
+          "team": "Brazil",
+          "minute": "60'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Gabriel",
+          "team": "Brazil",
+          "minute": "45+3'"
+        },
+        {
+          "player": "Guimaraes",
+          "team": "Brazil",
+          "minute": "60'"
+        }
+      ],
+      "key_moments": [
+        "Vinicius Junior opened the scoring for Brazil with a goal in the 7th minute.",
+        "A VAR review overturned an earlier Brazil goal around the 23rd minute, providing a brief reprieve for Scotland.",
+        "Vinicius Junior extended Brazil's lead just before halftime, scoring his second goal in the 45+3 minute.",
+        "Cunha sealed the victory for Brazil with a goal in the 60th minute, making it 3-0."
+      ],
+      "standout_performers": [
+        {
+          "player": "Vinicius Junior",
+          "team": "Brazil",
+          "reason": "Scored two crucial goals, demonstrating clinical finishing and offensive threat."
+        },
+        {
+          "player": "Cunha",
+          "team": "Brazil",
+          "reason": "Added Brazil's third goal, contributing to the dominant performance."
+        },
+        {
+          "player": "Bruno Guimaraes",
+          "team": "Brazil",
+          "reason": "Provided an assist and was instrumental in Brazil's attacking play."
+        }
+      ],
+      "tactical_summary": "Brazil showcased a dominant attacking display, capitalizing on Scotland's defensive vulnerabilities and converting their chances efficiently. Scotland struggled to contain Brazil's fluid offense and create significant opportunities of their own, leading to a one-sided affair.",
+      "stats": {}
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "C",
+      "provisional": true,
+      "table": [
+        {
+          "team": "Brazil",
+          "played": 3,
+          "pts": 7,
+          "gd": 6,
+          "gf": 7
+        },
+        {
+          "team": "Morocco",
+          "played": 3,
+          "pts": 5,
+          "gd": 1,
+          "gf": 4
+        },
+        {
+          "team": "Scotland",
+          "played": 3,
+          "pts": 3,
+          "gd": -3,
+          "gf": 1
+        },
+        {
+          "team": "Haiti",
+          "played": 3,
+          "pts": 1,
+          "gd": -4,
+          "gf": 2
+        }
+      ]
+    }
+  ],
+  "narrative": "Brazil secured a comfortable 3-0 victory over Scotland, with Vinicius Junior scoring twice to lead his team to the top of Group C. This result, combined with a 2-2 draw between Morocco and Haiti in a concurrent match, means Brazil advances to the knockout stage as group winners, while Scotland's hopes of progression are significantly diminished.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-25T00:10:10.125Z"
+}
