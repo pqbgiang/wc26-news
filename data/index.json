@@ -22,6 +22,30 @@
     ]
   },
   {
+    "slug": "2026-06-26_morning-group_stage",
+    "file": "pages/2026-06-26_morning-group_stage.html",
+    "type": "morning-group_stage",
+    "title": "Group I Showdown: Senegal vs Iraq & Norway vs France",
+    "summary": "World Cup 2026 analysis: morning group_stage",
+    "teams": [
+      "Senegal",
+      "Iraq",
+      "Norway",
+      "France"
+    ],
+    "date": "2026-06-26",
+    "jsonPath": "data/reports/2026-06-26_morning-group_stage.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Senegal vs Iraq: Battle for Pride in Group I",
+      "Senegal vs Iraq: No Prior Head-to-Head Encounters",
+      "Senegal's Struggle vs Iraq's Losing Streak"
+    ]
+  },
+  {
     "slug": "2026-06-25_post-match-group_stage",
     "file": "pages/2026-06-25_post-match-group_stage.html",
     "type": "post-match-group_stage",
