@@ -4,111 +4,113 @@
   "matches": [
     {
       "teams": [
-        "Ecuador",
-        "Germany"
+        "Curaçao",
+        "Ivory Coast"
       ],
       "status": "completed",
-      "score": "2-1",
+      "score": "0-2",
       "scorers": [
         {
-          "player": "Leroy Sané",
-          "team": "Germany",
-          "minute": "2'"
+          "player": "Nicolas Pepe",
+          "team": "Ivory Coast",
+          "minute": "7'"
         },
         {
-          "player": "Nilson Angulo",
-          "team": "Ecuador",
-          "minute": "9'"
-        },
-        {
-          "player": "Gonzalo Plata",
-          "team": "Ecuador",
-          "minute": "77'"
+          "player": "Nicolas Pepe",
+          "team": "Ivory Coast",
+          "minute": "64'"
         }
       ],
       "assists": [
         {
-          "player": "Florian Wirtz",
-          "team": "Germany",
-          "minute": "2'"
+          "player": "Yan Diomande",
+          "team": "Ivory Coast",
+          "minute": "7'"
         },
         {
-          "player": "Pedro Vite",
-          "team": "Ecuador",
-          "minute": "9'"
-        },
-        {
-          "player": "Kevin Rodríguez",
-          "team": "Ecuador",
-          "minute": "77'"
+          "player": "Ibrahim Sangare",
+          "team": "Ivory Coast",
+          "minute": "64'"
         }
       ],
       "key_moments": [
-        "2' Goal: Leroy Sané opens the scoring for Germany with an early strike.",
-        "9' Goal: Nilson Angulo quickly equalizes for Ecuador, breaking their tournament scoring drought.",
-        "Second half: A Germany penalty decision is overturned by VAR after a review for an earlier foul by Sané.",
-        "77' Goal: Gonzalo Plata scores the winning goal for Ecuador, poking it past Manuel Neuer after a flick-on from a corner."
+        "7': Goal by Nicolas Pepe (Ivory Coast), assisted by Yan Diomande, putting Ivory Coast ahead 1-0.",
+        "35': Yellow card shown to Nicolas Pepe (Ivory Coast) for serious foul play.",
+        "64': Second goal by Nicolas Pepe (Ivory Coast), assisted by Ibrahim Sangare, extending the lead to 2-0."
       ],
       "standout_performers": [
         {
-          "player": "Gonzalo Plata",
-          "team": "Ecuador",
-          "reason": "Scored the decisive late goal that secured Ecuador's qualification."
+          "player": "Nicolas Pepe",
+          "team": "Ivory Coast",
+          "reason": "Scored both goals, securing the historic win for his team."
         },
         {
-          "player": "Nilson Angulo",
-          "team": "Ecuador",
-          "reason": "Netted the crucial equalizer and was influential on the wing throughout the match."
+          "player": "Yan Diomande",
+          "team": "Ivory Coast",
+          "reason": "Provided an assist and was a constant attacking threat from the left flank."
         },
         {
-          "player": "Leroy Sané",
-          "team": "Germany",
-          "reason": "Scored Germany's early goal and remained a consistent attacking threat."
+          "player": "Tahith Chong",
+          "team": "Curaçao",
+          "reason": "Registered shots and was a key attacking outlet for Curaçao."
         }
       ],
-      "tactical_summary": "Ecuador demonstrated resilience, recovering from an early deficit by capitalizing on quick transitions and effective wing play to secure their victory. Germany, despite dominating possession, struggled to convert their territorial advantage into consistent scoring opportunities after their initial goal.",
-      "stats": null
+      "tactical_summary": "Ivory Coast controlled possession and capitalized on individual brilliance and a defensive error for their goals, effectively managing the game. Curaçao showed moments of resilience but struggled to create clear-cut chances against a well-organized Ivorian defense.",
+      "stats": {
+        "possession": {
+          "home": 37,
+          "away": 63
+        },
+        "shots": {
+          "home": 11,
+          "away": 7
+        },
+        "xg": {
+          "home": 0.47,
+          "away": 1.3
+        }
+      }
     }
   ],
   "group_standings": [
     {
       "group": "E",
-      "provisional": false,
+      "provisional": true,
       "table": [
         {
           "team": "Germany",
-          "played": 3,
+          "played": 2,
           "pts": 6,
-          "gd": 6,
-          "gf": 10
+          "gd": 7,
+          "gf": 9
         },
         {
           "team": "Ivory Coast",
           "played": 3,
           "pts": 6,
-          "gd": 0,
-          "gf": 3
+          "gd": 2,
+          "gf": 4
         },
         {
           "team": "Ecuador",
-          "played": 3,
-          "pts": 4,
-          "gd": 1,
-          "gf": 3
+          "played": 2,
+          "pts": 1,
+          "gd": -1,
+          "gf": 0
         },
         {
           "team": "Curaçao",
           "played": 3,
           "pts": 1,
-          "gd": -7,
-          "gf": 2
+          "gd": -8,
+          "gf": 1
         }
       ]
     }
   ],
-  "narrative": "Ecuador staged a dramatic comeback to defeat already-qualified Germany 2-1, securing their progression to the knockout stage as one of the best third-placed teams from Group E. This result saw them rally from an early deficit, demonstrating resilience and effective counter-attacking play to upset the group winners and advance.",
+  "narrative": "Ivory Coast secured a historic qualification to the World Cup knockout stages for the first time, defeating debutants Curaçao 2-0 with a brace from Nicolas Pepe. This victory cemented their second-place finish in Group E, while Curaçao's inaugural World Cup journey concluded without a win.",
   "team": null,
   "provider": "gemini",
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-06-26T02:40:22.049Z"
+  "generatedAt": "2026-06-26T02:51:54.750Z"
 }
