@@ -1,0 +1,120 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-26",
+  "matches": [
+    {
+      "teams": [
+        "Ecuador",
+        "Germany"
+      ],
+      "status": "completed",
+      "score": "2-1",
+      "scorers": [
+        {
+          "player": "Leroy Sané",
+          "team": "Germany",
+          "minute": "2'"
+        },
+        {
+          "player": "Nilson Angulo",
+          "team": "Ecuador",
+          "minute": "9'"
+        },
+        {
+          "player": "Gonzalo Plata",
+          "team": "Ecuador",
+          "minute": "77'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Florian Wirtz",
+          "team": "Germany",
+          "minute": "2'"
+        },
+        {
+          "player": "Pedro Vite",
+          "team": "Ecuador",
+          "minute": "9'"
+        },
+        {
+          "player": "Kevin Rodriguez",
+          "team": "Ecuador",
+          "minute": "77'"
+        }
+      ],
+      "key_moments": [
+        "Leroy Sané opened the scoring for Germany in the 2nd minute.",
+        "Nilson Angulo equalized for Ecuador with a long-range strike in the 9th minute.",
+        "Gonzalo Plata scored the winning goal for Ecuador in the 77th minute.",
+        "Piero Hincapié (Ecuador) received a yellow card in the 43rd minute.",
+        "Aleksandar Pavlović (Germany) received a yellow card in the 44th minute."
+      ],
+      "standout_performers": [
+        {
+          "player": "Gonzalo Plata",
+          "team": "Ecuador",
+          "reason": "Scored the decisive winning goal and was instrumental in Ecuador's attack."
+        },
+        {
+          "player": "Nilson Angulo",
+          "team": "Ecuador",
+          "reason": "Scored a crucial equalizer early in the match, shifting momentum."
+        },
+        {
+          "player": "Leroy Sané",
+          "team": "Germany",
+          "reason": "Scored Germany's only goal early on, showcasing his attacking threat."
+        }
+      ],
+      "tactical_summary": "Germany started strong with an early goal and a high press, but struggled to maintain consistency and possession throughout the match. Ecuador capitalized on counterattacks and effective wing play, demonstrating resilience to come from behind and secure a crucial victory.",
+      "stats": {
+        "possession": {
+          "home": 38,
+          "away": 62
+        }
+      }
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "E",
+      "provisional": false,
+      "table": [
+        {
+          "team": "Germany",
+          "played": 3,
+          "pts": 6,
+          "gd": 6,
+          "gf": 10
+        },
+        {
+          "team": "Ivory Coast",
+          "played": 3,
+          "pts": 6,
+          "gd": 2,
+          "gf": 4
+        },
+        {
+          "team": "Ecuador",
+          "played": 3,
+          "pts": 4,
+          "gd": 0,
+          "gf": 2
+        },
+        {
+          "team": "Curaçao",
+          "played": 3,
+          "pts": 1,
+          "gd": -8,
+          "gf": 1
+        }
+      ]
+    }
+  ],
+  "narrative": "Ecuador secured a dramatic 2-1 comeback victory over Germany, with Gonzalo Plata scoring the late winner, which propelled them into the Round of 32 as one of the best third-placed teams. Despite the loss, Germany maintained their top spot in Group E, while Ivory Coast secured second place with their win against Curaçao.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-26T01:19:50.595Z"
+}
