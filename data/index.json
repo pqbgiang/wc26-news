@@ -46,6 +46,28 @@
     ]
   },
   {
+    "slug": "2026-06-26_post-match-group_stage_cura-ao-vs-ivory-coast_cura-ao-vs-ivory-coast",
+    "file": "pages/2026-06-26_post-match-group_stage_cura-ao-vs-ivory-coast_cura-ao-vs-ivory-coast.html",
+    "type": "post-match-group_stage",
+    "title": "Nicolas Pépé's Masterclass: Curaçao Dominates Ivory Coast",
+    "summary": "World Cup 2026 analysis: post match group_stage",
+    "teams": [
+      "Curaçao",
+      "Ivory Coast"
+    ],
+    "date": "2026-06-26",
+    "jsonPath": "data/reports/2026-06-26_post-match-group_stage_cura-ao-vs-ivory-coast_cura-ao-vs-ivory-coast.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Curaçao 0-2 Ivory Coast",
+      "7' Goal by Nicolas Pépé (Ivory Coast), assisted by Y. Diomande.",
+      "Nicolas Pépé (Ivory Coast): Scored both goals, securing the victory."
+    ]
+  },
+  {
     "slug": "2026-06-25_post-match-group_stage",
     "file": "pages/2026-06-25_post-match-group_stage.html",
     "type": "post-match-group_stage",
