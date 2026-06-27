@@ -22,6 +22,28 @@
     ]
   },
   {
+    "slug": "2026-06-27_post-match-group_stage_senegal-vs-iraq_senegal-vs-iraq",
+    "file": "pages/2026-06-27_post-match-group_stage_senegal-vs-iraq_senegal-vs-iraq.html",
+    "type": "post-match-group_stage",
+    "title": "Pape Gueye's Masterclass: Senegal Dominates Iraq",
+    "summary": "World Cup 2026 analysis: post match group_stage",
+    "teams": [
+      "Senegal",
+      "Iraq"
+    ],
+    "date": "2026-06-27",
+    "jsonPath": "data/reports/2026-06-27_post-match-group_stage_senegal-vs-iraq_senegal-vs-iraq.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Senegal 5-0 Iraq",
+      "Habib Diarra opened the scoring for Senegal in the 4th minute, setting an early tone.",
+      "Pape Gueye (Senegal): Scored two goals and provided an assist, earning a 9.9 Sofascore rating for his impactful performance."
+    ]
+  },
+  {
     "slug": "2026-06-26_post-match-group_stage",
     "file": "pages/2026-06-26_post-match-group_stage.html",
     "type": "post-match-group_stage",
