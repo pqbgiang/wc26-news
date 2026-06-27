@@ -12,13 +12,13 @@
     "date": "2026-06-27",
     "jsonPath": "data/reports/2026-06-27_post-match-group_stage_norway-vs-france_norway-vs-france.json",
     "provider": "gemini",
-    "model": "gemini-2.5-flash",
+    "model": "gemini-3.5-flash",
     "searchQueries": 0,
     "verified": false,
     "highlights": [
       "Norway 1-4 France",
-      "7' Goal: Ousmane Dembélé (France) opens the scoring with an assist from Kylian Mbappé.",
-      "Ousmane Dembélé (France): Scored a sensational first-half hat-trick, demonstrating clinical finishing and pace."
+      "Ousmane Dembélé scored a stunning first-half hat-trick within 32 minutes to put France in complete control [1.2.6].",
+      "Ousmane Dembélé (France): Scored a brilliant first-half hat-trick to secure the victory and top spot in the group [1.2.6]."
     ]
   },
   {

@@ -33,7 +33,7 @@
         {
           "player": "Désiré Doué",
           "team": "France",
-          "minute": "90'+4'"
+          "minute": "94'"
         }
       ],
       "assists": [
@@ -53,52 +53,42 @@
           "minute": "21'"
         },
         {
-          "player": "Aurélien Tchouaméni",
-          "team": "France",
-          "minute": "32'"
-        },
-        {
           "player": "Bradley Barcola",
           "team": "France",
-          "minute": "90'+4'"
+          "minute": "94'"
         }
       ],
       "key_moments": [
-        "7' Goal: Ousmane Dembélé (France) opens the scoring with an assist from Kylian Mbappé.",
-        "32' Goal: Ousmane Dembélé (France) completes his hat-trick, becoming the second-earliest hat-trick scorer in World Cup history.",
-        "50' Penalty Miss: Jørgen Strand Larsen (Norway) misses a penalty, saved by Mike Maignan (France).",
-        "74' Yellow Card: Aurélien Tchouaméni (France) receives a yellow card for a serious foul."
+        "Ousmane Dembélé scored a stunning first-half hat-trick within 32 minutes to put France in complete control [1.2.6].",
+        "Jørgen Strand Larsen missed a penalty in the 50th minute, which was saved by French goalkeeper Mike Maignan.",
+        "Désiré Doué sealed the 4-1 victory with a stoppage-time header in the 94th minute."
       ],
       "standout_performers": [
         {
           "player": "Ousmane Dembélé",
           "team": "France",
-          "reason": "Scored a sensational first-half hat-trick, demonstrating clinical finishing and pace."
+          "reason": "Scored a brilliant first-half hat-trick to secure the victory and top spot in the group [1.2.6]."
         },
         {
           "player": "Kylian Mbappé",
           "team": "France",
-          "reason": "Provided two crucial assists and was a constant threat, despite not scoring himself."
+          "reason": "Provided two assists for Dembélé and was a constant threat on the wing."
         },
         {
           "player": "Thelo Aasgaard",
           "team": "Norway",
-          "reason": "Scored Norway's only goal, becoming the youngest Norwegian player to score at a World Cup."
+          "reason": "Scored Norway's only goal with a composed finish in the first half."
         }
       ],
-      "tactical_summary": "France's 4-2-3-1 formation effectively exploited Norway's defensive vulnerabilities, especially in transition, leading to a dominant first-half performance. Norway, playing a 4-3-3 with a heavily rotated squad, struggled to contain France's attacking rotations and lacked a consistent threat despite pulling one goal back.",
+      "tactical_summary": "France dominated the match early on, utilizing Kylian Mbappé's playmaking and Ousmane Dembélé's clinical finishing to exploit a heavily rotated Norwegian defense. Despite Norway's brief resurgence after Aasgaard's goal, France maintained control in the second half, sealing the victory with a late stoppage-time header from Désiré Doué.",
       "stats": {
         "possession": {
-          "home": 45,
-          "away": 55
+          "home": 43,
+          "away": 57
         },
         "shots": {
           "home": 10,
-          "away": 16
-        },
-        "xg": {
-          "home": 0.9,
-          "away": 2.8
+          "away": 18
         }
       }
     }
@@ -112,7 +102,7 @@
           "team": "France",
           "played": 3,
           "pts": 9,
-          "gd": 7,
+          "gd": 8,
           "gf": 10
         },
         {
@@ -120,14 +110,14 @@
           "played": 3,
           "pts": 6,
           "gd": 1,
-          "gf": 6
+          "gf": 8
         },
         {
           "team": "Senegal",
           "played": 3,
           "pts": 3,
-          "gd": 3,
-          "gf": 7
+          "gd": 2,
+          "gf": 8
         },
         {
           "team": "Iraq",
@@ -139,9 +129,9 @@
       ]
     }
   ],
-  "narrative": "France secured a dominant 4-1 victory over Norway, with Ousmane Dembélé's first-half hat-trick sealing their perfect record and top spot in Group I. Despite Norway's efforts, including a penalty save by Mike Maignan, France's attacking prowess proved too much, setting them up as strong contenders for the knockout stages.",
+  "narrative": "Ousmane Dembélé's spectacular first-half hat-trick propelled France to a dominant 4-1 victory over a heavily rotated Norway side, securing top spot in Group I with a perfect group-stage record. Despite resting Erling Haaland, Norway advanced to the Round of 32 in second place, where they will face Ivory Coast.",
   "team": null,
   "provider": "gemini",
-  "model": "gemini-2.5-flash",
-  "generatedAt": "2026-06-27T00:04:23.511Z"
+  "model": "gemini-3.5-flash",
+  "generatedAt": "2026-06-27T00:05:01.572Z"
 }
