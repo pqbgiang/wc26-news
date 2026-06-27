@@ -23,7 +23,7 @@
         {
           "player": "Kevin De Bruyne",
           "team": "Belgium",
-          "minute": "67'"
+          "minute": "66'"
         },
         {
           "player": "Elijah Just",
@@ -43,79 +43,87 @@
       ],
       "assists": [
         {
-          "player": "Kevin De Bruyne",
+          "player": "Leandro Trossard",
           "team": "Belgium",
-          "minute": "50'"
+          "minute": "66'"
+        },
+        {
+          "player": "Nicolas Raskin",
+          "team": "Belgium",
+          "minute": "86'"
+        },
+        {
+          "player": "Romelu Lukaku",
+          "team": "Belgium",
+          "minute": "90+4'"
         }
       ],
       "key_moments": [
-        "28' Goal: Leandro Trossard opens the scoring for Belgium.",
-        "46' Yellow Card: Marko Stamenic (New Zealand) receives a booking.",
-        "50' Goal: Leandro Trossard scores his second, extending Belgium's lead.",
-        "67' Goal: Kevin De Bruyne adds a third for Belgium with a strike from the edge of the box.",
-        "84' Goal: Elijah Just pulls one back for New Zealand from a corner.",
-        "86' Goal: Romelu Lukaku scores with his first touch after coming on as a substitute.",
-        "90+4' Goal: Alexis Saelemaekers seals Belgium's dominant victory."
+        "Leandro Trossard opened the scoring for Belgium in the 28th minute.",
+        "Kevin De Bruyne's goal in the 66th minute extended Belgium's lead to 3-0, a crucial moment for their goal difference.",
+        "Elijah Just scored a consolation goal for New Zealand in the 84th minute, briefly impacting Belgium's group-topping position.",
+        "Romelu Lukaku scored with his first touch in the 86th minute after coming on as a substitute, restoring Belgium's comfortable lead."
       ],
       "standout_performers": [
         {
           "player": "Leandro Trossard",
           "team": "Belgium",
-          "reason": "Scored two crucial goals, showcasing clinical finishing."
+          "reason": "Scored two goals and provided an assist, driving Belgium's attack."
         },
         {
           "player": "Kevin De Bruyne",
           "team": "Belgium",
-          "reason": "Contributed a goal and an assist, dictating play from midfield."
+          "reason": "Scored a stunning goal and dictated play from midfield, contributing significantly to the dominant performance."
         },
         {
           "player": "Elijah Just",
           "team": "New Zealand",
-          "reason": "Scored New Zealand's only goal, providing a moment of quality."
+          "reason": "Scored New Zealand's only goal and was a persistent threat in attack."
         }
       ],
-      "tactical_summary": "Belgium delivered a commanding attacking performance, utilizing fluid movement and individual brilliance to dismantle New Zealand's defense and secure a comfortable win. New Zealand struggled to contain the Belgian onslaught but managed to grab a consolation goal from a set-piece late in the game."
+      "tactical_summary": "Belgium displayed a dominant attacking performance, controlling the midfield and converting their chances efficiently to secure a large victory. New Zealand struggled to contain Belgium's offensive power but managed to break through for a consolation goal, showcasing some resilience despite being outmatched.",
+      "stats": {}
     }
   ],
   "group_standings": [
     {
       "group": "G",
-      "provisional": true,
+      "provisional": false,
       "table": [
         {
           "team": "Belgium",
           "played": 3,
           "pts": 5,
           "gd": 4,
-          "gf": 5
+          "gf": 6
         },
         {
           "team": "Egypt",
-          "played": 2,
-          "pts": 4,
+          "played": 3,
+          "pts": 5,
           "gd": 2,
-          "gf": null
+          "gf": 5
         },
         {
           "team": "Iran",
-          "played": 2,
-          "pts": 2,
+          "played": 3,
+          "pts": 3,
           "gd": 0,
-          "gf": null
+          "gf": 3
         },
         {
           "team": "New Zealand",
           "played": 3,
           "pts": 1,
           "gd": -6,
-          "gf": 1
+          "gf": 4
         }
       ]
     }
   ],
-  "narrative": "Belgium secured a resounding 5-1 victory over New Zealand in their final Group G match, ensuring their progression to the knockout stages. The dominant performance saw multiple goal scorers for Belgium, while New Zealand exited the tournament despite a late consolation goal.",
+  "narrative": "Belgium secured a resounding 5-1 victory over New Zealand, topping Group G and advancing to the knockout stages of the World Cup. This dominant performance marked their first win of the tournament, while New Zealand's campaign ended without a victory, finishing at the bottom of the group.",
   "team": null,
   "provider": "gemini",
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-06-27T05:46:12.444Z"
+  "generatedAt": "2026-06-27T11:22:42.029Z"
 }
