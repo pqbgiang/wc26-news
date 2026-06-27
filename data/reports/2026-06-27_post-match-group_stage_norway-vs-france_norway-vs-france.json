@@ -1,0 +1,147 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-27",
+  "matches": [
+    {
+      "teams": [
+        "Norway",
+        "France"
+      ],
+      "status": "completed",
+      "score": "1-4",
+      "scorers": [
+        {
+          "player": "Ousmane Dembélé",
+          "team": "France",
+          "minute": "7'"
+        },
+        {
+          "player": "Ousmane Dembélé",
+          "team": "France",
+          "minute": "20'"
+        },
+        {
+          "player": "Thelo Aasgaard",
+          "team": "Norway",
+          "minute": "21'"
+        },
+        {
+          "player": "Ousmane Dembélé",
+          "team": "France",
+          "minute": "32'"
+        },
+        {
+          "player": "Désiré Doué",
+          "team": "France",
+          "minute": "90'+4'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Kylian Mbappé",
+          "team": "France",
+          "minute": "7'"
+        },
+        {
+          "player": "Kylian Mbappé",
+          "team": "France",
+          "minute": "20'"
+        },
+        {
+          "player": "Andreas Schjelderup",
+          "team": "Norway",
+          "minute": "21'"
+        },
+        {
+          "player": "Aurélien Tchouaméni",
+          "team": "France",
+          "minute": "32'"
+        },
+        {
+          "player": "Bradley Barcola",
+          "team": "France",
+          "minute": "90'+4'"
+        }
+      ],
+      "key_moments": [
+        "7' Goal: Ousmane Dembélé (France) opens the scoring with an assist from Kylian Mbappé.",
+        "32' Goal: Ousmane Dembélé (France) completes his hat-trick, becoming the second-earliest hat-trick scorer in World Cup history.",
+        "50' Penalty Miss: Jørgen Strand Larsen (Norway) misses a penalty, saved by Mike Maignan (France).",
+        "74' Yellow Card: Aurélien Tchouaméni (France) receives a yellow card for a serious foul."
+      ],
+      "standout_performers": [
+        {
+          "player": "Ousmane Dembélé",
+          "team": "France",
+          "reason": "Scored a sensational first-half hat-trick, demonstrating clinical finishing and pace."
+        },
+        {
+          "player": "Kylian Mbappé",
+          "team": "France",
+          "reason": "Provided two crucial assists and was a constant threat, despite not scoring himself."
+        },
+        {
+          "player": "Thelo Aasgaard",
+          "team": "Norway",
+          "reason": "Scored Norway's only goal, becoming the youngest Norwegian player to score at a World Cup."
+        }
+      ],
+      "tactical_summary": "France's 4-2-3-1 formation effectively exploited Norway's defensive vulnerabilities, especially in transition, leading to a dominant first-half performance. Norway, playing a 4-3-3 with a heavily rotated squad, struggled to contain France's attacking rotations and lacked a consistent threat despite pulling one goal back.",
+      "stats": {
+        "possession": {
+          "home": 45,
+          "away": 55
+        },
+        "shots": {
+          "home": 10,
+          "away": 16
+        },
+        "xg": {
+          "home": 0.9,
+          "away": 2.8
+        }
+      }
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "I",
+      "provisional": false,
+      "table": [
+        {
+          "team": "France",
+          "played": 3,
+          "pts": 9,
+          "gd": 7,
+          "gf": 10
+        },
+        {
+          "team": "Norway",
+          "played": 3,
+          "pts": 6,
+          "gd": 1,
+          "gf": 6
+        },
+        {
+          "team": "Senegal",
+          "played": 3,
+          "pts": 3,
+          "gd": 3,
+          "gf": 7
+        },
+        {
+          "team": "Iraq",
+          "played": 3,
+          "pts": 0,
+          "gd": -11,
+          "gf": 1
+        }
+      ]
+    }
+  ],
+  "narrative": "France secured a dominant 4-1 victory over Norway, with Ousmane Dembélé's first-half hat-trick sealing their perfect record and top spot in Group I. Despite Norway's efforts, including a penalty save by Mike Maignan, France's attacking prowess proved too much, setting them up as strong contenders for the knockout stages.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-27T00:04:23.511Z"
+}
