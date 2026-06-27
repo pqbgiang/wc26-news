@@ -1,0 +1,121 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-27",
+  "matches": [
+    {
+      "teams": [
+        "New Zealand",
+        "Belgium"
+      ],
+      "status": "completed",
+      "score": "1-5",
+      "scorers": [
+        {
+          "player": "Leandro Trossard",
+          "team": "Belgium",
+          "minute": "28'"
+        },
+        {
+          "player": "Leandro Trossard",
+          "team": "Belgium",
+          "minute": "50'"
+        },
+        {
+          "player": "Kevin De Bruyne",
+          "team": "Belgium",
+          "minute": "67'"
+        },
+        {
+          "player": "Elijah Just",
+          "team": "New Zealand",
+          "minute": "84'"
+        },
+        {
+          "player": "Romelu Lukaku",
+          "team": "Belgium",
+          "minute": "86'"
+        },
+        {
+          "player": "Alexis Saelemaekers",
+          "team": "Belgium",
+          "minute": "90+4'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Kevin De Bruyne",
+          "team": "Belgium",
+          "minute": "50'"
+        }
+      ],
+      "key_moments": [
+        "28' Goal: Leandro Trossard opens the scoring for Belgium.",
+        "46' Yellow Card: Marko Stamenic (New Zealand) receives a booking.",
+        "50' Goal: Leandro Trossard scores his second, extending Belgium's lead.",
+        "67' Goal: Kevin De Bruyne adds a third for Belgium with a strike from the edge of the box.",
+        "84' Goal: Elijah Just pulls one back for New Zealand from a corner.",
+        "86' Goal: Romelu Lukaku scores with his first touch after coming on as a substitute.",
+        "90+4' Goal: Alexis Saelemaekers seals Belgium's dominant victory."
+      ],
+      "standout_performers": [
+        {
+          "player": "Leandro Trossard",
+          "team": "Belgium",
+          "reason": "Scored two crucial goals, showcasing clinical finishing."
+        },
+        {
+          "player": "Kevin De Bruyne",
+          "team": "Belgium",
+          "reason": "Contributed a goal and an assist, dictating play from midfield."
+        },
+        {
+          "player": "Elijah Just",
+          "team": "New Zealand",
+          "reason": "Scored New Zealand's only goal, providing a moment of quality."
+        }
+      ],
+      "tactical_summary": "Belgium delivered a commanding attacking performance, utilizing fluid movement and individual brilliance to dismantle New Zealand's defense and secure a comfortable win. New Zealand struggled to contain the Belgian onslaught but managed to grab a consolation goal from a set-piece late in the game."
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "G",
+      "provisional": true,
+      "table": [
+        {
+          "team": "Belgium",
+          "played": 3,
+          "pts": 5,
+          "gd": 4,
+          "gf": 5
+        },
+        {
+          "team": "Egypt",
+          "played": 2,
+          "pts": 4,
+          "gd": 2,
+          "gf": null
+        },
+        {
+          "team": "Iran",
+          "played": 2,
+          "pts": 2,
+          "gd": 0,
+          "gf": null
+        },
+        {
+          "team": "New Zealand",
+          "played": 3,
+          "pts": 1,
+          "gd": -6,
+          "gf": 1
+        }
+      ]
+    }
+  ],
+  "narrative": "Belgium secured a resounding 5-1 victory over New Zealand in their final Group G match, ensuring their progression to the knockout stages. The dominant performance saw multiple goal scorers for Belgium, while New Zealand exited the tournament despite a late consolation goal.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-27T05:46:12.444Z"
+}

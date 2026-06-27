@@ -112,6 +112,28 @@
     ]
   },
   {
+    "slug": "2026-06-27_post-match-group_stage_new-zealand-vs-belgium_new-zealand-vs-belgium",
+    "file": "pages/2026-06-27_post-match-group_stage_new-zealand-vs-belgium_new-zealand-vs-belgium.html",
+    "type": "post-match-group_stage",
+    "title": "Leandro Trossard's Masterclass: New Zealand Dominates Belgium",
+    "summary": "World Cup 2026 analysis: post match group_stage",
+    "teams": [
+      "New Zealand",
+      "Belgium"
+    ],
+    "date": "2026-06-27",
+    "jsonPath": "data/reports/2026-06-27_post-match-group_stage_new-zealand-vs-belgium_new-zealand-vs-belgium.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "New Zealand 1-5 Belgium",
+      "28' Goal: Leandro Trossard opens the scoring for Belgium.",
+      "Leandro Trossard (Belgium): Scored two crucial goals, showcasing clinical finishing."
+    ]
+  },
+  {
     "slug": "2026-06-26_post-match-group_stage",
     "file": "pages/2026-06-26_post-match-group_stage.html",
     "type": "post-match-group_stage",
