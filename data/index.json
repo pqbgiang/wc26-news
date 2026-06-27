@@ -44,6 +44,30 @@
     ]
   },
   {
+    "slug": "2026-06-27_morning-group_stage",
+    "file": "pages/2026-06-27_morning-group_stage.html",
+    "type": "morning-group_stage",
+    "title": "World Cup 2026: Group Stage Showdowns",
+    "summary": "World Cup 2026 analysis: morning group_stage",
+    "teams": [
+      "Algeria",
+      "Austria",
+      "Jordan",
+      "Argentina"
+    ],
+    "date": "2026-06-27",
+    "jsonPath": "data/reports/2026-06-27_morning-group_stage.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Algeria vs Austria: Battle for Group J Progression",
+      "Limited H2H History, High Stakes",
+      "Algeria's Resilience vs Austria's Efficiency"
+    ]
+  },
+  {
     "slug": "2026-06-26_post-match-group_stage",
     "file": "pages/2026-06-26_post-match-group_stage.html",
     "type": "post-match-group_stage",
