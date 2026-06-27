@@ -90,6 +90,28 @@
     ]
   },
   {
+    "slug": "2026-06-27_post-match-group_stage_cabo-verde-vs-saudi-arabia_cabo-verde-vs-saudi-arabia",
+    "file": "pages/2026-06-27_post-match-group_stage_cabo-verde-vs-saudi-arabia_cabo-verde-vs-saudi-arabia.html",
+    "type": "post-match-group_stage",
+    "title": "Vozinha's Masterclass: Cabo Verde Dominates Saudi Arabia",
+    "summary": "World Cup 2026 analysis: post match group_stage",
+    "teams": [
+      "Cabo Verde",
+      "Saudi Arabia"
+    ],
+    "date": "2026-06-27",
+    "jsonPath": "data/reports/2026-06-27_post-match-group_stage_cabo-verde-vs-saudi-arabia_cabo-verde-vs-saudi-arabia.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Cabo Verde 0-0 Saudi Arabia",
+      "4' Yellow card for Saud Abdulhamid (Saudi Arabia) for a foul.",
+      "Vozinha (Cabo Verde): Kept a clean sheet with key saves, securing historic qualification."
+    ]
+  },
+  {
     "slug": "2026-06-26_post-match-group_stage",
     "file": "pages/2026-06-26_post-match-group_stage.html",
     "type": "post-match-group_stage",
