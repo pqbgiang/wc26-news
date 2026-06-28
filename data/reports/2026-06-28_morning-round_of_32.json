@@ -1,0 +1,61 @@
+{
+  "type": "morning-knockout",
+  "team": null,
+  "date": "2026-06-28",
+  "sections": [
+    {
+      "title": "Today's Round of 32 Knockouts: First Encounters",
+      "items": [
+        {
+          "type": "match",
+          "headline": "South Africa vs. Canada: Debutants Face Off in Los Angeles",
+          "body": "The Round of 32 kicks off with South Africa facing Canada, a historic moment as both nations make their knockout stage debut. This match at SoFi Stadium promises high intensity as each team vies for a maiden spot in the Round of 16.",
+          "metadata": {
+            "homeTeam": "South Africa",
+            "awayTeam": "Canada",
+            "kickoffUTC": "19:00",
+            "venue": "SoFi Stadium, Inglewood, California, USA"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Knockout Crucible: Mental Fortitude Tested",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Elimination Pressure: Who Rises, Who Falls?",
+          "body": "The Round of 32 introduces an unforgiving elimination format, where mental resilience becomes paramount. Teams accustomed to high-stakes matches often draw on past experiences to navigate the intense pressure of sudden-death football."
+        },
+        {
+          "type": "analysis",
+          "headline": "Managerial Acumen: Guiding Through the Gauntlet",
+          "body": "Experienced managers with a history of navigating knockout stages will be crucial in calming nerves and making decisive tactical calls. Their ability to inspire confidence and adapt to in-game scenarios can be the difference between progression and an early exit."
+        }
+      ]
+    },
+    {
+      "title": "The Ultimate Odyssey: 2026 World Cup Journey",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "A New Era: The 48-Team Global Spectacle Unfolds",
+          "body": "The 2026 FIFA World Cup marks an unprecedented expansion to a 48-team format, transforming the tournament into a truly global spectacle. This monumental shift welcomes more nations than ever before, amplifying the dream of World Cup participation across continents."
+        },
+        {
+          "type": "analysis",
+          "headline": "Inclusion and Opportunity: The Expanded Competitive Landscape",
+          "body": "With 12 groups of four teams, the new structure fosters an unparalleled sense of inclusion and opportunity for emerging footballing nations. This expansion creates a more diverse and competitive landscape, promising heightened drama from the very first whistle of the Round of 32."
+        },
+        {
+          "type": "analysis",
+          "headline": "Three Nations, One Epic Stage: Elevating the Fan Experience",
+          "body": "Co-hosted by the USA, Canada, and Mexico, this World Cup represents a massive logistical undertaking that promises an elevated fan experience across North America. The multi-national hosting amplifies the stakes and the cultural tapestry of the tournament, making every match a landmark event."
+        }
+      ]
+    }
+  ],
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-28T07:51:10.586Z"
+}

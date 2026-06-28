@@ -58,6 +58,28 @@
     "verified": false
   },
   {
+    "slug": "2026-06-28_morning-round_of_32",
+    "file": "pages/2026-06-28_morning-round_of_32.html",
+    "type": "morning-knockout",
+    "title": "Today's Round of 32 Knockouts: First Encounters",
+    "summary": "World Cup 2026 analysis: morning knockout",
+    "teams": [
+      "South Africa",
+      "Canada"
+    ],
+    "date": "2026-06-28",
+    "jsonPath": "data/reports/2026-06-28_morning-round_of_32.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "South Africa vs. Canada: Debutants Face Off in Los Angeles",
+      "Elimination Pressure: Who Rises, Who Falls?",
+      "Managerial Acumen: Guiding Through the Gauntlet"
+    ]
+  },
+  {
     "slug": "2026-06-27_post-match-group_stage_norway-vs-france_norway-vs-france",
     "file": "pages/2026-06-27_post-match-group_stage_norway-vs-france_norway-vs-france.html",
     "type": "post-match-group_stage",
