@@ -66,6 +66,28 @@
     ]
   },
   {
+    "slug": "2026-06-28_post-match-round_of_32_south-africa-vs-canada_south-africa-vs-canada",
+    "file": "pages/2026-06-28_post-match-round_of_32_south-africa-vs-canada_south-africa-vs-canada.html",
+    "type": "post-match-round_of_32",
+    "title": "Stephen Eustaquio's Masterclass: South Africa Dominates Canada",
+    "summary": "World Cup 2026 analysis: post match round_of_32",
+    "teams": [
+      "South Africa",
+      "Canada"
+    ],
+    "date": "2026-06-28",
+    "jsonPath": "data/reports/2026-06-28_post-match-round_of_32_south-africa-vs-canada_south-africa-vs-canada.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "South Africa 0-1 Canada",
+      "South Africa goalkeeper Ronwen Williams set a new World Cup record for a keeper with 85 successful passes.",
+      "Stephen Eustaquio (Canada): Scored the match-winning goal and was a key creative force, creating 5+ chances from set-pieces."
+    ]
+  },
+  {
     "slug": "2026-06-27_post-match-group_stage_norway-vs-france_norway-vs-france",
     "file": "pages/2026-06-27_post-match-group_stage_norway-vs-france_norway-vs-france.html",
     "type": "post-match-group_stage",
