@@ -1,5 +1,27 @@
 [
   {
+    "slug": "2026-06-28_post-match-round_of_32_colombia-vs-portugal_colombia-vs-portugal",
+    "file": "pages/2026-06-28_post-match-round_of_32_colombia-vs-portugal_colombia-vs-portugal.html",
+    "type": "post-match-round_of_32",
+    "title": "Diogo Costa's Masterclass: Colombia Dominates Portugal",
+    "summary": "World Cup 2026 analysis: post match round_of_32",
+    "teams": [
+      "Colombia",
+      "Portugal"
+    ],
+    "date": "2026-06-28",
+    "jsonPath": "data/reports/2026-06-28_post-match-round_of_32_colombia-vs-portugal_colombia-vs-portugal.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Colombia 0-0 Portugal",
+      "Colombia's Davinson Sánchez had a goal disallowed for a marginal offside in second-half stoppage time, denying a late winner.",
+      "Diogo Costa (Portugal): Made six crucial saves to deny Colombia's attacking efforts."
+    ]
+  },
+  {
     "slug": "2026-06-27_post-match-group_stage_norway-vs-france_norway-vs-france",
     "file": "pages/2026-06-27_post-match-group_stage_norway-vs-france_norway-vs-france.html",
     "type": "post-match-group_stage",
