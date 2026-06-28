@@ -22,6 +22,28 @@
     ]
   },
   {
+    "slug": "2026-06-28_post-match-round_of_32_panama-vs-england_panama-vs-england",
+    "file": "pages/2026-06-28_post-match-round_of_32_panama-vs-england_panama-vs-england.html",
+    "type": "post-match-round_of_32",
+    "title": "Jude Bellingham's Masterclass: Panama Dominates England",
+    "summary": "World Cup 2026 analysis: post match round_of_32",
+    "teams": [
+      "Panama",
+      "England"
+    ],
+    "date": "2026-06-28",
+    "jsonPath": "data/reports/2026-06-28_post-match-round_of_32_panama-vs-england_panama-vs-england.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Panama 0-2 England",
+      "J. Fajardo (Panama) received a yellow card for serious foul play in the 53rd minute.",
+      "Jude Bellingham (England): Scored the crucial opening goal and assisted the second, inspiring England's second-half performance."
+    ]
+  },
+  {
     "slug": "2026-06-27_post-match-group_stage_norway-vs-france_norway-vs-france",
     "file": "pages/2026-06-27_post-match-group_stage_norway-vs-france_norway-vs-france.html",
     "type": "post-match-group_stage",

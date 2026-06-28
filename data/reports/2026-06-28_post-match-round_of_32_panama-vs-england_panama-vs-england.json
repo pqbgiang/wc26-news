@@ -1,0 +1,85 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-06-28",
+  "matches": [
+    {
+      "teams": [
+        "Panama",
+        "England"
+      ],
+      "status": "completed",
+      "score": "0-2",
+      "scorers": [
+        {
+          "player": "Jude Bellingham",
+          "team": "England",
+          "minute": "62'"
+        },
+        {
+          "player": "Harry Kane",
+          "team": "England",
+          "minute": "67'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Bukayo Saka",
+          "team": "England"
+        },
+        {
+          "player": "Jude Bellingham",
+          "team": "England"
+        }
+      ],
+      "key_moments": [
+        "J. Fajardo (Panama) received a yellow card for serious foul play in the 53rd minute.",
+        "Jude Bellingham broke the deadlock in the 62nd minute, converting from Bukayo Saka's corner.",
+        "Harry Kane doubled England's lead in the 67th minute with a header from Jude Bellingham's cross, becoming England's all-time leading World Cup scorer with 11 goals.",
+        "A. Andrade (Panama) received a yellow card for serious foul play in the 84th minute.",
+        "Panama's Jose Fajardo had a late goal disallowed for offside in the 91st minute."
+      ],
+      "standout_performers": [
+        {
+          "player": "Jude Bellingham",
+          "team": "England",
+          "reason": "Scored the crucial opening goal and assisted the second, inspiring England's second-half performance."
+        },
+        {
+          "player": "Harry Kane",
+          "team": "England",
+          "reason": "Scored a record-breaking goal, securing England's win and his place as the country's top World Cup scorer."
+        },
+        {
+          "player": "Orlando Mosquera",
+          "team": "Panama",
+          "reason": "Made several key saves, frustrating England's attack throughout the first half."
+        }
+      ],
+      "tactical_summary": "England dominated possession but struggled to penetrate Panama's deep-lying 5-4-1 defense in a goalless first half. The Three Lions found their breakthrough in the second half through a set-piece and a quick follow-up goal, which effectively sealed their victory.",
+      "stats": {
+        "possession": {
+          "home": 32,
+          "away": 68
+        },
+        "shots": {
+          "home": 13,
+          "away": 17
+        },
+        "xg": {
+          "home": 0.5,
+          "away": 1.8
+        }
+      },
+      "advancement": {
+        "winner": "England",
+        "advanced_to": "Round of 16"
+      }
+    }
+  ],
+  "narrative": "England secured their spot atop Group L with a decisive 2-0 victory over Panama, overcoming a resilient defensive effort from the Central American side. Jude Bellingham and Harry Kane delivered the crucial second-half goals, ensuring England's progression to the Round of 16.",
+  "next_round_notes": "England's Jarell Quansah was substituted in the 63rd minute after twisting his right ankle, raising concerns for his availability in the next round. Quansah also received a yellow card in the 60th minute.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-28T02:52:14.335Z"
+}
