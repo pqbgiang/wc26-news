@@ -44,20 +44,6 @@
     ]
   },
   {
-    "slug": "2026-06-28_post-match-round_of_32_jordan-vs-argentina_jordan-vs-argentina",
-    "file": "pages/2026-06-28_post-match-round_of_32_jordan-vs-argentina_jordan-vs-argentina.html",
-    "type": "post-match-round_of_32",
-    "title": "post match round_of_32",
-    "summary": "World Cup 2026 analysis: post match round_of_32",
-    "teams": [],
-    "date": "2026-06-28",
-    "jsonPath": "data/reports/2026-06-28_post-match-round_of_32_jordan-vs-argentina_jordan-vs-argentina.json",
-    "provider": "gemini",
-    "model": "gemini-2.5-flash",
-    "searchQueries": 0,
-    "verified": false
-  },
-  {
     "slug": "2026-06-28_morning-round_of_32",
     "file": "pages/2026-06-28_morning-round_of_32.html",
     "type": "morning-knockout",
