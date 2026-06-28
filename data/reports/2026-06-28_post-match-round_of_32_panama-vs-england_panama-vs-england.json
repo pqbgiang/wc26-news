@@ -72,11 +72,11 @@
       },
       "advancement": {
         "winner": "England",
-        "advanced_to": "Round of 16"
+        "advanced_to": "Round of 32"
       }
     }
   ],
-  "narrative": "England secured their spot atop Group L with a decisive 2-0 victory over Panama, overcoming a resilient defensive effort from the Central American side. Jude Bellingham and Harry Kane delivered the crucial second-half goals, ensuring England's progression to the Round of 16.",
+  "narrative": "England secured their spot atop Group L with a decisive 2-0 victory over Panama, overcoming a resilient defensive effort from the Central American side. Jude Bellingham and Harry Kane delivered the crucial second-half goals, ensuring England's progression to the Round of 32.",
   "next_round_notes": "England's Jarell Quansah was substituted in the 63rd minute after twisting his right ankle, raising concerns for his availability in the next round. Quansah also received a yellow card in the 60th minute.",
   "team": null,
   "provider": "gemini",
