@@ -1,0 +1,71 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-06-29",
+  "matches": [
+    {
+      "teams": [
+        "South Africa",
+        "Canada"
+      ],
+      "status": "completed",
+      "score": "0-1",
+      "scorers": [
+        {
+          "player": "Stephen Eustaquio",
+          "team": "Canada",
+          "minute": "90+2'"
+        }
+      ],
+      "assists": [],
+      "key_moments": [
+        "44' Moise Bombito's header for Canada cleared off the line by Aubrey Modiba.",
+        "54' N. Saliba (Canada) received a yellow card for serious foul play.",
+        "67' N. Sigur (Canada) received a yellow card for serious foul play.",
+        "75' Alphonso Davies (Canada) substituted in, making his tournament debut and adding attacking impetus.",
+        "90+2' Stephen Eustaquio scored the winning goal for Canada with a calm finish from the edge of the box."
+      ],
+      "standout_performers": [
+        {
+          "player": "Stephen Eustaquio",
+          "team": "Canada",
+          "reason": "Scored the decisive late goal and was named Player of the Match."
+        },
+        {
+          "player": "Ronwen Williams",
+          "team": "South Africa",
+          "reason": "Made several crucial saves to keep South Africa in the game until the final moments."
+        },
+        {
+          "player": "Maxime Crépeau",
+          "team": "Canada",
+          "reason": "Secured a clean sheet, making key saves when called upon."
+        }
+      ],
+      "tactical_summary": "Canada dominated possession and created the majority of the chances, but struggled to break down a well-organized South African defense for much of the match. South Africa adopted a cautious approach, aiming to absorb pressure and hit on the counter, but ultimately lacked the attacking quality to trouble Canada's goal.",
+      "stats": {
+        "possession": {
+          "home": 42,
+          "away": 58
+        },
+        "shots": {
+          "home": 6,
+          "away": 12
+        },
+        "xg": {
+          "home": 0.13,
+          "away": 1.32
+        }
+      },
+      "advancement": {
+        "winner": "Canada",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "Canada secured a historic first-ever World Cup knockout stage victory with a dramatic stoppage-time goal from Stephen Eustaquio, sending them into the Quarterfinals. South Africa, despite a valiant defensive effort and reaching the knockout phase for the first time, was unable to find an equalizer and exits the tournament.",
+  "next_round_notes": "Canada will face the winner of the Netherlands vs. Morocco match in the Quarterfinals. N. Saliba and N. Sigur of Canada received yellow cards, which could be a concern for potential suspensions if they accumulate further bookings. Alphonso Davies' return from injury and appearance off the bench is a significant boost for Canada's attacking options in the next round.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-29T13:59:24.814Z"
+}
