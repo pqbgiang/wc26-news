@@ -1,0 +1,119 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-06-30",
+  "matches": [
+    {
+      "teams": [
+        "Netherlands",
+        "Morocco"
+      ],
+      "status": "completed",
+      "score": "1-1 (PSO 2-3)",
+      "scorers": [
+        {
+          "player": "Cody Gakpo",
+          "team": "Netherlands",
+          "minute": "72'"
+        },
+        {
+          "player": "Issa Diop",
+          "team": "Morocco",
+          "minute": "90+1'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Crysencio Summerville",
+          "team": "Netherlands"
+        },
+        {
+          "player": "Chemsdine Talbi",
+          "team": "Morocco"
+        }
+      ],
+      "key_moments": [
+        "Cody Gakpo opened the scoring for the Netherlands in the 72nd minute with an emotional finish.",
+        "Issa Diop dramatically equalized for Morocco in the 91st minute with a header, forcing extra time.",
+        "Yassine Bounou made a crucial save from Crysencio Summerville's penalty in the shootout.",
+        "Ismael Saibari converted the decisive penalty to send Morocco through to the next round."
+      ],
+      "standout_performers": [
+        {
+          "player": "Bart Verbruggen",
+          "team": "Netherlands",
+          "reason": "Made several crucial saves throughout the match and in extra time to keep the Netherlands in contention."
+        },
+        {
+          "player": "Yassine Bounou",
+          "team": "Morocco",
+          "reason": "Was the hero of the penalty shootout, making a decisive save to secure Morocco's victory."
+        },
+        {
+          "player": "Achraf Hakimi",
+          "team": "Morocco",
+          "reason": "A constant attacking threat on the right flank, hitting the post and creating multiple opportunities."
+        }
+      ],
+      "tactical_summary": "The Netherlands adopted a more defensive approach with a five-man defense, initially taking the lead through Gakpo but then inviting pressure. Morocco consistently pushed forward, dominating possession in extra time and ultimately finding a late equalizer through persistent attacking.",
+      "stats": {
+        "penalty_shootout": {
+          "Netherlands": [
+            {
+              "player": "Teun Koopmeiners",
+              "outcome": "scored"
+            },
+            {
+              "player": "Justin Kluivert",
+              "outcome": "missed - hit post"
+            },
+            {
+              "player": "Wout Weghorst",
+              "outcome": "scored"
+            },
+            {
+              "player": "Quinten Timber",
+              "outcome": "missed - wide"
+            },
+            {
+              "player": "Crysencio Summerville",
+              "outcome": "missed - saved"
+            }
+          ],
+          "Morocco": [
+            {
+              "player": "Soufiane Rahimi",
+              "outcome": "scored"
+            },
+            {
+              "player": "Neil El Aynaoui",
+              "outcome": "missed - hit crossbar"
+            },
+            {
+              "player": "Chemsdine Talbi",
+              "outcome": "scored"
+            },
+            {
+              "player": "Achraf Hakimi",
+              "outcome": "missed - hit post"
+            },
+            {
+              "player": "Ismael Saibari",
+              "outcome": "scored"
+            }
+          ],
+          "final_score": "2-3"
+        }
+      },
+      "advancement": {
+        "winner": "Morocco",
+        "advanced_to": "Round of 16"
+      }
+    }
+  ],
+  "narrative": "Morocco delivered a stunning upset, recovering from a late deficit to force extra time and then prevailing in a dramatic penalty shootout against the Netherlands. This hard-fought victory sends the Atlas Lions into the Round of 16, marking a significant moment of knockout drama.",
+  "next_round_notes": "No specific injury or card concerns were reported for Morocco heading into their Round of 16 match against Canada.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-30T12:05:31.571Z"
+}

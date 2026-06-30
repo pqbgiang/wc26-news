@@ -1,5 +1,27 @@
 [
   {
+    "slug": "2026-06-30_post-match-round_of_32_netherlands-vs-morocco",
+    "file": "pages/2026-06-30_post-match-round_of_32_netherlands-vs-morocco.html",
+    "type": "post-match-round_of_32",
+    "title": "Bart Verbruggen's Masterclass: Netherlands Dominates Morocco",
+    "summary": "World Cup 2026 analysis: post match round_of_32",
+    "teams": [
+      "Netherlands",
+      "Morocco"
+    ],
+    "date": "2026-06-30",
+    "jsonPath": "data/reports/2026-06-30_post-match-round_of_32_netherlands-vs-morocco.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Netherlands 1-1 (PSO 2-3) Morocco",
+      "Cody Gakpo opened the scoring for the Netherlands in the 72nd minute with an emotional finish.",
+      "Bart Verbruggen (Netherlands): Made several crucial saves throughout the match and in extra time to keep the Netherlands in contention."
+    ]
+  },
+  {
     "slug": "2026-06-29_post-match-round_of_32_south-africa-vs-canada_south-africa-vs-canada",
     "file": "pages/2026-06-29_post-match-round_of_32_south-africa-vs-canada_south-africa-vs-canada.html",
     "type": "post-match-round_of_32",
