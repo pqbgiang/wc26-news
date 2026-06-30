@@ -22,6 +22,28 @@
     ]
   },
   {
+    "slug": "2026-06-29_post-match-round_of_32_brazil-vs-japan_brazil-vs-japan",
+    "file": "pages/2026-06-29_post-match-round_of_32_brazil-vs-japan_brazil-vs-japan.html",
+    "type": "post-match-round_of_32",
+    "title": "Gabriel Martinelli's Masterclass: Brazil Dominates Japan",
+    "summary": "World Cup 2026 analysis: post match round_of_32",
+    "teams": [
+      "Brazil",
+      "Japan"
+    ],
+    "date": "2026-06-29",
+    "jsonPath": "data/reports/2026-06-29_post-match-round_of_32_brazil-vs-japan_brazil-vs-japan.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Brazil 2-1 Japan",
+      "29' Kaishu Sano scores for Japan after a solo run, giving them a 1-0 lead.",
+      "Gabriel Martinelli (Brazil): Scored the decisive late winner."
+    ]
+  },
+  {
     "slug": "2026-06-28_post-match-round_of_32_colombia-vs-portugal_colombia-vs-portugal",
     "file": "pages/2026-06-28_post-match-round_of_32_colombia-vs-portugal_colombia-vs-portugal.html",
     "type": "post-match-round_of_32",
