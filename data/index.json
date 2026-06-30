@@ -44,6 +44,28 @@
     ]
   },
   {
+    "slug": "2026-06-30_post-match-round_of_32_france-vs-sweden",
+    "file": "pages/2026-06-30_post-match-round_of_32_france-vs-sweden.html",
+    "type": "post-match-round_of_32",
+    "title": "Kylian Mbappé's Masterclass: France Dominates Sweden",
+    "summary": "World Cup 2026 analysis: post match round_of_32",
+    "teams": [
+      "France",
+      "Sweden"
+    ],
+    "date": "2026-06-30",
+    "jsonPath": "data/reports/2026-06-30_post-match-round_of_32_france-vs-sweden.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "France 3-0 Sweden",
+      "Kylian Mbappé opened the scoring for France in the 45th minute with a strong individual effort, breaking the deadlock just before halftime.",
+      "Kylian Mbappé (France): Scored two crucial goals, showcasing his clinical finishing and leadership."
+    ]
+  },
+  {
     "slug": "2026-06-29_post-match-round_of_32_south-africa-vs-canada_south-africa-vs-canada",
     "file": "pages/2026-06-29_post-match-round_of_32_south-africa-vs-canada_south-africa-vs-canada.html",
     "type": "post-match-round_of_32",
