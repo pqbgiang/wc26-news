@@ -1,0 +1,21 @@
+{
+  "type": "morning-knockout-preview",
+  "team": null,
+  "date": "2026-07-01",
+  "sections": [
+    {
+      "title": "World Cup 2026: R32 Knockout Stage Update",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "No Round of 32 Matches Scheduled for July 1st",
+          "body": "Today, July 1st, 2026, marks a brief pause in the World Cup 2026 knockout stage schedule. Fans can anticipate the resumption of thrilling Round of 32 encounters in the coming days as teams prepare for high-stakes elimination football.",
+          "metadata": {}
+        }
+      ]
+    }
+  ],
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-01T07:18:40.348Z"
+}

@@ -1,5 +1,22 @@
 [
   {
+    "slug": "2026-07-01_morning-round_of_32",
+    "file": "pages/2026-07-01_morning-round_of_32.html",
+    "type": "morning-knockout-preview",
+    "title": "World Cup 2026: R32 Knockout Stage Update",
+    "summary": "World Cup 2026 analysis: morning knockout preview",
+    "teams": [],
+    "date": "2026-07-01",
+    "jsonPath": "data/reports/2026-07-01_morning-round_of_32.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "No Round of 32 Matches Scheduled for July 1st"
+    ]
+  },
+  {
     "slug": "2026-06-30_post-match-round_of_32_netherlands-vs-morocco",
     "file": "pages/2026-06-30_post-match-round_of_32_netherlands-vs-morocco.html",
     "type": "post-match-round_of_32",
