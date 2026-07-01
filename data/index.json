@@ -24,6 +24,28 @@
     ]
   },
   {
+    "slug": "2026-07-01_post-match-round_of_32_mexico-vs-ecuador",
+    "file": "pages/2026-07-01_post-match-round_of_32_mexico-vs-ecuador.html",
+    "type": "post-match-round_of_32",
+    "title": "Julian Quiñones's Masterclass: Mexico Dominates Ecuador",
+    "summary": "World Cup 2026 analysis: post match round_of_32",
+    "teams": [
+      "Mexico",
+      "Ecuador"
+    ],
+    "date": "2026-07-01",
+    "jsonPath": "data/reports/2026-07-01_post-match-round_of_32_mexico-vs-ecuador.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Mexico 2-0 Ecuador",
+      "Julian Quiñones opened the scoring for Mexico with a powerful drive in the 22nd minute.",
+      "Julian Quiñones (Mexico): Scored the opening goal and assisted the second, earning Player of the Match."
+    ]
+  },
+  {
     "slug": "2026-06-30_post-match-round_of_32_netherlands-vs-morocco",
     "file": "pages/2026-06-30_post-match-round_of_32_netherlands-vs-morocco.html",
     "type": "post-match-round_of_32",
