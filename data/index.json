@@ -2,10 +2,15 @@
   {
     "slug": "2026-07-01_morning-round_of_32",
     "file": "pages/2026-07-01_morning-round_of_32.html",
-    "type": "morning-knockout-preview",
-    "title": "World Cup 2026: R32 Knockout Stage Update",
-    "summary": "World Cup 2026 analysis: morning knockout preview",
-    "teams": [],
+    "type": "morning-round_of_32",
+    "title": "Knockout Stage Kicks Off: High Stakes, High Pressure",
+    "summary": "World Cup 2026 analysis: morning round_of_32",
+    "teams": [
+      "England",
+      "Congo",
+      "Belgium",
+      "Senegal"
+    ],
     "date": "2026-07-01",
     "jsonPath": "data/reports/2026-07-01_morning-round_of_32.json",
     "provider": "gemini",
@@ -13,7 +18,9 @@
     "searchQueries": 0,
     "verified": false,
     "highlights": [
-      "No Round of 32 Matches Scheduled for July 1st"
+      "England vs. Congo: Three Lions Seek Knockout Redemption",
+      "Defensive Adjustments Key for England Against Congo's Pace",
+      "Belgium vs. Senegal: Battle of Defensive Strength and Counter-Attacks"
     ]
   },
   {
