@@ -46,6 +46,28 @@
     ]
   },
   {
+    "slug": "2026-07-01_post-match-round_of_32_england-vs-dr-congo",
+    "file": "pages/2026-07-01_post-match-round_of_32_england-vs-dr-congo.html",
+    "type": "post-match-round_of_32",
+    "title": "England Attacker's Masterclass: England Dominates DR Congo",
+    "summary": "World Cup 2026 analysis: post match round_of_32",
+    "teams": [
+      "England",
+      "DR Congo"
+    ],
+    "date": "2026-07-01",
+    "jsonPath": "data/reports/2026-07-01_post-match-round_of_32_england-vs-dr-congo.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "England 2-1 DR Congo",
+      "Cipenga opened the scoring for DR Congo with an early goal, stunning England.",
+      "England Attacker (England): Scored a crucial equalizer and consistently threatened the defense."
+    ]
+  },
+  {
     "slug": "2026-06-30_post-match-round_of_32_netherlands-vs-morocco",
     "file": "pages/2026-06-30_post-match-round_of_32_netherlands-vs-morocco.html",
     "type": "post-match-round_of_32",

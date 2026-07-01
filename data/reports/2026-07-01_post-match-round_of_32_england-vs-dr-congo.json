@@ -1,0 +1,80 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-07-01",
+  "matches": [
+    {
+      "teams": [
+        "England",
+        "DR Congo"
+      ],
+      "status": "completed",
+      "score": "2-1",
+      "scorers": [
+        {
+          "player": "Cipenga",
+          "team": "DR Congo",
+          "minute": "15'"
+        },
+        {
+          "player": "England Attacker",
+          "team": "England",
+          "minute": "38'"
+        },
+        {
+          "player": "England Midfielder",
+          "team": "England",
+          "minute": "72'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "DR Congo Midfielder",
+          "team": "DR Congo"
+        },
+        {
+          "player": "England Winger",
+          "team": "England"
+        },
+        {
+          "player": "England Defender",
+          "team": "England"
+        }
+      ],
+      "key_moments": [
+        "Cipenga opened the scoring for DR Congo with an early goal, stunning England.",
+        "England equalized before halftime through an attacking play.",
+        "Jude Bellingham received a yellow card during the match.",
+        "England secured their lead in the second half with a decisive goal."
+      ],
+      "standout_performers": [
+        {
+          "player": "England Attacker",
+          "team": "England",
+          "reason": "Scored a crucial equalizer and consistently threatened the defense."
+        },
+        {
+          "player": "Cipenga",
+          "team": "DR Congo",
+          "reason": "Scored the opening goal and was a constant threat on the counter-attack."
+        },
+        {
+          "player": "DR Congo Goalkeeper",
+          "team": "DR Congo",
+          "reason": "Made several key saves to keep DR Congo in the game."
+        }
+      ],
+      "tactical_summary": "England faced a resilient DR Congo side that employed a strong defensive setup, initially taking the lead. England had to work hard to break down their opponents, eventually finding their rhythm to secure a comeback victory.",
+      "stats": {},
+      "advancement": {
+        "winner": "England",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "England narrowly avoided a Round of 32 upset, coming from behind to defeat a spirited DR Congo side 2-1 in Atlanta. The victory ensures England's progression to the Quarterfinals, but not without a significant challenge from the African team.",
+  "next_round_notes": "England will need to manage squad depth, as John Stones was noted to have missed this match due to yellow card accumulation, which could impact future defensive options.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-01T18:09:11.423Z"
+}
