@@ -1,0 +1,100 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-07-02",
+  "matches": [
+    {
+      "teams": [
+        "Belgium",
+        "Senegal"
+      ],
+      "status": "completed",
+      "score": "3-2 AET",
+      "scorers": [
+        {
+          "player": "Habib Diarra",
+          "team": "Senegal",
+          "minute": "25'"
+        },
+        {
+          "player": "Ismaïla Sarr",
+          "team": "Senegal",
+          "minute": "51'"
+        },
+        {
+          "player": "Romelu Lukaku",
+          "team": "Belgium",
+          "minute": "86'"
+        },
+        {
+          "player": "Youri Tielemans",
+          "team": "Belgium",
+          "minute": "89'"
+        },
+        {
+          "player": "Youri Tielemans",
+          "team": "Belgium",
+          "minute": "125' (P)"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Sadio Mané",
+          "team": "Senegal"
+        },
+        {
+          "player": "Moussa Niakhate",
+          "team": "Senegal"
+        },
+        {
+          "player": "Thomas Meunier",
+          "team": "Belgium"
+        },
+        {
+          "player": "Leandro Trossard",
+          "team": "Belgium"
+        }
+      ],
+      "key_moments": [
+        "Habib Diarra opened the scoring for Senegal in the 25th minute, capitalizing on a rebound after Ismaïla Sarr's header hit the post.",
+        "Ismaïla Sarr doubled Senegal's lead in the 51st minute with a brilliant chest control and finish from a long pass.",
+        "Romelu Lukaku pulled one back for Belgium in the 86th minute, sparking a late comeback.",
+        "Youri Tielemans equalized for Belgium in the 89th minute, forcing the match into extra time.",
+        "Youri Tielemans converted a penalty in the 125th minute after a VAR review, securing Belgium's dramatic victory."
+      ],
+      "standout_performers": [
+        {
+          "player": "Youri Tielemans",
+          "team": "Belgium",
+          "reason": "Scored the equalizer and the winning penalty in extra time."
+        },
+        {
+          "player": "Romelu Lukaku",
+          "team": "Belgium",
+          "reason": "Came off the bench to score a crucial goal, initiating Belgium's comeback."
+        },
+        {
+          "player": "Ismaïla Sarr",
+          "team": "Senegal",
+          "reason": "Scored a spectacular goal and was a constant threat on the wing."
+        },
+        {
+          "player": "Thibaut Courtois",
+          "team": "Belgium",
+          "reason": "Made several key saves to keep Belgium in the game when Senegal was leading."
+        }
+      ],
+      "tactical_summary": "Senegal initially executed a strong game plan, utilizing pace on the wings and effective counter-attacks to build a two-goal lead. Belgium, after tactical substitutions, shifted to a more aggressive pressing style, overwhelming Senegal in the final minutes of regulation and extra time.",
+      "stats": {},
+      "advancement": {
+        "winner": "Belgium",
+        "advanced_to": "Round of 16"
+      }
+    }
+  ],
+  "narrative": "Belgium staged an extraordinary comeback in the Round of 32, overturning a two-goal deficit against Senegal with two late goals in regulation time. The drama culminated in extra time when Youri Tielemans converted a penalty in the 125th minute, securing a thrilling 3-2 victory and breaking Senegalese hearts.",
+  "next_round_notes": "Belgium will face the winner of the match between the United States and Bosnia & Herzegovina in the Round of 16. Senegal's Lamine Camara received a yellow card during the match.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-02T08:01:23.722Z"
+}
