@@ -49,7 +49,7 @@
     "slug": "2026-07-02_post-match-round_of_32_belgium-vs-senegal",
     "file": "pages/2026-07-02_post-match-round_of_32_belgium-vs-senegal.html",
     "type": "post-match-round_of_32",
-    "title": "Youri Tielemans's Masterclass: Belgium Dominates Senegal",
+    "title": "Kevin De Bruyne's Masterclass: Belgium Dominates Senegal",
     "summary": "World Cup 2026 analysis: post match round_of_32",
     "teams": [
       "Belgium",
@@ -58,13 +58,13 @@
     "date": "2026-07-02",
     "jsonPath": "data/reports/2026-07-02_post-match-round_of_32_belgium-vs-senegal.json",
     "provider": "gemini",
-    "model": "gemini-2.5-flash",
+    "model": "gemini-3.1-flash-lite",
     "searchQueries": 0,
     "verified": false,
     "highlights": [
-      "Belgium 3-2 AET Senegal",
-      "Habib Diarra opened the scoring for Senegal in the 25th minute, capitalizing on a rebound after Ismaïla Sarr's header hit the post.",
-      "Youri Tielemans (Belgium): Scored the equalizer and the winning penalty in extra time."
+      "Belgium 1-0 Senegal",
+      "Romelu Lukaku scored the decisive goal in the 82nd minute following a precise through ball from Kevin De Bruyne.",
+      "Kevin De Bruyne (Belgium): Provided the match-winning assist and controlled the midfield tempo."
     ]
   },
   {
