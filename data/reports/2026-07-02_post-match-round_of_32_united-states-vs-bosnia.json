@@ -1,0 +1,56 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-07-02",
+  "matches": [
+    {
+      "teams": [
+        "United States",
+        "Bosnia"
+      ],
+      "status": "completed",
+      "score": "2-0",
+      "scorers": [
+        {
+          "player": "Folarin Balogun",
+          "team": "United States",
+          "minute": "45'"
+        },
+        {
+          "player": "Malik Tillman",
+          "team": "United States",
+          "minute": "82'"
+        }
+      ],
+      "assists": [],
+      "key_moments": [
+        "45' Goal: Folarin Balogun opens the scoring for the United States just before halftime.",
+        "64' Red Card: Folarin Balogun (United States) is sent off for a tackle on Tarik Muharemović, leaving the USA with 10 men.",
+        "82' Goal: Malik Tillman extends the United States' lead with a sensational free kick, securing their advancement."
+      ],
+      "standout_performers": [
+        {
+          "player": "Folarin Balogun",
+          "team": "United States",
+          "reason": "Scored the crucial opening goal, demonstrating clinical finishing."
+        },
+        {
+          "player": "Malik Tillman",
+          "team": "United States",
+          "reason": "Scored a decisive free-kick goal to seal the victory while the team was down to 10 men."
+        }
+      ],
+      "tactical_summary": "The United States took a vital lead just before halftime, showcasing aggressive pressing. Despite playing with 10 men for much of the second half, the USMNT displayed tremendous defensive discipline and secured their progression with a late free-kick.",
+      "stats": {},
+      "advancement": {
+        "winner": "United States",
+        "advanced_to": "Round of 16"
+      }
+    }
+  ],
+  "narrative": "The United States secured a hard-fought 2-0 victory over Bosnia in the Round of 32, advancing to the next stage of the World Cup. Their resilient performance, including playing with ten men for a significant period, showcased their determination in a dramatic knockout clash.",
+  "next_round_notes": "Folarin Balogun (United States) will be suspended for the next Round of 16 match due to his red card.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-02T03:18:54.858Z"
+}

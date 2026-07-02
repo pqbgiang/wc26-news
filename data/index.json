@@ -1,5 +1,27 @@
 [
   {
+    "slug": "2026-07-02_post-match-round_of_32_united-states-vs-bosnia",
+    "file": "pages/2026-07-02_post-match-round_of_32_united-states-vs-bosnia.html",
+    "type": "post-match-round_of_32",
+    "title": "Folarin Balogun's Masterclass: United States Dominates Bosnia",
+    "summary": "World Cup 2026 analysis: post match round_of_32",
+    "teams": [
+      "United States",
+      "Bosnia"
+    ],
+    "date": "2026-07-02",
+    "jsonPath": "data/reports/2026-07-02_post-match-round_of_32_united-states-vs-bosnia.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "United States 2-0 Bosnia",
+      "45' Goal: Folarin Balogun opens the scoring for the United States just before halftime.",
+      "Folarin Balogun (United States): Scored the crucial opening goal, demonstrating clinical finishing."
+    ]
+  },
+  {
     "slug": "2026-07-01_morning-round_of_32",
     "file": "pages/2026-07-01_morning-round_of_32.html",
     "type": "morning-round_of_32",
