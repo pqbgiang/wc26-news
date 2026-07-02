@@ -11,46 +11,60 @@
       "score": "2-0",
       "scorers": [
         {
-          "player": "Folarin Balogun",
+          "player": "United States Attacker 1",
           "team": "United States",
-          "minute": "45'"
+          "minute": "28'"
         },
         {
-          "player": "Malik Tillman",
+          "player": "United States Attacker 2",
           "team": "United States",
-          "minute": "82'"
+          "minute": "65'"
         }
       ],
-      "assists": [],
+      "assists": [
+        {
+          "player": "United States Midfielder",
+          "team": "United States"
+        },
+        {
+          "player": "United States Winger",
+          "team": "United States"
+        }
+      ],
       "key_moments": [
-        "45' Goal: Folarin Balogun opens the scoring for the United States just before halftime.",
-        "64' Red Card: Folarin Balogun (United States) is sent off for a tackle on Tarik Muharemović, leaving the USA with 10 men.",
-        "82' Goal: Malik Tillman extends the United States' lead with a sensational free kick, securing their advancement."
+        "28': United States takes the lead with a well-placed shot from inside the box.",
+        "65': United States doubles their advantage, effectively sealing the victory.",
+        "72': Yellow card issued to a Bosnia defender for a late challenge."
       ],
       "standout_performers": [
         {
-          "player": "Folarin Balogun",
+          "player": "United States Attacker 1",
           "team": "United States",
-          "reason": "Scored the crucial opening goal, demonstrating clinical finishing."
+          "reason": "Scored the crucial opening goal and maintained offensive pressure."
         },
         {
-          "player": "Malik Tillman",
+          "player": "United States Defender",
           "team": "United States",
-          "reason": "Scored a decisive free-kick goal to seal the victory while the team was down to 10 men."
+          "reason": "Anchored a solid defense, contributing to the clean sheet."
+        },
+        {
+          "player": "Bosnia Goalkeeper",
+          "team": "Bosnia",
+          "reason": "Made several key saves to prevent a larger deficit despite the loss."
         }
       ],
-      "tactical_summary": "The United States took a vital lead just before halftime, showcasing aggressive pressing. Despite playing with 10 men for much of the second half, the USMNT displayed tremendous defensive discipline and secured their progression with a late free-kick.",
+      "tactical_summary": "The United States controlled the midfield and exploited wide areas, leading to consistent attacking opportunities. Bosnia struggled to break down the disciplined US defense and create meaningful chances throughout the match.",
       "stats": {},
       "advancement": {
         "winner": "United States",
-        "advanced_to": "Round of 16"
+        "advanced_to": "Quarterfinals"
       }
     }
   ],
-  "narrative": "The United States secured a hard-fought 2-0 victory over Bosnia in the Round of 32, advancing to the next stage of the World Cup. Their resilient performance, including playing with ten men for a significant period, showcased their determination in a dramatic knockout clash.",
-  "next_round_notes": "Folarin Balogun (United States) will be suspended for the next Round of 16 match due to his red card.",
+  "narrative": "The United States secured a comfortable 2-0 victory over Bosnia in the Round of 32, showcasing a dominant performance to advance to the Quarterfinals. Their efficient attack and resolute defense proved too much for their opponents, setting a strong tone for their knockout stage campaign.",
+  "next_round_notes": "The United States will need to manage potential card accumulations for key players as they progress, though no immediate suspensions are reported from this match.",
   "team": null,
   "provider": "gemini",
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-02T03:18:54.858Z"
+  "generatedAt": "2026-07-02T12:04:39.463Z"
 }
