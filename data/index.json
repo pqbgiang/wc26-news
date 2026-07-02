@@ -68,6 +68,28 @@
     ]
   },
   {
+    "slug": "2026-07-02_post-match-round_of_32_spain-vs-austria",
+    "file": "pages/2026-07-02_post-match-round_of_32_spain-vs-austria.html",
+    "type": "post-match-round_of_32",
+    "title": "Mikel Oyarzabal's Masterclass: Spain Dominates Austria",
+    "summary": "World Cup 2026 analysis: post match round_of_32",
+    "teams": [
+      "Spain",
+      "Austria"
+    ],
+    "date": "2026-07-02",
+    "jsonPath": "data/reports/2026-07-02_post-match-round_of_32_spain-vs-austria.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Spain 3-0 Austria",
+      "Mikel Oyarzabal opened the scoring for Spain in the 36th minute with a tidy finish from a Marc Cucurella delivery.",
+      "Mikel Oyarzabal (Spain): Scored two crucial goals, including the opener, and was a constant threat."
+    ]
+  },
+  {
     "slug": "2026-07-01_morning-round_of_32",
     "file": "pages/2026-07-01_morning-round_of_32.html",
     "type": "morning-round_of_32",
