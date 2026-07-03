@@ -5,137 +5,72 @@
   "date": "2026-07-03",
   "sections": [
     {
-      "title": "Round of 32: July 2nd Results",
+      "title": "Tournament Overview",
       "emoji": "⚽",
       "items": [
         {
-          "type": "match",
-          "headline": "USA Advances After Balogun Red Card",
-          "body": "The U.S. Men's National Team defeated Bosnia and Herzegovina 2-0 in Santa Clara, California, to secure their spot in the Round of 16. Folarin Balogun scored in the 45th minute but was later sent off with a red card in the 64th, making the victory a hard-fought one for the ten-man USMNT. Malik Tillman sealed the win with a free-kick goal in the 82nd minute.",
+          "type": "analysis",
+          "headline": "Expanded World Cup in Full Swing",
+          "body": "The FIFA World Cup 2026, featuring an expanded format with 48 teams and 104 matches, is well underway across 16 venues in the United States, Canada, and Mexico. The tournament, which began on June 11, 2026, is currently navigating its group stage and transitioning into the newly introduced Round of 32.",
           "metadata": {
-            "match": "USA vs Bosnia and Herzegovina",
-            "score": "2-0",
-            "venue": "San Francisco Bay Area Stadium, Santa Clara, California"
-          }
-        },
-        {
-          "type": "match",
-          "headline": "Belgium Stages Dramatic Comeback",
-          "body": "Belgium rallied from a two-goal deficit to defeat Senegal 3-2 after extra time in Seattle. Youri Tielemans scored a 125th-minute penalty to complete the comeback, keeping Belgium's title hopes alive. Romelu Lukaku and Tielemans also scored late in regular time to force extra time.",
-          "metadata": {
-            "match": "Belgium vs Senegal",
-            "score": "3-2 AET",
-            "venue": "Seattle Stadium, Seattle, Washington"
-          }
-        },
-        {
-          "type": "match",
-          "headline": "England Fights Back Against DR Congo",
-          "body": "England secured a 2-1 victory over DR Congo in the Round of 32, with Harry Kane scoring twice in the final 15 minutes. The late goals saw England overcome a resilient Democratic Republic of Congo side to advance to the next round.",
-          "metadata": {
-            "match": "England vs DR Congo",
-            "score": "2-1",
-            "venue": "Venue to be confirmed"
-          }
-        },
-        {
-          "type": "match",
-          "headline": "Spain Dominates Austria 3-0",
-          "body": "Spain delivered a dominant performance, defeating Austria 3-0 in Los Angeles to progress to the Round of 16. Real Sociedad forward Mikel Oyarzabal scored a brace, with Pedro Porro adding another goal.",
-          "metadata": {
-            "match": "Spain vs Austria",
-            "score": "3-0",
-            "venue": "Venue to be confirmed, Los Angeles"
-          }
-        },
-        {
-          "type": "match",
-          "headline": "Paraguay Eliminates Germany on Penalties",
-          "body": "Paraguay advanced to the Round of 16 after a dramatic penalty shootout victory over Germany, following a 1-1 draw in regular time. Germany is now eliminated from the tournament.",
-          "metadata": {
-            "match": "Paraguay vs Germany",
-            "score": "1-1 (4-3 P)",
-            "venue": "Venue to be confirmed"
+            "teams": 48,
+            "matches": 104,
+            "hosts": [
+              "USA",
+              "Canada",
+              "Mexico"
+            ]
           }
         }
       ]
     },
     {
-      "title": "Injury Updates",
+      "title": "Host City Spotlight",
+      "emoji": "🏟️",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Philadelphia Prepares for Knockout Action",
+          "body": "Philadelphia is buzzing as it prepares to host a Round of 16 match on July 4, 2026, coinciding with the United States' 250th-anniversary celebrations. The city is one of 11 U.S. host cities, with matches also taking place in Canada and Mexico.",
+          "metadata": {
+            "city": "Philadelphia",
+            "stadium": "Philadelphia Stadium",
+            "match_type": "Round of 16"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early Knockout Stage Dynamics",
+      "emoji": "📈",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Round of 32 Battles Commence",
+          "body": "With the group stage concluding, the tournament has transitioned into the Round of 32, a new addition to the expanded 48-team format. Teams are now facing single-elimination matches, where tactical discipline and clinical finishing become paramount.",
+          "metadata": {
+            "phase": "Round of 32",
+            "focus": "Knockout Football"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Player Fitness & Injury Watch",
       "emoji": "🩹",
       "items": [
         {
           "type": "injury",
-          "headline": "Paquetá Out for Tournament",
-          "body": "Brazil has suffered a significant blow with Lucas Paquetá ruled out for the remainder of the World Cup due to a muscle injury in his left thigh. The Confederação Brasileira de Futebol confirmed the injury after imaging tests.",
+          "headline": "Physical Demands Test Squad Depth",
+          "body": "The intense schedule of the World Cup, especially with the expanded format, is placing significant physical demands on players. Managing fatigue and minor injuries is crucial for teams looking to make a deep run in the tournament.",
           "metadata": {
-            "player": "Lucas Paquetá",
-            "team": "Brazil",
-            "status": "Out for tournament",
-            "injuryType": "Muscle injury (left thigh)"
-          }
-        },
-        {
-          "type": "injury",
-          "headline": "Kone Suffers Severe Leg Fracture",
-          "body": "Canada midfielder Ismael Kone will miss the rest of the tournament after undergoing successful surgery for severe fractures in his lower left leg. The injury, sustained during a group-stage match, involved both the tibia and fibula bones.",
-          "metadata": {
-            "player": "Ismael Kone",
-            "team": "Canada",
-            "status": "Out for tournament",
-            "injuryType": "Lower left leg fracture"
-          }
-        },
-        {
-          "type": "injury",
-          "headline": "Neymar Returns to Action",
-          "body": "Neymar made his long-awaited return for Brazil in their final group game against Scotland, coming off the bench for a cameo appearance. He had been sidelined with a calf injury.",
-          "metadata": {
-            "player": "Neymar",
-            "team": "Brazil",
-            "status": "Returned from injury",
-            "injuryType": "Calf injury (previous)"
-          }
-        }
-      ]
-    },
-    {
-      "title": "Upcoming Round of 32 Matches (July 3rd)",
-      "emoji": "🗓️",
-      "items": [
-        {
-          "type": "match",
-          "headline": "Colombia vs. Ghana",
-          "body": "Colombia will face Ghana in a crucial Round of 32 encounter. Both teams will be looking to secure a spot in the Round of 16 in what is expected to be a closely contested match.",
-          "metadata": {
-            "match": "Colombia vs Ghana",
-            "kickoffUTC": "11:00",
-            "venue": "Kansas City Stadium, Kansas City"
-          }
-        },
-        {
-          "type": "match",
-          "headline": "Argentina vs. Cape Verde",
-          "body": "Defending champions Argentina, led by Lionel Messi, will take on Cape Verde in the Round of 32. Argentina enters the match after winning their group with a perfect record.",
-          "metadata": {
-            "match": "Argentina vs Cape Verde",
-            "kickoffUTC": "22:00",
-            "venue": "Miami Stadium, Miami Gardens, Florida"
-          }
-        },
-        {
-          "type": "match",
-          "headline": "Portugal vs. Croatia",
-          "body": "Portugal and Croatia will clash in a highly anticipated Round of 32 match at BMO Field. Both teams finished as runners-up in their respective groups and have no reported injury concerns for this fixture.",
-          "metadata": {
-            "match": "Portugal vs Croatia",
-            "kickoffUTC": "23:00",
-            "venue": "BMO Field, Toronto, Canada"
+            "concern": "Player Fatigue",
+            "impact": "Squad Depth"
           }
         }
       ]
     }
   ],
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-03T02:06:49.590Z"
+  "generatedAt": "2026-07-03T02:12:58.907Z"
 }
