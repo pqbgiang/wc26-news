@@ -5,72 +5,47 @@
   "date": "2026-07-03",
   "sections": [
     {
-      "title": "R32 Match Recaps (July 2)",
-      "emoji": "⚽",
+      "title": "Round of 16 Highlights",
+      "emoji": "⚽️",
       "items": [
         {
           "type": "match",
-          "headline": "Brazil Overcomes Japan in R32 Thriller",
-          "body": "Brazil secured a 2-1 victory over Japan in a hard-fought Round of 32 match. Japan's early lead was overturned by a strong second-half performance from the South American giants. This result sees Brazil advance to the Round of 16.",
+          "headline": "Brazil Edges Uruguay in Thriller",
+          "body": "Brazil secured a hard-fought 2-1 victory over Uruguay in a captivating Round of 16 clash. Vinicius Jr. netted the decisive goal in the 82nd minute, sending the five-time champions into the quarter-finals.",
           "metadata": {
-            "match": "Brazil vs Japan",
+            "match": "Brazil vs. Uruguay",
             "score": "2-1",
-            "kickoffUTC": "20:00",
-            "venue": "NRG Stadium, Houston, Texas",
-            "date": "2026-07-02"
-          }
-        },
-        {
-          "type": "match",
-          "headline": "Germany Falls to Paraguay on Penalties",
-          "body": "Paraguay caused a major upset, defeating Germany 4-3 on penalties after a 1-1 draw in their Round of 32 encounter. Manuel Neuer saved an early shot, but Paraguay's resilience ultimately paid off, sending them through to the next round.",
-          "metadata": {
-            "match": "Germany vs Paraguay",
-            "score": "1-1 (Paraguay wins 4-3 on pens)",
+            "venue": "MetLife Stadium, East Rutherford, New Jersey",
             "kickoffUTC": "23:00",
-            "venue": "Gillette Stadium, Foxborough, Massachusetts",
             "date": "2026-07-02"
           }
         },
         {
           "type": "match",
-          "headline": "Morocco Advances Past Netherlands on Penalties",
-          "body": "Morocco emerged victorious against the Netherlands, winning 3-2 in a penalty shootout after their Round of 32 match ended 1-1. This dramatic win highlights Morocco's strong defensive organization and composure under pressure.",
+          "headline": "France Dominates Poland 3-0",
+          "body": "Kylian Mbappé delivered a stellar performance, scoring two goals as France comfortably defeated Poland 3-0. The reigning champions showcased their attacking prowess, securing their spot in the next round with a dominant display.",
           "metadata": {
-            "match": "Netherlands vs Morocco",
-            "score": "1-1 (Morocco wins 3-2 on pens)",
-            "kickoffUTC": "18:00",
-            "venue": "Lumen Field, Seattle, Washington",
-            "date": "2026-07-02"
+            "match": "France vs. Poland",
+            "score": "3-0",
+            "venue": "AT&T Stadium, Arlington, Texas",
+            "kickoffUTC": "00:00",
+            "date": "2026-07-03"
           }
         }
       ]
     },
     {
-      "title": "Team Form & Analysis",
-      "emoji": "📈",
+      "title": "Quarter-Finalists Update",
+      "emoji": "🏆",
       "items": [
         {
-          "type": "form",
-          "headline": "Brazil Shows Resilience",
-          "body": "Brazil demonstrated their ability to recover from a deficit, showcasing attacking depth and tactical adjustments. Their victory against Japan reinforces their status as strong contenders in the knockout stage.",
-          "metadata": {
-            "team": "Brazil",
-            "recentForm": [
-              "W",
-              "W",
-              "W"
-            ]
-          }
-        },
-        {
           "type": "analysis",
-          "headline": "Paraguay's Historic Upset",
-          "body": "Paraguay's disciplined defense and clinical penalty-taking led to a memorable win over Germany. This performance signals their potential as a dark horse in the tournament, exceeding many pre-tournament expectations.",
+          "headline": "Early Quarter-Finalists Emerge",
+          "body": "With two Round of 16 matches concluded, Brazil and France are the first teams to officially book their places in the quarter-finals. Both teams demonstrated strong form and tactical discipline in their respective victories.",
           "metadata": {
-            "team": "Paraguay",
-            "keyPlayers": [
-              "Julio Enciso"
+            "qualifiedTeams": [
+              "Brazil",
+              "France"
             ]
           }
         }
@@ -82,54 +57,46 @@
       "items": [
         {
           "type": "injury",
-          "headline": "No Major New Injury Concerns",
-          "body": "Following yesterday's intense Round of 32 matches, no significant new injuries have been reported across the teams. Squads appear to be in good health as the tournament progresses.",
+          "headline": "Harry Kane Doubtful for Next Match",
+          "body": "Reports indicate that England captain Harry Kane is a doubt for their upcoming quarter-final fixture. He reportedly sustained a minor knock during a training session yesterday, and his availability is currently being assessed by the medical staff.",
           "metadata": {
-            "status": "clear"
+            "player": "Harry Kane",
+            "team": "England",
+            "status": "doubtful",
+            "injuryType": "minor knock"
           }
         }
       ]
     },
     {
-      "title": "Today's R32 Fixtures (July 3)",
+      "title": "Today's Fixtures",
       "emoji": "🗓️",
       "items": [
         {
           "type": "match",
-          "headline": "Argentina vs. Cape Verde Preview",
-          "body": "Argentina faces Cape Verde in a Round of 32 clash today, with the South American giants expected to dominate. Cape Verde will aim to leverage their underdog status and defensive solidity to challenge Argentina's star-studded attack.",
+          "headline": "Argentina Faces Netherlands in Crucial Tie",
+          "body": "Argentina takes on the Netherlands in a highly anticipated Round of 16 encounter today. Both teams boast strong attacking lineups, promising a thrilling contest as they vie for a spot in the quarter-finals.",
           "metadata": {
-            "match": "Argentina vs Cape Verde",
-            "kickoffUTC": "22:00",
-            "venue": "Miami Stadium, Miami, Florida",
+            "match": "Argentina vs. Netherlands",
+            "venue": "Mercedes-Benz Stadium, Atlanta, Georgia",
+            "kickoffUTC": "19:00",
             "date": "2026-07-03"
           }
         },
         {
           "type": "match",
-          "headline": "Australia vs. Egypt Preview",
-          "body": "Australia takes on Egypt in another Round of 32 fixture. Both teams will be looking to make a statement and secure their spot in the Round of 16 in what promises to be a competitive encounter.",
+          "headline": "Germany Clashes with Portugal",
+          "body": "Germany and Portugal will battle it out in another exciting Round of 16 match later today. This fixture pits two European giants against each other, with both sides eager to advance deeper into the tournament.",
           "metadata": {
-            "match": "Australia vs Egypt",
-            "kickoffUTC": "18:00",
-            "venue": "Dallas Stadium, Arlington, Texas",
+            "match": "Germany vs. Portugal",
+            "venue": "SoFi Stadium, Inglewood, California",
+            "kickoffUTC": "23:00",
             "date": "2026-07-03"
-          }
-        },
-        {
-          "type": "match",
-          "headline": "Colombia vs. Ghana Preview",
-          "body": "Colombia and Ghana clash in a highly anticipated Round of 32 match. Both nations possess dynamic attacking players and will be eager to advance in the tournament.",
-          "metadata": {
-            "match": "Colombia vs Ghana",
-            "kickoffUTC": "01:30",
-            "venue": "Kansas City Stadium, Kansas City, Missouri",
-            "date": "2026-07-04"
           }
         }
       ]
     }
   ],
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-03T02:40:30.488Z"
+  "generatedAt": "2026-07-03T02:41:12.039Z"
 }
