@@ -1,77 +1,101 @@
 {
   "type": "daily-briefing",
-  "team": null,
+  "team": "Brazil",
   "provider": "gemini",
   "date": "2026-07-03",
   "sections": [
     {
-      "title": "Recent Match Highlights",
-      "emoji": "⚽",
+      "title": "Tournament Status",
+      "emoji": "🏆",
       "items": [
         {
           "type": "match",
-          "headline": "Brazil Secures Round of 16 Spot with Uruguay Win",
-          "body": "Brazil defeated Uruguay 2-1 in a thrilling Group C encounter, with Richarlison scoring the decisive goal in the 88th minute. This victory ensures Brazil's progression to the Round of 16, maintaining their perfect record in the group stage.",
+          "headline": "Brazil Advances to Round of 16",
+          "body": "Brazil secured a dramatic 2-1 victory over Japan in the Round of 32, with Gabriel Martinelli scoring a 95th-minute winner. This hard-fought win propelled them into the next stage of the tournament.",
           "metadata": {
-            "homeTeam": "Brazil",
-            "awayTeam": "Uruguay",
-            "score": "2-1",
-            "kickoffUTC": "19:00",
+            "matchResult": "Brazil 2-1 Japan",
+            "stage": "Round of 32",
+            "scorer": "Gabriel Martinelli (90+5')"
+          }
+        },
+        {
+          "type": "stat",
+          "headline": "Group C Winners",
+          "body": "Brazil topped Group C with 7 points and a +6 goal difference, finishing ahead of Morocco. Their group stage included a draw against Morocco and a dominant win over Haiti.",
+          "metadata": {
+            "group": "C",
+            "standing": "1st",
+            "points": 7,
+            "goalDifference": "+6"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Upcoming Match",
+      "emoji": "🗓️",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Round of 16 Clash Against Norway",
+          "body": "Brazil is set to face Norway in the Round of 16 on Sunday, July 5, 2026. The match will take place at MetLife Stadium in East Rutherford, New Jersey.",
+          "metadata": {
+            "opponent": "Norway",
+            "date": "2026-07-05",
+            "kickoffUTC": "20:00",
             "venue": "MetLife Stadium, East Rutherford, New Jersey"
           }
         }
       ]
     },
     {
-      "title": "Group Stage Overview",
-      "emoji": "📊",
+      "title": "Player News",
+      "emoji": "🩹",
       "items": [
         {
-          "type": "stat",
-          "headline": "Brazil Leads Group C",
-          "body": "Following their win against Uruguay, Brazil now sits atop Group C with 6 points from two matches. Their strong performance has solidified their position as a top contender, while Uruguay remains in a crucial second place with 3 points.",
+          "type": "injury",
+          "headline": "Paquetá Out for Tournament",
+          "body": "Midfielder Lucas Paquetá suffered a grade-two hamstring injury against Japan and is expected to miss the remainder of the World Cup. This is a significant blow to Brazil's midfield depth.",
           "metadata": {
-            "group": "C",
-            "team": "Brazil",
-            "value": "6 points",
-            "status": "Qualified for Round of 16"
+            "player": "Lucas Paquetá",
+            "status": "Out for tournament",
+            "injuryType": "Hamstring strain",
+            "returnTimeline": "Approximately 3 weeks"
+          }
+        },
+        {
+          "type": "squad",
+          "headline": "Neymar Returns to Training",
+          "body": "Neymar has returned to full tactical training after recovering from a pre-tournament calf strain. He is now fit and available for selection, potentially offering a significant boost for the knockout stages.",
+          "metadata": {
+            "player": "Neymar",
+            "status": "Fit",
+            "injuryType": "Calf strain (recovered)"
           }
         }
       ]
     },
     {
-      "title": "Player Watch",
-      "emoji": "🌟",
-      "items": [
-        {
-          "type": "form",
-          "headline": "Vinicius Jr. Shines for Brazil",
-          "body": "Vinicius Jr. was instrumental in Brazil's attacking play against Uruguay, showcasing exceptional dribbling and creating multiple scoring opportunities. His consistent high-level performance has been a key factor in Brazil's success in the tournament so far.",
-          "metadata": {
-            "keyPlayers": [
-              "Vinicius Jr."
-            ],
-            "team": "Brazil"
-          }
-        }
-      ]
-    },
-    {
-      "title": "Tactical Insights",
-      "emoji": "🧠",
+      "title": "Tactical Outlook",
+      "emoji": "📈",
       "items": [
         {
           "type": "tactical",
-          "headline": "High Press Proving Effective",
-          "body": "Several teams in the World Cup 2026 have successfully employed a high-press strategy, disrupting opponent build-up play and forcing turnovers in dangerous areas. This tactical approach has led to increased goal-scoring opportunities and controlled possession in the attacking third.",
+          "headline": "Ancelotti's Midfield Dilemma",
+          "body": "Coach Carlo Ancelotti faces a challenge in midfield following Paquetá's injury, as he was a key creative link. Ancelotti may consider alternatives like Danilo Santos or a more attacking setup with additional forwards.",
           "metadata": {
-            "formation": null,
-            "strategy": "High Press"
+            "coach": "Carlo Ancelotti",
+            "formation": "4-2-3-1 (predicted)",
+            "keyPlayers": [
+              "Bruno Guimarães",
+              "Casemiro",
+              "Vinicius Jr."
+            ]
           }
         }
       ]
     }
   ],
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-03T11:53:45.145Z"
+  "generatedAt": "2026-07-03T12:02:31.964Z"
 }

@@ -3,11 +3,10 @@
     "slug": "2026-07-03_post-match-general",
     "file": "pages/2026-07-03_post-match-general.html",
     "type": "daily-briefing",
-    "title": "Tournament Headlines & Analysis",
-    "summary": "World Cup 2026 analysis: daily briefing",
+    "title": "What's Happening Now",
+    "summary": "World Cup 2026 analysis: Brazil",
     "teams": [
-      "Brazil",
-      "Uruguay"
+      "Brazil"
     ],
     "date": "2026-07-03",
     "jsonPath": "data/reports/2026-07-03_post-match-general.json",
@@ -16,9 +15,9 @@
     "searchQueries": 0,
     "verified": false,
     "highlights": [
-      "Brazil Secures Round of 16 Spot with Uruguay Win",
-      "Brazil Leads Group C",
-      "Vinicius Jr. Shines for Brazil"
+      "Brazil Advances to Round of 16",
+      "Group C Winners",
+      "Round of 16 Clash Against Norway"
     ]
   },
   {
