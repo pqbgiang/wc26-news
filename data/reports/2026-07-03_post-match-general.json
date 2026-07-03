@@ -5,72 +5,137 @@
   "date": "2026-07-03",
   "sections": [
     {
-      "title": "Tournament Overview",
+      "title": "Yesterday's Round of 32 Results",
       "emoji": "⚽",
       "items": [
         {
-          "type": "analysis",
-          "headline": "Expanded World Cup in Full Swing",
-          "body": "The FIFA World Cup 2026, featuring an expanded format with 48 teams and 104 matches, is well underway across 16 venues in the United States, Canada, and Mexico. The tournament, which began on June 11, 2026, is currently navigating its group stage and transitioning into the newly introduced Round of 32.",
+          "type": "match",
+          "headline": "Spain Dominates Austria in Knockout Opener",
+          "body": "Spain secured a comfortable 3-0 victory over Austria in their Round of 32 clash. The European champions are looking to add a second World Cup title to their history.",
           "metadata": {
-            "teams": 48,
-            "matches": 104,
-            "hosts": [
-              "USA",
-              "Canada",
-              "Mexico"
-            ]
+            "match": "Spain vs. Austria",
+            "score": "Spain 3-0 Austria",
+            "kickoffUTC": "22:00",
+            "venue": "SoFi Stadium, Inglewood, California",
+            "date": "2026-07-02"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Portugal Edges Croatia in Thriller",
+          "body": "Portugal narrowly defeated Croatia in a dramatic 2-1 comeback, with Cristiano Ronaldo scoring a penalty. Croatia had an equalizer disallowed by VAR in the final moments, leading to fan protests.",
+          "metadata": {
+            "match": "Portugal vs. Croatia",
+            "score": "Portugal 2-1 Croatia",
+            "kickoffUTC": "23:00",
+            "venue": "Toronto Stadium, Toronto, Canada",
+            "date": "2026-07-02"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Switzerland Advances Past Algeria",
+          "body": "Switzerland secured a 2-1 victory against Algeria to progress to the next stage of the tournament. Goals from Ruben Vargas and Johan Manzambi sealed the win for the Swiss.",
+          "metadata": {
+            "match": "Switzerland vs. Algeria",
+            "score": "Switzerland 2-1 Algeria",
+            "kickoffUTC": "04:00",
+            "venue": "Vancouver Stadium, Vancouver, Canada",
+            "date": "2026-07-03"
           }
         }
       ]
     },
     {
-      "title": "Host City Spotlight",
-      "emoji": "🏟️",
+      "title": "Today's Knockout Schedule",
+      "emoji": "🗓️",
       "items": [
         {
-          "type": "analysis",
-          "headline": "Philadelphia Prepares for Knockout Action",
-          "body": "Philadelphia is buzzing as it prepares to host a Round of 16 match on July 4, 2026, coinciding with the United States' 250th-anniversary celebrations. The city is one of 11 U.S. host cities, with matches also taking place in Canada and Mexico.",
+          "type": "match",
+          "headline": "Australia Faces Egypt in Arlington",
+          "body": "Australia will take on Egypt in a highly anticipated Round of 32 match. Egypt advanced as runners-up from Group G and will look to continue their run.",
           "metadata": {
-            "city": "Philadelphia",
-            "stadium": "Philadelphia Stadium",
-            "match_type": "Round of 16"
+            "match": "Australia vs. Egypt",
+            "kickoffUTC": "18:00",
+            "venue": "AT&T Stadium, Arlington, Texas",
+            "date": "2026-07-03"
           }
-        }
-      ]
-    },
-    {
-      "title": "Early Knockout Stage Dynamics",
-      "emoji": "📈",
-      "items": [
+        },
         {
-          "type": "tactical",
-          "headline": "Round of 32 Battles Commence",
-          "body": "With the group stage concluding, the tournament has transitioned into the Round of 32, a new addition to the expanded 48-team format. Teams are now facing single-elimination matches, where tactical discipline and clinical finishing become paramount.",
+          "type": "match",
+          "headline": "Argentina Meets Cape Verde in Miami",
+          "body": "Group J winners Argentina will face Cape Verde, who progressed as Group H runners-up in their World Cup debut. This match is set to be a challenging encounter for both sides.",
           "metadata": {
-            "phase": "Round of 32",
-            "focus": "Knockout Football"
+            "match": "Argentina vs. Cabo Verde",
+            "kickoffUTC": "22:00",
+            "venue": "Hard Rock Stadium, Miami Gardens, Florida",
+            "date": "2026-07-03"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Colombia Takes on Ghana in Kansas City",
+          "body": "Colombia and Ghana will battle it out in Kansas City for a spot in the next round. Ghana advanced as one of the best third-placed teams from Group L.",
+          "metadata": {
+            "match": "Colombia vs. Ghana",
+            "kickoffUTC": "01:30",
+            "venue": "Arrowhead Stadium, Kansas City, Missouri",
+            "date": "2026-07-04"
           }
         }
       ]
     },
     {
-      "title": "Player Fitness & Injury Watch",
+      "title": "Injury Updates",
       "emoji": "🩹",
       "items": [
         {
           "type": "injury",
-          "headline": "Physical Demands Test Squad Depth",
-          "body": "The intense schedule of the World Cup, especially with the expanded format, is placing significant physical demands on players. Managing fatigue and minor injuries is crucial for teams looking to make a deep run in the tournament.",
+          "headline": "Ismael Kone Out for Canada",
+          "body": "Canadian midfielder Ismael Kone suffered a fractured leg and underwent emergency surgery, ruling him out for the remainder of the tournament. His absence is a significant blow to Canada's squad.",
           "metadata": {
-            "concern": "Player Fatigue",
-            "impact": "Squad Depth"
+            "player": "Ismael Kone",
+            "team": "Canada",
+            "status": "Out for tournament",
+            "injuryType": "Fractured leg"
+          }
+        },
+        {
+          "type": "injury",
+          "headline": "Schlotterbeck Sidelined for Germany",
+          "body": "Germany's Niklas Süle (reported as Nikico Schlottterbeck in source) sustained a rupture of the medial ligament in his left ankle during the match against Ivory Coast. The defender will miss the rest of the World Cup.",
+          "metadata": {
+            "player": "Niklas Süle",
+            "team": "Germany",
+            "status": "Out for tournament",
+            "injuryType": "Medial ligament rupture (left ankle)"
+          }
+        },
+        {
+          "type": "injury",
+          "headline": "Raphinha Doubtful for Brazil's Later Stages",
+          "body": "Brazil's Raphinha suffered a muscle injury in the back of his right thigh during the match against Haiti. While there's hope for a return in the final stages, his participation in upcoming matches is highly unlikely.",
+          "metadata": {
+            "player": "Raphinha",
+            "team": "Brazil",
+            "status": "Highly unlikely for upcoming matches",
+            "injuryType": "Muscle injury (right thigh)"
+          }
+        },
+        {
+          "type": "injury",
+          "headline": "Neymar's Calf Strain Progressing",
+          "body": "Neymar continues to recover from a calf injury, with recent medical tests showing encouraging progress. Optimism is growing for his availability early in the tournament, though he has yet to return to full training.",
+          "metadata": {
+            "player": "Neymar",
+            "team": "Brazil",
+            "status": "Questionable for Group stage (reported)",
+            "injuryType": "Calf strain"
           }
         }
       ]
     }
   ],
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-03T02:12:58.907Z"
+  "generatedAt": "2026-07-03T02:40:24.056Z"
 }
