@@ -11,60 +11,55 @@
         {
           "type": "analysis",
           "headline": "Round of 32 Conclusion",
-          "body": "The Round of 32 concludes today, July 3, 2026, with the final three matches determining the last spots in the Round of 16. The tournament has already seen major exits, including Germany, Croatia, and Austria, while teams like France, Brazil, and the United States have secured their progression."
+          "body": "The final three matches of the Round of 32 take place today, July 3, 2026, determining the last participants for the Round of 16. Defending champions Argentina face Cabo Verde, while Australia plays Egypt and Colombia meets Ghana."
         }
       ]
     },
     {
-      "title": "Match Day Highlights",
+      "title": "Match Previews",
       "emoji": "⚽",
       "items": [
         {
           "type": "match",
-          "headline": "Australia vs Egypt",
-          "body": "Australia faces Egypt at AT&T Stadium in Arlington, Texas. Both teams are seeking their first-ever knockout stage victory in the tournament.",
-          "metadata": {
-            "kickoffUTC": "18:00"
-          }
-        },
-        {
-          "type": "match",
           "headline": "Argentina vs Cabo Verde",
-          "body": "Defending champions Argentina take on tournament surprise Cabo Verde at Miami Stadium. Lionel Messi leads the Argentine side as they look to advance.",
+          "body": "Lionel Messi leads Argentina against the tournament surprise, Cabo Verde, at Hard Rock Stadium in Miami. Kickoff is scheduled for 22:00 UTC.",
           "metadata": {
+            "venue": "Hard Rock Stadium, Miami, Florida",
             "kickoffUTC": "22:00"
           }
         },
         {
           "type": "match",
-          "headline": "Colombia vs Ghana",
-          "body": "Unbeaten Colombia meets Ghana at Kansas City Stadium. Colombia topped Group K and aims to continue their strong form in the knockout phase.",
+          "headline": "Australia vs Egypt",
+          "body": "Australia and Egypt compete for a spot in the next round at AT&T Stadium in Arlington. Both teams are looking to make history with a knockout stage victory.",
           "metadata": {
-            "kickoffUTC": "23:30"
+            "venue": "AT&T Stadium, Arlington, Texas",
+            "kickoffUTC": "18:00"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Colombia vs Ghana",
+          "body": "Unbeaten Colombia faces Ghana at Kansas City Stadium in the final match of the day. The winner will advance to the Round of 16.",
+          "metadata": {
+            "venue": "Kansas City Stadium, Kansas City, Missouri",
+            "kickoffUTC": "01:30"
           }
         }
       ]
     },
     {
-      "title": "Team News & Form",
-      "emoji": "📋",
+      "title": "Tournament News",
+      "emoji": "📰",
       "items": [
         {
           "type": "form",
-          "headline": "Germany Squad Rebuild",
-          "body": "Following their elimination by Paraguay, reports indicate Germany is preparing for a major squad overhaul. Veterans including Manuel Neuer and Thomas Müller are expected to have played their final international matches."
-        },
-        {
-          "type": "stat",
-          "headline": "Lionel Messi Golden Boot Race",
-          "body": "Lionel Messi enters today's match against Cabo Verde with six goals in the tournament. He remains a primary contender for the Golden Boot award.",
-          "metadata": {
-            "goals": 6
-          }
+          "headline": "Round of 16 Advancements",
+          "body": "Teams including France, Brazil, England, Spain, Portugal, and the United States have already secured their spots in the Round of 16. Germany, Croatia, and the Netherlands are among the notable teams eliminated in the previous round."
         }
       ]
     }
   ],
   "model": "gemini-3.1-flash-lite",
-  "generatedAt": "2026-07-03T21:01:13.737Z"
+  "generatedAt": "2026-07-03T21:07:26.421Z"
 }
