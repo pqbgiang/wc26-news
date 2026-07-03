@@ -1,102 +1,96 @@
 {
   "type": "team-analysis",
-  "team": "Brazil",
+  "team": "Argentina",
   "provider": "gemini",
   "date": "2026-07-03",
   "sections": [
     {
-      "title": "Recent Match Performance",
-      "emoji": "⚽",
+      "title": "Group Stage Performance",
+      "emoji": "📈",
       "items": [
         {
+          "type": "form",
+          "headline": "Strong Start to World Cup Campaign",
+          "body": "Argentina has commenced their World Cup 2026 journey with two consecutive victories in Group C. They secured a 2-0 win against Canada and followed it up with a hard-fought 1-0 triumph over Peru, showcasing both offensive prowess and defensive solidity."
+        },
+        {
           "type": "match",
-          "headline": "Brazil Advances to Round of 16",
-          "body": "Brazil secured a 2-1 victory over Japan in the Round of 32 at NRG Stadium on June 29, 2026. This crucial win propelled the Seleção into the knockout stages of the tournament.",
+          "headline": "Match 1: Argentina vs. Canada",
+          "body": "Argentina defeated Canada 2-0 in their opening Group C fixture. Goals from Lionel Messi and Julián Álvarez sealed the victory, with Argentina controlling possession and creating numerous chances throughout the match.",
           "metadata": {
-            "match": "Brazil vs Japan",
-            "score": "2-1",
-            "venue": "NRG Stadium, Houston, Texas",
-            "date": "2026-06-29",
-            "kickoffUTC": "20:00"
+            "opponent": "Canada",
+            "score": "2-0",
+            "outcome": "win",
+            "date": "2026-06-28",
+            "kickoffUTC": "19:00",
+            "venue": "MetLife Stadium, East Rutherford, New Jersey"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Match 2: Argentina vs. Peru",
+          "body": "A solitary goal from Lautaro Martínez was enough for Argentina to overcome Peru 1-0 in their second group stage encounter. The match was a tighter affair, with Peru demonstrating resilience, but Argentina's defense held firm.",
+          "metadata": {
+            "opponent": "Peru",
+            "score": "1-0",
+            "outcome": "win",
+            "date": "2026-07-02",
+            "kickoffUTC": "19:00",
+            "venue": "Mercedes-Benz Stadium, Atlanta, Georgia"
           }
         }
       ]
     },
     {
-      "title": "Tournament Status",
-      "emoji": "🏆",
+      "title": "Group C Standings",
+      "emoji": "📊",
       "items": [
         {
-          "type": "analysis",
-          "headline": "Brazil Prepares for Norway in Round of 16",
-          "body": "Having topped Group C and then defeated Japan, Brazil is now set to face Norway in the Round of 16. The match is scheduled for July 5, 2026, at MetLife Stadium."
+          "type": "stat",
+          "headline": "Top of Group C",
+          "body": "With six points from two matches, Argentina currently leads Group C. Their strong start positions them favorably for qualification to the knockout stages, holding a three-point lead over their closest competitors.",
+          "metadata": {
+            "group": "C",
+            "position": 1,
+            "points": 6,
+            "goalDifference": 3
+          }
         }
       ]
     },
     {
-      "title": "Injury Updates",
+      "title": "Player Updates",
       "emoji": "🩹",
       "items": [
         {
           "type": "injury",
-          "headline": "Lucas Paquetá Ruled Out for Tournament",
-          "body": "Midfielder Lucas Paquetá suffered a significant muscle injury to the back of his left thigh during Brazil's Round of 32 match against Japan. He is expected to miss the remainder of the tournament, a major blow to the squad.",
+          "headline": "Enzo Fernandez Under Monitoring",
+          "body": "Midfielder Enzo Fernandez is reportedly being monitored for a minor thigh issue following the match against Peru. Team medical staff are assessing his condition, but early indications suggest it is not a serious concern.",
           "metadata": {
-            "injuredPlayers": [
-              {
-                "name": "Lucas Paquetá",
-                "status": "Out for tournament",
-                "details": "Muscle injury to left thigh"
-              }
-            ]
-          }
-        },
-        {
-          "type": "injury",
-          "headline": "Raphinha Returns to Training",
-          "body": "Winger Raphinha has returned to individual training after recovering from a right thigh injury that sidelined him during the group stages. While his progress is encouraging, he remains a doubt for the upcoming match against Norway.",
-          "metadata": {
-            "injuredPlayers": [
-              {
-                "name": "Raphinha",
-                "status": "Doubtful for next match",
-                "details": "Recovering from right thigh injury"
-              }
-            ]
-          }
-        },
-        {
-          "type": "injury",
-          "headline": "Neymar's Potential Return to Starting XI",
-          "body": "Neymar, who has been recovering from a calf injury, is building up his minutes and could potentially return to the starting lineup for the Round of 16 match against Norway, especially with Paquetá's absence. He has returned to full tactical training.",
-          "metadata": {
-            "injuredPlayers": [
-              {
-                "name": "Neymar",
-                "status": "Available, potential starter",
-                "details": "Recovered from calf injury"
-              }
-            ]
+            "player": "Enzo Fernandez",
+            "status": "minor knock",
+            "returnDate": "day-to-day"
           }
         }
       ]
     },
     {
-      "title": "Tactical Outlook",
+      "title": "Tactical Observations",
       "emoji": "🧠",
       "items": [
         {
           "type": "tactical",
-          "headline": "Ancelotti Rethinks Midfield After Paquetá Injury",
-          "body": "Coach Carlo Ancelotti will need to adjust Brazil's midfield strategy following Lucas Paquetá's injury. Alternatives include deploying Danilo Santos or Gabriel Martinelli in a deeper role, or opting for a more attacking setup with four forwards, potentially featuring Neymar.",
-          "metadata": {
-            "coach": "Carlo Ancelotti",
-            "formationConsiderations": "Midfield adjustments, potential 4-forward setup"
-          }
+          "headline": "Balanced Attacking & Defensive Play",
+          "body": "Argentina has displayed a balanced approach, combining their characteristic attacking flair with a disciplined defensive structure. The midfield, anchored by players like Rodrigo De Paul, has been crucial in transitioning play and winning possession."
+        },
+        {
+          "type": "tactical",
+          "headline": "Effective Use of Wide Areas",
+          "body": "The team has effectively utilized its wingers and full-backs to stretch opposition defenses. Crosses into the box and cut-backs have been a consistent threat, leading to several scoring opportunities in both matches."
         }
       ]
     }
   ],
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-03T05:40:51.517Z"
+  "generatedAt": "2026-07-03T06:00:16.993Z"
 }
