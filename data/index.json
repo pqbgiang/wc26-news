@@ -21,6 +21,25 @@
     ]
   },
   {
+    "slug": "2026-07-03_morning-general",
+    "file": "pages/2026-07-03_morning-general.html",
+    "type": "daily-briefing",
+    "title": "Tournament Headlines & Analysis",
+    "summary": "World Cup 2026 analysis: daily briefing",
+    "teams": [],
+    "date": "2026-07-03",
+    "jsonPath": "data/reports/2026-07-03_morning-general.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Final Round of 32 Matches Underway",
+      "Argentina Faces Cape Verde in Miami",
+      "Colombia Meets Ghana in Kansas City"
+    ]
+  },
+  {
     "slug": "2026-07-02_post-match-round_of_32_united-states-vs-bosnia",
     "file": "pages/2026-07-02_post-match-round_of_32_united-states-vs-bosnia.html",
     "type": "post-match-round_of_32",

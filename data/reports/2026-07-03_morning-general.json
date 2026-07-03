@@ -1,0 +1,101 @@
+{
+  "type": "daily-briefing",
+  "team": null,
+  "provider": "gemini",
+  "date": "2026-07-03",
+  "sections": [
+    {
+      "title": "Round of 32 Concludes Today",
+      "emoji": "🔚",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Final Round of 32 Matches Underway",
+          "body": "The Round of 32 concludes today, July 3rd, with three decisive matches determining the final teams to advance to the Round of 16. These fixtures mark the end of the first-ever 32-team knockout stage in World Cup history.",
+          "metadata": {
+            "kickoffUTC": "18:00",
+            "match": "Australia vs. Egypt",
+            "venue": "Dallas Stadium, Dallas, USA"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Argentina Faces Cape Verde in Miami",
+          "body": "Later today, Argentina will take on tournament upstarts Cape Verde at Miami Stadium. Lionel Messi is expected to aim for a record-extending eighth consecutive World Cup goal in his adopted city.",
+          "metadata": {
+            "kickoffUTC": "22:00",
+            "match": "Argentina vs. Cape Verde",
+            "venue": "Miami Stadium, Miami, USA"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Colombia Meets Ghana in Kansas City",
+          "body": "The final match of the Round of 32 sees Colombia, who topped Group K, face Ghana in Kansas City. Colombia has had an impressive start, while Ghana is known for its defensive discipline and lethal counter-attacks.",
+          "metadata": {
+            "kickoffUTC": "01:30",
+            "match": "Colombia vs. Ghana",
+            "venue": "Kansas City City Stadium, Kansas City, USA"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Round of 16 Preview",
+      "emoji": "🔜",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Knockout Stage Intensifies Tomorrow",
+          "body": "The Round of 16 is set to kick off tomorrow, July 4th, as the tournament moves into its more familiar single-elimination format. Sixteen teams will battle for a spot in the quarter-finals across various host cities.",
+          "metadata": {
+            "kickoffUTC": "17:00",
+            "match": "Canada vs. Morocco",
+            "venue": "NRG Stadium, Houston, USA"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "France to Play Paraguay in Philadelphia",
+          "body": "One of the highly anticipated Round of 16 clashes will feature France against Paraguay at Lincoln Financial Field in Philadelphia. This match is scheduled for 5 PM ET on America's Semiquincentennial.",
+          "metadata": {
+            "kickoffUTC": "21:00",
+            "match": "Paraguay vs. France",
+            "venue": "Lincoln Financial Field, Philadelphia, USA"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tournament Highlights",
+      "emoji": "✨",
+      "items": [
+        {
+          "type": "form",
+          "headline": "Top Seeds Maintain Strong Form",
+          "body": "Many of the pre-tournament favorites, including Brazil, France, and England, have demonstrated strong form through the group stage and early knockout rounds. Their consistent performances have solidified their positions as leading contenders.",
+          "metadata": {}
+        },
+        {
+          "type": "analysis",
+          "headline": "Surprises and Tactical Trends Emerge",
+          "body": "The expanded 48-team format has led to several surprising results and the emergence of new tactical trends. Teams prioritizing defensive solidity and efficient counter-attacks have found success against higher-ranked opponents."
+        }
+      ]
+    },
+    {
+      "title": "Injury & Squad News",
+      "emoji": "🩹",
+      "items": [
+        {
+          "type": "injury",
+          "headline": "Squad Depth Crucial Amidst Knocks",
+          "body": "As the tournament progresses into the high-stakes knockout rounds, squad fitness is becoming increasingly vital. Several players have reportedly picked up minor injuries during the demanding schedule, testing the depth of many national teams.",
+          "metadata": {}
+        }
+      ]
+    }
+  ],
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-03T05:41:57.553Z"
+}
