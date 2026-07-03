@@ -1,101 +1,89 @@
 {
-  "type": "daily-briefing",
+  "type": "team-analysis",
   "team": "Brazil",
   "provider": "gemini",
   "date": "2026-07-03",
   "sections": [
     {
-      "title": "Match Review: Brazil vs Serbia",
+      "title": "Recent Form & Group Stage Performance",
+      "emoji": "📈",
+      "items": [
+        {
+          "type": "form",
+          "headline": "Strong Run into Knockout Stage",
+          "body": "Brazil has shown strong form leading into the Round of 16, securing five wins and one draw in their last six matches, scoring 17 goals and conceding only 5. This impressive run includes comfortable victories over Haiti and Scotland in the group stage.",
+          "metadata": {
+            "last5Results": [
+              "W 2-1 vs Japan (WC Round of 32, 2026-06-29)",
+              "W 3-0 vs Scotland (WC Group C, 2026-06-24)",
+              "W 3-0 vs Haiti (WC Group C, 2026-06-19)",
+              "D 1-1 vs Morocco (WC Group C, 2026-06-13)",
+              "W 2-1 vs Egypt (Friendly, 2026-06-06)"
+            ]
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Group C Winners",
+          "body": "Brazil topped Group C, advancing to the Round of 32 after a draw against Morocco and decisive wins over Haiti and Scotland. They then secured a hard-fought 2-1 victory against Japan in the Round of 32, with Gabriel Martinelli scoring a late winner."
+        }
+      ]
+    },
+    {
+      "title": "Squad & Injury Updates",
       "emoji": "⚽",
       "items": [
         {
-          "type": "match",
-          "headline": "Brazil Kicks Off World Cup with Dominant Win",
-          "body": "Brazil secured a comfortable 2-0 victory over Serbia in their opening Group G fixture, showcasing strong attacking prowess and solid defense. Goals from Richarlison and Vinicius Jr. sealed the three points for the Seleção.",
+          "type": "injury",
+          "headline": "Paquetá Out with Hamstring Injury",
+          "body": "Midfielder Lucas Paquetá suffered a grade two hamstring strain during the Round of 32 match against Japan and is expected to miss at least three weeks, potentially ruling him out for the remainder of the tournament. He was substituted at halftime in the 2-1 victory.",
           "metadata": {
-            "match": "Brazil vs Serbia",
-            "date": "2026-07-01",
-            "kickoffUTC": "23:00",
-            "venue": "New York New Jersey Stadium, East Rutherford, New Jersey",
-            "score": "2-0",
-            "scorers": [
-              "Richarlison",
-              "Vinicius Jr."
-            ]
+            "injuredPlayer": "Lucas Paquetá",
+            "injuryType": "Hamstring Strain",
+            "expectedReturn": "Late July 2026 (reported)"
           }
-        }
-      ]
-    },
-    {
-      "title": "Group G Standings Update",
-      "emoji": "📊",
-      "items": [
-        {
-          "type": "stat",
-          "headline": "Brazil Leads Group G After Matchday 1",
-          "body": "Following their opening win, Brazil sits atop Group G with three points and a goal difference of +2. This strong start positions them favorably for progression to the knockout stages.",
-          "metadata": {
-            "group": "G",
-            "standings": [
-              {
-                "team": "Brazil",
-                "points": 3,
-                "goalDifference": 2
-              },
-              {
-                "team": "Switzerland",
-                "points": 1,
-                "goalDifference": 0
-              },
-              {
-                "team": "Cameroon",
-                "points": 1,
-                "goalDifference": 0
-              },
-              {
-                "team": "Serbia",
-                "points": 0,
-                "goalDifference": -2
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "Injury Update",
-      "emoji": "🩹",
-      "items": [
+        },
         {
           "type": "injury",
-          "headline": "Neymar Suffers Minor Knock, Expected Fit",
-          "body": "Star forward Neymar sustained a minor knock during the Serbia match but medical staff have confirmed it is not serious. He is expected to be fully fit and available for Brazil's next group stage encounter.",
+          "headline": "Wesley Replaced by Éderson",
+          "body": "Right-back Wesley was ruled out of the World Cup due to a left thigh muscle injury sustained in a friendly against Egypt on June 6, 2026. Midfielder Éderson was called up as his replacement in the 26-player squad.",
           "metadata": {
-            "player": "Neymar Jr.",
-            "status": "Minor knock, expected fit",
-            "returnDate": "2026-07-05 (reported)"
+            "injuredPlayer": "Wesley",
+            "injuryType": "Thigh Muscle Injury",
+            "replacement": "Éderson"
           }
         }
       ]
     },
     {
-      "title": "Upcoming Fixture",
-      "emoji": "🗓️",
+      "title": "Tactical Outlook",
+      "emoji": "🧠",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Ancelotti's Adaptability Tested",
+          "body": "Under coach Carlo Ancelotti, Brazil has demonstrated resilience, particularly in their comeback win against Japan. The recent injuries, especially to Paquetá, will test the squad's depth and Ancelotti's tactical adjustments in the midfield."
+        }
+      ]
+    },
+    {
+      "title": "Upcoming Round of 16 Match",
+      "emoji": "🏆",
       "items": [
         {
           "type": "match",
-          "headline": "Next Challenge: Switzerland on July 5th",
-          "body": "Brazil will face Switzerland in their second Group G match, a crucial fixture that could solidify their position at the top. Switzerland drew their opening match, making this a vital game for both sides.",
+          "headline": "Brazil vs Norway in Last 16",
+          "body": "Brazil will face Norway in the Round of 16 on July 5, 2026, at MetLife Stadium. This will be a challenging encounter against a Norway side that has shown competitive form in the tournament.",
           "metadata": {
-            "match": "Brazil vs Switzerland",
-            "date": "2026-07-05",
-            "kickoffUTC": "18:00",
-            "venue": "Toronto Stadium, Toronto, Ontario"
+            "opponent": "Norway",
+            "kickoffUTC": "2026-07-06T00:00:00Z",
+            "venue": "MetLife Stadium, East Rutherford, New Jersey",
+            "matchType": "Round of 16"
           }
         }
       ]
     }
   ],
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-03T21:13:21.223Z"
+  "generatedAt": "2026-07-03T21:19:14.875Z"
 }
