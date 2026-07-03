@@ -9,13 +9,13 @@
     "date": "2026-07-03",
     "jsonPath": "data/reports/2026-07-03_post-match-general.json",
     "provider": "gemini",
-    "model": "gemini-3.1-flash-lite",
+    "model": "gemini-2.5-flash",
     "searchQueries": 0,
     "verified": false,
     "highlights": [
-      "Round of 32 Nearing Completion",
-      "Spain Dominates Austria",
-      "Argentina vs Cape Verde Preview"
+      "USA Advances After Balogun Red Card",
+      "Belgium Stages Dramatic Comeback",
+      "England Fights Back Against DR Congo"
     ]
   },
   {
