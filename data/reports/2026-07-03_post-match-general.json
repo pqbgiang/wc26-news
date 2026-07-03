@@ -5,137 +5,131 @@
   "date": "2026-07-03",
   "sections": [
     {
-      "title": "Yesterday's Round of 32 Results",
+      "title": "R32 Match Recaps (July 2)",
       "emoji": "⚽",
       "items": [
         {
           "type": "match",
-          "headline": "Spain Dominates Austria in Knockout Opener",
-          "body": "Spain secured a comfortable 3-0 victory over Austria in their Round of 32 clash. The European champions are looking to add a second World Cup title to their history.",
+          "headline": "Brazil Overcomes Japan in R32 Thriller",
+          "body": "Brazil secured a 2-1 victory over Japan in a hard-fought Round of 32 match. Japan's early lead was overturned by a strong second-half performance from the South American giants. This result sees Brazil advance to the Round of 16.",
           "metadata": {
-            "match": "Spain vs. Austria",
-            "score": "Spain 3-0 Austria",
-            "kickoffUTC": "22:00",
-            "venue": "SoFi Stadium, Inglewood, California",
+            "match": "Brazil vs Japan",
+            "score": "2-1",
+            "kickoffUTC": "20:00",
+            "venue": "NRG Stadium, Houston, Texas",
             "date": "2026-07-02"
           }
         },
         {
           "type": "match",
-          "headline": "Portugal Edges Croatia in Thriller",
-          "body": "Portugal narrowly defeated Croatia in a dramatic 2-1 comeback, with Cristiano Ronaldo scoring a penalty. Croatia had an equalizer disallowed by VAR in the final moments, leading to fan protests.",
+          "headline": "Germany Falls to Paraguay on Penalties",
+          "body": "Paraguay caused a major upset, defeating Germany 4-3 on penalties after a 1-1 draw in their Round of 32 encounter. Manuel Neuer saved an early shot, but Paraguay's resilience ultimately paid off, sending them through to the next round.",
           "metadata": {
-            "match": "Portugal vs. Croatia",
-            "score": "Portugal 2-1 Croatia",
+            "match": "Germany vs Paraguay",
+            "score": "1-1 (Paraguay wins 4-3 on pens)",
             "kickoffUTC": "23:00",
-            "venue": "Toronto Stadium, Toronto, Canada",
+            "venue": "Gillette Stadium, Foxborough, Massachusetts",
             "date": "2026-07-02"
           }
         },
         {
           "type": "match",
-          "headline": "Switzerland Advances Past Algeria",
-          "body": "Switzerland secured a 2-1 victory against Algeria to progress to the next stage of the tournament. Goals from Ruben Vargas and Johan Manzambi sealed the win for the Swiss.",
+          "headline": "Morocco Advances Past Netherlands on Penalties",
+          "body": "Morocco emerged victorious against the Netherlands, winning 3-2 in a penalty shootout after their Round of 32 match ended 1-1. This dramatic win highlights Morocco's strong defensive organization and composure under pressure.",
           "metadata": {
-            "match": "Switzerland vs. Algeria",
-            "score": "Switzerland 2-1 Algeria",
-            "kickoffUTC": "04:00",
-            "venue": "Vancouver Stadium, Vancouver, Canada",
-            "date": "2026-07-03"
+            "match": "Netherlands vs Morocco",
+            "score": "1-1 (Morocco wins 3-2 on pens)",
+            "kickoffUTC": "18:00",
+            "venue": "Lumen Field, Seattle, Washington",
+            "date": "2026-07-02"
           }
         }
       ]
     },
     {
-      "title": "Today's Knockout Schedule",
-      "emoji": "🗓️",
+      "title": "Team Form & Analysis",
+      "emoji": "📈",
       "items": [
         {
-          "type": "match",
-          "headline": "Australia Faces Egypt in Arlington",
-          "body": "Australia will take on Egypt in a highly anticipated Round of 32 match. Egypt advanced as runners-up from Group G and will look to continue their run.",
+          "type": "form",
+          "headline": "Brazil Shows Resilience",
+          "body": "Brazil demonstrated their ability to recover from a deficit, showcasing attacking depth and tactical adjustments. Their victory against Japan reinforces their status as strong contenders in the knockout stage.",
           "metadata": {
-            "match": "Australia vs. Egypt",
-            "kickoffUTC": "18:00",
-            "venue": "AT&T Stadium, Arlington, Texas",
-            "date": "2026-07-03"
+            "team": "Brazil",
+            "recentForm": [
+              "W",
+              "W",
+              "W"
+            ]
           }
         },
         {
-          "type": "match",
-          "headline": "Argentina Meets Cape Verde in Miami",
-          "body": "Group J winners Argentina will face Cape Verde, who progressed as Group H runners-up in their World Cup debut. This match is set to be a challenging encounter for both sides.",
+          "type": "analysis",
+          "headline": "Paraguay's Historic Upset",
+          "body": "Paraguay's disciplined defense and clinical penalty-taking led to a memorable win over Germany. This performance signals their potential as a dark horse in the tournament, exceeding many pre-tournament expectations.",
           "metadata": {
-            "match": "Argentina vs. Cabo Verde",
-            "kickoffUTC": "22:00",
-            "venue": "Hard Rock Stadium, Miami Gardens, Florida",
-            "date": "2026-07-03"
-          }
-        },
-        {
-          "type": "match",
-          "headline": "Colombia Takes on Ghana in Kansas City",
-          "body": "Colombia and Ghana will battle it out in Kansas City for a spot in the next round. Ghana advanced as one of the best third-placed teams from Group L.",
-          "metadata": {
-            "match": "Colombia vs. Ghana",
-            "kickoffUTC": "01:30",
-            "venue": "Arrowhead Stadium, Kansas City, Missouri",
-            "date": "2026-07-04"
+            "team": "Paraguay",
+            "keyPlayers": [
+              "Julio Enciso"
+            ]
           }
         }
       ]
     },
     {
-      "title": "Injury Updates",
+      "title": "Injury Watch",
       "emoji": "🩹",
       "items": [
         {
           "type": "injury",
-          "headline": "Ismael Kone Out for Canada",
-          "body": "Canadian midfielder Ismael Kone suffered a fractured leg and underwent emergency surgery, ruling him out for the remainder of the tournament. His absence is a significant blow to Canada's squad.",
+          "headline": "No Major New Injury Concerns",
+          "body": "Following yesterday's intense Round of 32 matches, no significant new injuries have been reported across the teams. Squads appear to be in good health as the tournament progresses.",
           "metadata": {
-            "player": "Ismael Kone",
-            "team": "Canada",
-            "status": "Out for tournament",
-            "injuryType": "Fractured leg"
+            "status": "clear"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Today's R32 Fixtures (July 3)",
+      "emoji": "🗓️",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Argentina vs. Cape Verde Preview",
+          "body": "Argentina faces Cape Verde in a Round of 32 clash today, with the South American giants expected to dominate. Cape Verde will aim to leverage their underdog status and defensive solidity to challenge Argentina's star-studded attack.",
+          "metadata": {
+            "match": "Argentina vs Cape Verde",
+            "kickoffUTC": "22:00",
+            "venue": "Miami Stadium, Miami, Florida",
+            "date": "2026-07-03"
           }
         },
         {
-          "type": "injury",
-          "headline": "Schlotterbeck Sidelined for Germany",
-          "body": "Germany's Niklas Süle (reported as Nikico Schlottterbeck in source) sustained a rupture of the medial ligament in his left ankle during the match against Ivory Coast. The defender will miss the rest of the World Cup.",
+          "type": "match",
+          "headline": "Australia vs. Egypt Preview",
+          "body": "Australia takes on Egypt in another Round of 32 fixture. Both teams will be looking to make a statement and secure their spot in the Round of 16 in what promises to be a competitive encounter.",
           "metadata": {
-            "player": "Niklas Süle",
-            "team": "Germany",
-            "status": "Out for tournament",
-            "injuryType": "Medial ligament rupture (left ankle)"
+            "match": "Australia vs Egypt",
+            "kickoffUTC": "18:00",
+            "venue": "Dallas Stadium, Arlington, Texas",
+            "date": "2026-07-03"
           }
         },
         {
-          "type": "injury",
-          "headline": "Raphinha Doubtful for Brazil's Later Stages",
-          "body": "Brazil's Raphinha suffered a muscle injury in the back of his right thigh during the match against Haiti. While there's hope for a return in the final stages, his participation in upcoming matches is highly unlikely.",
+          "type": "match",
+          "headline": "Colombia vs. Ghana Preview",
+          "body": "Colombia and Ghana clash in a highly anticipated Round of 32 match. Both nations possess dynamic attacking players and will be eager to advance in the tournament.",
           "metadata": {
-            "player": "Raphinha",
-            "team": "Brazil",
-            "status": "Highly unlikely for upcoming matches",
-            "injuryType": "Muscle injury (right thigh)"
-          }
-        },
-        {
-          "type": "injury",
-          "headline": "Neymar's Calf Strain Progressing",
-          "body": "Neymar continues to recover from a calf injury, with recent medical tests showing encouraging progress. Optimism is growing for his availability early in the tournament, though he has yet to return to full training.",
-          "metadata": {
-            "player": "Neymar",
-            "team": "Brazil",
-            "status": "Questionable for Group stage (reported)",
-            "injuryType": "Calf strain"
+            "match": "Colombia vs Ghana",
+            "kickoffUTC": "01:30",
+            "venue": "Kansas City Stadium, Kansas City, Missouri",
+            "date": "2026-07-04"
           }
         }
       ]
     }
   ],
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-03T02:40:24.056Z"
+  "generatedAt": "2026-07-03T02:40:30.488Z"
 }
