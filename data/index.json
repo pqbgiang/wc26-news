@@ -5,7 +5,10 @@
     "type": "daily-briefing",
     "title": "Tournament Headlines & Analysis",
     "summary": "World Cup 2026 analysis: daily briefing",
-    "teams": [],
+    "teams": [
+      "Brazil",
+      "Uruguay"
+    ],
     "date": "2026-07-03",
     "jsonPath": "data/reports/2026-07-03_post-match-general.json",
     "provider": "gemini",
@@ -13,9 +16,9 @@
     "searchQueries": 0,
     "verified": false,
     "highlights": [
-      "World Cup 2026 Kicks Off Across North America",
-      "Brazil's Pre-Tournament Form and Key Players",
-      "Mbappé's Knee Injury Raises France Concerns"
+      "Brazil Secures Round of 16 Spot with Uruguay Win",
+      "Brazil Leads Group C",
+      "Vinicius Jr. Shines for Brazil"
     ]
   },
   {
