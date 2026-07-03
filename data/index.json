@@ -1,5 +1,24 @@
 [
   {
+    "slug": "2026-07-03_post-match-general",
+    "file": "pages/2026-07-03_post-match-general.html",
+    "type": "daily-briefing",
+    "title": "Tournament Headlines & Analysis",
+    "summary": "World Cup 2026 analysis: daily briefing",
+    "teams": [],
+    "date": "2026-07-03",
+    "jsonPath": "data/reports/2026-07-03_post-match-general.json",
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Round of 32 Nearing Completion",
+      "Spain Dominates Austria",
+      "Argentina vs Cape Verde Preview"
+    ]
+  },
+  {
     "slug": "2026-07-02_post-match-round_of_32_united-states-vs-bosnia",
     "file": "pages/2026-07-02_post-match-round_of_32_united-states-vs-bosnia.html",
     "type": "post-match-round_of_32",

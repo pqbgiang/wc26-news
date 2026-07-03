@@ -1,0 +1,48 @@
+{
+  "type": "daily-briefing",
+  "team": null,
+  "provider": "gemini",
+  "date": "2026-07-03",
+  "sections": [
+    {
+      "title": "Tournament Status",
+      "emoji": "🏆",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Round of 32 Nearing Completion",
+          "body": "The 2026 FIFA World Cup knockout stage is in full swing, with the Round of 32 reaching its final matches today. Several major nations, including France, England, and the United States, have already secured their spots in the Round of 16."
+        }
+      ]
+    },
+    {
+      "title": "Match Highlights",
+      "emoji": "⚽",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Spain Dominates Austria",
+          "body": "Spain advanced to the Round of 16 with a convincing 3-0 victory over Austria in Los Angeles on July 2. Mikel Oyarzabal scored twice, and Pedro Porro added a third to set up a clash against either Portugal or Croatia in Dallas on July 6."
+        },
+        {
+          "type": "match",
+          "headline": "Argentina vs Cape Verde Preview",
+          "body": "Defending champions Argentina face Cape Verde today, July 3, in the Round of 32 at Miami Stadium. Kickoff is scheduled for 22:00 UTC, with Lionel Messi aiming to extend his scoring streak in his adopted home city."
+        }
+      ]
+    },
+    {
+      "title": "Recent Results",
+      "emoji": "📊",
+      "items": [
+        {
+          "type": "stat",
+          "headline": "Round of 32 Results Summary",
+          "body": "Recent winners include the United States (2-0 vs Bosnia and Herzegovina), Belgium (3-2 vs Senegal), and England (2-1 vs DR Congo). Notable upsets and tight finishes have seen Germany and the Netherlands eliminated via penalty shootouts."
+        }
+      ]
+    }
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "generatedAt": "2026-07-03T02:01:02.475Z"
+}
