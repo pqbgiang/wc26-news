@@ -3,19 +3,21 @@
     "slug": "2026-07-03_post-match-general",
     "file": "pages/2026-07-03_post-match-general.html",
     "type": "daily-briefing",
-    "title": "Tournament Headlines & Analysis",
-    "summary": "World Cup 2026 analysis: daily briefing",
-    "teams": [],
+    "title": "What's Happening Now",
+    "summary": "World Cup 2026 analysis: Brazil",
+    "teams": [
+      "Brazil"
+    ],
     "date": "2026-07-03",
     "jsonPath": "data/reports/2026-07-03_post-match-general.json",
     "provider": "gemini",
-    "model": "gemini-3.1-flash-lite",
+    "model": "gemini-2.5-flash",
     "searchQueries": 0,
     "verified": false,
     "highlights": [
-      "Round of 32 Conclusion",
-      "Argentina vs Cabo Verde",
-      "Australia vs Egypt"
+      "Brazil Kicks Off World Cup with Dominant Win",
+      "Brazil Leads Group G After Matchday 1",
+      "Neymar Suffers Minor Knock, Expected Fit"
     ]
   },
   {

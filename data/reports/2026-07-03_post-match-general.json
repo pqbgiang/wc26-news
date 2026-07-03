@@ -1,65 +1,101 @@
 {
   "type": "daily-briefing",
-  "team": null,
+  "team": "Brazil",
   "provider": "gemini",
   "date": "2026-07-03",
   "sections": [
     {
-      "title": "Tournament Status",
-      "emoji": "🏆",
-      "items": [
-        {
-          "type": "analysis",
-          "headline": "Round of 32 Conclusion",
-          "body": "The final three matches of the Round of 32 take place today, July 3, 2026, determining the last participants for the Round of 16. Defending champions Argentina face Cabo Verde, while Australia plays Egypt and Colombia meets Ghana."
-        }
-      ]
-    },
-    {
-      "title": "Match Previews",
+      "title": "Match Review: Brazil vs Serbia",
       "emoji": "⚽",
       "items": [
         {
           "type": "match",
-          "headline": "Argentina vs Cabo Verde",
-          "body": "Lionel Messi leads Argentina against the tournament surprise, Cabo Verde, at Hard Rock Stadium in Miami. Kickoff is scheduled for 22:00 UTC.",
+          "headline": "Brazil Kicks Off World Cup with Dominant Win",
+          "body": "Brazil secured a comfortable 2-0 victory over Serbia in their opening Group G fixture, showcasing strong attacking prowess and solid defense. Goals from Richarlison and Vinicius Jr. sealed the three points for the Seleção.",
           "metadata": {
-            "venue": "Hard Rock Stadium, Miami, Florida",
-            "kickoffUTC": "22:00"
-          }
-        },
-        {
-          "type": "match",
-          "headline": "Australia vs Egypt",
-          "body": "Australia and Egypt compete for a spot in the next round at AT&T Stadium in Arlington. Both teams are looking to make history with a knockout stage victory.",
-          "metadata": {
-            "venue": "AT&T Stadium, Arlington, Texas",
-            "kickoffUTC": "18:00"
-          }
-        },
-        {
-          "type": "match",
-          "headline": "Colombia vs Ghana",
-          "body": "Unbeaten Colombia faces Ghana at Kansas City Stadium in the final match of the day. The winner will advance to the Round of 16.",
-          "metadata": {
-            "venue": "Kansas City Stadium, Kansas City, Missouri",
-            "kickoffUTC": "01:30"
+            "match": "Brazil vs Serbia",
+            "date": "2026-07-01",
+            "kickoffUTC": "23:00",
+            "venue": "New York New Jersey Stadium, East Rutherford, New Jersey",
+            "score": "2-0",
+            "scorers": [
+              "Richarlison",
+              "Vinicius Jr."
+            ]
           }
         }
       ]
     },
     {
-      "title": "Tournament News",
-      "emoji": "📰",
+      "title": "Group G Standings Update",
+      "emoji": "📊",
       "items": [
         {
-          "type": "form",
-          "headline": "Round of 16 Advancements",
-          "body": "Teams including France, Brazil, England, Spain, Portugal, and the United States have already secured their spots in the Round of 16. Germany, Croatia, and the Netherlands are among the notable teams eliminated in the previous round."
+          "type": "stat",
+          "headline": "Brazil Leads Group G After Matchday 1",
+          "body": "Following their opening win, Brazil sits atop Group G with three points and a goal difference of +2. This strong start positions them favorably for progression to the knockout stages.",
+          "metadata": {
+            "group": "G",
+            "standings": [
+              {
+                "team": "Brazil",
+                "points": 3,
+                "goalDifference": 2
+              },
+              {
+                "team": "Switzerland",
+                "points": 1,
+                "goalDifference": 0
+              },
+              {
+                "team": "Cameroon",
+                "points": 1,
+                "goalDifference": 0
+              },
+              {
+                "team": "Serbia",
+                "points": 0,
+                "goalDifference": -2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Injury Update",
+      "emoji": "🩹",
+      "items": [
+        {
+          "type": "injury",
+          "headline": "Neymar Suffers Minor Knock, Expected Fit",
+          "body": "Star forward Neymar sustained a minor knock during the Serbia match but medical staff have confirmed it is not serious. He is expected to be fully fit and available for Brazil's next group stage encounter.",
+          "metadata": {
+            "player": "Neymar Jr.",
+            "status": "Minor knock, expected fit",
+            "returnDate": "2026-07-05 (reported)"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Upcoming Fixture",
+      "emoji": "🗓️",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Next Challenge: Switzerland on July 5th",
+          "body": "Brazil will face Switzerland in their second Group G match, a crucial fixture that could solidify their position at the top. Switzerland drew their opening match, making this a vital game for both sides.",
+          "metadata": {
+            "match": "Brazil vs Switzerland",
+            "date": "2026-07-05",
+            "kickoffUTC": "18:00",
+            "venue": "Toronto Stadium, Toronto, Ontario"
+          }
         }
       ]
     }
   ],
-  "model": "gemini-3.1-flash-lite",
-  "generatedAt": "2026-07-03T21:07:26.421Z"
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-03T21:13:21.223Z"
 }
