@@ -1,96 +1,54 @@
 {
-  "type": "team-analysis",
-  "team": "Argentina",
+  "type": "daily-briefing",
+  "team": null,
   "provider": "gemini",
   "date": "2026-07-03",
   "sections": [
     {
-      "title": "Group Stage Performance",
-      "emoji": "📈",
+      "title": "Tournament Overview",
+      "emoji": "🌍",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "World Cup 2026 Kicks Off Across North America",
+          "body": "The FIFA World Cup 2026 has commenced, marking the first edition of the tournament to feature an expanded 48-team format across three host countries: Canada, Mexico, and the United States. A total of 104 matches will be played across 16 host cities, including major venues like MetLife Stadium in New Jersey and SoFi Stadium in Los Angeles."
+        }
+      ]
+    },
+    {
+      "title": "Contender Spotlight: Brazil",
+      "emoji": "🇧🇷",
       "items": [
         {
           "type": "form",
-          "headline": "Strong Start to World Cup Campaign",
-          "body": "Argentina has commenced their World Cup 2026 journey with two consecutive victories in Group C. They secured a 2-0 win against Canada and followed it up with a hard-fought 1-0 triumph over Peru, showcasing both offensive prowess and defensive solidity."
-        },
-        {
-          "type": "match",
-          "headline": "Match 1: Argentina vs. Canada",
-          "body": "Argentina defeated Canada 2-0 in their opening Group C fixture. Goals from Lionel Messi and Julián Álvarez sealed the victory, with Argentina controlling possession and creating numerous chances throughout the match.",
-          "metadata": {
-            "opponent": "Canada",
-            "score": "2-0",
-            "outcome": "win",
-            "date": "2026-06-28",
-            "kickoffUTC": "19:00",
-            "venue": "MetLife Stadium, East Rutherford, New Jersey"
-          }
-        },
-        {
-          "type": "match",
-          "headline": "Match 2: Argentina vs. Peru",
-          "body": "A solitary goal from Lautaro Martínez was enough for Argentina to overcome Peru 1-0 in their second group stage encounter. The match was a tighter affair, with Peru demonstrating resilience, but Argentina's defense held firm.",
-          "metadata": {
-            "opponent": "Peru",
-            "score": "1-0",
-            "outcome": "win",
-            "date": "2026-07-02",
-            "kickoffUTC": "19:00",
-            "venue": "Mercedes-Benz Stadium, Atlanta, Georgia"
-          }
+          "headline": "Brazil's Pre-Tournament Form and Key Players",
+          "body": "Brazil, under coach Carlo Ancelotti, entered the tournament with a mixed but generally strong run in 2025, including victories in World Cup Qualifiers and friendlies. Key attacking talents like Vinícius Júnior and Rodrygo Goes are expected to lead the charge for the five-time world champions."
         }
       ]
     },
     {
-      "title": "Group C Standings",
-      "emoji": "📊",
-      "items": [
-        {
-          "type": "stat",
-          "headline": "Top of Group C",
-          "body": "With six points from two matches, Argentina currently leads Group C. Their strong start positions them favorably for qualification to the knockout stages, holding a three-point lead over their closest competitors.",
-          "metadata": {
-            "group": "C",
-            "position": 1,
-            "points": 6,
-            "goalDifference": 3
-          }
-        }
-      ]
-    },
-    {
-      "title": "Player Updates",
+      "title": "Player Fitness Update: Kylian Mbappé",
       "emoji": "🩹",
       "items": [
         {
           "type": "injury",
-          "headline": "Enzo Fernandez Under Monitoring",
-          "body": "Midfielder Enzo Fernandez is reportedly being monitored for a minor thigh issue following the match against Peru. Team medical staff are assessing his condition, but early indications suggest it is not a serious concern.",
-          "metadata": {
-            "player": "Enzo Fernandez",
-            "status": "minor knock",
-            "returnDate": "day-to-day"
-          }
+          "headline": "Mbappé's Knee Injury Raises France Concerns",
+          "body": "France captain Kylian Mbappé has been managing a left knee sprain and a semitendinosus muscle injury, which caused him to miss several Real Madrid matches in early 2026. While he has returned to play, his fitness remains a significant concern for Les Bleus as the tournament progresses."
         }
       ]
     },
     {
-      "title": "Tactical Observations",
-      "emoji": "🧠",
+      "title": "Emerging Tactical Trends",
+      "emoji": "📈",
       "items": [
         {
           "type": "tactical",
-          "headline": "Balanced Attacking & Defensive Play",
-          "body": "Argentina has displayed a balanced approach, combining their characteristic attacking flair with a disciplined defensive structure. The midfield, anchored by players like Rodrigo De Paul, has been crucial in transitioning play and winning possession."
-        },
-        {
-          "type": "tactical",
-          "headline": "Effective Use of Wide Areas",
-          "body": "The team has effectively utilized its wingers and full-backs to stretch opposition defenses. Crosses into the box and cut-backs have been a consistent threat, leading to several scoring opportunities in both matches."
+          "headline": "Impact of Substitutes and Counter-Pressing Noted",
+          "body": "Early observations from the tournament, consistent with trends seen in the FIFA U-20 World Cup 2025, highlight the increasing influence of substitutes and aggressive counter-pressing. Tactical flexibility and the ability of goalkeepers to act as playmakers are also becoming defining features of elite international football."
         }
       ]
     }
   ],
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-03T06:00:16.993Z"
+  "generatedAt": "2026-07-03T06:21:32.120Z"
 }

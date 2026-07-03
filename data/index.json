@@ -2,12 +2,10 @@
   {
     "slug": "2026-07-03_post-match-general",
     "file": "pages/2026-07-03_post-match-general.html",
-    "type": "team-analysis",
-    "title": "Inside Argentina's Tournament Blueprint",
-    "summary": "World Cup 2026 analysis: Argentina",
-    "teams": [
-      "Argentina"
-    ],
+    "type": "daily-briefing",
+    "title": "Tournament Headlines & Analysis",
+    "summary": "World Cup 2026 analysis: daily briefing",
+    "teams": [],
     "date": "2026-07-03",
     "jsonPath": "data/reports/2026-07-03_post-match-general.json",
     "provider": "gemini",
@@ -15,9 +13,9 @@
     "searchQueries": 0,
     "verified": false,
     "highlights": [
-      "Strong Start to World Cup Campaign",
-      "Match 1: Argentina vs. Canada",
-      "Match 2: Argentina vs. Peru"
+      "World Cup 2026 Kicks Off Across North America",
+      "Brazil's Pre-Tournament Form and Key Players",
+      "Mbappé's Knee Injury Raises France Concerns"
     ]
   },
   {
