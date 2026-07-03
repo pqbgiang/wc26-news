@@ -1,6 +1,6 @@
 {
   "type": "daily-briefing",
-  "team": "Brazil",
+  "team": null,
   "provider": "gemini",
   "date": "2026-07-03",
   "sections": [
@@ -9,93 +9,62 @@
       "emoji": "🏆",
       "items": [
         {
+          "type": "analysis",
+          "headline": "Round of 32 Conclusion",
+          "body": "The Round of 32 concludes today, July 3, 2026, with the final three matches determining the last spots in the Round of 16. The tournament has already seen major exits, including Germany, Croatia, and Austria, while teams like France, Brazil, and the United States have secured their progression."
+        }
+      ]
+    },
+    {
+      "title": "Match Day Highlights",
+      "emoji": "⚽",
+      "items": [
+        {
           "type": "match",
-          "headline": "Brazil Advances to Round of 16",
-          "body": "Brazil secured a dramatic 2-1 victory over Japan in the Round of 32, with Gabriel Martinelli scoring a 95th-minute winner. This hard-fought win propelled them into the next stage of the tournament.",
+          "headline": "Australia vs Egypt",
+          "body": "Australia faces Egypt at AT&T Stadium in Arlington, Texas. Both teams are seeking their first-ever knockout stage victory in the tournament.",
           "metadata": {
-            "matchResult": "Brazil 2-1 Japan",
-            "stage": "Round of 32",
-            "scorer": "Gabriel Martinelli (90+5')"
+            "kickoffUTC": "18:00"
           }
+        },
+        {
+          "type": "match",
+          "headline": "Argentina vs Cabo Verde",
+          "body": "Defending champions Argentina take on tournament surprise Cabo Verde at Miami Stadium. Lionel Messi leads the Argentine side as they look to advance.",
+          "metadata": {
+            "kickoffUTC": "22:00"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Colombia vs Ghana",
+          "body": "Unbeaten Colombia meets Ghana at Kansas City Stadium. Colombia topped Group K and aims to continue their strong form in the knockout phase.",
+          "metadata": {
+            "kickoffUTC": "23:30"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Team News & Form",
+      "emoji": "📋",
+      "items": [
+        {
+          "type": "form",
+          "headline": "Germany Squad Rebuild",
+          "body": "Following their elimination by Paraguay, reports indicate Germany is preparing for a major squad overhaul. Veterans including Manuel Neuer and Thomas Müller are expected to have played their final international matches."
         },
         {
           "type": "stat",
-          "headline": "Group C Winners",
-          "body": "Brazil topped Group C with 7 points and a +6 goal difference, finishing ahead of Morocco. Their group stage included a draw against Morocco and a dominant win over Haiti.",
+          "headline": "Lionel Messi Golden Boot Race",
+          "body": "Lionel Messi enters today's match against Cabo Verde with six goals in the tournament. He remains a primary contender for the Golden Boot award.",
           "metadata": {
-            "group": "C",
-            "standing": "1st",
-            "points": 7,
-            "goalDifference": "+6"
-          }
-        }
-      ]
-    },
-    {
-      "title": "Upcoming Match",
-      "emoji": "🗓️",
-      "items": [
-        {
-          "type": "match",
-          "headline": "Round of 16 Clash Against Norway",
-          "body": "Brazil is set to face Norway in the Round of 16 on Sunday, July 5, 2026. The match will take place at MetLife Stadium in East Rutherford, New Jersey.",
-          "metadata": {
-            "opponent": "Norway",
-            "date": "2026-07-05",
-            "kickoffUTC": "20:00",
-            "venue": "MetLife Stadium, East Rutherford, New Jersey"
-          }
-        }
-      ]
-    },
-    {
-      "title": "Player News",
-      "emoji": "🩹",
-      "items": [
-        {
-          "type": "injury",
-          "headline": "Paquetá Out for Tournament",
-          "body": "Midfielder Lucas Paquetá suffered a grade-two hamstring injury against Japan and is expected to miss the remainder of the World Cup. This is a significant blow to Brazil's midfield depth.",
-          "metadata": {
-            "player": "Lucas Paquetá",
-            "status": "Out for tournament",
-            "injuryType": "Hamstring strain",
-            "returnTimeline": "Approximately 3 weeks"
-          }
-        },
-        {
-          "type": "squad",
-          "headline": "Neymar Returns to Training",
-          "body": "Neymar has returned to full tactical training after recovering from a pre-tournament calf strain. He is now fit and available for selection, potentially offering a significant boost for the knockout stages.",
-          "metadata": {
-            "player": "Neymar",
-            "status": "Fit",
-            "injuryType": "Calf strain (recovered)"
-          }
-        }
-      ]
-    },
-    {
-      "title": "Tactical Outlook",
-      "emoji": "📈",
-      "items": [
-        {
-          "type": "tactical",
-          "headline": "Ancelotti's Midfield Dilemma",
-          "body": "Coach Carlo Ancelotti faces a challenge in midfield following Paquetá's injury, as he was a key creative link. Ancelotti may consider alternatives like Danilo Santos or a more attacking setup with additional forwards.",
-          "metadata": {
-            "coach": "Carlo Ancelotti",
-            "formation": "4-2-3-1 (predicted)",
-            "keyPlayers": [
-              "Bruno Guimarães",
-              "Casemiro",
-              "Vinicius Jr."
-            ]
+            "goals": 6
           }
         }
       ]
     }
   ],
-  "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-03T12:02:31.964Z"
+  "model": "gemini-3.1-flash-lite",
+  "generatedAt": "2026-07-03T21:01:13.737Z"
 }

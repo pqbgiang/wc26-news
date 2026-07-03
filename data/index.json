@@ -3,21 +3,19 @@
     "slug": "2026-07-03_post-match-general",
     "file": "pages/2026-07-03_post-match-general.html",
     "type": "daily-briefing",
-    "title": "What's Happening Now",
-    "summary": "World Cup 2026 analysis: Brazil",
-    "teams": [
-      "Brazil"
-    ],
+    "title": "Tournament Headlines & Analysis",
+    "summary": "World Cup 2026 analysis: daily briefing",
+    "teams": [],
     "date": "2026-07-03",
     "jsonPath": "data/reports/2026-07-03_post-match-general.json",
     "provider": "gemini",
-    "model": "gemini-2.5-flash",
+    "model": "gemini-3.1-flash-lite",
     "searchQueries": 0,
     "verified": false,
     "highlights": [
-      "Brazil Advances to Round of 16",
-      "Group C Winners",
-      "Round of 16 Clash Against Norway"
+      "Round of 32 Conclusion",
+      "Australia vs Egypt",
+      "Argentina vs Cabo Verde"
     ]
   },
   {
