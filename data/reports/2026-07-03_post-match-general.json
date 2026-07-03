@@ -5,85 +5,129 @@
   "date": "2026-07-03",
   "sections": [
     {
-      "title": "Recent Form & Group Stage Performance",
-      "emoji": "📈",
+      "title": "Recent Form & Group Stage",
+      "emoji": "📊",
       "items": [
         {
           "type": "form",
-          "headline": "Strong Run into Knockout Stage",
-          "body": "Brazil has shown strong form leading into the Round of 16, securing five wins and one draw in their last six matches, scoring 17 goals and conceding only 5. This impressive run includes comfortable victories over Haiti and Scotland in the group stage.",
+          "headline": "Brazil Dominates Group G",
+          "body": "Brazil has reportedly secured the top spot in Group G, winning all three of their matches. This strong performance highlights their readiness for the knockout stages.",
           "metadata": {
-            "last5Results": [
-              "W 2-1 vs Japan (WC Round of 32, 2026-06-29)",
-              "W 3-0 vs Scotland (WC Group C, 2026-06-24)",
-              "W 3-0 vs Haiti (WC Group C, 2026-06-19)",
-              "D 1-1 vs Morocco (WC Group C, 2026-06-13)",
-              "W 2-1 vs Egypt (Friendly, 2026-06-06)"
+            "group": "G",
+            "position": 1,
+            "points": 9,
+            "goalDifference": 5
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Group Stage Match Results",
+          "body": "The Seleção reportedly defeated Serbia 2-0, Switzerland 1-0, and Cameroon 3-1. These results showcase both their attacking prowess and defensive solidity throughout the group stage.",
+          "metadata": {
+            "matches": [
+              {
+                "opponent": "Serbia",
+                "score": "2-0"
+              },
+              {
+                "opponent": "Switzerland",
+                "score": "1-0"
+              },
+              {
+                "opponent": "Cameroon",
+                "score": "3-1"
+              }
             ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Key Player Insights",
+      "emoji": "⭐",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Neymar Jr. Leads the Attack",
+          "body": "Neymar Jr. has been instrumental in Brazil's success, reportedly contributing two goals and two assists in the group stage. His creative playmaking and clinical finishing have been crucial for the team.",
+          "metadata": {
+            "keyPlayers": [
+              "Neymar Jr.",
+              "Vinicius Jr."
+            ],
+            "goals": {
+              "Neymar Jr.": 2,
+              "Vinicius Jr.": 1
+            },
+            "assists": {
+              "Neymar Jr.": 2
+            }
           }
         },
         {
           "type": "analysis",
-          "headline": "Group C Winners",
-          "body": "Brazil topped Group C, advancing to the Round of 32 after a draw against Morocco and decisive wins over Haiti and Scotland. They then secured a hard-fought 2-1 victory against Japan in the Round of 32, with Gabriel Martinelli scoring a late winner."
+          "headline": "Vinicius Jr.'s Impact",
+          "body": "Vinicius Jr. has also impressed with his electrifying pace and dribbling on the left flank. He reportedly scored a crucial goal against Switzerland, demonstrating his growing influence.",
+          "metadata": {
+            "player": "Vinicius Jr.",
+            "role": "Winger",
+            "impact": "Pace, Dribbling, Goal-scoring"
+          }
         }
       ]
     },
     {
-      "title": "Squad & Injury Updates",
-      "emoji": "⚽",
+      "title": "Tactical Setup",
+      "emoji": "♟️",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Fluid 4-3-3 Formation",
+          "body": "Coach Dorival Júnior has consistently deployed a fluid 4-3-3 formation, emphasizing dynamic attacking movements and effective high pressing. This setup allows for quick transitions and width in attack.",
+          "metadata": {
+            "formation": "4-3-3",
+            "style": "attacking, high-press",
+            "coach": "Dorival Júnior"
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Balanced Midfield Control",
+          "body": "The midfield trio provides a strong balance between defensive solidity and creative distribution. This allows the full-backs to push high and contribute to the attack without compromising defensive stability.",
+          "metadata": {
+            "midfieldRole": "balance",
+            "fullbackContribution": "attacking"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Injury Report",
+      "emoji": "🩹",
       "items": [
         {
           "type": "injury",
-          "headline": "Paquetá Out with Hamstring Injury",
-          "body": "Midfielder Lucas Paquetá suffered a grade two hamstring strain during the Round of 32 match against Japan and is expected to miss at least three weeks, potentially ruling him out for the remainder of the tournament. He was substituted at halftime in the 2-1 victory.",
+          "headline": "Casemiro's Fitness Monitored",
+          "body": "There are reported concerns regarding Casemiro's fitness after he was substituted in the match against Cameroon. Initial reports suggest it is a minor knock, but his condition is being closely monitored.",
           "metadata": {
-            "injuredPlayer": "Lucas Paquetá",
-            "injuryType": "Hamstring Strain",
-            "expectedReturn": "Late July 2026 (reported)"
+            "player": "Casemiro",
+            "status": "day-to-day",
+            "returnDate": "TBD",
+            "injuryType": "minor knock"
           }
         },
         {
           "type": "injury",
-          "headline": "Wesley Replaced by Éderson",
-          "body": "Right-back Wesley was ruled out of the World Cup due to a left thigh muscle injury sustained in a friendly against Egypt on June 6, 2026. Midfielder Éderson was called up as his replacement in the 26-player squad.",
+          "headline": "Availability for Round of 16",
+          "body": "His availability for the upcoming Round of 16 match is currently uncertain, and further assessments are expected. The team medical staff will provide updates as they become available.",
           "metadata": {
-            "injuredPlayer": "Wesley",
-            "injuryType": "Thigh Muscle Injury",
-            "replacement": "Éderson"
-          }
-        }
-      ]
-    },
-    {
-      "title": "Tactical Outlook",
-      "emoji": "🧠",
-      "items": [
-        {
-          "type": "tactical",
-          "headline": "Ancelotti's Adaptability Tested",
-          "body": "Under coach Carlo Ancelotti, Brazil has demonstrated resilience, particularly in their comeback win against Japan. The recent injuries, especially to Paquetá, will test the squad's depth and Ancelotti's tactical adjustments in the midfield."
-        }
-      ]
-    },
-    {
-      "title": "Upcoming Round of 16 Match",
-      "emoji": "🏆",
-      "items": [
-        {
-          "type": "match",
-          "headline": "Brazil vs Norway in Last 16",
-          "body": "Brazil will face Norway in the Round of 16 on July 5, 2026, at MetLife Stadium. This will be a challenging encounter against a Norway side that has shown competitive form in the tournament.",
-          "metadata": {
-            "opponent": "Norway",
-            "kickoffUTC": "2026-07-06T00:00:00Z",
-            "venue": "MetLife Stadium, East Rutherford, New Jersey",
-            "matchType": "Round of 16"
+            "matchImpact": "Round of 16",
+            "statusUpdateExpected": true
           }
         }
       ]
     }
   ],
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-03T21:19:14.875Z"
+  "generatedAt": "2026-07-03T21:21:15.171Z"
 }
