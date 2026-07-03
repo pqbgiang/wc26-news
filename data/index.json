@@ -3,9 +3,11 @@
     "slug": "2026-07-03_post-match-general",
     "file": "pages/2026-07-03_post-match-general.html",
     "type": "daily-briefing",
-    "title": "Tournament Headlines & Analysis",
-    "summary": "World Cup 2026 analysis: daily briefing",
-    "teams": [],
+    "title": "What's Happening Now",
+    "summary": "World Cup 2026 analysis: Brazil",
+    "teams": [
+      "Brazil"
+    ],
     "date": "2026-07-03",
     "jsonPath": "data/reports/2026-07-03_post-match-general.json",
     "provider": "gemini",
@@ -13,9 +15,9 @@
     "searchQueries": 0,
     "verified": false,
     "highlights": [
-      "Brazil Edges Uruguay in Thriller",
-      "France Dominates Poland 3-0",
-      "Early Quarter-Finalists Emerge"
+      "Brazil Advances to Round of 16",
+      "Round of 32 Victory over Japan",
+      "Strong Group Stage Performance"
     ]
   },
   {

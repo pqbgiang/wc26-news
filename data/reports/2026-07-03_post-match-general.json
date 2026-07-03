@@ -1,102 +1,148 @@
 {
   "type": "daily-briefing",
-  "team": null,
+  "team": "Brazil",
   "provider": "gemini",
   "date": "2026-07-03",
   "sections": [
     {
-      "title": "Round of 16 Highlights",
-      "emoji": "⚽️",
+      "title": "Tournament Overview",
+      "emoji": "🏆",
       "items": [
         {
-          "type": "match",
-          "headline": "Brazil Edges Uruguay in Thriller",
-          "body": "Brazil secured a hard-fought 2-1 victory over Uruguay in a captivating Round of 16 clash. Vinicius Jr. netted the decisive goal in the 82nd minute, sending the five-time champions into the quarter-finals.",
-          "metadata": {
-            "match": "Brazil vs. Uruguay",
-            "score": "2-1",
-            "venue": "MetLife Stadium, East Rutherford, New Jersey",
-            "kickoffUTC": "23:00",
-            "date": "2026-07-02"
-          }
+          "type": "analysis",
+          "headline": "Brazil Advances to Round of 16",
+          "body": "Brazil successfully navigated Group C, securing their spot in the knockout stages. They then defeated Japan in a thrilling Round of 32 encounter, setting up a clash with Norway.",
+          "metadata": {}
         },
         {
           "type": "match",
-          "headline": "France Dominates Poland 3-0",
-          "body": "Kylian Mbappé delivered a stellar performance, scoring two goals as France comfortably defeated Poland 3-0. The reigning champions showcased their attacking prowess, securing their spot in the next round with a dominant display.",
+          "headline": "Round of 32 Victory over Japan",
+          "body": "Brazil secured a dramatic 2-1 victory against Japan in the Round of 32 on June 29, with Gabriel Martinelli scoring a 95th-minute winner. The match was played at Houston Stadium.",
           "metadata": {
-            "match": "France vs. Poland",
-            "score": "3-0",
-            "venue": "AT&T Stadium, Arlington, Texas",
-            "kickoffUTC": "00:00",
-            "date": "2026-07-03"
+            "opponent": "Japan",
+            "score": "2-1",
+            "date": "2026-06-29",
+            "venue": "Houston Stadium, Houston, Texas",
+            "kickoffUTC": "15:00"
           }
         }
       ]
     },
     {
-      "title": "Quarter-Finalists Update",
-      "emoji": "🏆",
+      "title": "Team Form & Key Players",
+      "emoji": "⚽",
       "items": [
         {
-          "type": "analysis",
-          "headline": "Early Quarter-Finalists Emerge",
-          "body": "With two Round of 16 matches concluded, Brazil and France are the first teams to officially book their places in the quarter-finals. Both teams demonstrated strong form and tactical discipline in their respective victories.",
+          "type": "form",
+          "headline": "Strong Group Stage Performance",
+          "body": "Brazil finished their Group C campaign with a draw against Morocco (1-1) and dominant wins over Haiti (3-0) and Scotland (3-0). This strong showing ensured their progression to the knockout rounds.",
           "metadata": {
-            "qualifiedTeams": [
-              "Brazil",
-              "France"
+            "recentResults": [
+              {
+                "opponent": "Japan",
+                "score": "2-1",
+                "outcome": "W"
+              },
+              {
+                "opponent": "Scotland",
+                "score": "3-0",
+                "outcome": "W"
+              },
+              {
+                "opponent": "Haiti",
+                "score": "3-0",
+                "outcome": "W"
+              },
+              {
+                "opponent": "Morocco",
+                "score": "1-1",
+                "outcome": "D"
+              }
+            ]
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Ancelotti's Tactical Approach",
+          "body": "Coach Carlo Ancelotti has favored a 4-2-4 formation, aiming for an attacking style of play despite some pre-tournament injury setbacks. Key players like Vinicius Jr. and Gabriel Martinelli have been crucial in attack.",
+          "metadata": {
+            "coach": "Carlo Ancelotti",
+            "formation": "4-2-4",
+            "keyPlayers": [
+              "Vinicius Jr.",
+              "Gabriel Martinelli",
+              "Casemiro"
             ]
           }
         }
       ]
     },
     {
-      "title": "Injury Watch",
+      "title": "Injury Report",
       "emoji": "🩹",
       "items": [
         {
           "type": "injury",
-          "headline": "Harry Kane Doubtful for Next Match",
-          "body": "Reports indicate that England captain Harry Kane is a doubt for their upcoming quarter-final fixture. He reportedly sustained a minor knock during a training session yesterday, and his availability is currently being assessed by the medical staff.",
+          "headline": "Paquetá Out with Hamstring Injury",
+          "body": "Midfielder Lucas Paquetá sustained a hamstring injury during the Round of 32 match against Japan and is expected to be sidelined for three weeks. This injury likely rules him out for the remainder of the tournament.",
           "metadata": {
-            "player": "Harry Kane",
-            "team": "England",
-            "status": "doubtful",
-            "injuryType": "minor knock"
+            "player": "Lucas Paquetá",
+            "status": "Out (Hamstring)",
+            "returnDate": "Reported 3 weeks"
+          }
+        },
+        {
+          "type": "injury",
+          "headline": "Raphinha Nearing Return",
+          "body": "Winger Raphinha, who suffered a hamstring injury during the group stage, has reportedly returned to individual training. His availability for upcoming matches remains questionable but is trending positively.",
+          "metadata": {
+            "player": "Raphinha",
+            "status": "Questionable (Hamstring)",
+            "returnDate": "Day-to-day"
+          }
+        },
+        {
+          "type": "injury",
+          "headline": "Neymar's Calf Injury Managed",
+          "body": "Neymar has been managing a calf injury, which saw him miss Brazil's opening group stage match. He has since returned to full tactical training and has featured in subsequent games.",
+          "metadata": {
+            "player": "Neymar",
+            "status": "Fit (Managed Calf Injury)",
+            "returnDate": "Active"
           }
         }
       ]
     },
     {
-      "title": "Today's Fixtures",
+      "title": "Upcoming Match Preview",
       "emoji": "🗓️",
       "items": [
         {
           "type": "match",
-          "headline": "Argentina Faces Netherlands in Crucial Tie",
-          "body": "Argentina takes on the Netherlands in a highly anticipated Round of 16 encounter today. Both teams boast strong attacking lineups, promising a thrilling contest as they vie for a spot in the quarter-finals.",
+          "headline": "Round of 16 vs. Norway",
+          "body": "Brazil will face Norway in the Round of 16 on July 5, 2026, at the New York/New Jersey Stadium. This will be a crucial test for the Seleção as they aim to progress further in the tournament.",
           "metadata": {
-            "match": "Argentina vs. Netherlands",
-            "venue": "Mercedes-Benz Stadium, Atlanta, Georgia",
-            "kickoffUTC": "19:00",
-            "date": "2026-07-03"
+            "opponent": "Norway",
+            "date": "2026-07-05",
+            "venue": "New York/New Jersey Stadium, East Rutherford, New Jersey",
+            "kickoffUTC": "20:00"
           }
         },
         {
-          "type": "match",
-          "headline": "Germany Clashes with Portugal",
-          "body": "Germany and Portugal will battle it out in another exciting Round of 16 match later today. This fixture pits two European giants against each other, with both sides eager to advance deeper into the tournament.",
+          "type": "tactical",
+          "headline": "Tactical Adjustments Expected",
+          "body": "With Lucas Paquetá's absence, Carlo Ancelotti will need to adjust his midfield setup. The team will likely rely on its strong attacking depth and defensive solidity to counter Norway's threats, including Erling Haaland.",
           "metadata": {
-            "match": "Germany vs. Portugal",
-            "venue": "SoFi Stadium, Inglewood, California",
-            "kickoffUTC": "23:00",
-            "date": "2026-07-03"
+            "keyMatchups": [
+              "Brazil Midfield vs. Norway Midfield",
+              "Brazil Defense vs. Erling Haaland"
+            ],
+            "tacticalFocus": "Midfield restructuring, defensive solidity"
           }
         }
       ]
     }
   ],
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-03T02:41:12.039Z"
+  "generatedAt": "2026-07-03T03:51:24.434Z"
 }
