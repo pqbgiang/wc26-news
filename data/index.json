@@ -88,6 +88,28 @@
     ]
   },
   {
+    "slug": "2026-07-04_post-match-round_of_16_canada-vs-morocco",
+    "file": "pages/2026-07-04_post-match-round_of_16_canada-vs-morocco.html",
+    "type": "post-match-round_of_16",
+    "title": "Azzedine Ounahi's Masterclass: Canada Dominates Morocco",
+    "summary": "World Cup 2026 analysis: post match round_of_16",
+    "teams": [
+      "Canada",
+      "Morocco"
+    ],
+    "date": "2026-07-04",
+    "jsonPath": "data/reports/2026-07-04_post-match-round_of_16_canada-vs-morocco.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Canada 0-3 Morocco",
+      "Ismael Saibari (Morocco) was forced off due to a hamstring injury in the 22nd minute, replaced by Soufiane Rahimi.",
+      "Azzedine Ounahi (Morocco): Scored two crucial goals to secure the win."
+    ]
+  },
+  {
     "slug": "2026-07-03_morning-general",
     "file": "pages/2026-07-03_morning-general.html",
     "type": "daily-briefing",

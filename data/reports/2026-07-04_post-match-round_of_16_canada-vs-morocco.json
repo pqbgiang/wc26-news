@@ -1,0 +1,70 @@
+{
+  "type": "post-match-round_of_16",
+  "date": "2026-07-04",
+  "matches": [
+    {
+      "teams": [
+        "Canada",
+        "Morocco"
+      ],
+      "status": "completed",
+      "score": "0-3",
+      "scorers": [
+        {
+          "player": "Azzedine Ounahi",
+          "team": "Morocco",
+          "minute": "50'"
+        },
+        {
+          "player": "Azzedine Ounahi",
+          "team": "Morocco",
+          "minute": "85'"
+        },
+        {
+          "player": "Soufiane Rahimi",
+          "team": "Morocco",
+          "minute": "90+8'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Achraf Hakimi",
+          "team": "Morocco"
+        },
+        {
+          "player": "Brahim Díaz",
+          "team": "Morocco"
+        }
+      ],
+      "key_moments": [
+        "Ismael Saibari (Morocco) was forced off due to a hamstring injury in the 22nd minute, replaced by Soufiane Rahimi.",
+        "Azzedine Ounahi opened the scoring for Morocco in the 50th minute with an assist from Achraf Hakimi.",
+        "Azzedine Ounahi doubled Morocco's lead in the 85th minute, sweeping in a finish after a precise pass from Brahim Díaz.",
+        "Soufiane Rahimi sealed the victory for Morocco with a goal in the 90+8th minute."
+      ],
+      "standout_performers": [
+        {
+          "player": "Azzedine Ounahi",
+          "team": "Morocco",
+          "reason": "Scored two crucial goals to secure the win."
+        },
+        {
+          "player": "Achraf Hakimi",
+          "team": "Morocco",
+          "reason": "Provided an assist and was influential in Morocco's attacking play."
+        }
+      ],
+      "tactical_summary": "Morocco displayed a clinical performance, capitalizing on their chances with a patient approach and effective counter-attacks. Canada, despite their high-intensity play and efforts to create opportunities, struggled to convert against a resolute Moroccan defense.",
+      "advancement": {
+        "winner": "Morocco",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "Morocco delivered a commanding performance to overcome co-hosts Canada, showcasing their clinical finishing and defensive solidity in a highly anticipated Round of 16 clash. The Atlas Lions' experience shone through, as they efficiently dispatched a determined Canadian side that had made history reaching the knockout stages.",
+  "qf_notes": "Morocco faces a significant concern for the Quarterfinals with star midfielder Ismael Saibari suffering a hamstring injury in the first half against Canada, which forced his early substitution. His availability for the next stage is now in doubt, potentially impacting Morocco's attacking prowess.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-04T19:05:37.448Z"
+}
