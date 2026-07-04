@@ -1,0 +1,62 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-07-04",
+  "matches": [
+    {
+      "teams": [
+        "Colombia",
+        "Ghana"
+      ],
+      "status": "completed",
+      "score": "1-0",
+      "scorers": [
+        {
+          "player": "Jhon Arias",
+          "team": "Colombia",
+          "minute": "14'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Luis Suárez",
+          "team": "Colombia"
+        }
+      ],
+      "key_moments": [
+        "14' Goal by Jhon Arias (Colombia), assisted by Luis Suárez, giving Colombia an early lead.",
+        "Early in the match, Ghana's Marvin Senaya was substituted due to injury.",
+        "58' A potential second goal for Colombia was disallowed by VAR for offside.",
+        "Jhon Arias (Colombia) received a yellow card for a foul."
+      ],
+      "standout_performers": [
+        {
+          "player": "Jhon Arias",
+          "team": "Colombia",
+          "reason": "Scored the decisive goal that secured Colombia's advancement."
+        },
+        {
+          "player": "Luis Suárez",
+          "team": "Colombia",
+          "reason": "Provided the assist for the winning goal and was an offensive engine."
+        },
+        {
+          "player": "Lawrence Ati-Zigi",
+          "team": "Ghana",
+          "reason": "Made crucial saves to keep Ghana in the game, notably denying Luis Díaz."
+        }
+      ],
+      "tactical_summary": "Colombia initiated with an aggressive, high-tempo attack, quickly securing an early lead. Ghana responded with a disciplined low block, aiming to absorb pressure and exploit counter-attacking opportunities.",
+      "stats": {},
+      "advancement": {
+        "winner": "Colombia",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "Colombia secured their place in the Quarterfinals with a narrow 1-0 victory over Ghana, thanks to an early goal from Jhon Arias. Despite Ghana's resilient defensive efforts and a disallowed Colombian goal by VAR, Los Cafeteros held on to advance in a tense knockout encounter.",
+  "next_round_notes": "Colombia's Jhon Arias received a yellow card, and Jhon Córdoba was substituted due to injury. For Ghana, Marvin Senaya and Alidu Seidu both left the match with injuries, and Caleb Yirenkyi received a yellow card.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-04T03:41:25.091Z"
+}

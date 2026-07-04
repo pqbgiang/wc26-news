@@ -88,6 +88,28 @@
     ]
   },
   {
+    "slug": "2026-07-04_post-match-round_of_32_colombia-vs-ghana",
+    "file": "pages/2026-07-04_post-match-round_of_32_colombia-vs-ghana.html",
+    "type": "post-match-round_of_32",
+    "title": "Jhon Arias's Masterclass: Colombia Dominates Ghana",
+    "summary": "World Cup 2026 analysis: post match round_of_32",
+    "teams": [
+      "Colombia",
+      "Ghana"
+    ],
+    "date": "2026-07-04",
+    "jsonPath": "data/reports/2026-07-04_post-match-round_of_32_colombia-vs-ghana.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Colombia 1-0 Ghana",
+      "14' Goal by Jhon Arias (Colombia), assisted by Luis Suárez, giving Colombia an early lead.",
+      "Jhon Arias (Colombia): Scored the decisive goal that secured Colombia's advancement."
+    ]
+  },
+  {
     "slug": "2026-07-03_post-match-general",
     "file": "pages/2026-07-03_post-match-general.html",
     "type": "team-analysis",
