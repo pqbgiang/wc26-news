@@ -23,40 +23,58 @@
         }
       ],
       "key_moments": [
-        "14' Goal by Jhon Arias (Colombia), assisted by Luis Suárez, giving Colombia an early lead.",
-        "Early in the match, Ghana's Marvin Senaya was substituted due to injury.",
-        "58' A potential second goal for Colombia was disallowed by VAR for offside.",
-        "Jhon Arias (Colombia) received a yellow card for a foul."
+        "8' Early injury substitution for Colombia: Luis Suárez replaces Jhon Córdoba.",
+        "13' Early injury substitution for Ghana: Alidu Seidu replaces Marvin Senaya.",
+        "14' Goal: Jhon Arias scores for Colombia with an assist from Luis Suárez.",
+        "61' Luis Díaz's goal for Colombia is disallowed after a VAR review for offside."
       ],
       "standout_performers": [
         {
           "player": "Jhon Arias",
           "team": "Colombia",
-          "reason": "Scored the decisive goal that secured Colombia's advancement."
+          "reason": "Scored the decisive goal and displayed relentless work rate."
         },
         {
-          "player": "Luis Suárez",
+          "player": "Luis Díaz",
           "team": "Colombia",
-          "reason": "Provided the assist for the winning goal and was an offensive engine."
+          "reason": "Constantly stretched Ghana's defense with his movement and attacking threat."
         },
         {
-          "player": "Lawrence Ati-Zigi",
+          "player": "Mohammed Kudus",
           "team": "Ghana",
-          "reason": "Made crucial saves to keep Ghana in the game, notably denying Luis Díaz."
+          "reason": "Was Ghana's most significant attacking threat, creating promising situations with his dribbling."
+        },
+        {
+          "player": "Lawrence Ati Zigi",
+          "team": "Ghana",
+          "reason": "Made several crucial saves, keeping Ghana in the match."
         }
       ],
-      "tactical_summary": "Colombia initiated with an aggressive, high-tempo attack, quickly securing an early lead. Ghana responded with a disciplined low block, aiming to absorb pressure and exploit counter-attacking opportunities.",
-      "stats": {},
+      "tactical_summary": "Colombia dominated possession and pressed aggressively, utilizing overloads on the right flank to create chances. Ghana adopted a disciplined defensive low block, aiming to absorb pressure and counter-attack, but struggled to generate significant offensive opportunities.",
+      "stats": {
+        "possession": {
+          "home": 67,
+          "away": 33
+        },
+        "shots": {
+          "home": 9,
+          "away": 6
+        },
+        "xg": {
+          "home": null,
+          "away": null
+        }
+      },
       "advancement": {
         "winner": "Colombia",
-        "advanced_to": "Quarterfinals"
+        "advanced_to": "Round of 16"
       }
     }
   ],
-  "narrative": "Colombia secured their place in the Quarterfinals with a narrow 1-0 victory over Ghana, thanks to an early goal from Jhon Arias. Despite Ghana's resilient defensive efforts and a disallowed Colombian goal by VAR, Los Cafeteros held on to advance in a tense knockout encounter.",
-  "next_round_notes": "Colombia's Jhon Arias received a yellow card, and Jhon Córdoba was substituted due to injury. For Ghana, Marvin Senaya and Alidu Seidu both left the match with injuries, and Caleb Yirenkyi received a yellow card.",
+  "narrative": "Colombia secured a hard-fought 1-0 victory over Ghana in a tense Round of 32 clash, with Jhon Arias's early goal proving to be the difference. Despite Ghana's resilient defensive efforts and key saves from their goalkeeper, Colombia's tactical discipline and attacking prowess saw them through to the next stage.",
+  "next_round_notes": "Colombia has injury concerns for Jhon Córdoba, who was substituted early in the match. Yellow cards were issued to Jhon Arias and Richard Ríos for Colombia, and Caleb Yirenkyi, Abdul Fatawu, and Alidu Seidu for Ghana, which could lead to suspension risks if they accumulate further bookings.",
   "team": null,
   "provider": "gemini",
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-04T03:41:25.091Z"
+  "generatedAt": "2026-07-04T03:43:18.277Z"
 }
