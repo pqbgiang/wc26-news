@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-07-04_post-match-round_of_16_argentina-vs-cabo-verde",
+    "file": "pages/2026-07-04_post-match-round_of_16_argentina-vs-cabo-verde.html",
+    "type": "post-match-round_of_16",
+    "title": "post match round_of_16",
+    "summary": "World Cup 2026 analysis: post match round_of_16",
+    "teams": [
+      "Argentina",
+      "Cabo Verde"
+    ],
+    "date": "2026-07-04",
+    "jsonPath": "data/reports/2026-07-04_post-match-round_of_16_argentina-vs-cabo-verde.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Argentina vs Cabo Verde"
+    ]
+  },
+  {
     "slug": "2026-07-03_post-match-general",
     "file": "pages/2026-07-03_post-match-general.html",
     "type": "team-analysis",

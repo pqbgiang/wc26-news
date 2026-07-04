@@ -1,0 +1,32 @@
+{
+  "type": "post-match-round_of_16",
+  "date": "2026-07-04",
+  "matches": [
+    {
+      "teams": [
+        "Argentina",
+        "Cabo Verde"
+      ],
+      "status": "upcoming",
+      "score": null,
+      "scorers": [],
+      "assists": [],
+      "key_moments": [],
+      "standout_performers": [],
+      "tactical_summary": null,
+      "stats": null,
+      "advancement": null,
+      "metadata": {
+        "kickoffUTC": "22:00",
+        "venue": "Hard Rock Stadium, Miami Gardens, Florida",
+        "stage": "round_of_32"
+      }
+    }
+  ],
+  "narrative": null,
+  "qf_notes": null,
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-04T01:33:20.246Z"
+}
