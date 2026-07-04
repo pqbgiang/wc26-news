@@ -23,58 +23,40 @@
         }
       ],
       "key_moments": [
-        "8' Early injury substitution for Colombia: Luis Suárez replaces Jhon Córdoba.",
-        "13' Early injury substitution for Ghana: Alidu Seidu replaces Marvin Senaya.",
-        "14' Goal: Jhon Arias scores for Colombia with an assist from Luis Suárez.",
-        "61' Luis Díaz's goal for Colombia is disallowed after a VAR review for offside."
+        "7' Colombia's Jhon Córdoba leaves the field due to injury, replaced by Luis Suárez.",
+        "14' Jhon Arias scores the opening goal for Colombia with an assist from Luis Suárez.",
+        "A Colombia goal is disallowed after a VAR review.",
+        "48' Johan Mojica's header for Colombia strikes the post."
       ],
       "standout_performers": [
         {
           "player": "Jhon Arias",
           "team": "Colombia",
-          "reason": "Scored the decisive goal and displayed relentless work rate."
+          "reason": "Scored the decisive goal early in the match."
         },
         {
-          "player": "Luis Díaz",
+          "player": "Luis Suárez",
           "team": "Colombia",
-          "reason": "Constantly stretched Ghana's defense with his movement and attacking threat."
+          "reason": "Provided the assist for the goal and contributed to offensive plays."
         },
         {
-          "player": "Mohammed Kudus",
+          "player": "Lawrence Ati-Zigi",
           "team": "Ghana",
-          "reason": "Was Ghana's most significant attacking threat, creating promising situations with his dribbling."
-        },
-        {
-          "player": "Lawrence Ati Zigi",
-          "team": "Ghana",
-          "reason": "Made several crucial saves, keeping Ghana in the match."
+          "reason": "Made several crucial saves to keep Ghana in contention."
         }
       ],
-      "tactical_summary": "Colombia dominated possession and pressed aggressively, utilizing overloads on the right flank to create chances. Ghana adopted a disciplined defensive low block, aiming to absorb pressure and counter-attack, but struggled to generate significant offensive opportunities.",
-      "stats": {
-        "possession": {
-          "home": 67,
-          "away": 33
-        },
-        "shots": {
-          "home": 9,
-          "away": 6
-        },
-        "xg": {
-          "home": null,
-          "away": null
-        }
-      },
+      "tactical_summary": "Colombia began the match with high intensity, dominating possession and creating early scoring opportunities, which led to their opening goal. Ghana, despite absorbing early pressure, gradually found their rhythm, focusing on defensive solidity and looking for counter-attacking chances, but could not break through Colombia's disciplined defense.",
+      "stats": {},
       "advancement": {
         "winner": "Colombia",
         "advanced_to": "Round of 16"
       }
     }
   ],
-  "narrative": "Colombia secured a hard-fought 1-0 victory over Ghana in a tense Round of 32 clash, with Jhon Arias's early goal proving to be the difference. Despite Ghana's resilient defensive efforts and key saves from their goalkeeper, Colombia's tactical discipline and attacking prowess saw them through to the next stage.",
-  "next_round_notes": "Colombia has injury concerns for Jhon Córdoba, who was substituted early in the match. Yellow cards were issued to Jhon Arias and Richard Ríos for Colombia, and Caleb Yirenkyi, Abdul Fatawu, and Alidu Seidu for Ghana, which could lead to suspension risks if they accumulate further bookings.",
+  "narrative": "Colombia secured a hard-fought 1-0 victory over Ghana in the Round of 32, with Jhon Arias's early goal proving decisive. This win propels the unbeaten 'Los Cafeteros' into the next stage, while Ghana's resilient efforts to find an equalizer ultimately fell short.",
+  "next_round_notes": "Colombia has an injury concern with Jhon Córdoba, who was substituted early in the match. Richard Ríos also received a yellow card. For Ghana, Marvin Senaya and Kwasi Sibo were substituted due to injuries, and Caleb Yirenkyi, Alidu Seidu, and Abdul Fatawu all received yellow cards.",
   "team": null,
   "provider": "gemini",
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-04T03:43:18.277Z"
+  "generatedAt": "2026-07-04T03:49:20.433Z"
 }
