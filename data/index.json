@@ -69,7 +69,7 @@
     "slug": "2026-07-04_post-match-round_of_32_colombia-vs-ghana",
     "file": "pages/2026-07-04_post-match-round_of_32_colombia-vs-ghana.html",
     "type": "post-match-round_of_32",
-    "title": "Jhon Arias's Masterclass: Colombia Dominates Ghana",
+    "title": "Luis Diaz's Masterclass: Colombia Dominates Ghana",
     "summary": "World Cup 2026 analysis: post match round_of_32",
     "teams": [
       "Colombia",
@@ -78,13 +78,13 @@
     "date": "2026-07-04",
     "jsonPath": "data/reports/2026-07-04_post-match-round_of_32_colombia-vs-ghana.json",
     "provider": "gemini",
-    "model": "gemini-2.5-flash",
+    "model": "gemini-3.1-flash-lite",
     "searchQueries": 0,
     "verified": false,
     "highlights": [
       "Colombia 1-0 Ghana",
-      "7' Colombia's Jhon Córdoba leaves the field due to injury, replaced by Luis Suárez.",
-      "Jhon Arias (Colombia): Scored the decisive goal early in the match."
+      "Luis Diaz scored the decisive goal in the 78th minute following a quick counter-attack.",
+      "Luis Diaz (Colombia): Scored the winning goal and remained a constant threat on the wing."
     ]
   },
   {
