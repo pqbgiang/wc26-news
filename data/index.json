@@ -44,28 +44,6 @@
     ]
   },
   {
-    "slug": "2026-07-04_post-match-round_of_32_argentina-vs-cabo-verde",
-    "file": "pages/2026-07-04_post-match-round_of_32_argentina-vs-cabo-verde.html",
-    "type": "post-match-round_of_32",
-    "title": "Lionel Messi's Masterclass: Argentina Dominates Cabo Verde",
-    "summary": "World Cup 2026 analysis: post match round_of_32",
-    "teams": [
-      "Argentina",
-      "Cabo Verde"
-    ],
-    "date": "2026-07-04",
-    "jsonPath": "data/reports/2026-07-04_post-match-round_of_32_argentina-vs-cabo-verde.json",
-    "provider": "gemini",
-    "model": "gemini-2.5-flash",
-    "searchQueries": 0,
-    "verified": false,
-    "highlights": [
-      "Argentina 3-0 Cabo Verde",
-      "20': Lionel Messi opened the scoring for Argentina with a precise finish.",
-      "Lionel Messi (Argentina): Scored the crucial opening goal and dictated Argentina's attacking play."
-    ]
-  },
-  {
     "slug": "2026-07-04_post-match-round_of_32_australia-vs-egypt",
     "file": "pages/2026-07-04_post-match-round_of_32_australia-vs-egypt.html",
     "type": "post-match-round_of_32",
@@ -107,27 +85,6 @@
       "Colombia 1-0 Ghana",
       "7' Colombia's Jhon Córdoba leaves the field due to injury, replaced by Luis Suárez.",
       "Jhon Arias (Colombia): Scored the decisive goal early in the match."
-    ]
-  },
-  {
-    "slug": "2026-07-03_post-match-general",
-    "file": "pages/2026-07-03_post-match-general.html",
-    "type": "team-analysis",
-    "title": "Tactical Breakdown: Brazil",
-    "summary": "World Cup 2026 analysis: Brazil",
-    "teams": [
-      "Brazil"
-    ],
-    "date": "2026-07-03",
-    "jsonPath": "data/reports/2026-07-03_post-match-general.json",
-    "provider": "gemini",
-    "model": "gemini-2.5-flash",
-    "searchQueries": 0,
-    "verified": false,
-    "highlights": [
-      "Brazil Dominates Group G",
-      "Group Stage Match Results",
-      "Neymar Jr. Leads the Attack"
     ]
   },
   {
