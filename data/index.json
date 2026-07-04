@@ -22,6 +22,28 @@
     ]
   },
   {
+    "slug": "2026-07-04_post-match-round_of_16_australia-vs-egypt",
+    "file": "pages/2026-07-04_post-match-round_of_16_australia-vs-egypt.html",
+    "type": "post-match-round_of_16",
+    "title": "Mathew Ryan's Masterclass: Australia Dominates Egypt",
+    "summary": "World Cup 2026 analysis: post match round_of_16",
+    "teams": [
+      "Australia",
+      "Egypt"
+    ],
+    "date": "2026-07-04",
+    "jsonPath": "data/reports/2026-07-04_post-match-round_of_16_australia-vs-egypt.json",
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Australia 0-0 Egypt",
+      "Australia won 5-4 on penalties after 120 minutes of scoreless play",
+      "Mathew Ryan (Australia): Kept a clean sheet and secured the shootout victory"
+    ]
+  },
+  {
     "slug": "2026-07-03_post-match-general",
     "file": "pages/2026-07-03_post-match-general.html",
     "type": "team-analysis",

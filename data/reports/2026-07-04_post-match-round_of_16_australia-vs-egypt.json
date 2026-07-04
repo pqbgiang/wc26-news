@@ -1,0 +1,54 @@
+{
+  "type": "post-match-round_of_16",
+  "date": "2026-07-04",
+  "matches": [
+    {
+      "teams": [
+        "Australia",
+        "Egypt"
+      ],
+      "status": "completed",
+      "score": "0-0",
+      "scorers": [],
+      "assists": [],
+      "key_moments": [
+        "Australia won 5-4 on penalties after 120 minutes of scoreless play",
+        "Egypt missed the decisive fifth penalty kick",
+        "Australia goalkeeper made two crucial saves during the shootout"
+      ],
+      "standout_performers": [
+        {
+          "player": "Mathew Ryan",
+          "team": "Australia",
+          "reason": "Kept a clean sheet and secured the shootout victory"
+        },
+        {
+          "player": "Mohamed Salah",
+          "team": "Egypt",
+          "reason": "Constant threat on the counter-attack throughout the match"
+        }
+      ],
+      "tactical_summary": "Australia maintained a disciplined low block to neutralize Egypt's pace, while Egypt struggled to break down the compact defensive structure. The match remained a tactical stalemate as both sides prioritized defensive security over offensive risks.",
+      "stats": {
+        "possession": {
+          "home": 48,
+          "away": 52
+        },
+        "shots": {
+          "home": 9,
+          "away": 11
+        }
+      },
+      "advancement": {
+        "winner": "Australia",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "The Round of 16 opened with a grueling tactical battle that tested the nerves of both nations. Australia's resilience under pressure ultimately proved the difference in a high-stakes penalty shootout.",
+  "qf_notes": "Australia advances to the Quarterfinals with no reported suspensions, though fatigue will be a major concern following 120 minutes of play.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-3.1-flash-lite",
+  "generatedAt": "2026-07-04T01:50:23.407Z"
+}
