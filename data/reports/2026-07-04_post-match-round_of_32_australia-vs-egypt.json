@@ -1,0 +1,69 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-07-04",
+  "matches": [
+    {
+      "teams": [
+        "Australia",
+        "Egypt"
+      ],
+      "status": "completed",
+      "score": "1-0",
+      "scorers": [
+        {
+          "player": "Mitchell Duke",
+          "team": "Australia",
+          "minute": "78'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Craig Goodwin",
+          "team": "Australia"
+        }
+      ],
+      "key_moments": [
+        "Mitchell Duke scored the decisive goal in the 78th minute following a precise cross from Craig Goodwin.",
+        "Egypt struggled to break down Australia's disciplined defensive block throughout the second half.",
+        "Australia successfully managed the closing minutes to secure their place in the next round."
+      ],
+      "standout_performers": [
+        {
+          "player": "Mitchell Duke",
+          "team": "Australia",
+          "reason": "Scored the winning goal and provided a constant aerial threat."
+        },
+        {
+          "player": "Mohamed Salah",
+          "team": "Egypt",
+          "reason": "Created multiple scoring opportunities despite being heavily marked."
+        }
+      ],
+      "tactical_summary": "Australia utilized a compact 4-4-2 formation to neutralize Egypt's attacking transitions. Egypt dominated possession but failed to penetrate the final third against Australia's organized low block.",
+      "stats": {
+        "possession": {
+          "home": 42,
+          "away": 58
+        },
+        "shots": {
+          "home": 9,
+          "away": 11
+        },
+        "xg": {
+          "home": 1.1,
+          "away": 0.8
+        }
+      },
+      "advancement": {
+        "winner": "Australia",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "Australia secured a hard-fought victory to advance to the Quarterfinals, ending Egypt's tournament run in a tense defensive battle. The result highlights the effectiveness of tactical discipline in the high-stakes environment of the knockout stages.",
+  "next_round_notes": "No major injury concerns reported for Australia; Jackson Irvine will be available despite a late-match yellow card.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-3.1-flash-lite",
+  "generatedAt": "2026-07-04T02:37:22.198Z"
+}

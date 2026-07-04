@@ -66,6 +66,28 @@
     ]
   },
   {
+    "slug": "2026-07-04_post-match-round_of_32_australia-vs-egypt",
+    "file": "pages/2026-07-04_post-match-round_of_32_australia-vs-egypt.html",
+    "type": "post-match-round_of_32",
+    "title": "Mitchell Duke's Masterclass: Australia Dominates Egypt",
+    "summary": "World Cup 2026 analysis: post match round_of_32",
+    "teams": [
+      "Australia",
+      "Egypt"
+    ],
+    "date": "2026-07-04",
+    "jsonPath": "data/reports/2026-07-04_post-match-round_of_32_australia-vs-egypt.json",
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Australia 1-0 Egypt",
+      "Mitchell Duke scored the decisive goal in the 78th minute following a precise cross from Craig Goodwin.",
+      "Mitchell Duke (Australia): Scored the winning goal and provided a constant aerial threat."
+    ]
+  },
+  {
     "slug": "2026-07-03_post-match-general",
     "file": "pages/2026-07-03_post-match-general.html",
     "type": "team-analysis",
