@@ -7,26 +7,94 @@
         "Argentina",
         "Cabo Verde"
       ],
-      "status": "upcoming",
-      "score": null,
-      "scorers": [],
-      "assists": [],
-      "key_moments": [],
-      "standout_performers": [],
-      "tactical_summary": null,
-      "stats": null,
-      "advancement": null,
-      "metadata": {
-        "kickoffUTC": "22:00",
-        "venue": "Hard Rock Stadium, Miami Gardens, Florida",
-        "stage": "round_of_32"
+      "status": "completed",
+      "score": "3-2 (AET)",
+      "scorers": [
+        {
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "minute": "29'"
+        },
+        {
+          "player": "Deroy Duarte",
+          "team": "Cabo Verde",
+          "minute": "58'"
+        },
+        {
+          "player": "Lisandro Martínez",
+          "team": "Argentina",
+          "minute": "93'"
+        },
+        {
+          "player": "Sidny Lopes Cabral",
+          "team": "Cabo Verde",
+          "minute": "103'"
+        },
+        {
+          "player": "Diney Borges (OG)",
+          "team": "Argentina",
+          "minute": "111'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Lisandro Martínez",
+          "team": "Argentina"
+        },
+        {
+          "player": "Nicolás Tagliafico",
+          "team": "Argentina"
+        },
+        {
+          "player": "Lionel Messi",
+          "team": "Argentina"
+        }
+      ],
+      "key_moments": [
+        "Lionel Messi opened the scoring in the 29th minute, extending his World Cup goal record.",
+        "Deroy Duarte equalized for Cabo Verde in the 58th minute, stunning the defending champions and forcing extra time.",
+        "Sidny Lopes Cabral scored a spectacular equalizer in the 103rd minute of extra time, making it 2-2.",
+        "An own goal by Diney Borges in the 111th minute, deflecting a Cristian Romero header, ultimately secured Argentina's victory.",
+        "Cabo Verde's goalkeeper Vozinha made 10 crucial saves, including five against Messi, to keep his team in contention."
+      ],
+      "standout_performers": [
+        {
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "reason": "Scored the opener, provided a crucial assist for the winning goal, and was a constant threat throughout the match."
+        },
+        {
+          "player": "Vozinha",
+          "team": "Cabo Verde",
+          "reason": "Made 10 vital saves, including several against Messi, demonstrating exceptional goalkeeping to keep his team in the game."
+        },
+        {
+          "player": "Sidny Lopes Cabral",
+          "team": "Cabo Verde",
+          "reason": "Scored a monumental equalizer in extra time, showcasing remarkable skill and resilience."
+        }
+      ],
+      "tactical_summary": "Argentina, despite dominating possession, struggled to break down a resilient Cabo Verde defense that played with discipline and courage. Cabo Verde effectively countered, twice equalizing and pushing the reigning champions to their limits in an extra-time thriller.",
+      "stats": {
+        "possession": {
+          "home": 63,
+          "away": 36
+        },
+        "shots": {
+          "home": 22,
+          "away": 16
+        }
+      },
+      "advancement": {
+        "winner": "Argentina",
+        "advanced_to": "Round of 16"
       }
     }
   ],
-  "narrative": null,
-  "qf_notes": null,
+  "narrative": "The defending champions Argentina faced an unexpected and thrilling challenge from World Cup debutants Cabo Verde, who twice equalized to push the match into extra time. This dramatic encounter, marked by heroic performances and crucial goals, showcased the resilience of both teams and provided one of the tournament's most memorable upsets in the making.",
+  "qf_notes": "Argentina's hard-fought victory against Cabo Verde highlighted potential vulnerabilities, particularly in maintaining leads and defensive solidity against determined underdogs. They will need to address these issues as they prepare to face Egypt in the Round of 16, a team that also advanced through a penalty shootout.",
   "team": null,
   "provider": "gemini",
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-04T01:33:20.246Z"
+  "generatedAt": "2026-07-04T01:41:31.484Z"
 }
