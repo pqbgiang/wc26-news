@@ -1,0 +1,68 @@
+{
+  "type": "post-match-round_of_16",
+  "date": "2026-07-05",
+  "matches": [
+    {
+      "teams": [
+        "Brazil",
+        "Norway"
+      ],
+      "status": "completed",
+      "score": "1-2",
+      "scorers": [
+        {
+          "player": "Erling Haaland",
+          "team": "Norway",
+          "minute": "79'"
+        },
+        {
+          "player": "Erling Haaland",
+          "team": "Norway",
+          "minute": "89'"
+        },
+        {
+          "player": "Neymar",
+          "team": "Brazil",
+          "minute": "90+9'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Andreas Schjelderup",
+          "team": "Norway"
+        }
+      ],
+      "key_moments": [
+        "An early goal by Alexander Sorloth for Norway was disallowed for offside, setting a tense tone for the match.",
+        "Bruno Guimaraes missed a penalty for Brazil in the first half, with Ørjan Nyland making a crucial save.",
+        "Erling Haaland broke the deadlock for Norway in the 79th minute, giving them a late lead.",
+        "Haaland scored his second goal in the 89th minute, doubling Norway's lead and putting them firmly in control.",
+        "Neymar converted a penalty for Brazil in the 99th minute, offering a late consolation but not enough to change the outcome."
+      ],
+      "standout_performers": [
+        {
+          "player": "Erling Haaland",
+          "team": "Norway",
+          "reason": "Scored both decisive goals, showcasing clinical finishing under pressure."
+        },
+        {
+          "player": "Ørjan Nyland",
+          "team": "Norway",
+          "reason": "Made a pivotal penalty save from Bruno Guimaraes, maintaining a clean sheet during a critical period."
+        }
+      ],
+      "tactical_summary": "Norway's disciplined defensive setup effectively frustrated Brazil's attacking efforts, allowing them to absorb pressure and launch effective counter-attacks. Brazil struggled to convert their numerous chances, with a missed penalty highlighting their difficulties in breaking down a resolute Norwegian defense.",
+      "stats": {},
+      "advancement": {
+        "winner": "Norway",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "In a dramatic Round of 16 clash, Norway delivered a stunning upset by defeating five-time champions Brazil 2-1, fueled by two late goals from Erling Haaland. The match was a rollercoaster of emotions, featuring a disallowed early goal for Norway and a crucial penalty save by Ørjan Nyland, before Neymar's late penalty proved insufficient for Brazil.",
+  "qf_notes": "Norway advances to the Quarterfinals, where they will face the winner of the Mexico vs England match. Brazil's elimination marks a significant upset, while Norway's key players appear to have emerged without new injury concerns for the next stage. Brazil had already been without Lucas Paqueta and Raphinha due to injuries, and Casemiro's fitness was a pre-match concern.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-05T22:13:15.991Z"
+}

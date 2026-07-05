@@ -1,5 +1,28 @@
 [
   {
+    "slug": "2026-07-05_post-match-round_of_16_brazil-vs-norway",
+    "file": "pages/2026-07-05_post-match-round_of_16_brazil-vs-norway.html",
+    "type": "post-match-round_of_16",
+    "title": "Erling Haaland's Masterclass: Brazil Dominates Norway",
+    "summary": "World Cup 2026 analysis: post match round_of_16",
+    "teams": [
+      "Brazil",
+      "Norway"
+    ],
+    "date": "2026-07-05",
+    "generatedAt": "2026-07-05T22:13:15.991Z",
+    "jsonPath": "data/reports/2026-07-05_post-match-round_of_16_brazil-vs-norway.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Brazil 1-2 Norway",
+      "An early goal by Alexander Sorloth for Norway was disallowed for offside, setting a tense tone for the match.",
+      "Erling Haaland (Norway): Scored both decisive goals, showcasing clinical finishing under pressure."
+    ]
+  },
+  {
     "slug": "2026-07-05_post-match-round_of_16_paraguay-vs-france",
     "file": "pages/2026-07-05_post-match-round_of_16_paraguay-vs-france.html",
     "type": "post-match-round_of_16",
