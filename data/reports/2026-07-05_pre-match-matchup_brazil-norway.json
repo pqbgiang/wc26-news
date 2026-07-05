@@ -1,0 +1,143 @@
+{
+  "type": "pre-match-matchup",
+  "team": "Brazil,Norway",
+  "date": "2026-07-05",
+  "sections": [
+    {
+      "title": "Brazil vs. Norway: Round of 16 Showdown",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Brazil Seeks to Break Norway Jinx in Crucial Knockout Tie",
+          "body": "Five-time champions Brazil face a surprising historical hurdle against Norway, having never secured a victory in their four previous encounters. This Round of 16 clash presents a significant opportunity for the Seleção to overcome this unique head-to-head record and advance deeper into the tournament.",
+          "metadata": {
+            "homeTeam": "Brazil",
+            "awayTeam": "Norway",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Road to the Round of 16: Form and Group Stage Journeys",
+      "items": [
+        {
+          "type": "form",
+          "headline": "Brazil's Dominant Group Stage Performance and Knockout Start",
+          "body": "Brazil topped Group C with seven points, securing wins against Haiti and Scotland, and drawing with Morocco. Their strong form continued into the Round of 32, where they overcame Japan with a late 2-1 victory.",
+          "metadata": {
+            "homeTeam": "Brazil",
+            "awayTeam": "Norway",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        },
+        {
+          "type": "form",
+          "headline": "Norway's Historic Qualification and Knockout Stage Debut",
+          "body": "Norway qualified for the World Cup after a 28-year absence, winning all eight of their qualifying matches. They finished as Group I runners-up, notably defeating Iraq and Senegal, before securing their first-ever major knockout stage win against Ivory Coast in the Round of 32."
+        }
+      ]
+    },
+    {
+      "title": "Head-to-Head History: A Surprising Record",
+      "items": [
+        {
+          "type": "stat",
+          "headline": "Brazil's Unbeaten Streak Against Norway: A Curious Anomaly",
+          "body": "In four previous senior international meetings, Brazil has never defeated Norway, recording two draws and two losses. This includes a famous 2-1 Norwegian victory in the 1998 World Cup group stage.",
+          "metadata": {
+            "homeTeam": "Brazil",
+            "awayTeam": "Norway",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Key Players and Tactical Battlegrounds",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Haaland vs. Brazil's Defense: A Premier Striker's Challenge",
+          "body": "Norway's Erling Haaland, with five group stage goals, will be the focal point of their attack, testing Brazil's formidable central defensive pairing of Marquinhos and Gabriel Magalhaes. His blistering pace and clinical finishing pose a constant threat.",
+          "metadata": {
+            "homeTeam": "Brazil",
+            "awayTeam": "Norway",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Midfield Maestros: Ødegaard's Creativity Against Brazil's Engine Room",
+          "body": "Martin Ødegaard's playmaking ability will be crucial for Norway in linking midfield to attack, facing the challenge of Brazil's robust midfield led by Casemiro and Bruno Guimarães. This battle for control in the center will dictate tempo.",
+          "metadata": {
+            "homeTeam": "Brazil",
+            "awayTeam": "Norway",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Brazil's Attacking Flair: Vinicius Jr. and Raphinha on the Wings",
+          "body": "Brazil will look to exploit wide areas with the pace and dribbling of Vinicius Junior and Raphinha, aiming to stretch Norway's defense. Their ability to create chances from the flanks will be key to unlocking the Norwegian backline.",
+          "metadata": {
+            "homeTeam": "Brazil",
+            "awayTeam": "Norway",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tactical Approaches: Stability vs. Explosiveness",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Brazil's Measured Control Under Ancelotti",
+          "body": "Under Carlo Ancelotti, Brazil is expected to adopt a tactically stable approach, focusing on possession, disciplined defense, and exploiting their deep attacking talent. They will aim to control the game's rhythm and transitions.",
+          "metadata": {
+            "homeTeam": "Brazil",
+            "awayTeam": "Norway",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Norway's High-Risk, High-Reward Counter-Attacking Style",
+          "body": "Ståle Solbakken's Norway typically employs a fluid 4-2-3-1 or 4-3-3 formation, characterized by explosive attacking play and a reliance on quick transitions. They are prepared to defend compactly and launch lethal counterattacks, leveraging Haaland's speed."
+        }
+      ]
+    },
+    {
+      "title": "The Stakes: Quarter-Final Berth Awaits",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Brazil's Quest for a Sixth Star and Historical Redemption",
+          "body": "For Brazil, a victory means advancing to the Quarter-finals and continuing their pursuit of a record sixth World Cup title, while also breaking their unusual winless streak against Norway. An early exit would be their earliest since 1990.",
+          "metadata": {
+            "homeTeam": "Brazil",
+            "awayTeam": "Norway",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Norway's Golden Generation Aims for Deeper Tournament Run",
+          "body": "Norway's 'golden generation' has already made history with their first knockout stage win, and a Quarter-final berth would solidify their status as a legitimate World Cup contender. This match is a chance to prove their mettle against one of football's giants."
+        }
+      ]
+    }
+  ],
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-05T10:27:15.008Z"
+}

@@ -1,5 +1,27 @@
 [
   {
+    "slug": "2026-07-05_pre-match-matchup_brazil-norway",
+    "file": "pages/2026-07-05_pre-match-matchup_brazil-norway.html",
+    "type": "pre-match-matchup",
+    "title": "Brazil,Norway · pre match matchup",
+    "summary": "World Cup 2026 analysis: Brazil,Norway",
+    "teams": [
+      "Brazil,Norway"
+    ],
+    "date": "2026-07-05",
+    "generatedAt": "2026-07-05T10:27:15.008Z",
+    "jsonPath": "data/reports/2026-07-05_pre-match-matchup_brazil-norway.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Brazil Seeks to Break Norway Jinx in Crucial Knockout Tie",
+      "Brazil's Dominant Group Stage Performance and Knockout Start",
+      "Norway's Historic Qualification and Knockout Stage Debut"
+    ]
+  },
+  {
     "slug": "2026-07-05_post-match-round_of_16_paraguay-vs-france",
     "file": "pages/2026-07-05_post-match-round_of_16_paraguay-vs-france.html",
     "type": "post-match-round_of_16",
