@@ -1,5 +1,28 @@
 [
   {
+    "slug": "2026-07-05_post-match-round_of_16_paraguay-vs-france",
+    "file": "pages/2026-07-05_post-match-round_of_16_paraguay-vs-france.html",
+    "type": "post-match-round_of_16",
+    "title": "Kylian Mbappe's Masterclass: Paraguay Dominates France",
+    "summary": "World Cup 2026 analysis: post match round_of_16",
+    "teams": [
+      "Paraguay",
+      "France"
+    ],
+    "date": "2026-07-05",
+    "generatedAt": "2026-07-05T11:24:56.090Z",
+    "jsonPath": "data/reports/2026-07-05_post-match-round_of_16_paraguay-vs-france.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Paraguay 0-1 France",
+      "Paraguay's disciplined and ultra-defensive setup frustrated France throughout the first half, limiting clear-cut chances.",
+      "Kylian Mbappe (France): Scored the decisive penalty, his seventh goal of the tournament, and was a constant threat."
+    ]
+  },
+  {
     "slug": "2026-07-05_pre-match-matchup_brazil-norway",
     "file": "pages/2026-07-05_pre-match-matchup_brazil-norway.html",
     "type": "pre-match-matchup",
@@ -19,29 +42,6 @@
       "Brazil Seeks to Break Norway Jinx in Crucial Knockout Tie",
       "Brazil's Dominant Group Stage Performance and Knockout Start",
       "Norway's Historic Qualification and Knockout Stage Debut"
-    ]
-  },
-  {
-    "slug": "2026-07-05_post-match-round_of_16_paraguay-vs-france",
-    "file": "pages/2026-07-05_post-match-round_of_16_paraguay-vs-france.html",
-    "type": "post-match-round_of_16",
-    "title": "Kylian Mbappé's Masterclass: Paraguay Dominates France",
-    "summary": "World Cup 2026 analysis: post match round_of_16",
-    "teams": [
-      "Paraguay",
-      "France"
-    ],
-    "date": "2026-07-05",
-    "generatedAt": "2026-07-05T08:32:37.102Z",
-    "jsonPath": "data/reports/2026-07-05_post-match-round_of_16_paraguay-vs-france.json",
-    "provider": "gemini",
-    "model": "gemini-2.5-flash",
-    "searchQueries": 0,
-    "verified": false,
-    "highlights": [
-      "Paraguay 0-1 France",
-      "Paraguay's disciplined defense frustrated France throughout the first half, limiting clear-cut chances despite French possession dominance.",
-      "Kylian Mbappé (France): Scored the decisive penalty, his seventh goal of the tournament, and was a constant threat."
     ]
   },
   {
