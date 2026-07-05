@@ -1,0 +1,76 @@
+{
+  "type": "post-match-round_of_16",
+  "date": "2026-07-05",
+  "matches": [
+    {
+      "teams": [
+        "Paraguay",
+        "France"
+      ],
+      "status": "completed",
+      "score": "0-1",
+      "scorers": [
+        {
+          "player": "Kylian Mbappé",
+          "team": "France",
+          "minute": "69'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Désiré Doué",
+          "team": "France",
+          "reason": "won penalty"
+        }
+      ],
+      "key_moments": [
+        "Paraguay's disciplined defense frustrated France throughout the first half, limiting clear-cut chances despite French possession dominance.",
+        "In the 69th minute, Désiré Doué was fouled in the box, leading to a penalty awarded to France after a VAR review.",
+        "Kylian Mbappé calmly converted the penalty in the 69th minute, sending the goalkeeper the wrong way to break the deadlock.",
+        "Paraguayan goalkeeper Orlando Gill made a crucial double save from Kylian Mbappé in stoppage time, preventing France from extending their lead."
+      ],
+      "standout_performers": [
+        {
+          "player": "Kylian Mbappé",
+          "team": "France",
+          "reason": "Scored the decisive penalty, his seventh goal of the tournament, and was a constant threat."
+        },
+        {
+          "player": "Orlando Gill",
+          "team": "Paraguay",
+          "reason": "Made several key saves, including a late double stop, keeping Paraguay in the contest."
+        },
+        {
+          "player": "Désiré Doué",
+          "team": "France",
+          "reason": "Came off the bench to win the crucial penalty that led to France's only goal."
+        }
+      ],
+      "tactical_summary": "Paraguay adopted a highly defensive and physical approach, successfully stifling France's attacking prowess for long periods in the match. France dominated possession but struggled to penetrate the compact Paraguayan defense, ultimately relying on a penalty to secure their narrow victory.",
+      "stats": {
+        "possession": {
+          "home": 24,
+          "away": 76
+        },
+        "shots": {
+          "home": 5,
+          "away": 15
+        },
+        "xg": {
+          "home": null,
+          "away": null
+        }
+      },
+      "advancement": {
+        "winner": "France",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "In a fiercely contested Round of 16 clash, France overcame a resilient and physical Paraguay side in stifling Philadelphia heat. Kylian Mbappé's penalty proved to be the difference, sending the tournament favorites into the quarterfinals after a hard-fought battle.",
+  "qf_notes": "France will now face Morocco in the Quarterfinals on July 9. Midfielder Aurélien Tchouaméni, who missed the Paraguay match due to a thigh injury, is expected to be monitored for a potential return in the upcoming quarterfinal.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-05T08:32:37.102Z"
+}
