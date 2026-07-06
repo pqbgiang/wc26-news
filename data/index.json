@@ -1,5 +1,28 @@
 [
   {
+    "slug": "2026-07-06_post-match-round_of_16_portugal-vs-spain",
+    "file": "pages/2026-07-06_post-match-round_of_16_portugal-vs-spain.html",
+    "type": "post-match-round_of_16",
+    "title": "Mikel Merino's Masterclass: Portugal Dominates Spain",
+    "summary": "World Cup 2026 analysis: post match round_of_16",
+    "teams": [
+      "Portugal",
+      "Spain"
+    ],
+    "date": "2026-07-06",
+    "generatedAt": "2026-07-06T23:43:09.176Z",
+    "jsonPath": "data/reports/2026-07-06_post-match-round_of_16_portugal-vs-spain.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Portugal 0-1 Spain",
+      "Mikel Merino scored the decisive goal for Spain in stoppage time (90+1'), breaking the deadlock in a tightly contested match.",
+      "Mikel Merino (Spain): Scored the late winning goal, securing Spain's advancement."
+    ]
+  },
+  {
     "slug": "2026-07-06_post-match-round_of_16_mexico-vs-england",
     "file": "pages/2026-07-06_post-match-round_of_16_mexico-vs-england.html",
     "type": "post-match-round_of_16",

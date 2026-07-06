@@ -1,0 +1,75 @@
+{
+  "type": "post-match-round_of_16",
+  "date": "2026-07-06",
+  "matches": [
+    {
+      "teams": [
+        "Portugal",
+        "Spain"
+      ],
+      "status": "completed",
+      "score": "0-1",
+      "scorers": [
+        {
+          "player": "Mikel Merino",
+          "team": "Spain",
+          "minute": "90+1'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Ferran Torres",
+          "team": "Spain"
+        }
+      ],
+      "key_moments": [
+        "Mikel Merino scored the decisive goal for Spain in stoppage time (90+1'), breaking the deadlock in a tightly contested match.",
+        "Unai Simón made a crucial save from Cristiano Ronaldo in the 37th minute, denying Portugal a potential lead.",
+        "Nuno Mendes rattled the crossbar with a deflected shot in the first half, representing Portugal's closest effort.",
+        "The match marked Cristiano Ronaldo's final appearance in a FIFA World Cup."
+      ],
+      "standout_performers": [
+        {
+          "player": "Mikel Merino",
+          "team": "Spain",
+          "reason": "Scored the late winning goal, securing Spain's advancement."
+        },
+        {
+          "player": "Unai Simón",
+          "team": "Spain",
+          "reason": "Made key saves and maintained Spain's sixth consecutive clean sheet in the tournament."
+        },
+        {
+          "player": "Rodri",
+          "team": "Spain",
+          "reason": "Controlled the midfield with high pass completion and strong defensive work."
+        }
+      ],
+      "tactical_summary": "Spain dominated possession with 57% and dictated the tempo, patiently breaking down a resilient Portuguese defense. Portugal adopted a more cautious approach, relying on individual moments of brilliance and counter-attacks, but ultimately failed to convert their chances.",
+      "stats": {
+        "possession": {
+          "home": 43,
+          "away": 57
+        },
+        "shots": {
+          "home": 8,
+          "away": 15
+        },
+        "xg": {
+          "home": 0.56,
+          "away": 1.77
+        }
+      },
+      "advancement": {
+        "winner": "Spain",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "In a dramatic Iberian derby, Spain secured a last-gasp 1-0 victory over Portugal, ending Cristiano Ronaldo's illustrious World Cup career. The tightly contested Round of 16 clash was decided by a stoppage-time goal, highlighting the fine margins at the elite level of international football.",
+  "qf_notes": "Spain will proceed to the Quarterfinals with no reported new injuries from this match. Ferran Torres received a yellow card, but due to the tournament's rules, a single yellow card in the Round of 16 does not result in a suspension for the Quarterfinals.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-06T23:43:09.176Z"
+}
