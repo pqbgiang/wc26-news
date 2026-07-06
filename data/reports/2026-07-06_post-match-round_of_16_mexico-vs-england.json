@@ -1,0 +1,30 @@
+{
+  "type": "post-match-round_of_16",
+  "date": "2026-07-06",
+  "matches": [
+    {
+      "teams": [
+        "Mexico",
+        "England"
+      ],
+      "status": "completed",
+      "score": "2-3",
+      "scorers": [],
+      "assists": [],
+      "key_moments": [],
+      "standout_performers": [],
+      "tactical_summary": "England secured a narrow 3-2 victory over Mexico in a hard-fought Round of 16 encounter at Mexico City Stadium. Mexico demonstrated resilience by scoring twice, but England's attacking quality ultimately proved decisive in securing their progression.",
+      "stats": {},
+      "advancement": {
+        "winner": "England",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "This Round of 16 clash delivered intense drama, with England emerging victorious in a thrilling 3-2 contest against a determined Mexico side. The narrow margin of victory underscored the high stakes and competitive spirit displayed by both teams on the grand stage.",
+  "qf_notes": "Without specific match details regarding cards or injuries from the Mexico vs England match, there are no confirmed impacts on England's Quarterfinal squad at this time.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-06T13:39:13.887Z"
+}

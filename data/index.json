@@ -1,5 +1,26 @@
 [
   {
+    "slug": "2026-07-06_post-match-round_of_16_mexico-vs-england",
+    "file": "pages/2026-07-06_post-match-round_of_16_mexico-vs-england.html",
+    "type": "post-match-round_of_16",
+    "title": "Mexico 2-3 England",
+    "summary": "World Cup 2026 analysis: post match round_of_16",
+    "teams": [
+      "Mexico",
+      "England"
+    ],
+    "date": "2026-07-06",
+    "generatedAt": "2026-07-06T13:39:13.887Z",
+    "jsonPath": "data/reports/2026-07-06_post-match-round_of_16_mexico-vs-england.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Mexico 2-3 England"
+    ]
+  },
+  {
     "slug": "2026-07-06_morning-round_of_16",
     "file": "pages/2026-07-06_morning-round_of_16.html",
     "type": "morning-round_of_16",
