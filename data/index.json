@@ -1,5 +1,30 @@
 [
   {
+    "slug": "2026-07-06_morning-round_of_16",
+    "file": "pages/2026-07-06_morning-round_of_16.html",
+    "type": "morning-round_of_16",
+    "title": "Elite Clash Analysis: R16 Showdowns",
+    "summary": "World Cup 2026 analysis: morning round_of_16",
+    "teams": [
+      "Portugal",
+      "Spain",
+      "USA",
+      "Belgium"
+    ],
+    "date": "2026-07-06",
+    "generatedAt": "2026-07-06T06:17:44.932Z",
+    "jsonPath": "data/reports/2026-07-06_morning-round_of_16.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Portugal vs Spain: Iberian Derby's Knockout History",
+      "Portugal's Counter vs Spain's Possession",
+      "USA vs Belgium: Rematch of 2014 Knockout"
+    ]
+  },
+  {
     "slug": "2026-07-05_post-match-round_of_16_brazil-vs-norway",
     "file": "pages/2026-07-05_post-match-round_of_16_brazil-vs-norway.html",
     "type": "post-match-round_of_16",
