@@ -1,0 +1,91 @@
+{
+  "type": "post-match-round_of_16",
+  "date": "2026-07-07",
+  "matches": [
+    {
+      "teams": [
+        "USA",
+        "Belgium"
+      ],
+      "status": "completed",
+      "score": "1-4",
+      "scorers": [
+        {
+          "player": "Charles De Ketelaere",
+          "team": "Belgium",
+          "minute": "9'"
+        },
+        {
+          "player": "Malik Tillman",
+          "team": "USA",
+          "minute": "31'"
+        },
+        {
+          "player": "Charles De Ketelaere",
+          "team": "Belgium",
+          "minute": "33'"
+        },
+        {
+          "player": "Hans Vanaken",
+          "team": "Belgium",
+          "minute": "57'"
+        },
+        {
+          "player": "Romelu Lukaku",
+          "team": "Belgium",
+          "minute": "90+3'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Nicolas Raskin",
+          "team": "Belgium"
+        },
+        {
+          "player": "Leandro Trossard",
+          "team": "Belgium"
+        }
+      ],
+      "key_moments": [
+        "Charles De Ketelaere opened the scoring for Belgium in the 9th minute with a tap-in from a Nicolas Raskin cross.",
+        "Malik Tillman equalized for USA in the 31st minute with a deflected free-kick, briefly leveling the score.",
+        "Charles De Ketelaere quickly restored Belgium's lead in the 33rd minute, heading home a Leandro Trossard cross just 116 seconds after USA's equalizer.",
+        "Hans Vanaken extended Belgium's lead in the 57th minute after a goalkeeping error by Matt Freese, who missed a clearance outside his area.",
+        "Christian Pulisic exited the match due to injury in the 59th minute, further impacting USA's chances."
+      ],
+      "standout_performers": [
+        {
+          "player": "Charles De Ketelaere",
+          "team": "Belgium",
+          "reason": "Scored two crucial goals and was involved in the build-up to the third, delivering a decisive performance."
+        },
+        {
+          "player": "Leandro Trossard",
+          "team": "Belgium",
+          "reason": "Provided a key assist and was influential in Belgium's attacking movements, particularly for De Ketelaere's second goal."
+        }
+      ],
+      "tactical_summary": "Belgium displayed clinical finishing and capitalized on defensive vulnerabilities from the USA, particularly in transition, to secure a commanding victory. The USA struggled to maintain defensive solidity and composure, especially after their brief equalizer, allowing Belgium to quickly regain control and extend their lead.",
+      "stats": {
+        "possession": {
+          "home": 56,
+          "away": 44
+        },
+        "shots": {
+          "home": 7,
+          "away": 16
+        }
+      },
+      "advancement": {
+        "winner": "Belgium",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "The Round of 16 clash saw co-hosts USA's World Cup journey end dramatically on home soil, as Belgium's potent attack proved too much to handle. Despite a spirited equalizer, the Americans quickly conceded again, highlighting the elite-level pressure of knockout football.",
+  "qf_notes": "Belgium will advance to face Spain in the Quarterfinals on July 10 at Los Angeles Stadium. There were no reported card accumulations or new injuries for Belgium that would impact their next match.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-07T02:13:20.788Z"
+}

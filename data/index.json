@@ -1,5 +1,28 @@
 [
   {
+    "slug": "2026-07-07_post-match-round_of_16_usa-vs-belgium",
+    "file": "pages/2026-07-07_post-match-round_of_16_usa-vs-belgium.html",
+    "type": "post-match-round_of_16",
+    "title": "Charles De Ketelaere's Masterclass: USA Dominates Belgium",
+    "summary": "World Cup 2026 analysis: post match round_of_16",
+    "teams": [
+      "USA",
+      "Belgium"
+    ],
+    "date": "2026-07-07",
+    "generatedAt": "2026-07-07T02:13:20.788Z",
+    "jsonPath": "data/reports/2026-07-07_post-match-round_of_16_usa-vs-belgium.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "USA 1-4 Belgium",
+      "Charles De Ketelaere opened the scoring for Belgium in the 9th minute with a tap-in from a Nicolas Raskin cross.",
+      "Charles De Ketelaere (Belgium): Scored two crucial goals and was involved in the build-up to the third, delivering a decisive performance."
+    ]
+  },
+  {
     "slug": "2026-07-06_post-match-round_of_16_portugal-vs-spain",
     "file": "pages/2026-07-06_post-match-round_of_16_portugal-vs-spain.html",
     "type": "post-match-round_of_16",
