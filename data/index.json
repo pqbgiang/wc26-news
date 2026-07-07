@@ -1,5 +1,28 @@
 [
   {
+    "slug": "2026-07-07_post-match-round_of_16_usa-vs-belgium",
+    "file": "pages/2026-07-07_post-match-round_of_16_usa-vs-belgium.html",
+    "type": "post-match-round_of_16",
+    "title": "Charles De Ketelaere's Masterclass: USA Dominates Belgium",
+    "summary": "World Cup 2026 analysis: post match round_of_16",
+    "teams": [
+      "USA",
+      "Belgium"
+    ],
+    "date": "2026-07-07",
+    "generatedAt": "2026-07-07T12:23:07.332Z",
+    "jsonPath": "data/reports/2026-07-07_post-match-round_of_16_usa-vs-belgium.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "USA 1-4 Belgium",
+      "Charles De Ketelaere opened the scoring for Belgium in the 9th minute with a close-range finish.",
+      "Charles De Ketelaere (Belgium): Scored two crucial goals and assisted another, driving Belgium's attack."
+    ]
+  },
+  {
     "slug": "2026-07-07_morning-general",
     "file": "pages/2026-07-07_morning-general.html",
     "type": "daily-briefing",
@@ -17,29 +40,6 @@
       "USA Eliminated by Belgium",
       "Upcoming Quarterfinal Match",
       "Co-hosts Exit"
-    ]
-  },
-  {
-    "slug": "2026-07-07_post-match-round_of_16_usa-vs-belgium",
-    "file": "pages/2026-07-07_post-match-round_of_16_usa-vs-belgium.html",
-    "type": "post-match-round_of_16",
-    "title": "Charles De Ketelaere's Masterclass: USA Dominates Belgium",
-    "summary": "World Cup 2026 analysis: post match round_of_16",
-    "teams": [
-      "USA",
-      "Belgium"
-    ],
-    "date": "2026-07-07",
-    "generatedAt": "2026-07-07T02:13:20.788Z",
-    "jsonPath": "data/reports/2026-07-07_post-match-round_of_16_usa-vs-belgium.json",
-    "provider": "gemini",
-    "model": "gemini-2.5-flash",
-    "searchQueries": 0,
-    "verified": false,
-    "highlights": [
-      "USA 1-4 Belgium",
-      "Charles De Ketelaere opened the scoring for Belgium in the 9th minute with a tap-in from a Nicolas Raskin cross.",
-      "Charles De Ketelaere (Belgium): Scored two crucial goals and was involved in the build-up to the third, delivering a decisive performance."
     ]
   },
   {

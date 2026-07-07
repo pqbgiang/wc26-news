@@ -44,48 +44,47 @@
         {
           "player": "Leandro Trossard",
           "team": "Belgium"
+        },
+        {
+          "player": "Charles De Ketelaere",
+          "team": "Belgium"
+        },
+        {
+          "player": "Hans Vanaken",
+          "team": "Belgium"
         }
       ],
       "key_moments": [
-        "Charles De Ketelaere opened the scoring for Belgium in the 9th minute with a tap-in from a Nicolas Raskin cross.",
-        "Malik Tillman equalized for USA in the 31st minute with a deflected free-kick, briefly leveling the score.",
-        "Charles De Ketelaere quickly restored Belgium's lead in the 33rd minute, heading home a Leandro Trossard cross just 116 seconds after USA's equalizer.",
-        "Hans Vanaken extended Belgium's lead in the 57th minute after a goalkeeping error by Matt Freese, who missed a clearance outside his area.",
-        "Christian Pulisic exited the match due to injury in the 59th minute, further impacting USA's chances."
+        "Charles De Ketelaere opened the scoring for Belgium in the 9th minute with a close-range finish.",
+        "Malik Tillman equalized for the USA in the 31st minute with a deflected direct free-kick.",
+        "De Ketelaere quickly restored Belgium's lead with a header in the 33rd minute, just 61 seconds after the USA's equalizer.",
+        "A goalkeeping error by Matt Freese allowed Hans Vanaken to score Belgium's third goal in the 57th minute.",
+        "USA captain Christian Pulisic was substituted in the 59th minute due to a right ankle injury."
       ],
       "standout_performers": [
         {
           "player": "Charles De Ketelaere",
           "team": "Belgium",
-          "reason": "Scored two crucial goals and was involved in the build-up to the third, delivering a decisive performance."
+          "reason": "Scored two crucial goals and assisted another, driving Belgium's attack."
         },
         {
-          "player": "Leandro Trossard",
-          "team": "Belgium",
-          "reason": "Provided a key assist and was influential in Belgium's attacking movements, particularly for De Ketelaere's second goal."
+          "player": "Malik Tillman",
+          "team": "USA",
+          "reason": "Scored a direct free-kick goal, becoming the second player since 1966 to score two direct free-kick goals in a single World Cup."
         }
       ],
-      "tactical_summary": "Belgium displayed clinical finishing and capitalized on defensive vulnerabilities from the USA, particularly in transition, to secure a commanding victory. The USA struggled to maintain defensive solidity and composure, especially after their brief equalizer, allowing Belgium to quickly regain control and extend their lead.",
-      "stats": {
-        "possession": {
-          "home": 56,
-          "away": 44
-        },
-        "shots": {
-          "home": 7,
-          "away": 16
-        }
-      },
+      "tactical_summary": "Belgium displayed clinical finishing and effectively exploited defensive errors from the USA throughout the match. The USA struggled to maintain control in midfield and their defensive vulnerabilities were repeatedly exposed, particularly after their brief equalizer.",
+      "stats": {},
       "advancement": {
         "winner": "Belgium",
         "advanced_to": "Quarterfinals"
       }
     }
   ],
-  "narrative": "The Round of 16 clash saw co-hosts USA's World Cup journey end dramatically on home soil, as Belgium's potent attack proved too much to handle. Despite a spirited equalizer, the Americans quickly conceded again, highlighting the elite-level pressure of knockout football.",
-  "qf_notes": "Belgium will advance to face Spain in the Quarterfinals on July 10 at Los Angeles Stadium. There were no reported card accumulations or new injuries for Belgium that would impact their next match.",
+  "narrative": "The USA's World Cup dream on home soil came to an end as Belgium delivered a dominant 4-1 performance in the Round of 16. Despite a controversial decision allowing Folarin Balogun to play, Belgium's clinical attack and the USA's defensive lapses ultimately decided the outcome.",
+  "qf_notes": "Belgium will face Spain in the Quarterfinals on July 10 at Los Angeles Stadium (SoFi Stadium). Belgium midfielder Amadou Onana sustained a serious injury in the 19th minute and will miss the Quarterfinal match.",
   "team": null,
   "provider": "gemini",
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-07T02:13:20.788Z"
+  "generatedAt": "2026-07-07T12:23:07.332Z"
 }
