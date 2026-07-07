@@ -1,5 +1,28 @@
 [
   {
+    "slug": "2026-07-07_post-match-round_of_16_switzerland-vs-colombia",
+    "file": "pages/2026-07-07_post-match-round_of_16_switzerland-vs-colombia.html",
+    "type": "post-match-round_of_16",
+    "title": "Camilo Vargas's Masterclass: Switzerland Dominates Colombia",
+    "summary": "World Cup 2026 analysis: post match round_of_16",
+    "teams": [
+      "Switzerland",
+      "Colombia"
+    ],
+    "date": "2026-07-07",
+    "generatedAt": "2026-07-07T22:19:21.850Z",
+    "jsonPath": "data/reports/2026-07-07_post-match-round_of_16_switzerland-vs-colombia.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Switzerland 0-0 Colombia",
+      "Gustavo Puerta's shot from distance was saved by Switzerland goalkeeper Gregor Kobel in the 21st minute, marking an early chance for Colombia.",
+      "Camilo Vargas (Colombia): Made several crucial saves, including denying Fabian Rieder, to keep a clean sheet through 120 minutes."
+    ]
+  },
+  {
     "slug": "2026-07-07_post-match-round_of_16_argentina-vs-egypt",
     "file": "pages/2026-07-07_post-match-round_of_16_argentina-vs-egypt.html",
     "type": "post-match-round_of_16",
