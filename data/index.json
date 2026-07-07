@@ -1,5 +1,28 @@
 [
   {
+    "slug": "2026-07-07_post-match-round_of_16_argentina-vs-egypt",
+    "file": "pages/2026-07-07_post-match-round_of_16_argentina-vs-egypt.html",
+    "type": "post-match-round_of_16",
+    "title": "Lionel Messi's Masterclass: Argentina Dominates Egypt",
+    "summary": "World Cup 2026 analysis: post match round_of_16",
+    "teams": [
+      "Argentina",
+      "Egypt"
+    ],
+    "date": "2026-07-07",
+    "generatedAt": "2026-07-07T18:11:05.705Z",
+    "jsonPath": "data/reports/2026-07-07_post-match-round_of_16_argentina-vs-egypt.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Argentina 3-2 Egypt",
+      "23' Lionel Messi opens the scoring for Argentina with a precise finish.",
+      "Lionel Messi (Argentina): Scored a crucial opening goal and provided the assist for the late winner, consistently influencing Argentina's attack."
+    ]
+  },
+  {
     "slug": "2026-07-07_post-match-round_of_16_usa-vs-belgium",
     "file": "pages/2026-07-07_post-match-round_of_16_usa-vs-belgium.html",
     "type": "post-match-round_of_16",
