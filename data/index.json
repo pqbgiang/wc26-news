@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-07-07_morning-general",
+    "file": "pages/2026-07-07_morning-general.html",
+    "type": "daily-briefing",
+    "title": "Tournament Headlines & Analysis",
+    "summary": "World Cup 2026 analysis: daily briefing",
+    "teams": [],
+    "date": "2026-07-07",
+    "generatedAt": "2026-07-07T05:57:37.752Z",
+    "jsonPath": "data/reports/2026-07-07_morning-general.json",
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "USA Eliminated by Belgium",
+      "Upcoming Quarterfinal Match",
+      "Co-hosts Exit"
+    ]
+  },
+  {
     "slug": "2026-07-07_post-match-round_of_16_usa-vs-belgium",
     "file": "pages/2026-07-07_post-match-round_of_16_usa-vs-belgium.html",
     "type": "post-match-round_of_16",
