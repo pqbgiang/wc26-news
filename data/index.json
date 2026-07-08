@@ -1,5 +1,28 @@
 [
   {
+    "slug": "2026-07-08_post-match-round_of_16_switzerland-vs-colombia",
+    "file": "pages/2026-07-08_post-match-round_of_16_switzerland-vs-colombia.html",
+    "type": "post-match-round_of_16",
+    "title": "Gregor Kobel's Masterclass: Switzerland Dominates Colombia",
+    "summary": "World Cup 2026 analysis: post match round_of_16",
+    "teams": [
+      "Switzerland",
+      "Colombia"
+    ],
+    "date": "2026-07-08",
+    "generatedAt": "2026-07-08T11:43:22.833Z",
+    "jsonPath": "data/reports/2026-07-08_post-match-round_of_16_switzerland-vs-colombia.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Switzerland 4-3 Colombia",
+      "The match remained goalless after 120 minutes of intense play, leading to a penalty shootout.",
+      "Gregor Kobel (Switzerland): Made key saves during the match and a crucial penalty save in the shootout."
+    ]
+  },
+  {
     "slug": "2026-07-07_post-match-round_of_16_switzerland-vs-colombia",
     "file": "pages/2026-07-07_post-match-round_of_16_switzerland-vs-colombia.html",
     "type": "post-match-round_of_16",
