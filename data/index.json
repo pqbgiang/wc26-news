@@ -1,5 +1,30 @@
 [
   {
+    "slug": "2026-07-09_morning-quarter_finals",
+    "file": "pages/2026-07-09_morning-quarter_finals.html",
+    "type": "morning-quarter_finals",
+    "title": "Quarterfinal Tactical Breakdown",
+    "summary": "World Cup 2026 analysis: morning quarter_finals",
+    "teams": [
+      "France",
+      "Morocco",
+      "Spain",
+      "Belgium"
+    ],
+    "date": "2026-07-09",
+    "generatedAt": "2026-07-09T06:01:45.305Z",
+    "jsonPath": "data/reports/2026-07-09_morning-quarter_finals.json",
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "France and Morocco Clash in High Stakes Quarterfinal",
+      "Spain and Belgium Prepare for Tactical Showdown",
+      "Norway and England Face Off in Quarterfinal Battle"
+    ]
+  },
+  {
     "slug": "2026-07-08_post-match-round_of_16_switzerland-vs-colombia",
     "file": "pages/2026-07-08_post-match-round_of_16_switzerland-vs-colombia.html",
     "type": "post-match-round_of_16",
