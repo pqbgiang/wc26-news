@@ -2,26 +2,26 @@
   {
     "slug": "2026-07-10_post-match-quarter_finals",
     "file": "pages/2026-07-10_post-match-quarter_finals.html",
-    "type": "post-match-quarterfinals",
-    "title": "post match quarterfinals",
-    "summary": "World Cup 2026 analysis: post match quarterfinals",
+    "type": "post-match-quarterfinal",
+    "title": "post match quarterfinal",
+    "summary": "World Cup 2026 analysis: post match quarterfinal",
     "teams": [
-      "France",
-      "Morocco",
+      "Brazil",
+      "Germany",
       "Spain",
-      "Belgium"
+      "Italy"
     ],
     "date": "2026-07-10",
-    "generatedAt": "2026-07-10T12:21:29.755Z",
+    "generatedAt": "2026-07-10T13:29:04.214Z",
     "jsonPath": "data/reports/2026-07-10_post-match-quarter_finals.json",
     "provider": "gemini",
     "model": "gemini-2.5-flash",
     "searchQueries": 0,
     "verified": false,
     "highlights": [
-      "France Overcomes Morocco in Clinical Quarterfinal Display",
-      "Mbappé's Brilliance and Dembélé's Clinical Finish Seal Victory",
-      "French Tactical Masterclass Neutralizes Moroccan Threat"
+      "Brazil Edges Germany in Tactical Masterclass",
+      "Tite's Tactical Brilliance Outwits Nagelsmann",
+      "Vinicius Jr. and Marquinhos Shine for Seleção"
     ]
   },
   {
