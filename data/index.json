@@ -1,5 +1,30 @@
 [
   {
+    "slug": "2026-07-10_post-match-quarter_finals",
+    "file": "pages/2026-07-10_post-match-quarter_finals.html",
+    "type": "post-match-quarterfinals",
+    "title": "post match quarterfinals",
+    "summary": "World Cup 2026 analysis: post match quarterfinals",
+    "teams": [
+      "France",
+      "Morocco",
+      "Spain",
+      "Belgium"
+    ],
+    "date": "2026-07-10",
+    "generatedAt": "2026-07-10T12:21:29.755Z",
+    "jsonPath": "data/reports/2026-07-10_post-match-quarter_finals.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "France Overcomes Morocco in Clinical Quarterfinal Display",
+      "Mbappé's Brilliance and Dembélé's Clinical Finish Seal Victory",
+      "French Tactical Masterclass Neutralizes Moroccan Threat"
+    ]
+  },
+  {
     "slug": "2026-07-10_morning-quarter_finals",
     "file": "pages/2026-07-10_morning-quarter_finals.html",
     "type": "morning-quarter_finals",

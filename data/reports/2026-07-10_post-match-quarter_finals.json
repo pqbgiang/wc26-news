@@ -1,0 +1,94 @@
+{
+  "type": "post-match-quarterfinals",
+  "team": null,
+  "date": "2026-07-10",
+  "sections": [
+    {
+      "title": "Les Bleus Dominate: France Secures Semifinal Berth",
+      "items": [
+        {
+          "type": "match",
+          "headline": "France Overcomes Morocco in Clinical Quarterfinal Display",
+          "body": "France advanced to the World Cup semifinals with a commanding 2-0 victory over Morocco. Kylian Mbappé and Ousmane Dembélé netted second-half goals, showcasing France's potent attack. The Atlas Lions, despite a valiant defensive effort, struggled to create significant chances against the reigning champions.",
+          "metadata": {
+            "homeTeam": "France",
+            "awayTeam": "Morocco",
+            "kickoffUTC": "20:00",
+            "venue": "Gillette Stadium, Foxborough, Massachusetts, USA"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Mbappé's Brilliance and Dembélé's Clinical Finish Seal Victory",
+          "body": "Kylian Mbappé opened the scoring in the 60th minute with a superb curling shot, after having a first-half penalty saved by Morocco's Yassine Bounou. Ousmane Dembélé doubled France's lead just six minutes later, assisted by Mbappé, effectively putting the match beyond Morocco's reach. France's quick-fire double highlighted their ability to break down a resilient defense.",
+          "metadata": {}
+        },
+        {
+          "type": "tactical",
+          "headline": "French Tactical Masterclass Neutralizes Moroccan Threat",
+          "body": "Didier Deschamps' side demonstrated exceptional control, patiently breaking down Morocco's deep-lying defense. While Morocco held more possession, France's disciplined mid-low block and swift transitions proved too much, limiting the African champions to minimal attacking opportunities. France's defensive structure and midfield control were key to their dominance.",
+          "metadata": {}
+        },
+        {
+          "type": "analysis",
+          "headline": "Mbappé Shines Despite Injury Scare, Bounou Impresses in Goal",
+          "body": "Kylian Mbappé was the undisputed Man of the Match, scoring one goal and assisting another, despite a missed penalty and a late ankle scare which he later confirmed was minor. Morocco's goalkeeper Yassine Bounou delivered a strong performance, making several crucial saves including Mbappé's penalty, keeping his team in the contest for as long as possible.",
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "title": "Tournament Trajectory: France's Unstoppable March",
+      "items": [
+        {
+          "type": "form",
+          "headline": "France Emerges as Formidable Semifinalist",
+          "body": "France has showcased exceptional form, securing six wins from six games en route to the semifinals, solidifying their status as the team to beat. Their clinical performance against Morocco underscores their balanced attack and robust defense. Les Bleus appear to be peaking at the perfect time in the tournament.",
+          "metadata": {}
+        },
+        {
+          "type": "stat",
+          "headline": "Mbappé Leads Golden Boot Race, Injury Concerns Allayed",
+          "body": "Kylian Mbappé's goal against Morocco brought his tournament tally to eight, tying him with Lionel Messi for the Golden Boot lead. Despite a late ankle knock, Mbappé has confirmed he is fit for the next round, a massive boost for France's title aspirations. Morocco, however, missed the attacking presence of the injured Ismael Saibari.",
+          "metadata": {}
+        },
+        {
+          "type": "analysis",
+          "headline": "Historical Paths Converge in Semifinals",
+          "body": "France continues its impressive World Cup journey, reaching their third consecutive semifinal, a testament to their sustained elite performance. Morocco's run to the quarterfinals, following their 2022 semifinal appearance, reaffirms their growing stature on the global stage. The tournament has seen several traditional powerhouses advance, setting up thrilling clashes."
+        }
+      ]
+    },
+    {
+      "title": "Semifinal Showdowns: Tactical Battles Loom",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "France Awaits Spain or Belgium in High-Stakes Semifinal",
+          "body": "France will face the winner of the highly anticipated Quarterfinal clash between Spain and Belgium. This matchup promises a tactical battle, with both potential opponents offering distinct challenges to France's formidable squad. The semifinal is scheduled for July 14th.",
+          "metadata": {}
+        },
+        {
+          "type": "match",
+          "headline": "Spain vs. Belgium: Awaiting Today's Crucial Quarterfinal",
+          "body": "The second Quarterfinal of the day, Spain vs. Belgium, is set to kick off later today. Spain, considered a tournament favorite, will face a resurgent Belgium side that gained significant momentum in the Round of 16. The outcome will determine France's opponent in the semifinals.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Belgium",
+            "kickoffUTC": "19:00",
+            "venue": "SoFi Stadium, Inglewood, California, USA"
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Anticipated Tactical Showdowns in the Final Four",
+          "body": "The semifinals are expected to feature intense tactical battles, with teams vying for World Cup glory. France's attacking prowess will test any defense, while the other semifinalists, including the winner of Norway/England vs. Argentina/Switzerland, will bring their unique strengths to the forefront. Every match will be a chess game of elite strategies.",
+          "metadata": {}
+        }
+      ]
+    }
+  ],
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-10T12:21:29.755Z"
+}
