@@ -1,0 +1,103 @@
+{
+  "type": "pre-match-matchup",
+  "team": "Norway,England",
+  "date": "TBD",
+  "sections": [
+    {
+      "title": "Quarter-Final Showdown: Norway vs. England",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Historic First World Cup Meeting for European Giants",
+          "body": "This Quarter-final clash marks the first time Norway and England will face each other in a major tournament. Both nations have navigated challenging paths to reach this stage, setting the scene for a compelling encounter.",
+          "metadata": {
+            "homeTeam": "Norway",
+            "awayTeam": "England",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Road to the Quarter-finals",
+      "items": [
+        {
+          "type": "form",
+          "headline": "Norway's Historic Run Fueled by Haaland's Goals",
+          "body": "Norway qualified for the World Cup 2026 by winning all eight of their qualifying matches in Group I, scoring 37 goals and conceding only 5. Their journey to the Quarter-finals marks their deepest run ever in a World Cup, including victories over Ivory Coast and Brazil in the knockout stages.",
+          "metadata": {}
+        },
+        {
+          "type": "form",
+          "headline": "England's Dominant Qualification and Tournament Progress",
+          "body": "England secured their World Cup 2026 spot with a perfect qualifying record in Group K, winning all eight matches and maintaining a clean sheet throughout. Under Thomas Tuchel, they have progressed through the tournament with notable wins against DR Congo and Mexico in the knockout rounds."
+        }
+      ]
+    },
+    {
+      "title": "Historical Encounters",
+      "items": [
+        {
+          "type": "stat",
+          "headline": "England Holds Historical Edge Over Norway",
+          "body": "In 12 previous meetings, England has historically dominated Norway with seven wins, three draws, and only two losses. This Quarter-final tie, however, represents their inaugural clash in a major international tournament.",
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "title": "Key Players and Pivotal Battles",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Haaland Leads Norway's Potent Attack",
+          "body": "Erling Haaland has been instrumental for Norway, scoring 16 goals in 8 World Cup qualifiers and 7 goals in 4 World Cup matches so far. Midfielder Martin Ødegaard is equally vital, controlling the team's rhythm and progression from midfield.",
+          "metadata": {}
+        },
+        {
+          "type": "analysis",
+          "headline": "Kane and Bellingham Spearhead England's Challenge",
+          "body": "England relies heavily on captain Harry Kane, their all-time leading scorer who netted 8 goals in the qualifiers and continues to be a focal point. Jude Bellingham's impactful midfield presence and Declan Rice's defensive stability are also crucial to the Three Lions' success.",
+          "metadata": {}
+        },
+        {
+          "type": "analysis",
+          "headline": "The Haaland Conundrum: England's Defensive Test",
+          "body": "A key battle will be England's defense against Erling Haaland, whose ability to score with minimal chances poses a significant threat. England's tactical approach will focus on cutting his supply and containing him within the penalty area.",
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "title": "Tactical Blueprints",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Norway's Aggressive Press and Directness",
+          "body": "Under Ståle Solbakken, Norway typically employs an aggressive 4-3-3 or 4-2-3-1 formation, emphasizing a high press and vertical play. Their strategy focuses on rapid transitions to quickly get the ball to their elite forwards.",
+          "metadata": {}
+        },
+        {
+          "type": "tactical",
+          "headline": "England's Flexible, High-Intensity Approach",
+          "body": "Thomas Tuchel has instilled a high-intensity, direct style in England, often shifting between a 4-2-3-1 and 4-4-1-1 formation. Their game plan involves aggressive pressing, quick attacking transitions, and a solid defensive structure."
+        }
+      ]
+    },
+    {
+      "title": "The Stakes: A Semi-Final Berth",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Pathway to Glory: Semi-Final Spot Awaits",
+          "body": "For both Norway and England, a victory in this Quarter-final means a coveted spot in the World Cup semi-finals. For Norway, it would extend their historic deep run, while England aims to end a 60-year wait for a major international trophy.",
+          "metadata": {}
+        }
+      ]
+    }
+  ],
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-11T02:56:01.487Z"
+}

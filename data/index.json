@@ -1,5 +1,27 @@
 [
   {
+    "slug": "2026-07-11_pre-match-matchup_norway-england",
+    "file": "pages/2026-07-11_pre-match-matchup_norway-england.html",
+    "type": "pre-match-matchup",
+    "title": "Norway,England · pre match matchup",
+    "summary": "World Cup 2026 analysis: Norway,England",
+    "teams": [
+      "Norway,England"
+    ],
+    "date": "TBD",
+    "generatedAt": "2026-07-11T02:56:01.487Z",
+    "jsonPath": "data/reports/2026-07-11_pre-match-matchup_norway-england.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Historic First World Cup Meeting for European Giants",
+      "Norway's Historic Run Fueled by Haaland's Goals",
+      "England's Dominant Qualification and Tournament Progress"
+    ]
+  },
+  {
     "slug": "2026-07-11_pre-match-matchup_argentina-switzerland",
     "file": "pages/2026-07-11_pre-match-matchup_argentina-switzerland.html",
     "type": "pre-match-matchup",
