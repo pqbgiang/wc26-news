@@ -1,5 +1,30 @@
 [
   {
+    "slug": "2026-07-11_post-match-quarter_finals",
+    "file": "pages/2026-07-11_post-match-quarter_finals.html",
+    "type": "post-match-quarterfinal",
+    "title": "post match quarterfinal",
+    "summary": "World Cup 2026 analysis: post match quarterfinal",
+    "teams": [
+      "France",
+      "Morocco",
+      "Spain",
+      "Belgium"
+    ],
+    "date": "2026-07-11",
+    "generatedAt": "2026-07-11T01:56:18.623Z",
+    "jsonPath": "data/reports/2026-07-11_post-match-quarter_finals.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "France Dominates Morocco, Secures Semifinal Berth",
+      "Mbappe and Dembele Lead French Charge",
+      "Spain Edges Belgium in Late Drama"
+    ]
+  },
+  {
     "slug": "2026-07-10_morning-quarter_finals",
     "file": "pages/2026-07-10_morning-quarter_finals.html",
     "type": "morning-quarter_finals",
