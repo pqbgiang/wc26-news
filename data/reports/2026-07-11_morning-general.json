@@ -1,0 +1,112 @@
+{
+  "type": "daily-briefing",
+  "team": null,
+  "provider": "gemini",
+  "date": "2026-07-11",
+  "sections": [
+    {
+      "title": "Quarter-Finals Recap",
+      "emoji": "⚽",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Spain Edges Belgium in Thrilling Quarter-Final",
+          "body": "Spain secured a hard-fought 2-1 victory over Belgium in a captivating Quarter-Final clash. The match, held at SoFi Stadium in Inglewood, California, saw Spain advance to the semi-finals.",
+          "metadata": {
+            "match": "Spain vs Belgium",
+            "score": "2-1",
+            "date": "2026-07-10",
+            "kickoffUTC": "19:00",
+            "venue": "SoFi Stadium, Inglewood, California"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Brazil Overcomes Netherlands in Tense Encounter",
+          "body": "Brazil advanced to the semi-finals after defeating the Netherlands 2-1 in a tightly contested Quarter-Final. The South American giants showcased their resilience at MetLife Stadium in East Rutherford, New Jersey, setting up a highly anticipated next round.",
+          "metadata": {
+            "match": "Brazil vs Netherlands",
+            "score": "2-1",
+            "date": "2026-07-10",
+            "kickoffUTC": "23:00",
+            "venue": "MetLife Stadium, East Rutherford, New Jersey"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Semi-Finals Outlook",
+      "emoji": "🗓️",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Spain to Face Brazil in Blockbuster Semi-Final",
+          "body": "The first semi-final will feature a clash of titans as Spain takes on Brazil. Both teams have displayed exceptional form throughout the tournament, promising an intense battle for a spot in the final at Mercedes-Benz Stadium in Atlanta, Georgia.",
+          "metadata": {
+            "match": "Spain vs Brazil",
+            "date": "2026-07-14",
+            "kickoffUTC": "23:00",
+            "venue": "Mercedes-Benz Stadium, Atlanta, Georgia"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "France and England Set for European Showdown",
+          "body": "France and England are set to reignite their rivalry in the second semi-final, following their respective Quarter-Final victories. This highly anticipated European derby will take place at AT&T Stadium in Arlington, Texas, with a place in the World Cup final at stake.",
+          "metadata": {
+            "match": "France vs England",
+            "date": "2026-07-15",
+            "kickoffUTC": "01:00",
+            "venue": "AT&T Stadium, Arlington, Texas"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Player Spotlight & Injuries",
+      "emoji": "✨",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Richarlison's Form Propels Brazil",
+          "body": "Brazil's Richarlison has been in scintillating form, consistently delivering crucial goals and high-energy performances. His clinical finishing and relentless work rate have been key factors in Brazil's progression to the semi-finals.",
+          "metadata": {
+            "keyPlayers": [
+              "Richarlison"
+            ]
+          }
+        },
+        {
+          "type": "injury",
+          "headline": "Mbappé Sustains Minor Knock",
+          "body": "Reports indicate that France's star forward Kylian Mbappé sustained a minor knock during their Quarter-Final match. While not considered serious, his fitness will be closely monitored ahead of the crucial semi-final clash against England."
+        }
+      ]
+    },
+    {
+      "title": "Tactical Insights",
+      "emoji": "🧠",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Defensive Solidity Key for Spain",
+          "body": "Spain's tactical approach has emphasized defensive solidity, allowing them to control games and launch effective counter-attacks. Their disciplined backline and midfield pressing have proven difficult for opponents to break down.",
+          "metadata": {
+            "formation": "4-3-3",
+            "focus": "Defensive Solidity, Counter-Attack"
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "England's Attacking Depth Shines",
+          "body": "England has demonstrated impressive attacking depth, with multiple players capable of scoring and creating chances. Their ability to rotate offensive threats and adapt their attacking patterns has made them a formidable force in the tournament.",
+          "metadata": {
+            "focus": "Attacking Depth, Fluid Movement"
+          }
+        }
+      ]
+    }
+  ],
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-11T04:52:26.971Z"
+}

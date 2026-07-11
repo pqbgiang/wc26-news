@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-07-11_morning-general",
+    "file": "pages/2026-07-11_morning-general.html",
+    "type": "daily-briefing",
+    "title": "Tournament Headlines & Analysis",
+    "summary": "World Cup 2026 analysis: daily briefing",
+    "teams": [],
+    "date": "2026-07-11",
+    "generatedAt": "2026-07-11T04:52:26.971Z",
+    "jsonPath": "data/reports/2026-07-11_morning-general.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Spain Edges Belgium in Thrilling Quarter-Final",
+      "Brazil Overcomes Netherlands in Tense Encounter",
+      "Spain to Face Brazil in Blockbuster Semi-Final"
+    ]
+  },
+  {
     "slug": "2026-07-11_pre-match-matchup_norway-england",
     "file": "pages/2026-07-11_pre-match-matchup_norway-england.html",
     "type": "pre-match-matchup",
