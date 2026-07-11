@@ -1,5 +1,27 @@
 [
   {
+    "slug": "2026-07-11_pre-match-matchup_argentina-switzerland",
+    "file": "pages/2026-07-11_pre-match-matchup_argentina-switzerland.html",
+    "type": "pre-match-matchup",
+    "title": "Argentina,Switzerland · pre match matchup",
+    "summary": "World Cup 2026 analysis: Argentina,Switzerland",
+    "teams": [
+      "Argentina,Switzerland"
+    ],
+    "date": "2026-07-10",
+    "generatedAt": "2026-07-11T02:55:56.101Z",
+    "jsonPath": "data/reports/2026-07-11_pre-match-matchup_argentina-switzerland.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Argentina and Switzerland Clash for a Semi-Final Spot",
+      "La Albiceleste's Dominant Run Continues",
+      "Swiss Discipline and Grit Propel Them to Historic Quarter-final"
+    ]
+  },
+  {
     "slug": "2026-07-11_post-match-quarter_finals",
     "file": "pages/2026-07-11_post-match-quarter_finals.html",
     "type": "post-match-quarterfinal",
