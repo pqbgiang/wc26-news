@@ -1,60 +1,89 @@
 {
-  "type": "post-match-quarterfinal",
+  "type": "post-match-quarterfinals",
   "team": null,
   "date": "2026-07-12",
   "sections": [
     {
-      "title": "England Triumphs in Quarterfinal Thriller",
+      "title": "Quarterfinal Thrillers: European Giants Advance",
       "items": [
         {
           "type": "match",
-          "headline": "Bellingham's Extra-Time Heroics Send England to Semifinals",
-          "body": "England secured a hard-fought 2-1 extra-time victory over Norway in a captivating Quarterfinal clash. Jude Bellingham emerged as the hero, scoring both goals for the Three Lions, including the decisive winner in the 93rd minute. Norway's Andreas Schjelderup had initially opened the scoring, but England's resilience proved too much.",
+          "headline": "Bellingham's Brace Sends England Past Norway in Extra Time",
+          "body": "England secured a hard-fought 2-1 extra-time victory over Norway, with Jude Bellingham scoring both goals for the Three Lions. Erling Haaland netted for Norway, but his efforts were not enough to prevent England from advancing to the semifinals. The match was a tense affair, pushing both teams to their limits.",
           "metadata": {
             "homeTeam": "England",
             "awayTeam": "Norway",
             "kickoffUTC": "21:00",
-            "venue": "Hard Rock Stadium, Miami Gardens, Florida, USA"
+            "venue": "Miami Stadium, Miami, USA"
           }
         },
         {
           "type": "analysis",
-          "headline": "Tactical Battle of Titans: Tuchel's Substitutions Pay Off",
-          "body": "The match was a tactical chess match, with Norway's early lead forcing England to adapt. Gareth Southgate's (or Thomas Tuchel's, as per some reports) strategic substitutions, including Bukayo Saka and Eberechi Eze, injected fresh attacking impetus in the second half and extra time. Norway's disciplined defense and counter-attacking threat, led by Erling Haaland, tested England throughout the 120 minutes.",
+          "headline": "Three Lions' Resilience Shines Against Haaland's Threat",
+          "body": "England's tactical setup focused on containing Erling Haaland, a strategy that ultimately paid off in extra time. The midfield battle, particularly between Declan Rice and Martin Odegaard, was pivotal in controlling the tempo and creating opportunities. England's defensive solidity, combined with Bellingham's attacking prowess, proved decisive.",
           "metadata": {}
         },
         {
-          "type": "analysis",
-          "headline": "Key Moments: VAR Decisions and Near Misses Define Contest",
-          "body": "Critical moments included Andreas Schjelderup's opening goal for Norway in the 36th minute and Jude Bellingham's equalizer just before halftime, assisted by Anthony Gordon. Both teams had goals disallowed by VAR, with Harry Kane's effort ruled offside and Torbjorn Heggem's strike chalked off due to a foul in the build-up. Kristoffer Ajer also hit the post in the 76th minute, highlighting the fine margins of the game.",
+          "type": "stat",
+          "headline": "Bellingham and Haaland: A Duel of Golden Boot Contenders",
+          "body": "Jude Bellingham's two goals were a testament to his elite-level performance, showcasing his ability to deliver in critical moments. Erling Haaland, despite his goal, was largely marshaled by the English defense, highlighting the challenge of breaking down top-tier opposition. Both players remain key figures in the Golden Boot race.",
           "metadata": {}
         },
         {
+          "type": "match",
+          "headline": "Messi Magic: Mac Allister Header Secures Argentina's Semifinal Berth",
+          "body": "Argentina edged past a resilient Switzerland side with a narrow 1-0 victory, thanks to an early header from Alexis Mac Allister. The decisive goal came in the 10th minute from a perfectly delivered corner kick by captain Lionel Messi. Switzerland's disciplined defense made it a challenging encounter for the reigning champions.",
+          "metadata": {
+            "homeTeam": "Argentina",
+            "awayTeam": "Switzerland",
+            "kickoffUTC": "01:00",
+            "venue": "Kansas City Stadium, Kansas City, USA"
+          }
+        },
+        {
           "type": "analysis",
-          "headline": "Bellingham's Brilliance Leads England to Victory",
-          "body": "Jude Bellingham delivered a standout individual performance, scoring both of England's goals. His equalizer in first-half stoppage time provided crucial momentum, and his 93rd-minute winner showcased his composure and clinical finishing under immense pressure. Erling Haaland also had a memorable run in the tournament, leading the Golden Boot race with seven goals."
+          "headline": "Swiss Wall Tested by Messi's Vision",
+          "body": "Switzerland's organized defensive structure proved difficult to break down, forcing Argentina to rely on a set-piece moment of brilliance. Lionel Messi's exceptional delivery from the corner was the key, demonstrating his enduring impact even when direct attacking play is stifled. Argentina showed resilience to secure the win against a stubborn opponent.",
+          "metadata": {}
+        },
+        {
+          "type": "stat",
+          "headline": "Mac Allister's Decisive Strike from Messi's Corner",
+          "body": "Alexis Mac Allister's early goal, assisted by Lionel Messi, was the singular moment of breakthrough in a tightly contested match. This combination highlights the importance of set-pieces and individual brilliance at this stage of the tournament. Messi continues to be a central figure in Argentina's attacking plays.",
+          "metadata": {}
         }
       ]
     },
     {
-      "title": "Semifinal Picture Takes Shape",
+      "title": "Road to Glory: Semifinalists' Form and Fitness",
       "items": [
         {
           "type": "form",
-          "headline": "England's Resilient Form Continues to Impress",
-          "body": "England's victory against Norway, following a thrilling 3-2 win over Mexico in the Round of 16, demonstrates their ability to grind out results under pressure. The team has shown resilience and tactical flexibility, adapting to various challenges throughout the tournament. Their path to the semifinals has been marked by crucial goals from key players like Harry Kane and Jude Bellingham.",
+          "headline": "England and Argentina Punch Tickets to the Elite Four",
+          "body": "England showcased their fighting spirit by overcoming Norway in extra time, demonstrating strong form and mental fortitude. Argentina, while not dominant, found a way to win against a tough Swiss side, relying on their star power. Both teams enter the semifinals with momentum, albeit through different paths.",
           "metadata": {}
         },
         {
-          "type": "analysis",
-          "headline": "Injury Watch: No Major Concerns Reported for England",
-          "body": "No significant new injury concerns have been reported for the England squad following their extra-time battle against Norway. Manager Gareth Southgate (or Thomas Tuchel) will be keen to ensure his squad recovers fully ahead of the demanding semifinal fixture. Declan Rice was reportedly recovering from a pre-match illness but played.",
+          "type": "injury",
+          "headline": "Injury Concerns Loom for Semifinal Contenders",
+          "body": "France faces concerns over Kylian Mbappé's minor ankle injury, though he is expected to play, alongside doubts for Kouadio Kone and Aurélien Tchouaméni. Spain has Nico Williams and Yeremy Pino doubtful. England's Declan Rice, Marc Guehi, and Reece James are reportedly fit after recent issues, while Argentina monitors Cristian Romero's knee.",
           "metadata": {}
         },
         {
-          "type": "analysis",
-          "headline": "France vs. Spain: A Blockbuster Semifinal Confirmed",
-          "body": "The first semifinal is set to be a highly anticipated clash between European giants France and Spain. France secured their spot by defeating Morocco, while Spain overcame Belgium in their Quarterfinal match. This matchup features two of the top-ranked teams in FIFA's live rankings.",
+          "type": "historical",
+          "headline": "Historical Paths Converge for Semifinal Showdowns",
+          "body": "England's victory marks their fourth-ever World Cup semifinal appearance, showcasing their consistent presence at the tournament's sharp end. Argentina, as reigning champions, continue their quest to become the first back-to-back winners since Brazil in 1962, adding another chapter to their storied World Cup history.",
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "title": "Semifinal Showdowns: Tactical Battles Await",
+      "items": [
+        {
+          "type": "match",
+          "headline": "France vs. Spain: A European Derby in the Semifinals",
+          "body": "The first semifinal will see European powerhouses France and Spain clash on July 14. This highly anticipated matchup pits two of the tournament's strongest sides against each other for a place in the final.",
           "metadata": {
             "homeTeam": "France",
             "awayTeam": "Spain",
@@ -63,37 +92,49 @@
           }
         },
         {
-          "type": "analysis",
-          "headline": "Head-to-Head History Favors Spain in Recent Encounters",
-          "body": "Recent history between France and Spain favors La Roja, with Spain coming out on top in their Euro 2024 semifinal and 2025 Nations League encounters. Lamine Yamal, in particular, has been a key figure in Spain's recent successes against France. This history adds an intriguing layer to their upcoming World Cup semifinal.",
+          "type": "history",
+          "headline": "Recent History Favors La Roja in France-Spain Rivalry",
+          "body": "Spain holds a recent advantage over France, having defeated them in the semifinals of both Euro 2024 and the 2025 Nations League. This history sets the stage for a compelling tactical battle, with both teams eager to assert dominance on the biggest stage.",
           "metadata": {}
         },
         {
-          "type": "analysis",
-          "headline": "Tactical Expectations: High-Stakes European Showdown",
-          "body": "Expect a high-intensity tactical battle between France and Spain, with both teams known for their technical prowess and strategic discipline. France's potent attack, led by Kylian Mbappé, will challenge Spain's possession-based game and defensive organization. The midfield battle will be crucial in determining control and creating scoring opportunities."
+          "type": "tactical",
+          "headline": "Mbappé's Firepower Meets Spain's Control and Super-Subs",
+          "body": "France's potent attack, spearheaded by Kylian Mbappé, will challenge Spain's renowned possession-based football and their ability to introduce game-changing players like Mikel Merino and Lamine Yamal from the bench. The midfield battle will be crucial in determining control and creating scoring opportunities.",
+          "metadata": {}
         },
         {
-          "type": "analysis",
-          "headline": "Second Semifinal Spot Awaits Argentina vs. Switzerland Winner",
-          "body": "England has advanced to the semifinals and will face the winner of the Quarterfinal match between Argentina and Switzerland. This match is scheduled to kick off at 01:00 UTC on July 12, 2026, at Arrowhead Stadium in Kansas City, Missouri, and its result is not yet available for post-match analysis at the current time.",
+          "type": "match",
+          "headline": "England vs. Argentina: A Classic World Cup Rivalry Renewed",
+          "body": "The second semifinal on July 15 will feature a historic clash between England and Argentina, a matchup steeped in World Cup lore. Both teams will be vying for a spot in the coveted final.",
           "metadata": {
-            "homeTeam": "Argentina",
-            "awayTeam": "Switzerland",
-            "kickoffUTC": "01:00",
-            "venue": "Arrowhead Stadium, Kansas City, Missouri, USA"
+            "homeTeam": "England",
+            "awayTeam": "Argentina",
+            "kickoffUTC": "19:00",
+            "venue": "Mercedes-Benz Stadium, Atlanta, Georgia, USA"
           }
+        },
+        {
+          "type": "history",
+          "headline": "Decades-Long Feud Ignites Again",
+          "body": "England and Argentina share a decades-long rivalry in World Cup history, marked by memorable and often controversial encounters. This semifinal adds another chapter to their intense footballing narrative, promising a passionate contest.",
+          "metadata": {}
+        },
+        {
+          "type": "tactical",
+          "headline": "Kane and Bellingham vs. Messi's Enduring Genius",
+          "body": "England's robust defense and the combined attacking threat of Harry Kane and Jude Bellingham will face Argentina's tactical adaptability and the unparalleled brilliance of Lionel Messi. Argentina's proven ability to navigate high-pressure knockout games will be a key factor against England's disciplined approach."
         }
       ]
     }
   ],
   "provider": "gemini",
   "model": "gemini-2.5-flash",
-  "generatedAt": "2026-07-12T00:11:08.134Z",
-  "title": "England Triumphs in Quarterfinal Thriller",
+  "generatedAt": "2026-07-12T02:41:24.312Z",
+  "title": "Quarterfinal Thrillers: European Giants Advance",
   "keyTakeaways": [
-    "Bellingham's Extra-Time Heroics Send England to Semifinals",
-    "Tactical Battle of Titans: Tuchel's Substitutions Pay Off",
-    "Key Moments: VAR Decisions and Near Misses Define Contest"
+    "Bellingham's Brace Sends England Past Norway in Extra Time",
+    "Three Lions' Resilience Shines Against Haaland's Threat",
+    "Bellingham and Haaland: A Duel of Golden Boot Contenders"
   ]
 }

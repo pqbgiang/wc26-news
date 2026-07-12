@@ -2,26 +2,26 @@
   {
     "slug": "2026-07-12_post-match-quarter_finals",
     "file": "pages/2026-07-12_post-match-quarter_finals.html",
-    "type": "post-match-quarterfinal",
-    "title": "post match quarterfinal",
-    "summary": "World Cup 2026 analysis: post match quarterfinal",
+    "type": "post-match-quarterfinals",
+    "title": "post match quarterfinals",
+    "summary": "World Cup 2026 analysis: post match quarterfinals",
     "teams": [
       "England",
       "Norway",
-      "France",
-      "Spain"
+      "Argentina",
+      "Switzerland"
     ],
     "date": "2026-07-12",
-    "generatedAt": "2026-07-12T00:11:08.134Z",
+    "generatedAt": "2026-07-12T02:41:24.312Z",
     "jsonPath": "data/reports/2026-07-12_post-match-quarter_finals.json",
     "provider": "gemini",
     "model": "gemini-2.5-flash",
     "searchQueries": 0,
     "verified": false,
     "highlights": [
-      "Bellingham's Extra-Time Heroics Send England to Semifinals",
-      "Tactical Battle of Titans: Tuchel's Substitutions Pay Off",
-      "Key Moments: VAR Decisions and Near Misses Define Contest"
+      "Bellingham's Brace Sends England Past Norway in Extra Time",
+      "Three Lions' Resilience Shines Against Haaland's Threat",
+      "Bellingham and Haaland: A Duel of Golden Boot Contenders"
     ]
   },
   {
