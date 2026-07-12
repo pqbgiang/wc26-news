@@ -6,22 +6,22 @@
     "title": "post match quarterfinals",
     "summary": "World Cup 2026 analysis: post match quarterfinals",
     "teams": [
-      "England",
-      "Norway",
-      "Argentina",
-      "Switzerland"
+      "France",
+      "Morocco",
+      "Spain",
+      "Belgium"
     ],
     "date": "2026-07-12",
-    "generatedAt": "2026-07-12T02:41:24.312Z",
+    "generatedAt": "2026-07-12T04:38:13.036Z",
     "jsonPath": "data/reports/2026-07-12_post-match-quarter_finals.json",
     "provider": "gemini",
     "model": "gemini-2.5-flash",
     "searchQueries": 0,
     "verified": false,
     "highlights": [
-      "Bellingham's Brace Sends England Past Norway in Extra Time",
-      "Three Lions' Resilience Shines Against Haaland's Threat",
-      "Bellingham and Haaland: A Duel of Golden Boot Contenders"
+      "Mbappé Magic Propels France Past Morocco",
+      "France's Tactical Masterclass: Defensive Solidity Meets Attacking Flair",
+      "Mbappé's Relentless Pursuit of the Golden Boot"
     ]
   },
   {
