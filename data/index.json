@@ -1,5 +1,28 @@
 [
   {
+    "slug": "2026-07-12_post-match-quarter_finals_argentina-vs-switzerland",
+    "file": "pages/2026-07-12_post-match-quarter_finals_argentina-vs-switzerland.html",
+    "type": "post-match-quarter_finals",
+    "title": "Julian Alvarez's Masterclass: Argentina Dominates Switzerland",
+    "summary": "World Cup 2026 analysis: post match quarter_finals",
+    "teams": [
+      "Argentina",
+      "Switzerland"
+    ],
+    "date": "2026-07-12",
+    "generatedAt": "2026-07-12T10:19:32.961Z",
+    "jsonPath": "data/reports/2026-07-12_post-match-quarter_finals_argentina-vs-switzerland.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Argentina 3-1 Switzerland",
+      "Alexis Mac Allister opened the scoring early for Argentina with a header from a Lionel Messi corner.",
+      "Julian Alvarez (Argentina): Scored the decisive extra-time goal with a moment of individual brilliance."
+    ]
+  },
+  {
     "slug": "2026-07-12_morning-general",
     "file": "pages/2026-07-12_morning-general.html",
     "type": "daily-briefing",

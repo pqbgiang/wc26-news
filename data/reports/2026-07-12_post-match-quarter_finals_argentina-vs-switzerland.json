@@ -1,0 +1,100 @@
+{
+  "type": "post-match-quarter_finals",
+  "date": "2026-07-12",
+  "matches": [
+    {
+      "teams": [
+        "Argentina",
+        "Switzerland"
+      ],
+      "status": "completed",
+      "score": "3-1",
+      "scorers": [
+        {
+          "player": "Alexis Mac Allister",
+          "team": "Argentina",
+          "minute": "10'"
+        },
+        {
+          "player": "Dan Ndoye",
+          "team": "Switzerland",
+          "minute": "67'"
+        },
+        {
+          "player": "Julian Alvarez",
+          "team": "Argentina",
+          "minute": "112'"
+        },
+        {
+          "player": "Lautaro Martinez",
+          "team": "Argentina",
+          "minute": "120+1'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Lionel Messi",
+          "team": "Argentina"
+        },
+        {
+          "player": "Ricardo Rodriguez",
+          "team": "Switzerland"
+        },
+        {
+          "player": "Jose Lopez",
+          "team": "Argentina"
+        }
+      ],
+      "key_moments": [
+        "Alexis Mac Allister opened the scoring early for Argentina with a header from a Lionel Messi corner.",
+        "Dan Ndoye equalized for Switzerland in the second half with a low strike.",
+        "Breel Embolo of Switzerland received a second yellow card for simulation in the 72nd minute, reducing his team to ten men.",
+        "Julian Alvarez scored a stunning long-range curler in the 112th minute of extra time to restore Argentina's lead.",
+        "Lautaro Martinez sealed Argentina's victory with a goal in the final minute of extra time."
+      ],
+      "standout_performers": [
+        {
+          "player": "Julian Alvarez",
+          "team": "Argentina",
+          "reason": "Scored the decisive extra-time goal with a moment of individual brilliance."
+        },
+        {
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "reason": "Provided a crucial assist and was a constant creative force, making his record-extending 10th World Cup assist."
+        }
+      ],
+      "tactical_summary": "Argentina took an early lead but faced a resilient Swiss defense, who managed to equalize despite being under pressure. The red card for Switzerland shifted the momentum, yet Argentina still required extra time and two late goals to break down their determined, ten-man opponents.",
+      "stats": {
+        "possession": {
+          "home": 59,
+          "away": 41
+        },
+        "shots": {
+          "home": 22,
+          "away": 11
+        }
+      },
+      "advancement": {
+        "winner": "Argentina",
+        "advanced_to": "Semifinals"
+      },
+      "metadata": {
+        "venue": "Kansas City Stadium, Kansas City, Missouri",
+        "kickoffUTC": "01:00"
+      }
+    }
+  ],
+  "narrative": "The quarterfinal clash between Argentina and Switzerland delivered high drama, with the reigning champions needing extra time to overcome a tenacious ten-man Swiss side. Moments of individual brilliance ultimately decided a hard-fought contest, keeping Argentina's title defense alive.",
+  "qf_notes": "Argentina advanced to the semifinals, where they will face England. Switzerland's Breel Embolo will be suspended for their next competitive match due to his red card, though this World Cup journey ends here for the Swiss.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-12T10:19:32.961Z",
+  "title": "Julian Alvarez's Masterclass: Argentina Dominates Switzerland",
+  "keyTakeaways": [
+    "Argentina 3-1 Switzerland",
+    "Alexis Mac Allister opened the scoring early for Argentina with a header from a Lionel Messi corner.",
+    "Julian Alvarez (Argentina): Scored the decisive extra-time goal with a moment of individual brilliance."
+  ]
+}
