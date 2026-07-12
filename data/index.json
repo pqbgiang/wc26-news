@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-07-12_morning-general",
+    "file": "pages/2026-07-12_morning-general.html",
+    "type": "daily-briefing",
+    "title": "Tournament Headlines & Analysis",
+    "summary": "World Cup 2026 analysis: daily briefing",
+    "teams": [],
+    "date": "2026-07-12",
+    "generatedAt": "2026-07-12T05:14:22.211Z",
+    "jsonPath": "data/reports/2026-07-12_morning-general.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "France vs. Spain Set for Epic Semi-Final",
+      "Spain Edges Belgium in Quarter-Final Thriller",
+      "France Dominates Morocco to Advance"
+    ]
+  },
+  {
     "slug": "2026-07-12_post-match-quarter_finals",
     "file": "pages/2026-07-12_post-match-quarter_finals.html",
     "type": "post-match-quarterfinals",
