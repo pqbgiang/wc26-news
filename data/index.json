@@ -9,16 +9,16 @@
       "Spain,France"
     ],
     "date": "2026-07-13",
-    "generatedAt": "2026-07-13T11:22:14.156Z",
+    "generatedAt": "2026-07-13T19:01:54.086Z",
     "jsonPath": "data/reports/2026-07-13_pre-match-matchup_spain-france_spain-vs-france.json",
     "provider": "gemini",
     "model": "gemini-2.5-flash",
     "searchQueries": 0,
     "verified": false,
     "highlights": [
-      "European Giants Vie for World Cup Final Berth",
-      "Spain's Dominant Run Continues After Euro 2024 Triumph",
-      "France's Resilient Journey to Another World Cup Semi-Final"
+      "European Giants Clash for a Spot in the Final",
+      "Spain's Unbeaten Run to the Final Four",
+      "France's Relentless March Through the Knockouts"
     ]
   },
   {
