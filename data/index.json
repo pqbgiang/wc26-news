@@ -1,5 +1,27 @@
 [
   {
+    "slug": "2026-07-13_pre-match-matchup_england-argentina_england-vs-argentina",
+    "file": "pages/2026-07-13_pre-match-matchup_england-argentina_england-vs-argentina.html",
+    "type": "pre-match-matchup",
+    "title": "England,Argentina · pre match matchup",
+    "summary": "World Cup 2026 analysis: England,Argentina",
+    "teams": [
+      "England,Argentina"
+    ],
+    "date": "2026-07-13",
+    "generatedAt": "2026-07-13T09:41:22.560Z",
+    "jsonPath": "data/reports/2026-07-13_pre-match-matchup_england-argentina_england-vs-argentina.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "High Stakes as England and Argentina Battle for Final Spot",
+      "Three Lions' Roar: England's Dominant Run to the Semis",
+      "Albiceleste's Ascent: Argentina's Resilient Journey"
+    ]
+  },
+  {
     "slug": "2026-07-13_morning-general",
     "file": "pages/2026-07-13_morning-general.html",
     "type": "daily-briefing",
