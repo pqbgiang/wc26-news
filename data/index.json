@@ -1,5 +1,27 @@
 [
   {
+    "slug": "2026-07-13_pre-match-matchup_spain-france_spain-vs-france",
+    "file": "pages/2026-07-13_pre-match-matchup_spain-france_spain-vs-france.html",
+    "type": "pre-match-matchup",
+    "title": "Spain,France · pre match matchup",
+    "summary": "World Cup 2026 analysis: Spain,France",
+    "teams": [
+      "Spain,France"
+    ],
+    "date": "2026-07-13",
+    "generatedAt": "2026-07-13T11:22:14.156Z",
+    "jsonPath": "data/reports/2026-07-13_pre-match-matchup_spain-france_spain-vs-france.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "European Giants Vie for World Cup Final Berth",
+      "Spain's Dominant Run Continues After Euro 2024 Triumph",
+      "France's Resilient Journey to Another World Cup Semi-Final"
+    ]
+  },
+  {
     "slug": "2026-07-13_pre-match-matchup_england-argentina_england-vs-argentina",
     "file": "pages/2026-07-13_pre-match-matchup_england-argentina_england-vs-argentina.html",
     "type": "pre-match-matchup",

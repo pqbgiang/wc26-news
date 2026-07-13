@@ -1,0 +1,178 @@
+{
+  "type": "pre-match-matchup",
+  "team": "Spain,France",
+  "date": "2026-07-13",
+  "sections": [
+    {
+      "title": "Titans Clash: Spain vs. France in World Cup Semi-Final",
+      "items": [
+        {
+          "type": "match",
+          "headline": "European Giants Vie for World Cup Final Berth",
+          "body": "Spain and France, two of Europe's footballing powerhouses, are set to meet in a highly anticipated World Cup 2026 semi-final. This clash pits Spain's technical prowess against France's formidable attacking talent and defensive solidity. The winner will earn a coveted spot in the tournament's grand finale.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "France",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Recent Form & Road to the Semi-Finals",
+      "items": [
+        {
+          "type": "form",
+          "headline": "Spain's Dominant Run Continues After Euro 2024 Triumph",
+          "body": "Spain enters this semi-final in exceptional form, having won Euro 2024 and maintained an impressive undefeated streak of 36 matches before the World Cup quarterfinals. Their path included a perfect group stage at Euro 2024, followed by knockout wins against Georgia and hosts Germany.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "France",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        },
+        {
+          "type": "form",
+          "headline": "France's Resilient Journey to Another World Cup Semi-Final",
+          "body": "France, the 2022 World Cup runners-up, have demonstrated their championship pedigree once again, topping their group and navigating a challenging knockout stage. Les Bleus secured victories over Sweden, Paraguay, and Morocco to reach this semi-final.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "France",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Head-to-Head History: A Fierce European Rivalry",
+      "items": [
+        {
+          "type": "stat",
+          "headline": "Spain Holds Edge in Overall Head-to-Head Record",
+          "body": "In 38 previous encounters, Spain holds a slight advantage with 18 wins compared to France's 13, alongside seven draws. This rivalry has intensified with several high-stakes matches in recent years.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "France",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        },
+        {
+          "type": "stat",
+          "headline": "Recent Competitive Clashes Favor La Roja",
+          "body": "Spain has won three of the last four competitive meetings, including a 2-1 victory in the Euro 2024 semi-final and a thrilling 5-4 win in the June 2025 Nations League semi-final. France's sole World Cup win against Spain came in the 2006 Round of 16.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "France",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Key Players & Matchup Battles",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Yamal vs. Mbappé: Generational Talents Collide",
+          "body": "The match will feature a captivating duel between Spain's teenage sensation Lamine Yamal, who became the youngest goalscorer in Euro 2024 history, and France's captain Kylian Mbappé, the 2022 World Cup Golden Boot winner and France's all-time leading scorer. Their individual brilliance could decide the outcome.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "France",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Midfield Mastery: Rodri and Pedri Face Tchouaméni and Rabiot",
+          "body": "The midfield battle will be crucial, with Spain's Ballon d'Or 2024 winner Rodri and the creative Pedri dictating tempo against France's powerful duo of Aurélien Tchouaméni and Adrien Rabiot. Control of the central park will be key to unlocking attacking opportunities.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "France",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Spain's Wingers Challenge France's Fullbacks",
+          "body": "Spain's dynamic wingers, including Nico Williams and Dani Olmo, will test the defensive capabilities of France's fullbacks like Theo Hernandez and Jules Koundé. Their ability to create width and penetrate the defense will be vital for La Roja.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "France",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tactical Approaches: Possession vs. Counter-Attack",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Spain's Possession-Based 'Tiki-Taka' Philosophy",
+          "body": "Under Luis de la Fuente, Spain continues to employ a possession-based 'tiki-taka' style, emphasizing short passes, positional play, and high pressing to control the game's tempo. They aim to create numerical superiority in midfield and exploit spaces.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "France",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "France's Defensive Solidity and Explosive Transitions",
+          "body": "Didier Deschamps' France typically relies on a compact defensive structure and quick, explosive transitions, often utilizing a 4-2-3-1 or 4-3-3 formation. Their strategy leverages the speed of attackers like Mbappé, who often operates in a 'rest attack' role to exploit disorganised defenses.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "France",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        }
+      ]
+    },
+    {
+      "title": "High Stakes: A Place in the World Cup Final",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Spain Seeks Second World Cup Title",
+          "body": "For Spain, a victory would mean a chance to add a second World Cup title to their 2010 triumph and further cement the legacy of their current golden generation. Reaching the final would validate their recent European Championship success.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "France",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "France Aims for Third World Cup Crown",
+          "body": "France is chasing their third World Cup trophy, having won in 1998 and 2018, and reaching the final in 2022. This semi-final offers an opportunity to avenge recent losses to Spain and continue their dominant run in major tournaments.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "France",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        }
+      ]
+    }
+  ],
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-13T11:22:14.156Z",
+  "title": "Titans Clash: Spain vs. France in World Cup Semi-Final",
+  "keyTakeaways": [
+    "European Giants Vie for World Cup Final Berth",
+    "Spain's Dominant Run Continues After Euro 2024 Triumph",
+    "France's Resilient Journey to Another World Cup Semi-Final"
+  ]
+}
