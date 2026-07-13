@@ -1,5 +1,25 @@
 [
   {
+    "slug": "2026-07-13_morning-general",
+    "file": "pages/2026-07-13_morning-general.html",
+    "type": "daily-briefing",
+    "title": "Tournament Headlines & Analysis",
+    "summary": "World Cup 2026 analysis: daily briefing",
+    "teams": [],
+    "date": "2026-07-13",
+    "generatedAt": "2026-07-13T05:23:37.001Z",
+    "jsonPath": "data/reports/2026-07-13_morning-general.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "World Cup 2026 Enters Crucial Stages",
+      "Tournament Format: 48 Teams, R32 Knockout",
+      "Spain Advances Past Portugal in R16"
+    ]
+  },
+  {
     "slug": "2026-07-12_post-match-quarter_finals_argentina-vs-switzerland",
     "file": "pages/2026-07-12_post-match-quarter_finals_argentina-vs-switzerland.html",
     "type": "post-match-quarter_finals",
