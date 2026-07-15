@@ -1,5 +1,28 @@
 [
   {
+    "slug": "2026-07-15_post-match-semi_finals_england-vs-argentina",
+    "file": "pages/2026-07-15_post-match-semi_finals_england-vs-argentina.html",
+    "type": "post-match-semi_finals",
+    "title": "Lionel Messi's Masterclass: England Dominates Argentina",
+    "summary": "World Cup 2026 analysis: post match semi_finals",
+    "teams": [
+      "England",
+      "Argentina"
+    ],
+    "date": "2026-07-15",
+    "generatedAt": "2026-07-15T21:37:51.527Z",
+    "jsonPath": "data/reports/2026-07-15_post-match-semi_finals_england-vs-argentina.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "England 1-2 Argentina",
+      "Harry Kane's opening goal gave England an early lead in the first half.",
+      "Lionel Messi (Argentina): Scored the crucial equalizer and was instrumental in Argentina's attacking play."
+    ]
+  },
+  {
     "slug": "2026-07-15_post-match-semi_finals_spain-vs-france",
     "file": "pages/2026-07-15_post-match-semi_finals_spain-vs-france.html",
     "type": "post-match-semi_finals",
