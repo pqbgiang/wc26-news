@@ -3,21 +3,23 @@
     "slug": "2026-07-15_post-match-semi_finals_spain-vs-france",
     "file": "pages/2026-07-15_post-match-semi_finals_spain-vs-france.html",
     "type": "post-match-semi_finals",
-    "title": "Spain 2-0 France",
+    "title": "Pedro Porro's Masterclass: Spain Dominates France",
     "summary": "World Cup 2026 analysis: post match semi_finals",
     "teams": [
       "Spain",
       "France"
     ],
     "date": "2026-07-15",
-    "generatedAt": "2026-07-15T01:30:53.508Z",
+    "generatedAt": "2026-07-15T01:46:19.796Z",
     "jsonPath": "data/reports/2026-07-15_post-match-semi_finals_spain-vs-france.json",
     "provider": "gemini",
     "model": "gemini-2.5-flash",
     "searchQueries": 0,
     "verified": false,
     "highlights": [
-      "Spain 2-0 France"
+      "Spain 2-0 France",
+      "8' Yellow Card: Adrien Rabiot (France) for a foul on Dani Olmo.",
+      "Pedro Porro (Spain): Scored the decisive second goal and was voted Player of the Match."
     ]
   },
   {
