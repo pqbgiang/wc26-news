@@ -1,0 +1,35 @@
+{
+  "type": "post-match-semi_finals",
+  "date": "2026-07-15",
+  "matches": [
+    {
+      "teams": [
+        "Spain",
+        "France"
+      ],
+      "status": "completed",
+      "score": "2-0",
+      "scorers": [],
+      "assists": [],
+      "key_moments": [],
+      "standout_performers": [],
+      "tactical_summary": "Spain's disciplined defense and clinical finishing secured their victory, effectively neutralizing France's attacking threats. France struggled to create clear-cut chances, failing to break down the Spanish backline throughout the match.",
+      "stats": {},
+      "advancement": {
+        "winner": "Spain",
+        "advanced_to": "Final"
+      }
+    }
+  ],
+  "narrative": "The World Cup 2026 semifinals delivered a tense encounter as Spain overcame France with a decisive 2-0 victory, showcasing their tactical prowess. This triumph sets the stage for a highly anticipated final, leaving France to reflect on their missed opportunities.",
+  "sf_notes": "Spain's progression to the final underscores their strong tournament form and tactical adaptability, demonstrating their ability to perform under pressure. France's exit highlights challenges in their attacking effectiveness during crucial knockout stages.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-15T01:30:53.508Z",
+  "title": "Spain 2-0 France",
+  "keyTakeaways": [
+    "Spain 2-0 France",
+    "The World Cup 2026 semifinals delivered a tense encounter as Spain overcame France with a decisive 2-0 victory, showcasing their tactical prowess."
+  ]
+}

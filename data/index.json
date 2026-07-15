@@ -1,5 +1,26 @@
 [
   {
+    "slug": "2026-07-15_post-match-semi_finals_spain-vs-france",
+    "file": "pages/2026-07-15_post-match-semi_finals_spain-vs-france.html",
+    "type": "post-match-semi_finals",
+    "title": "Spain 2-0 France",
+    "summary": "World Cup 2026 analysis: post match semi_finals",
+    "teams": [
+      "Spain",
+      "France"
+    ],
+    "date": "2026-07-15",
+    "generatedAt": "2026-07-15T01:30:53.508Z",
+    "jsonPath": "data/reports/2026-07-15_post-match-semi_finals_spain-vs-france.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Spain 2-0 France"
+    ]
+  },
+  {
     "slug": "2026-07-14_pre-match-matchup_england-argentina_england-vs-argentina",
     "file": "pages/2026-07-14_pre-match-matchup_england-argentina_england-vs-argentina.html",
     "type": "pre-match-matchup",
