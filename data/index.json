@@ -1,5 +1,27 @@
 [
   {
+    "slug": "2026-07-17_pre-match-matchup_france-england_france-vs-england",
+    "file": "pages/2026-07-17_pre-match-matchup_france-england_france-vs-england.html",
+    "type": "pre-match-matchup",
+    "title": "France,England · pre match matchup",
+    "summary": "World Cup 2026 analysis: France,England",
+    "teams": [
+      "France,England"
+    ],
+    "date": "TBD",
+    "generatedAt": "2026-07-17T21:01:57.130Z",
+    "jsonPath": "data/reports/2026-07-17_pre-match-matchup_france-england_france-vs-england.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "European Giants Clash for Third Place Glory",
+      "France's Dominant Run Halted in Semis",
+      "England's Resilient Journey Ends in Heartbreak"
+    ]
+  },
+  {
     "slug": "2026-07-15_post-match-semi_finals_england-vs-argentina",
     "file": "pages/2026-07-15_post-match-semi_finals_england-vs-argentina.html",
     "type": "post-match-semi_finals",
