@@ -1,0 +1,35 @@
+{
+  "type": "post-match-third_place_playoff",
+  "date": "2026-07-18",
+  "matches": [
+    {
+      "teams": [
+        "France",
+        "England"
+      ],
+      "status": "completed",
+      "score": "4-6",
+      "scorers": [],
+      "assists": [],
+      "key_moments": [],
+      "standout_performers": [],
+      "tactical_summary": "England secured third place in a high-scoring encounter, demonstrating superior attacking efficiency. France's defensive vulnerabilities were exploited, leading to a challenging match for their backline.",
+      "stats": {},
+      "advancement": {
+        "winner": "England",
+        "advanced_to": "Third Place"
+      }
+    }
+  ],
+  "narrative": "The third-place playoff delivered an unexpected goal-fest, with both European giants showcasing their offensive prowess. England ultimately prevailed in a thrilling contest, securing a podium finish.",
+  "playoff_notes": "The third-place playoff, often seen as a consolation match, still offered players a chance to end their World Cup campaign on a high note. For both France and England, it was an opportunity to restore pride after their semi-final exits.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-18T23:37:06.369Z",
+  "title": "France 4-6 England",
+  "keyTakeaways": [
+    "France 4-6 England",
+    "The third-place playoff delivered an unexpected goal-fest, with both European giants showcasing their offensive prowess."
+  ]
+}
