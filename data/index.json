@@ -1,5 +1,27 @@
 [
   {
+    "slug": "2026-07-18_pre-match-matchup_spain-argentina_spain-vs-argentina",
+    "file": "pages/2026-07-18_pre-match-matchup_spain-argentina_spain-vs-argentina.html",
+    "type": "pre-match-matchup",
+    "title": "Spain,Argentina · pre match matchup",
+    "summary": "World Cup 2026 analysis: Spain,Argentina",
+    "teams": [
+      "Spain,Argentina"
+    ],
+    "date": "2026-07-19",
+    "generatedAt": "2026-07-18T19:01:06.510Z",
+    "jsonPath": "data/reports/2026-07-18_pre-match-matchup_spain-argentina_spain-vs-argentina.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "World Cup 2026 Final: Spain Battles Argentina for the Coveted Trophy",
+      "Spain's Impeccable Journey to the Final",
+      "Argentina's Resilient March to the Championship Match"
+    ]
+  },
+  {
     "slug": "2026-07-17_pre-match-matchup_france-england_france-vs-england",
     "file": "pages/2026-07-17_pre-match-matchup_france-england_france-vs-england.html",
     "type": "pre-match-matchup",

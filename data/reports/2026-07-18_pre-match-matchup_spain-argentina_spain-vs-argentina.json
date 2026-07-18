@@ -1,0 +1,156 @@
+{
+  "type": "pre-match-matchup",
+  "team": "Spain,Argentina",
+  "date": "2026-07-19",
+  "sections": [
+    {
+      "title": "Final Showdown: Spain vs. Argentina for World Cup Glory",
+      "items": [
+        {
+          "type": "match",
+          "headline": "World Cup 2026 Final: Spain Battles Argentina for the Coveted Trophy",
+          "body": "The highly anticipated World Cup 2026 Final pits European champions Spain against reigning World Cup and Copa America champions Argentina. This clash promises a thrilling conclusion to the tournament, with both nations vying for football's ultimate prize.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Argentina",
+            "kickoffUTC": "TBD",
+            "venue": "MetLife Stadium, East Rutherford, New Jersey, USA"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Paths to the Pinnacle: Dominance and Resilience",
+      "items": [
+        {
+          "type": "form",
+          "headline": "Spain's Impeccable Journey to the Final",
+          "body": "Spain has demonstrated remarkable consistency throughout the World Cup 2026, winning all six of their matches and conceding only one goal en route to the final. Their dominant run included a decisive 2-0 semi-final victory over France.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Argentina",
+            "kickoffUTC": "TBD",
+            "venue": "MetLife Stadium, East Rutherford, New Jersey, USA"
+          }
+        },
+        {
+          "type": "form",
+          "headline": "Argentina's Resilient March to the Championship Match",
+          "body": "Argentina enters the final unbeaten in their six tournament matches, securing four wins and two draws. Their path included a dramatic 2-1 semi-final comeback against England, orchestrated by Lionel Messi.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Argentina",
+            "kickoffUTC": "TBD",
+            "venue": "MetLife Stadium, East Rutherford, New Jersey, USA"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Perfectly Balanced Rivalry Takes Center Stage",
+      "items": [
+        {
+          "type": "stat",
+          "headline": "Head-to-Head Record: A History of Evenly Matched Contests",
+          "body": "The historical head-to-head record between Spain and Argentina is perfectly balanced, with both nations claiming six victories and two draws across 14 international fixtures. Their sole World Cup encounter was in 1966, where Argentina secured a 2-1 group stage win.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Argentina",
+            "kickoffUTC": "TBD",
+            "venue": "MetLife Stadium, East Rutherford, New Jersey, USA"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Key Battles: Messi vs. La Roja's Young Stars",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Spain's Offensive Threats and Midfield Engine",
+          "body": "Spain's attack is spearheaded by Mikel Oyarzabal, who leads the team with five goals in the tournament, alongside the dynamic Lamine Yamal on the wing. Midfield maestro Rodri has been crucial, completing the most passes in the competition.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Argentina",
+            "kickoffUTC": "TBD",
+            "venue": "MetLife Stadium, East Rutherford, New Jersey, USA"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Argentina's Attacking Prowess Led by Lionel Messi",
+          "body": "Lionel Messi, at 39, remains Argentina's talisman, leading the tournament with eight goals and four assists, making him a frontrunner for the Golden Boot. Lautaro Martínez and Enzo Fernández have also contributed significantly to Argentina's attacking success.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Argentina",
+            "kickoffUTC": "TBD",
+            "venue": "MetLife Stadium, East Rutherford, New Jersey, USA"
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Midfield Control and Defensive Resilience: Key Matchups",
+          "body": "The battle for midfield supremacy, featuring Rodri against Argentina's engine room, will be pivotal. Spain's defense will face the immense challenge of containing Messi's creativity and goal-scoring threat.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Argentina",
+            "kickoffUTC": "TBD",
+            "venue": "MetLife Stadium, East Rutherford, New Jersey, USA"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tactical Chess: Possession vs. Counter-Attack",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Spain's Signature Possession-Based Approach",
+          "body": "Spain is expected to deploy their characteristic possession-based football, aiming to control the tempo and create chances through intricate passing and movement. Their coach, Luis de la Fuente, emphasizes talent and good football.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Argentina",
+            "kickoffUTC": "TBD",
+            "venue": "MetLife Stadium, East Rutherford, New Jersey, USA"
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Argentina's Dynamic Counter-Attacking Strategy",
+          "body": "Argentina will likely focus on a solid defensive structure, looking to absorb pressure and launch swift counter-attacks, leveraging the individual brilliance of Messi and the pace of their forwards. Their ability to orchestrate late turnarounds highlights their tactical flexibility.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Argentina",
+            "kickoffUTC": "TBD",
+            "venue": "MetLife Stadium, East Rutherford, New Jersey, USA"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Ultimate Prize: World Cup Legacy Awaits",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "World Cup Glory and National Pride on the Line",
+          "body": "For Argentina, a victory would secure their fourth World Cup title, further cementing their status as a footballing powerhouse. Spain aims for their second World Cup triumph, adding to their 2010 success and recent 2024 European Championship.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Argentina",
+            "kickoffUTC": "TBD",
+            "venue": "MetLife Stadium, East Rutherford, New Jersey, USA"
+          }
+        }
+      ]
+    }
+  ],
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-18T19:01:06.510Z",
+  "title": "Final Showdown: Spain vs. Argentina for World Cup Glory",
+  "keyTakeaways": [
+    "World Cup 2026 Final: Spain Battles Argentina for the Coveted Trophy",
+    "Spain's Impeccable Journey to the Final",
+    "Argentina's Resilient March to the Championship Match"
+  ]
+}
