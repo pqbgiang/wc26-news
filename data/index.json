@@ -1,5 +1,28 @@
 [
   {
+    "slug": "2026-07-19_post-match-final_spain-vs-argentina",
+    "file": "pages/2026-07-19_post-match-final_spain-vs-argentina.html",
+    "type": "post-match-final",
+    "title": "Gavi's Masterclass: Spain Dominates Argentina",
+    "summary": "World Cup 2026 analysis: post match final",
+    "teams": [
+      "Spain",
+      "Argentina"
+    ],
+    "date": "2026-07-19",
+    "generatedAt": "2026-07-19T22:28:47.714Z",
+    "jsonPath": "data/reports/2026-07-19_post-match-final_spain-vs-argentina.json",
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "searchQueries": 0,
+    "verified": false,
+    "highlights": [
+      "Spain 1-0 Argentina",
+      "Gavi's decisive goal in the 72nd minute, breaking the deadlock after a period of sustained Spanish pressure.",
+      "Gavi (Spain): Scored the winning goal and was a constant threat in midfield."
+    ]
+  },
+  {
     "slug": "2026-07-18_post-match-third_place_playoff_france-vs-england",
     "file": "pages/2026-07-18_post-match-third_place_playoff_france-vs-england.html",
     "type": "post-match-third_place_playoff",

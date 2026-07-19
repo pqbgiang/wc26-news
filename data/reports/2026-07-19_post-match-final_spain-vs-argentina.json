@@ -1,0 +1,62 @@
+{
+  "type": "post-match-final",
+  "date": "2026-07-19",
+  "matches": [
+    {
+      "teams": [
+        "Spain",
+        "Argentina"
+      ],
+      "status": "completed",
+      "score": "1-0",
+      "scorers": [
+        {
+          "player": "Gavi",
+          "team": "Spain",
+          "minute": "72'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Pedri",
+          "team": "Spain"
+        }
+      ],
+      "key_moments": [
+        "Gavi's decisive goal in the 72nd minute, breaking the deadlock after a period of sustained Spanish pressure.",
+        "Emiliano Martínez's crucial save from a close-range Rodri header in the 55th minute, keeping Argentina in the game.",
+        "Argentina's late tactical shift to a more attacking formation, bringing on Lautaro Martínez, which opened up the game but ultimately failed to yield an equalizer."
+      ],
+      "standout_performers": [
+        {
+          "player": "Gavi",
+          "team": "Spain",
+          "reason": "Scored the winning goal and was a constant threat in midfield."
+        },
+        {
+          "player": "Rodri",
+          "team": "Spain",
+          "reason": "Dominated the midfield, dictating tempo and breaking up Argentine attacks effectively."
+        }
+      ],
+      "tactical_summary": "Spain controlled possession for large periods, patiently building attacks and exploiting the flanks, while Argentina relied on counter-attacks and individual brilliance which were largely stifled. Spain's disciplined defense and midfield pressing limited Argentina's creative players, preventing clear-cut chances throughout the match.",
+      "stats": {},
+      "advancement": {
+        "winner": "Spain",
+        "advanced_to": "World Cup 2026 Champions"
+      }
+    }
+  ],
+  "narrative": "The World Cup 2026 final delivered a tense, tactical battle between two footballing giants, culminating in a narrow victory decided by a single moment of brilliance. The elite-level drama saw both teams push for supremacy, with Spain ultimately prevailing in a hard-fought contest.",
+  "final_notes": "Spain's triumph marks a significant moment in their footballing history, adding another star to their crest and cementing their status as a dominant force. For Argentina, it's a heartbreaking end to a valiant campaign, falling just short of glory.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-19T22:28:47.714Z",
+  "title": "Gavi's Masterclass: Spain Dominates Argentina",
+  "keyTakeaways": [
+    "Spain 1-0 Argentina",
+    "Gavi's decisive goal in the 72nd minute, breaking the deadlock after a period of sustained Spanish pressure.",
+    "Gavi (Spain): Scored the winning goal and was a constant threat in midfield."
+  ]
+}
