@@ -1,0 +1,77 @@
+{
+  "type": "post-match-semi_finals",
+  "date": "2026-07-15",
+  "matches": [
+    {
+      "teams": [
+        "Spain",
+        "France"
+      ],
+      "status": "completed",
+      "score": "2-0",
+      "scorers": [
+        {
+          "player": "Mikel Oyarzabal",
+          "team": "Spain",
+          "minute": "22'"
+        },
+        {
+          "player": "Pedro Porro",
+          "team": "Spain",
+          "minute": "58'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Lamine Yamal",
+          "team": "Spain"
+        },
+        {
+          "player": "Dani Olmo",
+          "team": "Spain"
+        }
+      ],
+      "key_moments": [
+        "8' Yellow Card: Adrien Rabiot (France) for a foul on Dani Olmo.",
+        "21' Penalty awarded to Spain after Lucas Digne fouls Lamine Yamal in the box.",
+        "29' Injury: William Saliba (France) forced off with an apparent injury, replaced by Maxence Lacroix.",
+        "65' Disallowed Goal: Lamine Yamal (Spain) has a brilliant finish ruled out for a narrow offside.",
+        "86' Yellow Card: Kylian Mbappe (France) for serious foul play."
+      ],
+      "standout_performers": [
+        {
+          "player": "Pedro Porro",
+          "team": "Spain",
+          "reason": "Scored the decisive second goal and was voted Player of the Match."
+        },
+        {
+          "player": "Mikel Oyarzabal",
+          "team": "Spain",
+          "reason": "Converted the opening penalty, setting Spain on their path to victory."
+        },
+        {
+          "player": "Lamine Yamal",
+          "team": "Spain",
+          "reason": "Won the crucial penalty and was a constant attacking threat."
+        }
+      ],
+      "tactical_summary": "Spain executed a disciplined performance, controlling the tempo with their positional play and resolute defending to stifle France's potent attack. They were clinical in converting their key chances, while France struggled to create clear-cut opportunities and break down Spain's organized defense.",
+      "advancement": {
+        "winner": "Spain",
+        "advanced_to": "Final"
+      }
+    }
+  ],
+  "narrative": "Spain delivered a masterclass in tactical discipline, securing their place in the World Cup final by neutralizing a star-studded French side. Despite the presence of Kylian Mbappe, France failed to find their rhythm and were ultimately outplayed in a high-stakes semifinal clash.",
+  "sf_notes": "Spain's victory underscores their status as formidable contenders, showcasing a balanced team capable of both defensive solidity and decisive attacking play. France faces a third-place playoff with concerns over William Saliba's injury and the need to regroup after a disappointing offensive display.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-15T01:46:19.796Z",
+  "title": "Pedro Porro's Masterclass: Spain Dominates France",
+  "keyTakeaways": [
+    "Spain 2-0 France",
+    "8' Yellow Card: Adrien Rabiot (France) for a foul on Dani Olmo.",
+    "Pedro Porro (Spain): Scored the decisive second goal and was voted Player of the Match."
+  ]
+}

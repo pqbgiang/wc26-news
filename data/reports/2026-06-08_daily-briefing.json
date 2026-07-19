@@ -1,0 +1,28 @@
+{
+  "type": "daily-briefing",
+  "date": "2026-06-08",
+  "provider": "claude",
+  "model": "claude-haiku-4-5-20251001",
+  "searchQueries": 4,
+  "generatedAt": "2026-06-08T10:00:00Z",
+  "summary": "Daily briefing on World Cup 2026 key developments, upcoming matches, and tournament status as we approach the opening fixtures.",
+  "content": {
+    "sections": [
+      {
+        "title": "Today's Coverage",
+        "emoji": "⚽",
+        "items": [
+          {
+            "type": "match",
+            "headline": "Tournament preparations in final phase",
+            "body": "With opening matches just days away, teams are completing their final preparations at their respective bases around the host nation. Injury updates, tactical refinements, and mental preparation are the focus across all camps.",
+            "metadata": {
+              "teams": ["Multiple"],
+              "isPreview": true
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

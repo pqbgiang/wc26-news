@@ -1,0 +1,134 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-24",
+  "matches": [
+    {
+      "teams": [
+        "Bosnia & Herzegovina",
+        "Qatar"
+      ],
+      "status": "completed",
+      "score": "3-1",
+      "scorers": [
+        {
+          "player": "Kerim Alajbegovic",
+          "team": "Bosnia & Herzegovina",
+          "minute": "29'"
+        },
+        {
+          "player": "Sultan Al-Brake (OG)",
+          "team": "Bosnia & Herzegovina",
+          "minute": "34'"
+        },
+        {
+          "player": "Hassan Al Haydos",
+          "team": "Qatar",
+          "minute": "42'"
+        },
+        {
+          "player": "Ermin Mahmic",
+          "team": "Bosnia & Herzegovina",
+          "minute": "80'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Ivan Basic",
+          "team": "Bosnia & Herzegovina",
+          "minute": "29'"
+        },
+        {
+          "player": "Edmílson Junior",
+          "team": "Qatar",
+          "minute": "42'"
+        },
+        {
+          "player": "Dennis Hadzikadunic",
+          "team": "Bosnia & Herzegovina",
+          "minute": "80'"
+        }
+      ],
+      "key_moments": [
+        "Goal: Kerim Alajbegovic opens scoring for Bosnia & Herzegovina (29').",
+        "Own Goal: Sultan Al-Brake deflects a shot into his own net, doubling Bosnia's lead (34').",
+        "Goal: Hassan Al Haydos pulls one back for Qatar before halftime (42').",
+        "Post Hit: Edin Dzeko's shot strikes the post, denying Bosnia a third goal (39').",
+        "Injury: Qatar captain Hassan Al Haydos is substituted due to injury (56').",
+        "Goal: Ermin Mahmic secures Bosnia's victory with a late goal (80')."
+      ],
+      "standout_performers": [
+        {
+          "player": "Kerim Alajbegovic",
+          "team": "Bosnia & Herzegovina",
+          "reason": "Scored the opening goal and was instrumental in creating chances."
+        },
+        {
+          "player": "Ivan Basic",
+          "team": "Bosnia & Herzegovina",
+          "reason": "Provided a key assist and maintained a high tempo with accurate passing."
+        },
+        {
+          "player": "Hassan Al Haydos",
+          "team": "Qatar",
+          "reason": "Scored Qatar's only goal and led the team as captain before his injury."
+        }
+      ],
+      "tactical_summary": "Bosnia & Herzegovina dictated possession and built attacks methodically, aiming to break down Qatar's defense with structured play. Qatar, in turn, sought to exploit counter-attacking opportunities and created high-quality chances despite less possession.",
+      "stats": {
+        "possession": {
+          "home": 59,
+          "away": 41
+        },
+        "shots": {
+          "home": 9,
+          "away": 4
+        },
+        "xg": {
+          "home": 0.5,
+          "away": 0.51
+        }
+      }
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "B",
+      "provisional": true,
+      "table": [
+        {
+          "team": "Canada",
+          "played": 2,
+          "pts": 4,
+          "gd": 6,
+          "gf": 7
+        },
+        {
+          "team": "Switzerland",
+          "played": 2,
+          "pts": 4,
+          "gd": 3,
+          "gf": 5
+        },
+        {
+          "team": "Bosnia & Herzegovina",
+          "played": 3,
+          "pts": 4,
+          "gd": -1,
+          "gf": 5
+        },
+        {
+          "team": "Qatar",
+          "played": 3,
+          "pts": 1,
+          "gd": -8,
+          "gf": 2
+        }
+      ]
+    }
+  ],
+  "narrative": "Bosnia & Herzegovina secured a vital 3-1 victory over Qatar in Kansas City, keeping their hopes of advancing to the knockout stages alive. This result, achieved through a combination of structured play and a late insurance goal, eliminates Qatar from the tournament.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-24T21:08:57.236Z"
+}

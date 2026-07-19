@@ -1,0 +1,131 @@
+{
+  "type": "post-match-quarterfinal",
+  "team": null,
+  "date": "2026-07-11",
+  "sections": [
+    {
+      "title": "Quarterfinal Thrillers Set Semifinal Stage",
+      "items": [
+        {
+          "type": "match",
+          "headline": "France Dominates Morocco, Secures Semifinal Berth",
+          "body": "France advanced to the semifinals with a commanding 2-0 victory over Morocco. Kylian Mbappe and Ousmane Dembele were on target, showcasing France's formidable attacking power and solidifying their status as tournament favorites.",
+          "metadata": {
+            "homeTeam": "France",
+            "awayTeam": "Morocco",
+            "kickoffUTC": "00:00",
+            "venue": "Gillette Stadium, Foxborough, Massachusetts"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Mbappe and Dembele Lead French Charge",
+          "body": "Kylian Mbappe and Ousmane Dembele delivered the goals that sealed France's progression. Their clinical finishing and relentless pressure proved too much for a resilient Moroccan side, who fought hard but ultimately couldn't breach the French defense.",
+          "metadata": {}
+        },
+        {
+          "type": "match",
+          "headline": "Spain Edges Belgium in Late Drama",
+          "body": "Spain secured their spot in the semifinals with a dramatic 2-1 win against Belgium, decided by an 88th-minute goal. Fabian Ruiz opened the scoring for Spain, with Charles De Ketelaere equalizing for Belgium before Mikel Merino's late heroics.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Belgium",
+            "kickoffUTC": "02:00",
+            "venue": "SoFi Stadium, Inglewood, California"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Merino's Late Strike Sinks Resilient Belgium",
+          "body": "Mikel Merino's decisive goal in the 88th minute, following a rebound from Pau Cubarsi's shot, broke Belgian hearts and sent Spain through. Belgium battled fiercely, even after losing goalkeeper Thibaut Courtois to injury, and ended Unai Simón's record 650-minute shutout streak.",
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "title": "Road to Glory: Semifinalists Emerge",
+      "items": [
+        {
+          "type": "form",
+          "headline": "France's Dominance Signals Title Intent",
+          "body": "France has showcased exceptional form throughout the tournament, culminating in a confident Quarterfinal win. Their blend of defensive solidity and explosive attacking talent makes them a formidable contender for the World Cup title.",
+          "metadata": {}
+        },
+        {
+          "type": "form",
+          "headline": "Spain's Resilience Proves Key to Advancement",
+          "body": "Spain demonstrated remarkable resilience, overcoming a tough Belgian challenge with a late winner. Their ability to maintain composure and find crucial goals under pressure highlights their championship pedigree.",
+          "metadata": {}
+        },
+        {
+          "type": "analysis",
+          "headline": "Injury Update: Courtois Out for Belgium",
+          "body": "Belgium's star goalkeeper, Thibaut Courtois, suffered an injury during the match against Spain and was replaced by Senne Lammens. While a significant blow for Belgium, it does not impact the advancing teams.",
+          "metadata": {}
+        },
+        {
+          "type": "analysis",
+          "headline": "Historical Paths to the Semifinals",
+          "body": "France, a 2018 champion and 2022 finalist, continues its deep tournament runs, reaching an eighth World Cup semifinal. Spain, champions in 2010, makes its second-ever appearance in the World Cup semifinals, showcasing their consistent elite-level performance."
+        }
+      ]
+    },
+    {
+      "title": "Upcoming Quarterfinal Showdowns",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Norway vs England: A Battle for Semifinal Glory",
+          "body": "The highly anticipated clash between Norway and England is set to ignite the Quarterfinal stage. Both teams will vie for a coveted spot in the semifinals, promising a thrilling encounter.",
+          "metadata": {
+            "homeTeam": "Norway",
+            "awayTeam": "England",
+            "kickoffUTC": "02:00",
+            "venue": "Hard Rock Stadium, Miami Gardens, Florida"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Argentina vs Switzerland: Messi's Quest Continues",
+          "body": "Argentina, led by Lionel Messi, faces a determined Switzerland side in their Quarterfinal match. This fixture will determine the final semifinalist, with both nations eager to extend their World Cup journey.",
+          "metadata": {
+            "homeTeam": "Argentina",
+            "awayTeam": "Switzerland",
+            "kickoffUTC": "07:00",
+            "venue": "GEHA Field at Arrowhead Stadium, Kansas City, Missouri"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Semifinal Preview: France vs Spain",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "European Giants Collide in Dallas",
+          "body": "The first semifinal will feature a monumental clash between two European powerhouses, France and Spain. This highly anticipated encounter is scheduled for July 14 at AT&T Stadium in Arlington, Texas.",
+          "metadata": {
+            "homeTeam": "France",
+            "awayTeam": "Spain",
+            "kickoffUTC": "01:00",
+            "venue": "AT&T Stadium, Arlington, Texas"
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Tactical Battle: French Pace vs Spanish Possession",
+          "body": "This semifinal promises a fascinating tactical battle, pitting France's blistering pace and direct attacking style against Spain's renowned possession-based football and intricate passing. The midfield duel will be crucial in dictating the tempo of the game.",
+          "metadata": {}
+        },
+        {
+          "type": "stat",
+          "headline": "Head-to-Head History: A Tightly Contested Rivalry",
+          "body": "Historically, matches between France and Spain have been tightly contested affairs, with both teams enjoying periods of dominance. Recent encounters have often been decided by fine margins, setting the stage for another thrilling chapter in their rivalry."
+        }
+      ]
+    }
+  ],
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-11T01:56:18.623Z"
+}

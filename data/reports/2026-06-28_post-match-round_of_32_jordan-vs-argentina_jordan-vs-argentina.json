@@ -1,0 +1,86 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-06-28",
+  "matches": [
+    {
+      "teams": [
+        "Jordan",
+        "Argentina"
+      ],
+      "status": "completed",
+      "score": "1-3",
+      "scorers": [
+        {
+          "player": "Giovani Lo Celso",
+          "team": "Argentina",
+          "minute": "19'"
+        },
+        {
+          "player": "Lautaro Martínez",
+          "team": "Argentina",
+          "minute": "31' (P)"
+        },
+        {
+          "player": "Mousa Tamari",
+          "team": "Jordan",
+          "minute": "55'"
+        },
+        {
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "minute": "80' (FK)"
+        }
+      ],
+      "assists": [],
+      "key_moments": [
+        "17': Mohannad Abu Taha (Jordan) received a yellow card for a foul on Giovani Lo Celso.",
+        "19': Giovani Lo Celso opened the scoring for Argentina with a left-foot finish.",
+        "31': Lautaro Martínez converted a penalty kick after Marcos Senesi won a foul in the box.",
+        "55': Mousa Tamari scored for Jordan, pulling one back after halftime tactical changes.",
+        "80': Lionel Messi, coming off the bench, scored a clinical free-kick to extend Argentina's lead."
+      ],
+      "standout_performers": [
+        {
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "reason": "Came off the bench to score a crucial free-kick, extending his World Cup goal record."
+        },
+        {
+          "player": "Giovani Lo Celso",
+          "team": "Argentina",
+          "reason": "Scored the opening goal and was instrumental in Argentina's first-half control."
+        },
+        {
+          "player": "Mousa Tamari",
+          "team": "Jordan",
+          "reason": "Provided Jordan's only goal, injecting energy into their attack in the second half."
+        }
+      ],
+      "tactical_summary": "Argentina dominated possession and tempo in the first half, establishing a comfortable lead through early goals. Jordan's halftime adjustments led to a more spirited second-half performance and a consolation goal, but Argentina ultimately sealed the win with a late strike.",
+      "stats": {
+        "possession": {
+          "home": 27,
+          "away": 73
+        },
+        "shots": {
+          "home": 5,
+          "away": 12
+        },
+        "xg": {
+          "home": 0.74,
+          "away": 2.13
+        }
+      },
+      "advancement": {
+        "winner": "Argentina",
+        "advanced_to": "Round of 16"
+      }
+    }
+  ],
+  "narrative": "Defending champions Argentina secured their passage to the Round of 16 with a 3-1 victory over tournament debutants Jordan, showcasing their depth even with squad rotation. Lionel Messi's late free-kick was a highlight, as Jordan fought valiantly to score a historic goal in their World Cup journey.",
+  "next_round_notes": "Argentina will continue to manage the fitness of key players, including Cristian Romero (knee injury, expected to return to full training) and Lionel Messi (muscle fatigue and hamstring strain), as they prepare for the demanding Round of 16.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-28T04:18:51.362Z"
+}

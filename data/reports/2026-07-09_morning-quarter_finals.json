@@ -1,0 +1,91 @@
+{
+  "type": "morning-quarter_finals",
+  "team": null,
+  "date": "2026-07-09",
+  "sections": [
+    {
+      "title": "Quarterfinal Tactical Breakdown",
+      "items": [
+        {
+          "type": "match",
+          "headline": "France and Morocco Clash in High Stakes Quarterfinal",
+          "body": "France advanced by dominating their Round of 16 fixture with clinical finishing, while Morocco secured their spot through a resilient defensive display and tactical discipline. Both teams have shown consistency, but France must overcome Morocco's compact low block to avoid a potential upset. Kylian Mbappe remains the focal point for France, facing immense pressure to break down a Moroccan side that has conceded very few goals this tournament.",
+          "metadata": {
+            "homeTeam": "France",
+            "awayTeam": "Morocco",
+            "kickoffUTC": "20:00",
+            "venue": "Gillette Stadium, Foxborough, United States"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Spain and Belgium Prepare for Tactical Showdown",
+          "body": "Spain reached this stage by controlling possession and dictating tempo, whereas Belgium relied on individual brilliance and quick transitions to overcome their opponents. The tactical battle will center on Spain's ability to bypass Belgium's midfield press without leaving gaps for counterattacks. Kevin De Bruyne's creative output will be critical for Belgium against a disciplined Spanish defensive line.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Belgium",
+            "kickoffUTC": "19:00",
+            "venue": "Hard Rock Stadium, Miami Gardens, United States"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Norway and England Face Off in Quarterfinal Battle",
+          "body": "Norway's path to the quarterfinals has been defined by Erling Haaland's prolific scoring, while England has utilized a balanced squad to grind out results in tight matches. England's defensive structure will be tested by Norway's direct style, making this a clash of contrasting philosophies. The burden on Haaland to deliver against a top-tier defense is significant as England looks to control the game's pace.",
+          "metadata": {
+            "homeTeam": "Norway",
+            "awayTeam": "England",
+            "kickoffUTC": "21:00",
+            "venue": "Lincoln Financial Field, Philadelphia, United States"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Argentina Meets Switzerland in Late Night Quarterfinal",
+          "body": "Argentina enters the match with momentum after a strong knockout performance, while Switzerland has proven to be a difficult opponent through organized team play. Argentina's reliance on Lionel Messi's playmaking will be challenged by Switzerland's disciplined man-marking system. The match will likely be decided by which team can maintain physical intensity during the late kickoff hours.",
+          "metadata": {
+            "homeTeam": "Argentina",
+            "awayTeam": "Switzerland",
+            "kickoffUTC": "02:00",
+            "venue": "NRG Stadium, Houston, United States"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Elite Performance Indicators",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Managerial Chess Matches Define the Final Eight",
+          "body": "Coaches are prioritizing defensive stability in the knockout stages to minimize errors that lead to elimination. Tactical flexibility, specifically the ability to switch between high pressing and defensive blocks, has become the primary indicator of success for the remaining teams.",
+          "metadata": {
+            "homeTeam": "N/A",
+            "awayTeam": "N/A",
+            "kickoffUTC": "00:00",
+            "venue": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Semifinal Scenarios",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Projecting the Final Four Configurations",
+          "body": "The winners of the France-Morocco and Spain-Belgium matches are set to collide in a high-profile semifinal. The remaining bracket features the winners of Norway-England and Argentina-Switzerland, setting up potential heavyweight clashes that will test squad depth and physical recovery.",
+          "metadata": {
+            "homeTeam": "TBD",
+            "awayTeam": "TBD",
+            "kickoffUTC": "19:00",
+            "venue": "AT&T Stadium, Arlington, United States"
+          }
+        }
+      ]
+    }
+  ],
+  "provider": "gemini",
+  "model": "gemini-3.1-flash-lite",
+  "generatedAt": "2026-07-09T06:01:45.305Z"
+}

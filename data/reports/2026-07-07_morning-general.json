@@ -1,0 +1,48 @@
+{
+  "type": "daily-briefing",
+  "team": null,
+  "provider": "gemini",
+  "date": "2026-07-07",
+  "sections": [
+    {
+      "title": "Tournament Status",
+      "emoji": "⚽",
+      "items": [
+        {
+          "type": "match",
+          "headline": "USA Eliminated by Belgium",
+          "body": "The United States concluded their 2026 World Cup campaign following a 4-1 defeat to Belgium in the Round of 16 at Seattle Stadium on July 6. Despite a first-half equalizer from Malik Tillman, Belgium dominated the second half to secure their quarterfinal spot against Spain.",
+          "metadata": {
+            "result": "USA 1-4 Belgium",
+            "venue": "Seattle Stadium, Seattle, Washington"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Upcoming Quarterfinal Match",
+          "body": "Argentina is set to face Egypt in the Round of 16 on July 7 at Mercedes-Benz Stadium in Atlanta. The winner of this fixture will continue their path toward the tournament final.",
+          "metadata": {
+            "kickoffUTC": "20:00",
+            "venue": "Mercedes-Benz Stadium, Atlanta, Georgia"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tournament Context",
+      "emoji": "🌍",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Co-hosts Exit",
+          "body": "With the elimination of the United States, all three co-hosts of the 2026 FIFA World Cup—USA, Canada, and Mexico—have now been knocked out of the competition at the Round of 16 stage. The tournament continues with the remaining qualified nations competing for the title.",
+          "metadata": {
+            "status": "Round of 16 concluding"
+          }
+        }
+      ]
+    }
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "generatedAt": "2026-07-07T05:57:37.752Z"
+}

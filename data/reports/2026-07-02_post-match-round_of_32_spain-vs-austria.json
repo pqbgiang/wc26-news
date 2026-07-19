@@ -1,0 +1,79 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-07-02",
+  "matches": [
+    {
+      "teams": [
+        "Spain",
+        "Austria"
+      ],
+      "status": "completed",
+      "score": "3-0",
+      "scorers": [
+        {
+          "player": "Mikel Oyarzabal",
+          "team": "Spain",
+          "minute": "36'"
+        },
+        {
+          "player": "Pedro Porro",
+          "team": "Spain",
+          "minute": "66'"
+        },
+        {
+          "player": "Mikel Oyarzabal",
+          "team": "Spain",
+          "minute": "89'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Marc Cucurella",
+          "team": "Spain"
+        },
+        {
+          "player": "Alex Baena",
+          "team": "Spain"
+        },
+        {
+          "player": "Marc Cucurella",
+          "team": "Spain"
+        }
+      ],
+      "key_moments": [
+        "Mikel Oyarzabal opened the scoring for Spain in the 36th minute with a tidy finish from a Marc Cucurella delivery.",
+        "Spain had a goal by Marc Cucurella disallowed in the 29th minute due to a foul on the goalkeeper.",
+        "Pedro Porro doubled Spain's lead in the 66th minute with a header from an Alex Baena cross."
+      ],
+      "standout_performers": [
+        {
+          "player": "Mikel Oyarzabal",
+          "team": "Spain",
+          "reason": "Scored two crucial goals, including the opener, and was a constant threat."
+        },
+        {
+          "player": "Marc Cucurella",
+          "team": "Spain",
+          "reason": "Provided two assists and was highly influential on the left flank."
+        },
+        {
+          "player": "Alexander Schlager",
+          "team": "Austria",
+          "reason": "Made several key saves to prevent a larger deficit for Austria."
+        }
+      ],
+      "tactical_summary": "Spain dominated possession and consistently pressed Austria's deep defensive line, creating numerous scoring opportunities throughout the match. Austria attempted to absorb pressure and counter-attack, but struggled to break down Spain's organized defense and generate significant chances.",
+      "stats": {},
+      "advancement": {
+        "winner": "Spain",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "Spain delivered a dominant performance in their Round of 32 clash, comfortably defeating Austria to secure their spot in the Quarterfinals. Their attacking prowess and solid defense proved too much for the Austrian side, ending their World Cup journey.",
+  "next_round_notes": "Spain will be without Nico Williams (thigh injury) and Yeremy Pino (collarbone injury) for their next match, with Víctor Muñoz also a doubt due to a muscle injury.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-02T21:07:21.942Z"
+}

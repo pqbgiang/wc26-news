@@ -1,0 +1,69 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-07-02",
+  "matches": [
+    {
+      "teams": [
+        "Belgium",
+        "Senegal"
+      ],
+      "status": "completed",
+      "score": "1-0",
+      "scorers": [
+        {
+          "player": "Romelu Lukaku",
+          "team": "Belgium",
+          "minute": "82'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Kevin De Bruyne",
+          "team": "Belgium"
+        }
+      ],
+      "key_moments": [
+        "Romelu Lukaku scored the decisive goal in the 82nd minute following a precise through ball from Kevin De Bruyne.",
+        "Senegal's defense remained compact for most of the match, successfully neutralizing Belgium's high press until the late breakthrough.",
+        "Idrissa Gueye received a yellow card in the 65th minute for a tactical foul."
+      ],
+      "standout_performers": [
+        {
+          "player": "Kevin De Bruyne",
+          "team": "Belgium",
+          "reason": "Provided the match-winning assist and controlled the midfield tempo."
+        },
+        {
+          "player": "Kalidou Koulibaly",
+          "team": "Senegal",
+          "reason": "Led a resilient defensive effort that kept Senegal in the game until the final stages."
+        }
+      ],
+      "tactical_summary": "Belgium utilized a possession-heavy approach to break down Senegal's low block, eventually finding success through central penetration. Senegal relied on quick transitions and physical defensive work to frustrate the Belgian attack for the majority of the contest.",
+      "stats": {
+        "possession": {
+          "home": 62,
+          "away": 38
+        },
+        "shots": {
+          "home": 15,
+          "away": 7
+        },
+        "xg": {
+          "home": 1.6,
+          "away": 0.5
+        }
+      },
+      "advancement": {
+        "winner": "Belgium",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "Belgium secured a hard-fought victory to advance to the quarterfinals, ending Senegal's resilient run in the tournament. The match highlighted the difficulty of breaking down disciplined defensive structures in the knockout stages.",
+  "next_round_notes": "No major injury concerns reported for Belgium; Idrissa Gueye will miss Senegal's next match had they advanced due to accumulated cards.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-3.1-flash-lite",
+  "generatedAt": "2026-07-02T14:03:34.843Z"
+}

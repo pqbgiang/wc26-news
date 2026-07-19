@@ -1,0 +1,80 @@
+{
+  "type": "post-match-semi_finals",
+  "date": "2026-07-15",
+  "matches": [
+    {
+      "teams": [
+        "England",
+        "Argentina"
+      ],
+      "status": "completed",
+      "score": "1-2",
+      "scorers": [
+        {
+          "player": "Harry Kane",
+          "team": "England",
+          "minute": "30'"
+        },
+        {
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "minute": "55'"
+        },
+        {
+          "player": "Lautaro Martinez",
+          "team": "Argentina",
+          "minute": "80'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Jude Bellingham",
+          "team": "England"
+        },
+        {
+          "player": "Ángel Di María",
+          "team": "Argentina"
+        },
+        {
+          "player": "Enzo Fernández",
+          "team": "Argentina"
+        }
+      ],
+      "key_moments": [
+        "Harry Kane's opening goal gave England an early lead in the first half.",
+        "Lionel Messi equalized for Argentina with a brilliant individual effort in the second half.",
+        "Lautaro Martinez scored the winning goal for Argentina late in the game, securing their advancement."
+      ],
+      "standout_performers": [
+        {
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "reason": "Scored the crucial equalizer and was instrumental in Argentina's attacking play."
+        },
+        {
+          "player": "Lautaro Martinez",
+          "team": "Argentina",
+          "reason": "Netted the decisive winning goal, sending Argentina to the final."
+        }
+      ],
+      "tactical_summary": "England initially focused on defensive solidity and quick transitions, successfully taking an early lead through a well-executed attack. Argentina, however, demonstrated superior attacking depth and resilience in the second half, with their star players making the difference to overcome the deficit.",
+      "stats": {},
+      "advancement": {
+        "winner": "Argentina",
+        "advanced_to": "Final"
+      }
+    }
+  ],
+  "narrative": "The semifinal clash between England and Argentina delivered intense drama, marked by tactical battles and moments of individual brilliance. Argentina's dramatic late winner secured their spot in the final, leaving England to reflect on a hard-fought campaign.",
+  "sf_notes": "No significant injuries or card accumulations were reported that would impact Argentina's squad for the upcoming final. Both teams displayed high levels of intensity, suggesting potential fatigue could be a factor for the finalists in the short turnaround.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-15T21:37:51.527Z",
+  "title": "Lionel Messi's Masterclass: England Dominates Argentina",
+  "keyTakeaways": [
+    "England 1-2 Argentina",
+    "Harry Kane's opening goal gave England an early lead in the first half.",
+    "Lionel Messi (Argentina): Scored the crucial equalizer and was instrumental in Argentina's attacking play."
+  ]
+}

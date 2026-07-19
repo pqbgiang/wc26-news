@@ -1,0 +1,48 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-18",
+  "matches": [
+    {
+      "teams": [
+        "Czechia",
+        "South Africa"
+      ],
+      "status": "upcoming",
+      "kickoffUTC": "16:00",
+      "venue": "Mercedes-Benz Stadium, Atlanta, Georgia, USA"
+    },
+    {
+      "teams": [
+        "Switzerland",
+        "Bosnia & Herzegovina"
+      ],
+      "status": "upcoming",
+      "kickoffUTC": "19:00",
+      "venue": "SoFi Stadium, Inglewood, California, USA"
+    },
+    {
+      "teams": [
+        "Canada",
+        "Qatar"
+      ],
+      "status": "upcoming",
+      "kickoffUTC": "22:00",
+      "venue": "BC Place, Vancouver, Canada"
+    },
+    {
+      "teams": [
+        "Mexico",
+        "South Korea"
+      ],
+      "status": "upcoming",
+      "kickoffUTC": "19:00",
+      "venue": "Estadio Akron, Guadalajara, Mexico"
+    }
+  ],
+  "group_standings": [],
+  "narrative": "All World Cup 2026 matches scheduled for June 18, 2026, are yet to kick off. Group A will see Czechia face South Africa and Mexico play South Korea, while Group B features Switzerland against Bosnia & Herzegovina and Canada taking on Qatar later today.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-18T09:19:16.544Z"
+}

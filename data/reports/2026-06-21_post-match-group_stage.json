@@ -1,0 +1,63 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-21",
+  "matches": [
+    {
+      "teams": [
+        "Tunisia",
+        "Japan"
+      ],
+      "status": "completed",
+      "score": "1-1",
+      "scorers": [],
+      "assists": [],
+      "key_moments": [
+        "Both teams scored one goal each, resulting in a draw."
+      ],
+      "standout_performers": [],
+      "tactical_summary": "The match saw a balanced contest with neither side able to secure a decisive advantage. Both teams demonstrated defensive solidity while also creating opportunities, leading to a shared point.",
+      "stats": {}
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "F",
+      "provisional": true,
+      "table": [
+        {
+          "team": "Netherlands",
+          "played": 2,
+          "pts": 4,
+          "gd": 4,
+          "gf": 7
+        },
+        {
+          "team": "Sweden",
+          "played": 2,
+          "pts": 3,
+          "gd": 0,
+          "gf": 6
+        },
+        {
+          "team": "Japan",
+          "played": 2,
+          "pts": 2,
+          "gd": 0,
+          "gf": 3
+        },
+        {
+          "team": "Tunisia",
+          "played": 2,
+          "pts": 1,
+          "gd": -4,
+          "gf": 2
+        }
+      ]
+    }
+  ],
+  "narrative": "Tunisia secured their first point of the tournament with a 1-1 draw against Japan, keeping their slim hopes alive in Group F. Japan, despite the draw, remains in contention for the knockout stages, though they will need a strong performance in their final group match.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-21T16:44:52.700Z"
+}

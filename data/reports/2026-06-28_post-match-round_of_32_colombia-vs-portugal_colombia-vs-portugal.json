@@ -1,0 +1,59 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-06-28",
+  "matches": [
+    {
+      "teams": [
+        "Colombia",
+        "Portugal"
+      ],
+      "status": "completed",
+      "score": "0-0",
+      "scorers": [],
+      "assists": [],
+      "key_moments": [
+        "Colombia's Davinson Sánchez had a goal disallowed for a marginal offside in second-half stoppage time, denying a late winner.",
+        "Both goalkeepers, Camilo Vargas for Colombia and Diogo Costa for Portugal, made crucial saves to keep the match scoreless.",
+        "A strong defensive display from both sides, coupled with missed opportunities, resulted in a tactical stalemate."
+      ],
+      "standout_performers": [
+        {
+          "player": "Diogo Costa",
+          "team": "Portugal",
+          "reason": "Made six crucial saves to deny Colombia's attacking efforts."
+        },
+        {
+          "player": "Camilo Vargas",
+          "team": "Colombia",
+          "reason": "Made two key stops, ensuring a clean sheet for his side."
+        }
+      ],
+      "tactical_summary": "The match was a tightly contested affair with both teams prioritizing defensive solidity, leading to a midfield battle. Despite Colombia creating more chances, neither side could break the deadlock, largely due to excellent goalkeeping and disciplined defending.",
+      "stats": {
+        "shots": {
+          "home": 24,
+          "away": 13
+        },
+        "xg": {
+          "home": 1.63,
+          "away": 0.69
+        }
+      },
+      "advancement": {
+        "winner": "Colombia",
+        "advanced_to": "Round of 32"
+      },
+      "metadata": {
+        "match_id": "Colombia_vs_Portugal_2026-06-27",
+        "kickoffUTC": "23:30",
+        "venue": "Hard Rock Stadium, Miami, Florida"
+      }
+    }
+  ],
+  "narrative": "The final day of Group K saw Colombia and Portugal play out a goalless draw, a result that secured Colombia's top spot in the group and Portugal's second-place finish. Both teams had already qualified for the Round of 32, making this match crucial for determining their knockout stage opponents.",
+  "next_round_notes": "Colombia, as Group K winners, will face Ghana in the Round of 32. Portugal, finishing second in Group K, will play against Croatia in their next match. Colombia's Puerta received a yellow card during the match.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-28T02:25:04.305Z"
+}

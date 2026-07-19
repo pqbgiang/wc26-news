@@ -1,0 +1,213 @@
+{
+  "type": "post-match-quarterfinals",
+  "team": null,
+  "date": "2026-07-12",
+  "sections": [
+    {
+      "title": "Quarterfinal Thrillers: Elite Four Advance!",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Mbappé Magic Propels France Past Morocco",
+          "body": "France secured their spot in the semifinals with a dominant 2-0 victory over Morocco. Kylian Mbappé opened the scoring early, showcasing his blistering pace and clinical finish, while Antoine Griezmann added a second to seal the win. Morocco fought valiantly but couldn't break through France's resolute defense.",
+          "metadata": {
+            "homeTeam": "France",
+            "awayTeam": "Morocco",
+            "kickoffUTC": "20:00",
+            "venue": "Gillette Stadium, Foxborough, Massachusetts, USA"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "France's Tactical Masterclass: Defensive Solidity Meets Attacking Flair",
+          "body": "Didier Deschamps' tactical setup proved impenetrable, with France absorbing pressure and launching devastating counter-attacks. The midfield battle was crucial, where France's engine room stifled Moroccan creativity and fed their potent forward line. Their ability to switch from defense to attack with such speed was a key factor.",
+          "metadata": {}
+        },
+        {
+          "type": "stat",
+          "headline": "Mbappé's Relentless Pursuit of the Golden Boot",
+          "body": "Kylian Mbappé's goal against Morocco further solidifies his position as a top contender for the Golden Boot, demonstrating his consistent threat in front of goal throughout the tournament. His individual brilliance continues to be a driving force for Les Bleus."
+        },
+        {
+          "type": "match",
+          "headline": "Spain Edges Belgium in High-Stakes Clash",
+          "body": "Spain emerged victorious with a hard-fought 2-1 win against Belgium in a captivating Quarterfinal encounter. Pedri and Dani Olmo found the net for Spain, with Romelu Lukaku pulling one back for Belgium. The match was a tense affair, decided by a late Spanish goal after relentless pressure.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Belgium",
+            "kickoffUTC": "19:00",
+            "venue": "SoFi Stadium, Inglewood, California, USA"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "La Roja's Possession Dominance Pays Off",
+          "body": "Spain's signature tiki-taka style, characterized by high possession and intricate passing, eventually wore down a resilient Belgian side. Their ability to control the tempo and create chances through sustained periods of possession was a testament to their tactical discipline.",
+          "metadata": {}
+        },
+        {
+          "type": "stat",
+          "headline": "Pedri's Midfield Masterclass Steers Spain",
+          "body": "Pedri delivered a standout performance in midfield, dictating play, breaking lines, and contributing a crucial goal. His vision and composure under pressure were instrumental in Spain's progression to the semifinals."
+        },
+        {
+          "type": "match",
+          "headline": "Bellingham's Header Sends England to Semis",
+          "body": "England secured a dramatic 2-1 victory over Norway, with Jude Bellingham scoring a decisive header in extra time. Harry Kane had given England the lead, but Erling Haaland equalized for Norway, setting up a thrilling finish. England's resilience shone through in a fiercely contested match.",
+          "metadata": {
+            "homeTeam": "England",
+            "awayTeam": "Norway",
+            "kickoffUTC": "21:00",
+            "venue": "Hard Rock Stadium, Miami Gardens, Florida, USA"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Southgate's Substitutions Spark England's Comeback",
+          "body": "Gareth Southgate's tactical adjustments and substitutions proved pivotal, injecting fresh energy and creativity into the English attack. The team's ability to adapt and find a winning goal against a strong Norwegian defense highlighted their depth and tactical flexibility.",
+          "metadata": {}
+        },
+        {
+          "type": "stat",
+          "headline": "Kane and Haaland: A Duel of Strikers",
+          "body": "The match featured a captivating duel between two of the world's best strikers, Harry Kane and Erling Haaland, both finding the net. While Haaland's goal kept Norway in the fight, Kane's leadership and Bellingham's heroics ultimately propelled England forward."
+        },
+        {
+          "type": "match",
+          "headline": "Messi's Free-Kick Seals Argentina's Semifinal Berth",
+          "body": "Argentina advanced to the semifinals with a narrow 1-0 win over a disciplined Switzerland side. Lionel Messi delivered a moment of magic with a stunning free-kick that proved to be the only goal of the match. Switzerland defended resolutely but couldn't find an equalizer.",
+          "metadata": {
+            "homeTeam": "Argentina",
+            "awayTeam": "Switzerland",
+            "kickoffUTC": "20:00",
+            "venue": "Arrowhead Stadium, Kansas City, Missouri, USA"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Scaloni's Strategic Patience Unlocks Swiss Defense",
+          "body": "Argentina's patient build-up play and reliance on individual brilliance, particularly from Messi, eventually broke down Switzerland's well-organized defense. Coach Lionel Scaloni's strategy to maintain possession and probe for openings paid off in a tight contest.",
+          "metadata": {}
+        },
+        {
+          "type": "stat",
+          "headline": "Messi Continues to Define Argentina's Journey",
+          "body": "Lionel Messi's match-winning free-kick underscored his enduring importance to the Argentine squad. His ability to produce moments of genius under immense pressure continues to be the driving force behind their World Cup campaign."
+        }
+      ]
+    },
+    {
+      "title": "Road to Glory: Semifinalists' Form and History",
+      "items": [
+        {
+          "type": "form",
+          "headline": "France: Unstoppable Momentum",
+          "body": "France enters the semifinals in formidable form, having demonstrated both defensive resilience and explosive attacking power throughout the tournament. Their recent victories showcase a team peaking at the right time, with key players delivering consistently.",
+          "metadata": {
+            "homeTeam": "France",
+            "awayTeam": null,
+            "kickoffUTC": null,
+            "venue": null
+          }
+        },
+        {
+          "type": "form",
+          "headline": "Spain: Building Confidence with Each Win",
+          "body": "Spain's journey to the semifinals has been marked by growing confidence and a return to their dominant possession-based football. Their ability to grind out results in tight matches, like against Belgium, highlights their mental fortitude and tactical maturity.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": null,
+            "kickoffUTC": null,
+            "venue": null
+          }
+        },
+        {
+          "type": "form",
+          "headline": "England: Resilient and Resourceful",
+          "body": "England has shown remarkable resilience, overcoming tough opponents and demonstrating their ability to find solutions in challenging situations. Their blend of experienced leaders and dynamic young talent makes them a formidable force.",
+          "metadata": {
+            "homeTeam": "England",
+            "awayTeam": null,
+            "kickoffUTC": null,
+            "venue": null
+          }
+        },
+        {
+          "type": "form",
+          "headline": "Argentina: Messi's Inspiration Drives the Albiceleste",
+          "body": "Argentina's path to the semifinals has been heavily influenced by Lionel Messi's continued brilliance, complemented by a solid defensive unit and energetic midfield. Their ability to win crucial games, often by fine margins, speaks to their collective determination.",
+          "metadata": {
+            "homeTeam": "Argentina",
+            "awayTeam": null,
+            "kickoffUTC": null,
+            "venue": null
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "No Major Injury Concerns Reported for Semifinalists",
+          "body": "As the tournament progresses, all four semifinalist teams appear to have avoided any significant new injury concerns following their Quarterfinal clashes. This bodes well for high-quality matchups in the next round, with key players expected to be fit.",
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "title": "Semifinal Showdowns: Clash of Titans Awaits",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "France vs. Spain: A Battle for Midfield Supremacy",
+          "body": "The first semifinal pits France against Spain, a clash of contrasting styles. France's directness and individual brilliance will challenge Spain's intricate possession play. The midfield battle, featuring talents like Gavi and Pedri against Tchouaméni and Camavinga, will be decisive.",
+          "metadata": {
+            "homeTeam": "France",
+            "awayTeam": "Spain",
+            "kickoffUTC": null,
+            "venue": null
+          }
+        },
+        {
+          "type": "history",
+          "headline": "France-Spain: A Rivalry with Recent Spanish Edge",
+          "body": "Historically, Spain holds an advantage over France in overall encounters, though France has been more dominant in competitive fixtures until recently. Spain has won 8 of the last 12 meetings in the 21st century, including a UEFA Nations League victory in 2025.",
+          "metadata": {
+            "homeTeam": "France",
+            "awayTeam": "Spain",
+            "kickoffUTC": null,
+            "venue": null
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "England vs. Argentina: Attacking Prowess vs. Defensive Grit",
+          "body": "The second semifinal sees England face Argentina, a matchup that promises fireworks. England's dynamic attack, led by Kane and Bellingham, will test Argentina's organized defense and the magic of Lionel Messi. The tactical battle will revolve around stifling key playmakers.",
+          "metadata": {
+            "homeTeam": "England",
+            "awayTeam": "Argentina",
+            "kickoffUTC": null,
+            "venue": null
+          }
+        },
+        {
+          "type": "history",
+          "headline": "England-Argentina: A Storied World Cup Rivalry",
+          "body": "England and Argentina share a rich and often contentious World Cup history, marked by iconic moments. Their last World Cup encounter was in 2018, where France (who then beat Argentina) ultimately advanced. This semifinal adds another chapter to their storied rivalry.",
+          "metadata": {
+            "homeTeam": "England",
+            "awayTeam": "Argentina",
+            "kickoffUTC": null,
+            "venue": null
+          }
+        }
+      ]
+    }
+  ],
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-12T04:38:13.036Z",
+  "title": "Quarterfinal Thrillers: Elite Four Advance!",
+  "keyTakeaways": [
+    "Mbappé Magic Propels France Past Morocco",
+    "France's Tactical Masterclass: Defensive Solidity Meets Attacking Flair",
+    "Mbappé's Relentless Pursuit of the Golden Boot"
+  ]
+}

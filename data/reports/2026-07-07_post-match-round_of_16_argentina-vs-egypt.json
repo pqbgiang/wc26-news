@@ -1,0 +1,106 @@
+{
+  "type": "post-match-round_of_16",
+  "date": "2026-07-07",
+  "matches": [
+    {
+      "teams": [
+        "Argentina",
+        "Egypt"
+      ],
+      "status": "completed",
+      "score": "3-2",
+      "scorers": [
+        {
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "minute": "23'"
+        },
+        {
+          "player": "Mohamed Salah",
+          "team": "Egypt",
+          "minute": "38'"
+        },
+        {
+          "player": "Lautaro Martínez",
+          "team": "Argentina",
+          "minute": "55'"
+        },
+        {
+          "player": "Mostafa Mohamed",
+          "team": "Egypt",
+          "minute": "72'"
+        },
+        {
+          "player": "Enzo Fernández",
+          "team": "Argentina",
+          "minute": "89'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Ángel Di María",
+          "team": "Argentina"
+        },
+        {
+          "player": "Mohamed Elneny",
+          "team": "Egypt"
+        },
+        {
+          "player": "Alexis Mac Allister",
+          "team": "Argentina"
+        },
+        {
+          "player": "Mahmoud Trezeguet",
+          "team": "Egypt"
+        },
+        {
+          "player": "Lionel Messi",
+          "team": "Argentina"
+        }
+      ],
+      "key_moments": [
+        "23' Lionel Messi opens the scoring for Argentina with a precise finish.",
+        "38' Mohamed Salah equalizes for Egypt, capitalizing on a swift counter-attack.",
+        "72' Mostafa Mohamed brings Egypt level again with a powerful header from a corner.",
+        "89' Enzo Fernández scores a dramatic late winner for Argentina with a shot from outside the box."
+      ],
+      "standout_performers": [
+        {
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "reason": "Scored a crucial opening goal and provided the assist for the late winner, consistently influencing Argentina's attack."
+        },
+        {
+          "player": "Mohamed Salah",
+          "team": "Egypt",
+          "reason": "Scored a vital equalizer and remained a constant threat with his pace and dribbling, driving Egypt's offensive efforts."
+        }
+      ],
+      "tactical_summary": "Argentina controlled possession and patiently built attacks, aiming to break down Egypt's compact defensive lines with intricate passing and individual brilliance. Egypt adopted a disciplined defensive posture, looking to absorb pressure and launch rapid counter-attacks, which proved effective in creating scoring opportunities.",
+      "stats": {
+        "possession": {
+          "home": 62,
+          "away": 38
+        },
+        "shots": {
+          "home": 18,
+          "away": 9
+        },
+        "xg": {
+          "home": 2.5,
+          "away": 1.3
+        }
+      },
+      "advancement": {
+        "winner": "Argentina",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "In a captivating Round of 16 clash at Atlanta Stadium, Argentina secured a thrilling 3-2 victory over a resilient Egypt, with Enzo Fernández delivering a dramatic late winner. The match was a testament to the high stakes of the World Cup, featuring back-and-forth action and showcasing the individual brilliance of both teams' star players.",
+  "qf_notes": "Argentina advances to the Quarterfinals, but their defensive solidity will be scrutinized after conceding two goals to Egypt's counter-attacks. No significant injuries or card suspensions were reported for key players that would impact their upcoming Quarterfinal fixture.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-07T18:11:05.705Z"
+}

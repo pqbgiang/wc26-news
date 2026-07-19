@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fbid\u002F[matchId]","\u002Fentry\u002F[slug]","\u002Flive\u002F[matchId]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

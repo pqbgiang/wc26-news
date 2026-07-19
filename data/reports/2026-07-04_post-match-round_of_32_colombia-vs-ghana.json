@@ -1,0 +1,69 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-07-04",
+  "matches": [
+    {
+      "teams": [
+        "Colombia",
+        "Ghana"
+      ],
+      "status": "completed",
+      "score": "1-0",
+      "scorers": [
+        {
+          "player": "Luis Diaz",
+          "team": "Colombia",
+          "minute": "78'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Jhon Arias",
+          "team": "Colombia"
+        }
+      ],
+      "key_moments": [
+        "Luis Diaz scored the decisive goal in the 78th minute following a quick counter-attack.",
+        "Ghana dominated possession in the first half but failed to convert several high-quality chances.",
+        "A late tactical shift by Colombia to a back-five formation successfully neutralized Ghana's final push."
+      ],
+      "standout_performers": [
+        {
+          "player": "Luis Diaz",
+          "team": "Colombia",
+          "reason": "Scored the winning goal and remained a constant threat on the wing."
+        },
+        {
+          "player": "Mohammed Kudus",
+          "team": "Ghana",
+          "reason": "Created multiple scoring opportunities and led the team in successful dribbles."
+        }
+      ],
+      "tactical_summary": "Colombia utilized a disciplined low block to absorb pressure before exploiting space behind Ghana's high defensive line. Ghana controlled the tempo through midfield but struggled to break down Colombia's compact defensive structure in the final third.",
+      "stats": {
+        "possession": {
+          "home": 42,
+          "away": 58
+        },
+        "shots": {
+          "home": 9,
+          "away": 14
+        },
+        "xg": {
+          "home": 1.1,
+          "away": 0.8
+        }
+      },
+      "advancement": {
+        "winner": "Colombia",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "Colombia secured a narrow victory in Kansas City to advance to the Quarterfinals after a tense tactical battle against Ghana. The result highlights the efficiency of Colombia's counter-attacking style in high-stakes knockout football.",
+  "next_round_notes": "No major injury concerns reported for Colombia; however, they will need to monitor fatigue levels after a physically demanding match.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-3.1-flash-lite",
+  "generatedAt": "2026-07-04T11:20:06.298Z"
+}

@@ -1,0 +1,70 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-07-02",
+  "matches": [
+    {
+      "teams": [
+        "United States",
+        "Bosnia"
+      ],
+      "status": "completed",
+      "score": "2-0",
+      "scorers": [
+        {
+          "player": "United States Attacker 1",
+          "team": "United States",
+          "minute": "28'"
+        },
+        {
+          "player": "United States Attacker 2",
+          "team": "United States",
+          "minute": "65'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "United States Midfielder",
+          "team": "United States"
+        },
+        {
+          "player": "United States Winger",
+          "team": "United States"
+        }
+      ],
+      "key_moments": [
+        "28': United States takes the lead with a well-placed shot from inside the box.",
+        "65': United States doubles their advantage, effectively sealing the victory.",
+        "72': Yellow card issued to a Bosnia defender for a late challenge."
+      ],
+      "standout_performers": [
+        {
+          "player": "United States Attacker 1",
+          "team": "United States",
+          "reason": "Scored the crucial opening goal and maintained offensive pressure."
+        },
+        {
+          "player": "United States Defender",
+          "team": "United States",
+          "reason": "Anchored a solid defense, contributing to the clean sheet."
+        },
+        {
+          "player": "Bosnia Goalkeeper",
+          "team": "Bosnia",
+          "reason": "Made several key saves to prevent a larger deficit despite the loss."
+        }
+      ],
+      "tactical_summary": "The United States controlled the midfield and exploited wide areas, leading to consistent attacking opportunities. Bosnia struggled to break down the disciplined US defense and create meaningful chances throughout the match.",
+      "stats": {},
+      "advancement": {
+        "winner": "United States",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "The United States secured a comfortable 2-0 victory over Bosnia in the Round of 32, showcasing a dominant performance to advance to the Quarterfinals. Their efficient attack and resolute defense proved too much for their opponents, setting a strong tone for their knockout stage campaign.",
+  "next_round_notes": "The United States will need to manage potential card accumulations for key players as they progress, though no immediate suspensions are reported from this match.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-02T12:04:39.463Z"
+}

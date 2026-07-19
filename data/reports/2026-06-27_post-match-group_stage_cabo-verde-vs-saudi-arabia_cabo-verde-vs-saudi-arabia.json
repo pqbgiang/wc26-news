@@ -1,0 +1,101 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-27",
+  "matches": [
+    {
+      "teams": [
+        "Cabo Verde",
+        "Saudi Arabia"
+      ],
+      "status": "completed",
+      "score": "0-0",
+      "scorers": [],
+      "assists": [],
+      "key_moments": [
+        "4' Yellow card for Saud Abdulhamid (Saudi Arabia) for a foul.",
+        "8' Yellow card for Wagner Pina (Cabo Verde) for a foul.",
+        "28' Mohammed Al-Owais (Saudi Arabia) saves Jamiro Monteiro's (Cabo Verde) low drive.",
+        "33' Injury substitution: Ali Lajami (Saudi Arabia) replaces Hassan Altambakti.",
+        "74' Mohammed Al-Owais (Saudi Arabia) makes a crucial save on Laros Duarte's (Cabo Verde) 1-on-1 chance."
+      ],
+      "standout_performers": [
+        {
+          "player": "Vozinha",
+          "team": "Cabo Verde",
+          "reason": "Kept a clean sheet with key saves, securing historic qualification."
+        },
+        {
+          "player": "Jamiro Monteiro",
+          "team": "Cabo Verde",
+          "reason": "Active in attack, creating several of Cabo Verde's best opportunities."
+        },
+        {
+          "player": "Mohammed Al-Owais",
+          "team": "Saudi Arabia",
+          "reason": "Made multiple crucial saves to keep his team in the game."
+        },
+        {
+          "player": "Abdulelah Al-Amri",
+          "team": "Saudi Arabia",
+          "reason": "Provided a solid defensive performance throughout the match."
+        }
+      ],
+      "tactical_summary": "Cabo Verde dominated possession and created more clear-cut chances, particularly in the second half, but lacked the clinical finish. Saudi Arabia adopted a more defensive approach, relying on their goalkeeper for key saves and struggling to generate significant attacking threats.",
+      "stats": {
+        "possession": {
+          "home": 51,
+          "away": 49
+        },
+        "shots": {
+          "home": 15,
+          "away": 7
+        },
+        "xg": {
+          "home": 1.52,
+          "away": 0.4
+        }
+      }
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "H",
+      "provisional": false,
+      "table": [
+        {
+          "team": "Spain",
+          "played": 3,
+          "pts": 7,
+          "gd": 5,
+          "gf": 5
+        },
+        {
+          "team": "Cabo Verde",
+          "played": 3,
+          "pts": 3,
+          "gd": 0,
+          "gf": 2
+        },
+        {
+          "team": "Uruguay",
+          "played": 3,
+          "pts": 2,
+          "gd": -1,
+          "gf": 3
+        },
+        {
+          "team": "Saudi Arabia",
+          "played": 3,
+          "pts": 2,
+          "gd": -4,
+          "gf": 1
+        }
+      ]
+    }
+  ],
+  "narrative": "Cabo Verde secured a historic qualification to the knockout stages of the World Cup 2026 with a hard-fought 0-0 draw against Saudi Arabia. This result, combined with Spain's victory over Uruguay, meant Saudi Arabia was eliminated from the tournament.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-27T03:51:45.905Z"
+}

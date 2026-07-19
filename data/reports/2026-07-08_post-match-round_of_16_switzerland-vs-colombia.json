@@ -1,0 +1,59 @@
+{
+  "type": "post-match-round_of_16",
+  "date": "2026-07-08",
+  "matches": [
+    {
+      "teams": [
+        "Switzerland",
+        "Colombia"
+      ],
+      "status": "completed",
+      "score": "4-3",
+      "scorers": [],
+      "assists": [],
+      "key_moments": [
+        "The match remained goalless after 120 minutes of intense play, leading to a penalty shootout.",
+        "Colombia's Davinson Sanchez hit the crossbar with his penalty attempt during the shootout.",
+        "Switzerland's goalkeeper Gregor Kobel made a crucial save from Cucho Hernandez's penalty, shifting the advantage.",
+        "Ruben Vargas converted the decisive penalty to secure a 4-3 shootout victory for Switzerland."
+      ],
+      "standout_performers": [
+        {
+          "player": "Gregor Kobel",
+          "team": "Switzerland",
+          "reason": "Made key saves during the match and a crucial penalty save in the shootout."
+        },
+        {
+          "player": "Ruben Vargas",
+          "team": "Switzerland",
+          "reason": "Scored the winning penalty in the shootout to send his team to the quarterfinals."
+        }
+      ],
+      "tactical_summary": "Switzerland adopted a more organized and defensive approach, focusing on controlling tempo and territory, while Colombia was more attack-oriented with a higher shot count. Despite Colombia's offensive efforts, Switzerland's disciplined defense and goalkeeping ensured a goalless stalemate through 120 minutes.",
+      "stats": {
+        "possession": {
+          "home": 53.4,
+          "away": 46.6
+        },
+        "shots": {
+          "home": 7,
+          "away": 15
+        },
+        "xg": {
+          "home": 0.35,
+          "away": 1.03
+        }
+      },
+      "advancement": {
+        "winner": "Switzerland",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "The Round of 16 clash between Switzerland and Colombia delivered a tense, goalless 120 minutes, culminating in a dramatic penalty shootout. Gregor Kobel's heroics in goal and Ruben Vargas's decisive spot-kick ultimately separated the two sides, sending Switzerland through to their first World Cup quarter-final in over seven decades.",
+  "qf_notes": "Switzerland will now face Argentina in the Quarterfinals. The absence of Johan Manzambi, who was ruled out before the match with a knee injury, remains a concern for the Swiss attack as they prepare for a formidable opponent.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-08T11:43:22.833Z"
+}

@@ -1,0 +1,169 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-14",
+  "matches": [
+    {
+      "teams": [
+        "Germany",
+        "Curaçao"
+      ],
+      "status": "completed",
+      "score": "4-0",
+      "scorers": [
+        {
+          "player": "Nick Woltemade",
+          "team": "Germany",
+          "minute": null
+        },
+        {
+          "player": "Deniz Undav",
+          "team": "Germany",
+          "minute": null
+        },
+        {
+          "player": "Florian Wirtz",
+          "team": "Germany",
+          "minute": null
+        },
+        {
+          "player": "Jamal Musiala",
+          "team": "Germany",
+          "minute": null
+        }
+      ],
+      "assists": [],
+      "key_moments": [
+        "Germany dominated from start to finish at NRG Stadium, Houston",
+        "Four different scorers reflects clinical finishing",
+        "Curaçao historic debut but overpowered by World Cup veterans"
+      ],
+      "standout_performers": [
+        {
+          "player": "Florian Wirtz",
+          "team": "Germany",
+          "reason": "Scored and controlled midfield play"
+        },
+        {
+          "player": "Jamal Musiala",
+          "team": "Germany",
+          "reason": "Scored in Germany's attacking display"
+        }
+      ],
+      "tactical_summary": "Germany imposed early control with superior technique and athleticism, breaking down Curaçao's compact defense with direct play. Die Mannschaft's 4-0 victory showcased their experience against tournament debutants in a lopsided Group E opener."
+    },
+    {
+      "teams": [
+        "Netherlands",
+        "Japan"
+      ],
+      "status": "upcoming",
+      "score": null,
+      "scorers": [],
+      "assists": [],
+      "key_moments": [],
+      "standout_performers": [],
+      "tactical_summary": null
+    },
+    {
+      "teams": [
+        "Ivory Coast",
+        "Ecuador"
+      ],
+      "status": "upcoming",
+      "score": null,
+      "scorers": [],
+      "assists": [],
+      "key_moments": [],
+      "standout_performers": [],
+      "tactical_summary": null
+    },
+    {
+      "teams": [
+        "Sweden",
+        "Tunisia"
+      ],
+      "status": "upcoming",
+      "score": null,
+      "scorers": [],
+      "assists": [],
+      "key_moments": [],
+      "standout_performers": [],
+      "tactical_summary": null
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "E",
+      "provisional": true,
+      "table": [
+        {
+          "team": "Germany",
+          "played": 1,
+          "pts": 3,
+          "gd": 4,
+          "gf": 4
+        },
+        {
+          "team": "Curaçao",
+          "played": 1,
+          "pts": 0,
+          "gd": -4,
+          "gf": 0
+        },
+        {
+          "team": "Ivory Coast",
+          "played": 0,
+          "pts": 0,
+          "gd": 0,
+          "gf": 0
+        },
+        {
+          "team": "Ecuador",
+          "played": 0,
+          "pts": 0,
+          "gd": 0,
+          "gf": 0
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "provisional": true,
+      "table": [
+        {
+          "team": "Netherlands",
+          "played": 0,
+          "pts": 0,
+          "gd": 0,
+          "gf": 0
+        },
+        {
+          "team": "Japan",
+          "played": 0,
+          "pts": 0,
+          "gd": 0,
+          "gf": 0
+        },
+        {
+          "team": "Sweden",
+          "played": 0,
+          "pts": 0,
+          "gd": 0,
+          "gf": 0
+        },
+        {
+          "team": "Tunisia",
+          "played": 0,
+          "pts": 0,
+          "gd": 0,
+          "gf": 0
+        }
+      ]
+    }
+  ],
+  "narrative": "Germany delivered a dominant 4-0 rout of historic debutants Curaçao at NRG Stadium in Houston, with four different scorers demonstrating clinical efficiency to claim three Group E points. Three further Group F and E matches remained live or upcoming on Sunday, with Netherlands-Japan and Ecuador-Ivory Coast poised to shape early tournament momentum.",
+  "team": null,
+  "provider": "claude",
+  "model": "claude-haiku-4-5-20251001",
+  "generatedAt": "2026-06-14T10:19:11.752Z"
+}

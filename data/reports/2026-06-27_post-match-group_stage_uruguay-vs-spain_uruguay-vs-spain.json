@@ -1,0 +1,88 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-27",
+  "matches": [
+    {
+      "teams": [
+        "Uruguay",
+        "Spain"
+      ],
+      "status": "completed",
+      "score": "0-1",
+      "scorers": [
+        {
+          "player": "Álex Baena",
+          "team": "Spain",
+          "minute": "42'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Marcos Llorente",
+          "team": "Spain",
+          "minute": "42'"
+        }
+      ],
+      "key_moments": [
+        "42' Goal by Álex Baena (Spain)",
+        "First half: Manuel Ugarte (Uruguay) stretched off with non-contact injury",
+        "90+5' Red card for Agustín Canobbio (Uruguay)"
+      ],
+      "standout_performers": [
+        {
+          "player": "Álex Baena",
+          "team": "Spain",
+          "reason": "Scored the decisive goal that secured Spain's victory."
+        },
+        {
+          "player": "Mathías Olivera",
+          "team": "Uruguay",
+          "reason": "Unleashed a powerful shot that forced a brilliant save from Unai Simón."
+        }
+      ],
+      "tactical_summary": "Spain secured a narrow victory, largely due to a goalkeeping error, while Uruguay struggled to convert their chances despite an improved performance. The match was characterized by a moment of individual error and late drama, ultimately seeing Spain top the group and Uruguay exit.",
+      "stats": {}
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "H",
+      "provisional": false,
+      "table": [
+        {
+          "team": "Spain",
+          "played": 3,
+          "pts": 7,
+          "gd": 5,
+          "gf": 5
+        },
+        {
+          "team": "Cape Verde",
+          "played": 3,
+          "pts": 3,
+          "gd": 0,
+          "gf": 2
+        },
+        {
+          "team": "Uruguay",
+          "played": 3,
+          "pts": 2,
+          "gd": -1,
+          "gf": 2
+        },
+        {
+          "team": "Saudi Arabia",
+          "played": 3,
+          "pts": 1,
+          "gd": -4,
+          "gf": 0
+        }
+      ]
+    }
+  ],
+  "narrative": "Spain clinched the top spot in Group H with a 1-0 win over Uruguay, a result that saw the South American side eliminated from the tournament. Meanwhile, World Cup debutants Cape Verde made history by securing second place in the group and advancing to the knockout stages after a goalless draw against Saudi Arabia.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-27T03:50:25.312Z"
+}

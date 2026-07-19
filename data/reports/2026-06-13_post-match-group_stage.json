@@ -1,0 +1,161 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-13",
+  "matches": [
+    {
+      "teams": [
+        "Qatar",
+        "Switzerland"
+      ],
+      "status": "completed",
+      "score": "1-1",
+      "scorers": [
+        {
+          "player": "Breel Embolo",
+          "team": "Switzerland",
+          "minute": "17'"
+        },
+        {
+          "player": "Boualem Khoukhi",
+          "team": "Qatar",
+          "minute": "90+5'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Hamid Ahmed",
+          "team": "Qatar",
+          "minute": "90+5'"
+        }
+      ],
+      "key_moments": [
+        "Embolo penalty (14th min): Remo Freuler brought down by goalkeeper Mahmoud Abunada",
+        "Khoukhi last-gasp header (90+5'): Qatar snatch dramatic equalizer at Levi's Stadium",
+        "Yellow card: Abunada (16th min, serious foul play)"
+      ],
+      "standout_performers": [
+        {
+          "player": "Breel Embolo",
+          "team": "Switzerland",
+          "reason": "Clinical penalty conversion and multiple chances created in dominant display"
+        },
+        {
+          "player": "Boualem Khoukhi",
+          "team": "Qatar",
+          "reason": "Late-game resilience, scored crucial equalizer to earn first World Cup point"
+        }
+      ],
+      "tactical_summary": "Switzerland controlled possession and created clear-cut chances throughout, but failed to kill off the match despite multiple opportunities. Qatar defended resolutely and capitalized on a late set-piece to secure an unlikely draw that denies the Swiss a winning start."
+    },
+    {
+      "teams": [
+        "Brazil",
+        "Morocco"
+      ],
+      "status": "completed",
+      "score": "1-1",
+      "scorers": [
+        {
+          "player": "Ismael Saibari",
+          "team": "Morocco",
+          "minute": "21'"
+        },
+        {
+          "player": "Vinícius Júnior",
+          "team": "Brazil",
+          "minute": "32'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Brahim Díaz",
+          "team": "Morocco",
+          "minute": "21'"
+        }
+      ],
+      "key_moments": [
+        "Saibari opener (21'): Morocco strike first after Díaz recovery and measured pass",
+        "Vinícius equalizer (32'): Brazilian forward crushes powerful right-footed shot at angle after receiving pass from Bruno Guimarães",
+        "Tactical adjustment: Brazil forced to shift attacking approach after conceding early goal"
+      ],
+      "standout_performers": [
+        {
+          "player": "Vinícius Júnior",
+          "team": "Brazil",
+          "reason": "Scored equalizer with clinical finishing; remained dangerous throughout"
+        },
+        {
+          "player": "Ismael Saibari",
+          "team": "Morocco",
+          "reason": "Poacher's finish for opener; active in midfield creation"
+        }
+      ],
+      "tactical_summary": "Morocco started aggressively and capitalized on early possession control to take the lead, but Brazil's attacking quality proved too much as Vinícius restored parity before half-time. The match remained competitive and contested, with both sides unable to find a decisive second goal."
+    },
+    {
+      "teams": [
+        "Haiti",
+        "Scotland"
+      ],
+      "status": "upcoming"
+    },
+    {
+      "teams": [
+        "Australia",
+        "Türkiye"
+      ],
+      "status": "upcoming"
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "B",
+      "provisional": true,
+      "table": [
+        {
+          "team": "Switzerland",
+          "played": 1,
+          "pts": 1,
+          "gd": 0,
+          "gf": 1,
+          "ga": 1
+        },
+        {
+          "team": "Qatar",
+          "played": 1,
+          "pts": 1,
+          "gd": 0,
+          "gf": 1,
+          "ga": 1
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "provisional": true,
+      "table": [
+        {
+          "team": "Brazil",
+          "played": 1,
+          "pts": 1,
+          "gd": 0,
+          "gf": 1,
+          "ga": 1
+        },
+        {
+          "team": "Morocco",
+          "played": 1,
+          "pts": 1,
+          "gd": 0,
+          "gf": 1,
+          "ga": 1
+        }
+      ]
+    }
+  ],
+  "narrative": "Qatar secured a historic first World Cup point by forcing a dramatic 1-1 draw against Switzerland at Levi's Stadium, with late captain Boualem Khoukhi erasing Breel Embolo's first-half penalty. Brazil and Morocco also played to a 1-1 stalemate at MetLife Stadium, with Vinícius Júnior's clinical finish canceling out Ismael Saibari's early strike, leaving Group C's favorites without a winning start.",
+  "team": null,
+  "provider": "claude",
+  "model": "claude-haiku-4-5-20251001",
+  "generatedAt": "2026-06-13T23:57:16.092Z"
+}

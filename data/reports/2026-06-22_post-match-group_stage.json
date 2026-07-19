@@ -1,0 +1,118 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-22",
+  "matches": [
+    {
+      "teams": [
+        "Spain",
+        "Saudi Arabia"
+      ],
+      "status": "completed",
+      "score": "4-0",
+      "scorers": [
+        {
+          "player": "Lamine Yamal",
+          "team": "Spain",
+          "minute": "10'"
+        },
+        {
+          "player": "Mikel Oyarzabal",
+          "team": "Spain",
+          "minute": "21'"
+        },
+        {
+          "player": "Mikel Oyarzabal",
+          "team": "Spain",
+          "minute": "24'"
+        },
+        {
+          "player": "Hassan Altambakti (OG)",
+          "team": "Saudi Arabia",
+          "minute": "49'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Mikel Oyarzabal",
+          "team": "Spain",
+          "minute": "10'"
+        },
+        {
+          "player": "Aymeric Laporte",
+          "team": "Spain",
+          "minute": "21'"
+        },
+        {
+          "player": "Dani Olmo",
+          "team": "Spain",
+          "minute": "24'"
+        }
+      ],
+      "key_moments": [
+        "10' Goal by Lamine Yamal (Spain), opening the scoring.",
+        "30' Yellow card for S. Aldawsari (Saudi Arabia) for serious foul play.",
+        "49' Own goal by Hassan Altambakti (Saudi Arabia) extending Spain's lead to 4-0."
+      ],
+      "standout_performers": [
+        {
+          "player": "Mikel Oyarzabal",
+          "team": "Spain",
+          "reason": "Scored two goals and provided an assist, spearheading Spain's attack."
+        },
+        {
+          "player": "Lamine Yamal",
+          "team": "Spain",
+          "reason": "Opened the scoring with his first World Cup goal and provided a crucial attacking spark."
+        }
+      ],
+      "tactical_summary": "Spain dominated possession and pressed relentlessly, quickly settling the match with three first-half goals. Their sharp passing and high tempo overwhelmed Saudi Arabia, who struggled to cope with Spain's movement and intensity.",
+      "stats": {
+        "shots": {
+          "home": 20,
+          "away": 3
+        }
+      }
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "H",
+      "provisional": true,
+      "table": [
+        {
+          "team": "Spain",
+          "played": 2,
+          "pts": 4,
+          "gd": 4,
+          "gf": 4
+        },
+        {
+          "team": "Uruguay",
+          "played": 2,
+          "pts": 2,
+          "gd": 0,
+          "gf": 3
+        },
+        {
+          "team": "Cape Verde",
+          "played": 2,
+          "pts": 2,
+          "gd": 0,
+          "gf": 2
+        },
+        {
+          "team": "Saudi Arabia",
+          "played": 2,
+          "pts": 1,
+          "gd": -4,
+          "gf": 1
+        }
+      ]
+    }
+  ],
+  "narrative": "Spain bounced back from their opening draw with a dominant 4-0 victory over Saudi Arabia, with Lamine Yamal and Mikel Oyarzabal leading the charge. This commanding performance has significantly boosted Spain's position at the top of Group H, while Saudi Arabia faces an uphill battle after their second match.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-22T02:17:09.509Z"
+}

@@ -1,0 +1,137 @@
+{
+  "type": "post-match-quarterfinal",
+  "team": null,
+  "date": "2026-07-10",
+  "sections": [
+    {
+      "title": "Quarterfinal Thrillers Deliver Semifinalists",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Brazil Edges Germany in Tactical Masterclass",
+          "body": "Brazil secured a hard-fought 2-1 victory over Germany in a captivating Quarterfinal clash. Vinicius Jr. opened the scoring in the 28th minute with a clinical finish, assisted by Rodrygo, showcasing Brazil's fluid attack. Germany equalized through Jamal Musiala in the 55th minute, but a late header from Marquinhos in the 88th minute, off a corner, sealed Brazil's path to the semifinals.",
+          "metadata": {
+            "homeTeam": "Brazil",
+            "awayTeam": "Germany",
+            "kickoffUTC": "22:00",
+            "venue": "Gillette Stadium, Foxborough, Massachusetts, USA"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Tite's Tactical Brilliance Outwits Nagelsmann",
+          "body": "Brazil's tactical setup under Tite proved decisive, with their high press disrupting Germany's midfield rhythm and their wingers exploiting wide channels. Nagelsmann's Germany struggled to break down Brazil's disciplined defense, despite moments of individual brilliance from Musiala. The late set-piece goal highlighted Brazil's resilience and strategic depth.",
+          "metadata": {
+            "homeTeam": "Brazil",
+            "awayTeam": "Germany",
+            "kickoffUTC": "22:00",
+            "venue": "Gillette Stadium, Foxborough, Massachusetts, USA"
+          }
+        },
+        {
+          "type": "stat",
+          "headline": "Vinicius Jr. and Marquinhos Shine for Seleção",
+          "body": "Vinicius Jr.'s opening goal and constant threat down the left flank earned him Man of the Match honors, demonstrating his elite-level acceleration and finishing. Marquinhos's late winner underscored his leadership and aerial prowess, proving crucial in a tight contest. Rodrygo's assist further solidified his role as a key creative force.",
+          "metadata": {
+            "homeTeam": "Brazil",
+            "awayTeam": "Germany",
+            "kickoffUTC": "22:00",
+            "venue": "Gillette Stadium, Foxborough, Massachusetts, USA"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Spain Overcomes Italy in Extra Time Battle",
+          "body": "Spain advanced to the semifinals after a grueling 1-0 extra-time victory over Italy in a fiercely contested Quarterfinal. The match remained goalless through 90 minutes, a testament to both teams' defensive solidity and tactical discipline. Pedri scored the decisive goal in the 108th minute, breaking the deadlock with a sublime finish from outside the box.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Italy",
+            "kickoffUTC": "01:00",
+            "venue": "Arrowhead Stadium, Kansas City, Missouri, USA"
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "De La Fuente's Possession Dominance Pays Off",
+          "body": "Spain's relentless possession-based football eventually wore down Italy's resolute defense, with Luis de la Fuente's side controlling the tempo throughout. Luciano Spalletti's Italy defended admirably, relying on counter-attacks, but ultimately succumbed to Spain's sustained pressure in extra time. The midfield battle was a chess match, with Spain's technical superiority eventually prevailing.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Italy",
+            "kickoffUTC": "01:00",
+            "venue": "Arrowhead Stadium, Kansas City, Missouri, USA"
+          }
+        },
+        {
+          "type": "stat",
+          "headline": "Pedri's Moment of Magic Secures Spanish Triumph",
+          "body": "Pedri was the undisputed standout performer, dictating play from midfield and capping his exceptional display with the winning goal. His vision, passing range, and composure under pressure were instrumental in Spain's progression. Rodri also delivered a commanding performance, shielding the defense and initiating attacks.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Italy",
+            "kickoffUTC": "01:00",
+            "venue": "Arrowhead Stadium, Kansas City, Missouri, USA"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Road to Glory: Semifinalists' Form and Fortunes",
+      "items": [
+        {
+          "type": "form",
+          "headline": "Brazil and Spain Enter Semis with Momentum",
+          "body": "Brazil showcased a blend of attacking flair and defensive solidity, overcoming a strong German side, indicating peak form. Spain's ability to grind out a win against a defensively sound Italy in extra time highlights their resilience and tactical patience. Both teams appear to be peaking at the right time for the semifinals.",
+          "metadata": null
+        },
+        {
+          "type": "analysis",
+          "headline": "Injury Watch: Key Players Fit for Semifinals",
+          "body": "No major injuries were reported for Brazil or Spain following their intense Quarterfinal encounters. Both teams are expected to have their full squads available for the upcoming semifinal clashes, ensuring maximum strength for the next crucial stage of the tournament. Medical teams will be working diligently on recovery.",
+          "metadata": null
+        },
+        {
+          "type": "analysis",
+          "headline": "Historical Paths: Giants Continue Their Quest",
+          "body": "Brazil, a perennial World Cup powerhouse, continues its quest for a record-extending sixth title, demonstrating their pedigree. Spain, having won in 2010, aims to reclaim their dominance with a new generation of talent, showing a blend of experience and youthful exuberance. Both teams carry significant historical weight into the next round.",
+          "metadata": null
+        }
+      ]
+    },
+    {
+      "title": "Semifinal Showdowns: Tactical Battles Await",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Brazil vs. [Opponent 1] Set for Epic Semifinal",
+          "body": "Brazil will face the winner of the Quarterfinal between [Team A] and [Team B] in what promises to be a blockbuster semifinal. This matchup will test Brazil's attacking prowess against a potentially well-organized defense, setting the stage for a tactical spectacle. The Seleção will rely on their star power and collective cohesion.",
+          "metadata": {
+            "homeTeam": "Brazil",
+            "awayTeam": "Winner of QF 61",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Spain Prepares for Clash Against [Opponent 2]",
+          "body": "Spain is slated to meet the victor of the remaining Quarterfinal between [Team C] and [Team D] in their semifinal encounter. La Roja's possession-based game will be crucial in controlling the midfield against any opponent, aiming to unlock defenses with intricate passing. Their ability to maintain intensity over 120 minutes will be key.",
+          "metadata": {
+            "homeTeam": "Spain",
+            "awayTeam": "Winner of QF 62",
+            "kickoffUTC": "TBD",
+            "venue": "TBD"
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Head-to-Head History and Tactical Expectations",
+          "body": "While specific head-to-head records for these exact semifinal matchups are pending the remaining Quarterfinal results, both Brazil and Spain have rich histories against top-tier nations. Tactical expectations point towards Brazil's dynamic attack and Spain's intricate passing game dominating their respective matches, with defensive solidity being paramount for both.",
+          "metadata": null
+        }
+      ]
+    }
+  ],
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-10T13:29:04.214Z"
+}

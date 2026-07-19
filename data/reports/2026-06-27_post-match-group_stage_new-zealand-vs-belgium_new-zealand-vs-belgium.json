@@ -1,0 +1,129 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-27",
+  "matches": [
+    {
+      "teams": [
+        "New Zealand",
+        "Belgium"
+      ],
+      "status": "completed",
+      "score": "1-5",
+      "scorers": [
+        {
+          "player": "Leandro Trossard",
+          "team": "Belgium",
+          "minute": "28'"
+        },
+        {
+          "player": "Leandro Trossard",
+          "team": "Belgium",
+          "minute": "50'"
+        },
+        {
+          "player": "Kevin De Bruyne",
+          "team": "Belgium",
+          "minute": "66'"
+        },
+        {
+          "player": "Elijah Just",
+          "team": "New Zealand",
+          "minute": "84'"
+        },
+        {
+          "player": "Romelu Lukaku",
+          "team": "Belgium",
+          "minute": "86'"
+        },
+        {
+          "player": "Alexis Saelemaekers",
+          "team": "Belgium",
+          "minute": "90+4'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Leandro Trossard",
+          "team": "Belgium",
+          "minute": "66'"
+        },
+        {
+          "player": "Nicolas Raskin",
+          "team": "Belgium",
+          "minute": "86'"
+        },
+        {
+          "player": "Romelu Lukaku",
+          "team": "Belgium",
+          "minute": "90+4'"
+        }
+      ],
+      "key_moments": [
+        "Leandro Trossard opened the scoring for Belgium in the 28th minute.",
+        "Kevin De Bruyne's goal in the 66th minute extended Belgium's lead to 3-0, a crucial moment for their goal difference.",
+        "Elijah Just scored a consolation goal for New Zealand in the 84th minute, briefly impacting Belgium's group-topping position.",
+        "Romelu Lukaku scored with his first touch in the 86th minute after coming on as a substitute, restoring Belgium's comfortable lead."
+      ],
+      "standout_performers": [
+        {
+          "player": "Leandro Trossard",
+          "team": "Belgium",
+          "reason": "Scored two goals and provided an assist, driving Belgium's attack."
+        },
+        {
+          "player": "Kevin De Bruyne",
+          "team": "Belgium",
+          "reason": "Scored a stunning goal and dictated play from midfield, contributing significantly to the dominant performance."
+        },
+        {
+          "player": "Elijah Just",
+          "team": "New Zealand",
+          "reason": "Scored New Zealand's only goal and was a persistent threat in attack."
+        }
+      ],
+      "tactical_summary": "Belgium displayed a dominant attacking performance, controlling the midfield and converting their chances efficiently to secure a large victory. New Zealand struggled to contain Belgium's offensive power but managed to break through for a consolation goal, showcasing some resilience despite being outmatched.",
+      "stats": {}
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "G",
+      "provisional": false,
+      "table": [
+        {
+          "team": "Belgium",
+          "played": 3,
+          "pts": 5,
+          "gd": 4,
+          "gf": 6
+        },
+        {
+          "team": "Egypt",
+          "played": 3,
+          "pts": 5,
+          "gd": 2,
+          "gf": 5
+        },
+        {
+          "team": "Iran",
+          "played": 3,
+          "pts": 3,
+          "gd": 0,
+          "gf": 3
+        },
+        {
+          "team": "New Zealand",
+          "played": 3,
+          "pts": 1,
+          "gd": -6,
+          "gf": 4
+        }
+      ]
+    }
+  ],
+  "narrative": "Belgium secured a resounding 5-1 victory over New Zealand, topping Group G and advancing to the knockout stages of the World Cup. This dominant performance marked their first win of the tournament, while New Zealand's campaign ended without a victory, finishing at the bottom of the group.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-27T11:22:42.029Z"
+}

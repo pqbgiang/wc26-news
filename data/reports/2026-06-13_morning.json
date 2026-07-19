@@ -1,0 +1,136 @@
+{
+  "type": "daily-briefing",
+  "team": null,
+  "provider": "claude",
+  "date": "2026-06-13",
+  "sections": [
+    {
+      "title": "Tournament Status",
+      "emoji": "⚽",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Opening Matches Completed",
+          "body": "Mexico defeated South Africa 2-0 in the tournament opener at Estadio Azteca on June 11. South Korea won 2-1 over Czechia in Group A. The USA won 4-1 over Paraguay on June 12, with Canada holding Bosnia and Herzegovina to a draw on Matchday 2.",
+          "metadata": {
+            "matches_played": 4,
+            "matches_remaining_today": 4
+          }
+        },
+        {
+          "type": "stat",
+          "headline": "Historic 48-Team Format Begins",
+          "body": "The 2026 World Cup features a record 48 teams divided into 12 groups of four. The tournament runs June 11 to July 19 across the USA, Canada, and Mexico with top two teams from each group advancing to Round of 32.",
+          "metadata": {
+            "total_teams": 48,
+            "total_groups": 12,
+            "group_stage_matches": 72
+          }
+        }
+      ]
+    },
+    {
+      "title": "Group A Standings",
+      "emoji": "🏆",
+      "items": [
+        {
+          "type": "stat",
+          "headline": "Mexico Leads After Day 1",
+          "body": "Mexico 3 points (+2 goal difference). South Korea 3 points (+1 GD). Czechia 0 points (-1 GD). South Africa 0 points (-2 GD). Mexico and South Korea both earned victories in opening matches.",
+          "metadata": {
+            "first_place": "Mexico",
+            "first_place_points": 3,
+            "group": "A"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Key Player Injuries",
+      "emoji": "🏥",
+      "items": [
+        {
+          "type": "injury",
+          "headline": "Neymar Returns Despite Concerns",
+          "body": "Neymar, 34, features in Brazil's World Cup squad after a stop-start season at Santos marred by knee and thigh injuries. His availability is one of the biggest storylines for the Seleção, with Brazil already without Rodrygo and Estevao.",
+          "metadata": {
+            "player": "Neymar",
+            "team": "Brazil",
+            "status": "available"
+          }
+        },
+        {
+          "type": "injury",
+          "headline": "USA Center Back Richards Cleared",
+          "body": "Chris Richards recovered from an ankle injury sustained last month and participated in full training with the USMNT after missing friendlies against Senegal and Germany. He is expected to be available for group stage matches.",
+          "metadata": {
+            "player": "Chris Richards",
+            "team": "USA",
+            "status": "available"
+          }
+        },
+        {
+          "type": "injury",
+          "headline": "Paraguay Star Enciso Questionable",
+          "body": "Julio Enciso avoided serious thigh injury but is unlikely to feature in Paraguay's opener against the USA. The 21-year-old remains in contention for later group stage matches but his absence limits Paraguay's attacking threat.",
+          "metadata": {
+            "player": "Julio Enciso",
+            "team": "Paraguay",
+            "status": "doubtful"
+          }
+        },
+        {
+          "type": "injury",
+          "headline": "Notable Pre-Tournament Withdrawals",
+          "body": "Several stars ruled out include Xavi Simons (Netherlands, ACL), Fermin Lopez (Spain, foot fracture), and Takumi Minamino (Japan, knee). Matthijs de Ligt (Netherlands) withdrew after back surgery in May.",
+          "metadata": {
+            "total_ruled_out": 4,
+            "key_absences": "Simons, Lopez, Minamino, De Ligt"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Squad Highlights",
+      "emoji": "👥",
+      "items": [
+        {
+          "type": "squad",
+          "headline": "Cristiano Ronaldo Historic Record",
+          "body": "Cristiano Ronaldo, 41, becomes the first player to appear in six World Cups, joining Portugal's squad in excellent form with 28 Saudi Pro League goals this season. He holds 226 caps and 143 international goals—both all-time world records.",
+          "metadata": {
+            "player": "Cristiano Ronaldo",
+            "team": "Portugal",
+            "milestone": "6th World Cup appearance"
+          }
+        },
+        {
+          "type": "squad",
+          "headline": "Brazil Squad Led by Stars",
+          "body": "Brazil features Vinícius Júnior (Real Madrid), Raphinha (Barcelona), and Gabriel Martinelli (Arsenal) in attacking roles. Midfield includes Bruno Guimarães (Newcastle) and Casemiro (Manchester United) with goalkeeper Alisson (Liverpool) anchoring defense.",
+          "metadata": {
+            "team": "Brazil",
+            "key_players": "Vinícius Jr, Raphinha, Casemiro"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Upcoming Fixtures",
+      "emoji": "📅",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Saturday Matchday 3 Preview",
+          "body": "Qatar faces Switzerland, Brazil plays Morocco, Haiti meets Scotland, and Australia takes on Türkiye on Saturday June 14. These matches complete Matchday 3 group stage action across multiple venues in North America.",
+          "metadata": {
+            "date": "2026-06-14",
+            "matches_scheduled": 4
+          }
+        }
+      ]
+    }
+  ],
+  "model": "claude-haiku-4-5-20251001",
+  "generatedAt": "2026-06-13T12:51:26.634Z"
+}

@@ -1,0 +1,87 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-06-29",
+  "matches": [
+    {
+      "teams": [
+        "Brazil",
+        "Japan"
+      ],
+      "status": "completed",
+      "score": "2-1",
+      "scorers": [
+        {
+          "player": "Kaishu Sano",
+          "team": "Japan",
+          "minute": "29'"
+        },
+        {
+          "player": "Casemiro",
+          "team": "Brazil",
+          "minute": "56'"
+        },
+        {
+          "player": "Gabriel Martinelli",
+          "team": "Brazil",
+          "minute": "90'+6"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Gabriel Magalhães",
+          "team": "Brazil"
+        },
+        {
+          "player": "Bruno Guimarães",
+          "team": "Brazil"
+        }
+      ],
+      "key_moments": [
+        "29' Kaishu Sano scores for Japan after a solo run, giving them a 1-0 lead.",
+        "56' Casemiro equalizes for Brazil with a header from a Gabriel Magalhães assist.",
+        "90'+6 Gabriel Martinelli scores the dramatic winning goal for Brazil in stoppage time, assisted by Bruno Guimarães.",
+        "12' Kaishu Sano (Japan) receives a yellow card.",
+        "52' Japan's goalkeeper Zion Suzuki makes a crucial save on a Brazil header."
+      ],
+      "standout_performers": [
+        {
+          "player": "Gabriel Martinelli",
+          "team": "Brazil",
+          "reason": "Scored the decisive late winner."
+        },
+        {
+          "player": "Casemiro",
+          "team": "Brazil",
+          "reason": "Scored the equalizer and controlled midfield."
+        },
+        {
+          "player": "Zion Suzuki",
+          "team": "Japan",
+          "reason": "Made several key saves to keep Japan in the game."
+        },
+        {
+          "player": "Kaishu Sano",
+          "team": "Japan",
+          "reason": "Scored Japan's opening goal with an impressive individual effort."
+        }
+      ],
+      "tactical_summary": "Japan executed a disciplined defensive strategy after taking an early lead through a counter-attack, aiming to frustrate Brazil. Brazil dominated possession and relentlessly attacked, eventually breaking down Japan's resistance with two second-half goals to secure the comeback victory.",
+      "stats": {
+        "possession": {
+          "home": 68,
+          "away": 32
+        }
+      },
+      "advancement": {
+        "winner": "Brazil",
+        "advanced_to": "Round of 16"
+      }
+    }
+  ],
+  "narrative": "Brazil mounted a dramatic comeback in the Round of 32, scoring a late winner to overcome a resilient Japan side that had taken an early lead. This hard-fought victory sends the five-time champions into the Round of 16, while Japan's impressive tournament run comes to a heartbreaking end.",
+  "next_round_notes": "Brazil's Lucas Paqueta was substituted at halftime due to an injury, which will require further assessment. Casemiro also received a yellow card during the match.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-29T19:29:17.206Z"
+}

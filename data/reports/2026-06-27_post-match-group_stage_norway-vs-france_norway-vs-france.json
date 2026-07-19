@@ -1,0 +1,137 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-27",
+  "matches": [
+    {
+      "teams": [
+        "Norway",
+        "France"
+      ],
+      "status": "completed",
+      "score": "1-4",
+      "scorers": [
+        {
+          "player": "Ousmane Dembélé",
+          "team": "France",
+          "minute": "7'"
+        },
+        {
+          "player": "Ousmane Dembélé",
+          "team": "France",
+          "minute": "20'"
+        },
+        {
+          "player": "Thelo Aasgaard",
+          "team": "Norway",
+          "minute": "21'"
+        },
+        {
+          "player": "Ousmane Dembélé",
+          "team": "France",
+          "minute": "32'"
+        },
+        {
+          "player": "Désiré Doué",
+          "team": "France",
+          "minute": "94'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Kylian Mbappé",
+          "team": "France",
+          "minute": "7'"
+        },
+        {
+          "player": "Kylian Mbappé",
+          "team": "France",
+          "minute": "20'"
+        },
+        {
+          "player": "Andreas Schjelderup",
+          "team": "Norway",
+          "minute": "21'"
+        },
+        {
+          "player": "Bradley Barcola",
+          "team": "France",
+          "minute": "94'"
+        }
+      ],
+      "key_moments": [
+        "Ousmane Dembélé scored a stunning first-half hat-trick within 32 minutes to put France in complete control [1.2.6].",
+        "Jørgen Strand Larsen missed a penalty in the 50th minute, which was saved by French goalkeeper Mike Maignan.",
+        "Désiré Doué sealed the 4-1 victory with a stoppage-time header in the 94th minute."
+      ],
+      "standout_performers": [
+        {
+          "player": "Ousmane Dembélé",
+          "team": "France",
+          "reason": "Scored a brilliant first-half hat-trick to secure the victory and top spot in the group [1.2.6]."
+        },
+        {
+          "player": "Kylian Mbappé",
+          "team": "France",
+          "reason": "Provided two assists for Dembélé and was a constant threat on the wing."
+        },
+        {
+          "player": "Thelo Aasgaard",
+          "team": "Norway",
+          "reason": "Scored Norway's only goal with a composed finish in the first half."
+        }
+      ],
+      "tactical_summary": "France dominated the match early on, utilizing Kylian Mbappé's playmaking and Ousmane Dembélé's clinical finishing to exploit a heavily rotated Norwegian defense. Despite Norway's brief resurgence after Aasgaard's goal, France maintained control in the second half, sealing the victory with a late stoppage-time header from Désiré Doué.",
+      "stats": {
+        "possession": {
+          "home": 43,
+          "away": 57
+        },
+        "shots": {
+          "home": 10,
+          "away": 18
+        }
+      }
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "I",
+      "provisional": false,
+      "table": [
+        {
+          "team": "France",
+          "played": 3,
+          "pts": 9,
+          "gd": 8,
+          "gf": 10
+        },
+        {
+          "team": "Norway",
+          "played": 3,
+          "pts": 6,
+          "gd": 1,
+          "gf": 8
+        },
+        {
+          "team": "Senegal",
+          "played": 3,
+          "pts": 3,
+          "gd": 2,
+          "gf": 8
+        },
+        {
+          "team": "Iraq",
+          "played": 3,
+          "pts": 0,
+          "gd": -11,
+          "gf": 1
+        }
+      ]
+    }
+  ],
+  "narrative": "Ousmane Dembélé's spectacular first-half hat-trick propelled France to a dominant 4-1 victory over a heavily rotated Norway side, securing top spot in Group I with a perfect group-stage record. Despite resting Erling Haaland, Norway advanced to the Round of 32 in second place, where they will face Ivory Coast.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-3.5-flash",
+  "generatedAt": "2026-06-27T00:05:01.572Z"
+}

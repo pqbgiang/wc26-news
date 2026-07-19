@@ -1,0 +1,137 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-19",
+  "matches": [
+    {
+      "teams": [
+        "USA",
+        "Australia"
+      ],
+      "status": "upcoming",
+      "score": null,
+      "scorers": [],
+      "assists": [],
+      "key_moments": [],
+      "standout_performers": [],
+      "tactical_summary": null,
+      "stats": {}
+    },
+    {
+      "teams": [
+        "Scotland",
+        "Morocco"
+      ],
+      "status": "upcoming",
+      "score": null,
+      "scorers": [],
+      "assists": [],
+      "key_moments": [],
+      "standout_performers": [],
+      "tactical_summary": null,
+      "stats": {}
+    },
+    {
+      "teams": [
+        "Türkiye",
+        "Paraguay"
+      ],
+      "status": "upcoming",
+      "score": null,
+      "scorers": [],
+      "assists": [],
+      "key_moments": [],
+      "standout_performers": [],
+      "tactical_summary": null,
+      "stats": {}
+    },
+    {
+      "teams": [
+        "Brazil",
+        "Haiti"
+      ],
+      "status": "upcoming",
+      "score": null,
+      "scorers": [],
+      "assists": [],
+      "key_moments": [],
+      "standout_performers": [],
+      "tactical_summary": null,
+      "stats": {}
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "D",
+      "provisional": true,
+      "table": [
+        {
+          "team": "USA",
+          "played": 1,
+          "pts": 3,
+          "gd": 3,
+          "gf": 4
+        },
+        {
+          "team": "Australia",
+          "played": 1,
+          "pts": 3,
+          "gd": 2,
+          "gf": 2
+        },
+        {
+          "team": "Türkiye",
+          "played": 1,
+          "pts": 0,
+          "gd": -2,
+          "gf": 0
+        },
+        {
+          "team": "Paraguay",
+          "played": 1,
+          "pts": 0,
+          "gd": -3,
+          "gf": 1
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "provisional": true,
+      "table": [
+        {
+          "team": "Scotland",
+          "played": 1,
+          "pts": 3,
+          "gd": 1,
+          "gf": 1
+        },
+        {
+          "team": "Brazil",
+          "played": 1,
+          "pts": 1,
+          "gd": 0,
+          "gf": 1
+        },
+        {
+          "team": "Morocco",
+          "played": 1,
+          "pts": 1,
+          "gd": 0,
+          "gf": 1
+        },
+        {
+          "team": "Haiti",
+          "played": 1,
+          "pts": 0,
+          "gd": -1,
+          "gf": 0
+        }
+      ]
+    }
+  ],
+  "narrative": "All four World Cup 2026 group stage matches scheduled for June 19, 2026, are yet to kick off based on confirmed UTC times from media sources. Groups C and D remain finely poised after their opening fixtures, with today's games set to significantly impact qualification hopes.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-19T17:16:17.152Z"
+}

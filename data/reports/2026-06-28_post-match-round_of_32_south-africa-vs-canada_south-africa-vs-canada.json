@@ -1,0 +1,76 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-06-28",
+  "matches": [
+    {
+      "teams": [
+        "South Africa",
+        "Canada"
+      ],
+      "status": "completed",
+      "score": "0-1",
+      "scorers": [
+        {
+          "player": "Stephen Eustaquio",
+          "team": "Canada",
+          "minute": "90+2'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Alistair Johnston",
+          "team": "Canada"
+        }
+      ],
+      "key_moments": [
+        "South Africa goalkeeper Ronwen Williams set a new World Cup record for a keeper with 85 successful passes.",
+        "Canada's Alphonso Davies made his first tournament appearance as a substitute in the 75th minute, immediately boosting their attack.",
+        "Stephen Eustaquio scored the decisive goal for Canada in the 92nd minute with a long-range strike from outside the box.",
+        "Canada's Nathan Saliba received a yellow card in the 54th minute for serious foul play.",
+        "Canada's N. Sigur received a yellow card in the 67th minute for serious foul play."
+      ],
+      "standout_performers": [
+        {
+          "player": "Stephen Eustaquio",
+          "team": "Canada",
+          "reason": "Scored the match-winning goal and was a key creative force, creating 5+ chances from set-pieces."
+        },
+        {
+          "player": "Ronwen Williams",
+          "team": "South Africa",
+          "reason": "Made several crucial saves to keep South Africa in the game and set a World Cup record for goalkeeper passes."
+        },
+        {
+          "player": "Alphonso Davies",
+          "team": "Canada",
+          "reason": "Provided significant attacking impetus and pace after coming on as a second-half substitute."
+        }
+      ],
+      "tactical_summary": "Canada, employing a 4-4-2 system, focused on direct play and dynamic attacking transitions, which eventually broke down South Africa's resilient defense. South Africa, in a 4-2-3-1, prioritized defensive solidity and sought counter-attacking opportunities, with their goalkeeper playing a notable role in ball distribution.",
+      "stats": {
+        "possession": {
+          "home": 58,
+          "away": 42
+        },
+        "shots": {
+          "home": 6,
+          "away": 12
+        },
+        "xg": {
+          "home": 0.13,
+          "away": 1.32
+        }
+      },
+      "advancement": {
+        "winner": "Canada",
+        "advanced_to": "Round of 16"
+      }
+    }
+  ],
+  "narrative": "Canada secured a historic first-ever World Cup knockout victory with a dramatic stoppage-time goal from Stephen Eustaquio, advancing to the Round of 16. Despite a valiant defensive effort and a record-breaking performance from their goalkeeper, South Africa were ultimately eliminated from the tournament.",
+  "next_round_notes": "Canada will monitor the fitness of Moise Bombito, who was not at 100%, and Alphonso Davies, who made his first appearance after a hamstring injury. Nathan Saliba and N. Sigur received yellow cards, which could be a concern for accumulation in future matches.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-28T22:40:57.450Z"
+}

@@ -1,0 +1,71 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-06-30",
+  "matches": [
+    {
+      "teams": [
+        "Côte d'Ivoire",
+        "Norway"
+      ],
+      "status": "completed",
+      "score": "1-2",
+      "scorers": [
+        {
+          "player": "Antonio Nusa",
+          "team": "Norway",
+          "minute": "39'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Martin Ødegaard",
+          "team": "Norway"
+        }
+      ],
+      "key_moments": [
+        "Antonio Nusa opened the scoring for Norway in the 39th minute with a powerful strike, assisted by Martin Ødegaard, giving them a 1-0 lead.",
+        "Norway's Antonio Nusa received a yellow card at 45'+1.",
+        "Norway secured a narrow 2-1 victory in a tightly contested knockout match, demonstrating clinical finishing."
+      ],
+      "standout_performers": [
+        {
+          "player": "Antonio Nusa",
+          "team": "Norway",
+          "reason": "Scored the crucial opening goal and was a constant attacking threat."
+        },
+        {
+          "player": "Martin Ødegaard",
+          "team": "Norway",
+          "reason": "Provided the assist for the opening goal and dictated Norway's play."
+        },
+        {
+          "player": "Franck Kessié",
+          "team": "Côte d'Ivoire",
+          "reason": "Drove midfield play and showed commitment throughout the match."
+        }
+      ],
+      "tactical_summary": "Norway, under Stale Solbakken, deployed a 4-3-3 formation, showcasing clinical finishing and a well-organized defense to secure their win. Côte d'Ivoire, in a 4-1-4-1 setup led by Emerse Fae, displayed attacking intent and midfield strength but ultimately lacked the precision needed to convert opportunities into more goals.",
+      "stats": {
+        "possession": {
+          "home": 45,
+          "away": 55
+        },
+        "shots": {
+          "home": 1,
+          "away": 2
+        },
+        "xg": null
+      },
+      "advancement": {
+        "winner": "Norway",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "The Round of 32 kicked off with a dramatic encounter in Dallas, as Norway edged out Côte d'Ivoire with a 2-1 victory, showcasing their clinical edge in a tightly contested match. This narrow win highlights the intense competition of the knockout stage, with Norway advancing to the Quarterfinals to face Brazil.",
+  "next_round_notes": "Norway will proceed to the Quarterfinals, with Antonio Nusa carrying a yellow card from this match. Further injury or card concerns for the next round are unconfirmed at this time.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-30T18:59:24.882Z"
+}

@@ -1,0 +1,139 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-24",
+  "matches": [
+    {
+      "teams": [
+        "Portugal",
+        "Uzbekistan"
+      ],
+      "status": "completed",
+      "score": "5-0",
+      "scorers": [
+        {
+          "player": "Cristiano Ronaldo",
+          "team": "Portugal",
+          "minute": "6'"
+        },
+        {
+          "player": "Nuno Mendes",
+          "team": "Portugal",
+          "minute": "17'"
+        },
+        {
+          "player": "Cristiano Ronaldo",
+          "team": "Portugal",
+          "minute": "39'"
+        },
+        {
+          "player": "Abduvohid Nematov",
+          "team": "Uzbekistan",
+          "minute": "60' (OG)"
+        },
+        {
+          "player": "Rafael Leão",
+          "team": "Portugal",
+          "minute": "87'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "João Cancelo",
+          "team": "Portugal",
+          "minute": "6'"
+        },
+        {
+          "player": "Bruno Fernandes",
+          "team": "Portugal",
+          "minute": "39'"
+        },
+        {
+          "player": "Bruno Fernandes",
+          "team": "Portugal",
+          "minute": "60'"
+        },
+        {
+          "player": "Nélson Semedo",
+          "team": "Portugal",
+          "minute": "87'"
+        }
+      ],
+      "key_moments": [
+        "Goal by Cristiano Ronaldo (6') - became the first player to score in six World Cups.",
+        "Goal by Nuno Mendes (17') from a free-kick.",
+        "Goal by Cristiano Ronaldo (39') - surpassed Eusebio as Portugal's all-time leading World Cup scorer.",
+        "Uzbekistan's Azizjon Ganiev had a goal disallowed for a foul (around 30').",
+        "Own goal by Uzbekistan goalkeeper Abduvohid Nematov (60')."
+      ],
+      "standout_performers": [
+        {
+          "player": "Cristiano Ronaldo",
+          "team": "Portugal",
+          "reason": "Scored two historic goals, leading the attack with clinical finishing."
+        },
+        {
+          "player": "Nuno Mendes",
+          "team": "Portugal",
+          "reason": "Scored a superb free-kick and was highly influential on the left flank."
+        },
+        {
+          "player": "Bruno Fernandes",
+          "team": "Portugal",
+          "reason": "Provided two assists and dictated Portugal's offensive play from midfield."
+        }
+      ],
+      "tactical_summary": "Portugal showcased a dominant attacking display, controlling possession and exploiting the flanks to create numerous scoring opportunities. Uzbekistan struggled defensively against Portugal's relentless pressure and failed to mount significant threats, managing only a disallowed goal.",
+      "stats": {
+        "possession": {
+          "home": 66,
+          "away": 34
+        },
+        "shots": {
+          "home": 17,
+          "away": 7
+        }
+      }
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "K",
+      "provisional": true,
+      "table": [
+        {
+          "team": "Colombia",
+          "played": 2,
+          "pts": 6,
+          "gd": 3,
+          "gf": 4
+        },
+        {
+          "team": "Portugal",
+          "played": 2,
+          "pts": 4,
+          "gd": 5,
+          "gf": 6
+        },
+        {
+          "team": "DR Congo",
+          "played": 2,
+          "pts": 1,
+          "gd": -1,
+          "gf": 1
+        },
+        {
+          "team": "Uzbekistan",
+          "played": 2,
+          "pts": 0,
+          "gd": -7,
+          "gf": 1
+        }
+      ]
+    }
+  ],
+  "narrative": "Portugal delivered a resounding 5-0 victory over Uzbekistan, with Cristiano Ronaldo scoring twice and setting new World Cup records, including becoming the first player to score in six tournaments. This dominant performance significantly boosts Portugal's chances of advancing to the knockout stages, while Uzbekistan's World Cup debut campaign is on the brink of elimination after two consecutive defeats.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-24T13:27:18.362Z"
+}

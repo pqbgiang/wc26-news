@@ -1,0 +1,120 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-26",
+  "matches": [
+    {
+      "teams": [
+        "Ecuador",
+        "Germany"
+      ],
+      "status": "completed",
+      "score": "2-1",
+      "scorers": [
+        {
+          "player": "Leroy Sané",
+          "team": "Germany",
+          "minute": "2'"
+        },
+        {
+          "player": "Nilson Angulo",
+          "team": "Ecuador",
+          "minute": "9'"
+        },
+        {
+          "player": "Gonzalo Plata",
+          "team": "Ecuador",
+          "minute": "77'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Florian Wirtz",
+          "team": "Germany",
+          "minute": "2'"
+        },
+        {
+          "player": "Pedro Vite",
+          "team": "Ecuador",
+          "minute": "9'"
+        },
+        {
+          "player": "Kevin Rodríguez",
+          "team": "Ecuador",
+          "minute": "77'"
+        }
+      ],
+      "key_moments": [
+        "2' Goal by Leroy Sané (Germany), assisted by Florian Wirtz.",
+        "9' Goal by Nilson Angulo (Ecuador), assisted by Pedro Vite.",
+        "43' Yellow card for Piero Hincapié (Ecuador).",
+        "48' VAR review overturns a penalty awarded to Germany.",
+        "77' Goal by Gonzalo Plata (Ecuador), assisted by Kevin Rodríguez."
+      ],
+      "standout_performers": [
+        {
+          "player": "Pedro Vite",
+          "team": "Ecuador",
+          "reason": "Provided an assist, controlled midfield with 89 touches, and made 9 tackles."
+        },
+        {
+          "player": "Gonzalo Plata",
+          "team": "Ecuador",
+          "reason": "Scored the crucial match-winning goal in the 77th minute."
+        },
+        {
+          "player": "Leroy Sané",
+          "team": "Germany",
+          "reason": "Opened the scoring with Germany's earliest World Cup goal since 1934."
+        }
+      ],
+      "tactical_summary": "Ecuador displayed resilience and tactical discipline, absorbing early pressure and effectively utilizing quick transitions and wing play to secure their goals. Germany, despite dominating possession, struggled to break down Ecuador's organized defense and convert their territorial advantage into clear-cut scoring opportunities.",
+      "stats": {
+        "possession": {
+          "home": 40,
+          "away": 60
+        }
+      }
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "E",
+      "provisional": false,
+      "table": [
+        {
+          "team": "Germany",
+          "played": 3,
+          "pts": 6,
+          "gd": 6,
+          "gf": 10
+        },
+        {
+          "team": "Ivory Coast",
+          "played": 3,
+          "pts": 6,
+          "gd": 1,
+          "gf": 3
+        },
+        {
+          "team": "Ecuador",
+          "played": 3,
+          "pts": 4,
+          "gd": 0,
+          "gf": 2
+        },
+        {
+          "team": "Curaçao",
+          "played": 3,
+          "pts": 1,
+          "gd": -7,
+          "gf": 1
+        }
+      ]
+    }
+  ],
+  "narrative": "Ecuador's comeback victory against Germany, who had already secured top spot, was a crucial result that propelled them into the Round of 32 as one of the best third-placed teams. This win marked a significant turnaround for Ecuador after a challenging start to their group stage campaign.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-26T03:03:12.635Z"
+}

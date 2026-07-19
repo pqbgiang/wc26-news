@@ -1,0 +1,89 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-06-30",
+  "matches": [
+    {
+      "teams": [
+        "France",
+        "Sweden"
+      ],
+      "status": "completed",
+      "score": "3-0",
+      "scorers": [
+        {
+          "player": "Kylian Mbappé",
+          "team": "France",
+          "minute": "45'"
+        },
+        {
+          "player": "Bradley Barcola",
+          "team": "France",
+          "minute": "53'"
+        },
+        {
+          "player": "Kylian Mbappé",
+          "team": "France",
+          "minute": "74'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Ousmane Dembélé",
+          "team": "France"
+        },
+        {
+          "player": "Michael Olise",
+          "team": "France"
+        },
+        {
+          "player": "Michael Olise",
+          "team": "France"
+        }
+      ],
+      "key_moments": [
+        "Kylian Mbappé opened the scoring for France in the 45th minute with a strong individual effort, breaking the deadlock just before halftime.",
+        "Bradley Barcola doubled France's lead in the 53rd minute, converting a through ball from Michael Olise with a powerful shot.",
+        "Kylian Mbappé scored his second goal of the match in the 74th minute, effectively sealing France's dominant victory.",
+        "Michael Olise nearly scored a spectacular goal in the 36th minute with an overhead kick that struck the post."
+      ],
+      "standout_performers": [
+        {
+          "player": "Kylian Mbappé",
+          "team": "France",
+          "reason": "Scored two crucial goals, showcasing his clinical finishing and leadership."
+        },
+        {
+          "player": "Michael Olise",
+          "team": "France",
+          "reason": "Provided two assists and was a constant creative threat, nearly scoring with a spectacular effort."
+        },
+        {
+          "player": "Jacob Zetterström",
+          "team": "Sweden",
+          "reason": "Made several key saves in the first half to keep Sweden in the game despite intense French pressure."
+        }
+      ],
+      "tactical_summary": "France asserted their dominance through fluid attacking play and effective pressing, overwhelming Sweden's defense. Sweden attempted to absorb pressure and counter-attack, but their efforts were largely stifled by France's organized defense and midfield control.",
+      "stats": {
+        "possession": {
+          "home": 61,
+          "away": 39
+        },
+        "xg": {
+          "home": 3.17,
+          "away": 0.65
+        }
+      },
+      "advancement": {
+        "winner": "France",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "France delivered a commanding performance in the Round of 32, comfortably defeating Sweden 3-0 to secure their spot in the Quarterfinals. The match highlighted France's formidable attacking prowess and their status as strong contenders for the World Cup title.",
+  "next_round_notes": "No significant injury or card concerns were reported for France following this match.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-30T23:01:08.066Z"
+}

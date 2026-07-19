@@ -1,0 +1,99 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-26",
+  "matches": [
+    {
+      "teams": [
+        "Curaçao",
+        "Ivory Coast"
+      ],
+      "status": "completed",
+      "score": "0-2",
+      "scorers": [
+        {
+          "player": "Nicolas Pépé",
+          "team": "Ivory Coast",
+          "minute": "7'"
+        },
+        {
+          "player": "Nicolas Pépé",
+          "team": "Ivory Coast",
+          "minute": "64'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Y. Diomande",
+          "team": "Ivory Coast",
+          "minute": "7'"
+        },
+        {
+          "player": "I. Sangare",
+          "team": "Ivory Coast",
+          "minute": "64'"
+        }
+      ],
+      "key_moments": [
+        "7' Goal by Nicolas Pépé (Ivory Coast), assisted by Y. Diomande.",
+        "35' Yellow card for Nicolas Pépé (Ivory Coast).",
+        "64' Goal by Nicolas Pépé (Ivory Coast), assisted by I. Sangare.",
+        "75' Yellow card for J. Bacuna (Curaçao)."
+      ],
+      "standout_performers": [
+        {
+          "player": "Nicolas Pépé",
+          "team": "Ivory Coast",
+          "reason": "Scored both goals, securing the victory."
+        },
+        {
+          "player": "T. Chong",
+          "team": "Curaçao",
+          "reason": "Showed attacking intent with multiple shots on goal."
+        }
+      ],
+      "tactical_summary": "Ivory Coast displayed clinical finishing, converting their opportunities efficiently through Nicolas Pépé to secure the win. Curaçao struggled to penetrate the Ivorian defense consistently, despite creating some chances, and could not find the back of the net.",
+      "stats": {}
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "E",
+      "provisional": false,
+      "table": [
+        {
+          "team": "Germany",
+          "played": 3,
+          "pts": 6,
+          "gd": 6,
+          "gf": 10
+        },
+        {
+          "team": "Ivory Coast",
+          "played": 3,
+          "pts": 6,
+          "gd": 2,
+          "gf": 3
+        },
+        {
+          "team": "Ecuador",
+          "played": 3,
+          "pts": 4,
+          "gd": 0,
+          "gf": 2
+        },
+        {
+          "team": "Curaçao",
+          "played": 3,
+          "pts": 1,
+          "gd": -8,
+          "gf": 1
+        }
+      ]
+    }
+  ],
+  "narrative": "Ivory Coast secured a crucial 2-0 victory over Curaçao, with Nicolas Pépé netting both goals to confirm their progression to the Round of 32. This result solidified Ivory Coast's second-place finish in Group E, while Curaçao was eliminated from the tournament.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-26T03:08:33.431Z"
+}

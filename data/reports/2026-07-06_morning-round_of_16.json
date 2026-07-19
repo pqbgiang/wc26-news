@@ -1,0 +1,251 @@
+{
+  "type": "morning-round_of_16",
+  "team": null,
+  "date": "2026-07-06",
+  "sections": [
+    {
+      "title": "Elite Clash Analysis: R16 Showdowns",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Portugal vs Spain: Iberian Derby's Knockout History",
+          "body": "This Iberian derby has seen 41 encounters, with Spain holding 18 wins to Portugal's 7, alongside 16 draws. Their most significant knockout clashes include Spain's 1-0 victory in the 2010 World Cup Round of 16 and a penalty shootout win in the Euro 2012 semi-finals, though Portugal recently won a Nations League final shootout in June 2025 after a 2-2 draw.",
+          "metadata": {
+            "homeTeam": "Portugal",
+            "awayTeam": "Spain",
+            "kickoffUTC": "19:00",
+            "venue": "Dallas Stadium, Dallas, U.S."
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Portugal's Counter vs Spain's Possession",
+          "body": "Portugal's tactical evolution from the group stage has seen them balance defensive solidity with potent counter-attacks, often featuring Cristiano Ronaldo or Goncalo Ramos up front. Spain, conversely, maintains its possession-based philosophy, aiming to control the midfield and dictate tempo, as evidenced by their dominant 3-0 win over Austria in the Round of 32.",
+          "metadata": {
+            "homeTeam": "Portugal",
+            "awayTeam": "Spain",
+            "kickoffUTC": "19:00",
+            "venue": "Dallas Stadium, Dallas, U.S."
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "USA vs Belgium: Rematch of 2014 Knockout",
+          "body": "The USA and Belgium have met seven times, with Belgium winning six and the USA securing one victory in the 1930 World Cup group stage. Their most memorable encounter was Belgium's 2-1 extra-time win in the 2014 World Cup Round of 16, a match where Tim Howard made a record 16 saves.",
+          "metadata": {
+            "homeTeam": "USA",
+            "awayTeam": "Belgium",
+            "kickoffUTC": "00:00",
+            "venue": "Seattle Stadium, Seattle, U.S."
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "USA's Energy vs Belgium's Experience",
+          "body": "The USA, buoyed by home support and a 2-0 R32 win over Bosnia and Herzegovina, will deploy a high-energy press and direct attacking style. Belgium, despite an aging core, showed resilience with a 3-2 extra-time comeback against Senegal in the R32, relying on the experience of players like Kevin De Bruyne and Romelu Lukaku.",
+          "metadata": {
+            "homeTeam": "USA",
+            "awayTeam": "Belgium",
+            "kickoffUTC": "00:00",
+            "venue": "Seattle Stadium, Seattle, U.S."
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Argentina vs Egypt: Limited Head-to-Head",
+          "body": "Argentina and Egypt have a sparse head-to-head record, with only two previous meetings resulting in one win for Argentina and one draw. There have been no prior competitive knockout matches between these two nations.",
+          "metadata": {
+            "homeTeam": "Argentina",
+            "awayTeam": "Egypt",
+            "kickoffUTC": "16:00",
+            "venue": "Atlanta Stadium, Atlanta, U.S."
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Messi's Magic vs Egyptian Resilience",
+          "body": "Argentina's tactical approach revolves around Lionel Messi's creativity and a balanced attack, as seen in their 3-2 extra-time win over Cape Verde in the R32. Egypt will likely focus on defensive organization and quick transitions, leveraging Mohamed Salah's pace, following their penalty shootout victory against Australia in the R32.",
+          "metadata": {
+            "homeTeam": "Argentina",
+            "awayTeam": "Egypt",
+            "kickoffUTC": "16:00",
+            "venue": "Atlanta Stadium, Atlanta, U.S."
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Switzerland vs Colombia: First Knockout Meeting",
+          "body": "Switzerland and Colombia have met four times, with Colombia holding a 2-1 lead in wins and one draw, including a 2-0 victory in the 1994 World Cup group stage. This Round of 16 clash marks their first competitive knockout stage encounter.",
+          "metadata": {
+            "homeTeam": "Switzerland",
+            "awayTeam": "Colombia",
+            "kickoffUTC": "20:00",
+            "venue": "BC Place Vancouver, Vancouver, Canada"
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Swiss Discipline vs Colombian Flair",
+          "body": "Switzerland's tactical strength lies in their disciplined defense and organized midfield, which helped them secure a 2-0 win over Algeria in the R32. Colombia, coming off a 1-0 R32 win against Ghana, will rely on their attacking flair and individual brilliance, particularly from players like James Rodriguez, though his tournament form has been mixed.",
+          "metadata": {
+            "homeTeam": "Switzerland",
+            "awayTeam": "Colombia",
+            "kickoffUTC": "20:00",
+            "venue": "BC Place Vancouver, Vancouver, Canada"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Elite Performance Indicators: Key Battlegrounds",
+      "items": [
+        {
+          "type": "stat",
+          "headline": "Underdog Potential: USA's Home Advantage",
+          "body": "The USA, playing on home soil in Seattle, has a significant opportunity to disrupt Belgium's rhythm, leveraging their high intensity and crowd support. This contrasts with their underdog status in the 2014 encounter.",
+          "metadata": {
+            "homeTeam": "USA",
+            "awayTeam": "Belgium",
+            "kickoffUTC": "00:00",
+            "venue": "Seattle Stadium, Seattle, U.S."
+          }
+        },
+        {
+          "type": "stat",
+          "headline": "Set Piece Edge: Portugal's Aerial Threat",
+          "body": "Portugal possesses a strong aerial threat from set pieces, with players capable of excellent delivery and powerful headers. Spain's defense will need to be vigilant against these opportunities.",
+          "metadata": {
+            "homeTeam": "Portugal",
+            "awayTeam": "Spain",
+            "kickoffUTC": "19:00",
+            "venue": "Dallas Stadium, Dallas, U.S."
+          }
+        },
+        {
+          "type": "stat",
+          "headline": "Pressure Metrics: Argentina's Knockout Pedigree",
+          "body": "Argentina, as reigning World Cup champions, thrives under immense pressure, a trait demonstrated in their extra-time R32 victory. Their experienced squad is accustomed to high-stakes knockout football.",
+          "metadata": {
+            "homeTeam": "Argentina",
+            "awayTeam": "Egypt",
+            "kickoffUTC": "16:00",
+            "venue": "Atlanta Stadium, Atlanta, U.S."
+          }
+        },
+        {
+          "type": "stat",
+          "headline": "Underdog Potential: Egypt's Defensive Wall",
+          "body": "Egypt, despite being the underdog against Argentina, can disrupt the favorite's rhythm with their disciplined defensive structure and ability to absorb pressure. Their counter-attacking threat, led by Mohamed Salah, will be crucial.",
+          "metadata": {
+            "homeTeam": "Argentina",
+            "awayTeam": "Egypt",
+            "kickoffUTC": "16:00",
+            "venue": "Atlanta Stadium, Atlanta, U.S."
+          }
+        },
+        {
+          "type": "stat",
+          "headline": "Set Piece Edge: Colombia's Delivery",
+          "body": "Colombia often creates dangerous situations from set pieces, utilizing good delivery and players with strong aerial presence. Switzerland's organized defense will be tested in these moments.",
+          "metadata": {
+            "homeTeam": "Switzerland",
+            "awayTeam": "Colombia",
+            "kickoffUTC": "20:00",
+            "venue": "BC Place Vancouver, Vancouver, Canada"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Quarterfinal Paths: Road to the Semis",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Portugal/Spain Winner Faces USA/Belgium",
+          "body": "The winner of the Portugal vs Spain clash will advance to face the winner of the USA vs Belgium match in the quarterfinals. This sets up a potentially thrilling encounter between European giants or a North American dark horse.",
+          "metadata": {
+            "homeTeam": "Portugal",
+            "awayTeam": "Spain",
+            "kickoffUTC": "19:00",
+            "venue": "Dallas Stadium, Dallas, U.S."
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Argentina/Egypt Winner Faces Switzerland/Colombia",
+          "body": "The victor between Argentina and Egypt will progress to meet the winner of the Switzerland vs Colombia fixture in the quarterfinals. This path could lead to a South American showdown or a surprise European contender.",
+          "metadata": {
+            "homeTeam": "Argentina",
+            "awayTeam": "Egypt",
+            "kickoffUTC": "16:00",
+            "venue": "Atlanta Stadium, Atlanta, U.S."
+          }
+        },
+        {
+          "type": "analysis",
+          "headline": "Potential Semifinal Pairings",
+          "body": "Should favorites advance, a potential semifinal could see the winner of the Portugal/Spain/USA/Belgium quadrant face the winner of the Argentina/Egypt/Switzerland/Colombia quadrant. This could set up a clash between two World Cup heavyweights.",
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "title": "Live Watch Alerts: Game-Changing Moments",
+      "items": [
+        {
+          "type": "tactical",
+          "headline": "Ronaldo's Role and Spain's Midfield Press",
+          "body": "Watch for Cristiano Ronaldo's starting role and impact, as Portugal's manager Roberto Martinez has shown willingness to substitute him. Spain's relentless midfield press will be key to disrupting Portugal's build-up and creating turnovers.",
+          "metadata": {
+            "homeTeam": "Portugal",
+            "awayTeam": "Spain",
+            "kickoffUTC": "19:00",
+            "venue": "Dallas Stadium, Dallas, U.S."
+          }
+        },
+        {
+          "type": "stat",
+          "headline": "Pulisic vs De Bruyne: Midfield Battle",
+          "body": "The individual battle between Christian Pulisic for the USA and Kevin De Bruyne for Belgium will be crucial in dictating the flow of the game. Pulisic's attacking drive and De Bruyne's playmaking will be under intense scrutiny.",
+          "metadata": {
+            "homeTeam": "USA",
+            "awayTeam": "Belgium",
+            "kickoffUTC": "00:00",
+            "venue": "Seattle Stadium, Seattle, U.S."
+          }
+        },
+        {
+          "type": "tactical",
+          "headline": "Salah's Counters and Egypt's Defensive Block",
+          "body": "Keep an eye on Mohamed Salah's ability to exploit spaces on the counter-attack against Argentina's defense. Egypt's disciplined defensive block will aim to frustrate Argentina's creative players and limit scoring opportunities.",
+          "metadata": {
+            "homeTeam": "Argentina",
+            "awayTeam": "Egypt",
+            "kickoffUTC": "16:00",
+            "venue": "Atlanta Stadium, Atlanta, U.S."
+          }
+        },
+        {
+          "type": "stat",
+          "headline": "Xhaka's Control vs James' Creativity",
+          "body": "The midfield duel between Switzerland's Granit Xhaka, known for his control and passing, and Colombia's creative force James Rodriguez will be a key determinant. Xhaka's ability to break up play and Rodriguez's vision will be pivotal.",
+          "metadata": {
+            "homeTeam": "Switzerland",
+            "awayTeam": "Colombia",
+            "kickoffUTC": "20:00",
+            "venue": "BC Place Vancouver, Vancouver, Canada"
+          }
+        },
+        {
+          "type": "stat",
+          "headline": "Early Momentum Shifts",
+          "body": "In all knockout matches, early goals or significant tactical adjustments can drastically shift momentum. Watch for how teams react to conceding or taking an early lead, as composure under pressure will be vital.",
+          "metadata": {}
+        }
+      ]
+    }
+  ],
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-06T06:17:44.932Z"
+}

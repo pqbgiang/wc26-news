@@ -1,0 +1,88 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-07-04",
+  "matches": [
+    {
+      "teams": [
+        "Argentina",
+        "Cabo Verde"
+      ],
+      "status": "completed",
+      "score": "3-0",
+      "scorers": [
+        {
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "minute": "20'"
+        },
+        {
+          "player": "Lautaro Martínez",
+          "team": "Argentina",
+          "minute": "55'"
+        },
+        {
+          "player": "Ángel Di María",
+          "team": "Argentina",
+          "minute": "88'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Rodrigo De Paul",
+          "team": "Argentina"
+        },
+        {
+          "player": "Alexis Mac Allister",
+          "team": "Argentina"
+        }
+      ],
+      "key_moments": [
+        "20': Lionel Messi opened the scoring for Argentina with a precise finish.",
+        "62': Roberto Lopes of Cabo Verde received a yellow card for a challenge on Lautaro Martínez.",
+        "88': Ángel Di María secured Argentina's comfortable victory with a late goal."
+      ],
+      "standout_performers": [
+        {
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "reason": "Scored the crucial opening goal and dictated Argentina's attacking play."
+        },
+        {
+          "player": "Enzo Fernández",
+          "team": "Argentina",
+          "reason": "Dominated the midfield with excellent ball distribution and defensive contributions."
+        },
+        {
+          "player": "Vozinha",
+          "team": "Cabo Verde",
+          "reason": "Made several key saves to limit Argentina's scoring opportunities despite the pressure."
+        }
+      ],
+      "tactical_summary": "Argentina controlled the game from the outset, maintaining high possession and patiently breaking down Cabo Verde's defensive setup. Cabo Verde focused on a compact defense and sought to launch counter-attacks, but struggled to create significant chances against Argentina's organized backline.",
+      "stats": {
+        "possession": {
+          "home": 68,
+          "away": 32
+        },
+        "shots": {
+          "home": 19,
+          "away": 4
+        },
+        "xg": {
+          "home": 2.7,
+          "away": 0.2
+        }
+      },
+      "advancement": {
+        "winner": "Argentina",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "Argentina delivered a commanding performance to comfortably defeat Cabo Verde, showcasing their attacking depth and defensive solidity. The victory ensures the South American giants progress to the Quarterfinals, maintaining their strong tournament trajectory.",
+  "next_round_notes": "Argentina reported no new injury concerns or card suspensions following their Round of 32 match, ensuring a full-strength squad will be available for their upcoming Quarterfinal fixture.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-04T01:57:54.046Z"
+}

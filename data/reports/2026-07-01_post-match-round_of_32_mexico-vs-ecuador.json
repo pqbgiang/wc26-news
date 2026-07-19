@@ -1,0 +1,89 @@
+{
+  "type": "post-match-round_of_32",
+  "date": "2026-07-01",
+  "matches": [
+    {
+      "teams": [
+        "Mexico",
+        "Ecuador"
+      ],
+      "status": "completed",
+      "score": "2-0",
+      "scorers": [
+        {
+          "player": "Julian Quiñones",
+          "team": "Mexico",
+          "minute": "22'"
+        },
+        {
+          "player": "Raúl Jiménez",
+          "team": "Mexico",
+          "minute": "31'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Roberto Alvarado",
+          "team": "Mexico"
+        },
+        {
+          "player": "Julian Quiñones",
+          "team": "Mexico"
+        }
+      ],
+      "key_moments": [
+        "Julian Quiñones opened the scoring for Mexico with a powerful drive in the 22nd minute.",
+        "Raúl Jiménez doubled Mexico's lead in the 31st minute after a combination with Quiñones.",
+        "Ecuador's John Yeboah hit the woodwork in the 18th minute, a rare clear chance for La Tri.",
+        "Piero Hincapié of Ecuador received a red card in stoppage time (90+5') following a VAR review."
+      ],
+      "standout_performers": [
+        {
+          "player": "Julian Quiñones",
+          "team": "Mexico",
+          "reason": "Scored the opening goal and assisted the second, earning Player of the Match."
+        },
+        {
+          "player": "Raúl Jiménez",
+          "team": "Mexico",
+          "reason": "Scored Mexico's second goal and contributed to the team's attacking pressure."
+        },
+        {
+          "player": "Cesar Montes",
+          "team": "Mexico",
+          "reason": "Expertly marshalled the defense, contributing to Mexico's fourth consecutive clean sheet."
+        },
+        {
+          "player": "Moisés Caicedo",
+          "team": "Ecuador",
+          "reason": "Led Ecuador's midfield with 57 accurate passes and created a big chance."
+        }
+      ],
+      "tactical_summary": "Mexico started with high intensity, securing two early goals through clinical finishing and effective counter-pressing. After establishing their lead, they adopted a more controlled defensive approach, absorbing Ecuador's possession without conceding significant threats.",
+      "stats": {
+        "possession": {
+          "home": 43,
+          "away": 57
+        },
+        "shots": {
+          "home": 15,
+          "away": 7
+        },
+        "xg": {
+          "home": 1.02,
+          "away": 0.73
+        }
+      },
+      "advancement": {
+        "winner": "Mexico",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "Co-hosts Mexico delivered a dominant performance to defeat Ecuador 2-0, ending a 40-year drought for a knockout stage victory at the World Cup. Their fast start and impenetrable defense secured their passage, delighting the home crowd at Mexico City Stadium.",
+  "next_round_notes": "Mexico advances to the Round of 16 with no reported injury or card concerns for their squad. Ecuador's Piero Hincapié will face a suspension following his late red card, though Ecuador has been eliminated from the tournament.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-01T12:28:38.013Z"
+}

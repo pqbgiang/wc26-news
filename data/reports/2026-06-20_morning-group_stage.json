@@ -1,0 +1,109 @@
+{
+  "type": "morning-group_stage",
+  "date": "2026-06-20",
+  "sections": [
+    {
+      "title": "Group Stage Showdowns: Crucial Battles Across Groups E & F",
+      "items": [
+        {
+          "type": "match",
+          "headline": "Dutch Dominance or Swedish Surprise? Group F Heats Up",
+          "body": "The Netherlands and Sweden have a competitive head-to-head history, with the Dutch holding an edge (12 wins, 5 draws, 8 losses in 25 meetings), including a 2-0 victory in their last encounter in 2017. The Netherlands enter as favorites, while Sweden aims to build on a strong opening win against Tunisia. This match could be a tactical battle in midfield, with both teams looking to assert control and secure a vital three points in Group F.",
+          "metadata": {
+            "homeTeam": "Netherlands",
+            "awayTeam": "Sweden",
+            "kickoffUTC": "12:00",
+            "venue": "AT&T Stadium, Arlington, Texas, USA"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Germany's Juggernaut Meets Ivory Coast's Resilience in Group E",
+          "body": "Germany and Ivory Coast meet for only the second time, with their sole previous encounter being a 2-2 friendly draw in 2009. Germany arrives in formidable form after a 7-1 opening win against Curaçao, extending a 10-game winning streak, while Ivory Coast secured a 1-0 victory over Ecuador. Ivory Coast's Elye Wahi is reported to miss the clash, potentially impacting their attacking options. This match pits Germany's potent attack against Ivory Coast's physical and counter-attacking style.",
+          "metadata": {
+            "homeTeam": "Germany",
+            "awayTeam": "Ivory Coast",
+            "kickoffUTC": "16:00",
+            "venue": "BMO Field, Toronto, Ontario, Canada"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Ecuador Seeks Redemption Against Debutants Curaçao in Group E",
+          "body": "Ecuador and Curaçao are set to face each other for the first time in a competitive fixture. Ecuador will be eager to bounce back from their opening 1-0 loss to Ivory Coast, while tournament debutants Curaçao aim for a more disciplined performance after a heavy 7-1 defeat to Germany. This match is crucial for Ecuador's qualification hopes and a test of Curaçao's ability to adapt after a challenging start.",
+          "metadata": {
+            "homeTeam": "Ecuador",
+            "awayTeam": "Curaçao",
+            "kickoffUTC": "19:00",
+            "venue": "GEHA Field at Arrowhead Stadium, Kansas City, Missouri, USA"
+          }
+        },
+        {
+          "type": "match",
+          "headline": "Tunisia's New Era vs Japan's Dominance: A Group F Decider",
+          "body": "Japan holds a strong historical advantage over Tunisia, winning five of their six previous meetings, with Tunisia's only victory coming in a 2022 friendly. Tunisia enters this match under new management following a 5-1 opening loss to Sweden, while Japan secured a 2-2 draw against the Netherlands. Japan will be without Takefusa Kubo due to injury, but their technical prowess will challenge Tunisia's reorganized defense.",
+          "metadata": {
+            "homeTeam": "Tunisia",
+            "awayTeam": "Japan",
+            "kickoffUTC": "22:00",
+            "venue": "Estadio BBVA, Guadalupe, Nuevo León, Mexico"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Group E: Qualification Scenarios and Early Eliminations",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Germany Eyes Knockout Stage, Curaçao Fights for Pride",
+          "body": "Germany, with a dominant opening win and superior goal difference, could effectively secure their spot in the knockout rounds with a victory over Ivory Coast. Curaçao, after a heavy defeat, faces an uphill battle for qualification, making their match against Ecuador a fight for pride and potential spoiler status."
+        },
+        {
+          "type": "analysis",
+          "headline": "Ivory Coast and Ecuador Battle for Strong Position",
+          "body": "An Ivory Coast win against Germany would put them in an excellent position for qualification and potentially challenge for the top spot in Group E. Ecuador desperately needs a win against Curaçao to keep their hopes alive and avoid an early exit from the tournament."
+        }
+      ]
+    },
+    {
+      "title": "Group F: High Stakes as Teams Vie for Advancement",
+      "items": [
+        {
+          "type": "analysis",
+          "headline": "Netherlands and Sweden Aim for Early Control",
+          "body": "The clash between the Netherlands and Sweden is pivotal for Group F. A win for either side would provide a significant advantage in the race for the top two spots, especially with Japan also in contention."
+        },
+        {
+          "type": "analysis",
+          "headline": "Tunisia's Last Stand Under New Leadership",
+          "body": "Following a heavy opening defeat and a managerial change, Tunisia faces immense pressure against Japan. A loss would likely result in early elimination, making this a must-win game to keep their World Cup dreams alive."
+        }
+      ]
+    },
+    {
+      "title": "Live Watch Alerts: Key Moments to Catch Today",
+      "items": [
+        {
+          "type": "live-alert",
+          "headline": "Germany vs Ivory Coast: Midfield Dominance and Counter-Attack Threat",
+          "body": "Watch for Germany's creative midfielders, such as Kai Havertz, orchestrating attacks against Ivory Coast's robust defensive setup. The Ivorians' ability to launch quick counter-attacks will be a key factor, especially in the second half."
+        },
+        {
+          "type": "live-alert",
+          "headline": "Netherlands vs Sweden: Set-Piece Battles and Attacking Flair",
+          "body": "Keep an eye on set-piece situations, where both the Netherlands and Sweden possess aerial threats. Expect dynamic attacking plays from both sides, as they push for an early advantage in Group F."
+        },
+        {
+          "type": "live-alert",
+          "headline": "Tunisia vs Japan: New Coach Impact and Defensive Resilience",
+          "body": "Observe Tunisia's tactical adjustments under new coach Herve Renard, particularly their defensive organization after a challenging opening match. Japan's technical wing play and movement without the ball will be crucial in breaking down Tunisia."
+        }
+      ]
+    }
+  ],
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-20T11:53:39.621Z"
+}

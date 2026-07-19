@@ -1,0 +1,137 @@
+{
+  "type": "post-match-group_stage",
+  "date": "2026-06-27",
+  "matches": [
+    {
+      "teams": [
+        "Senegal",
+        "Iraq"
+      ],
+      "status": "completed",
+      "score": "5-0",
+      "scorers": [
+        {
+          "player": "Habib Diarra",
+          "team": "Senegal",
+          "minute": "4'"
+        },
+        {
+          "player": "Ismaïla Sarr",
+          "team": "Senegal",
+          "minute": "56'"
+        },
+        {
+          "player": "Pape Gueye",
+          "team": "Senegal",
+          "minute": "59'"
+        },
+        {
+          "player": "Pape Gueye",
+          "team": "Senegal",
+          "minute": "71'"
+        },
+        {
+          "player": "Iliman Ndiaye",
+          "team": "Senegal",
+          "minute": "82'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Abdoulaye Seck",
+          "team": "Senegal",
+          "minute": "4'"
+        },
+        {
+          "player": "Lamine Camara",
+          "team": "Senegal",
+          "minute": "56'"
+        },
+        {
+          "player": "Iliman Ndiaye",
+          "team": "Senegal",
+          "minute": "71'"
+        },
+        {
+          "player": "Pape Gueye",
+          "team": "Senegal",
+          "minute": "82'"
+        }
+      ],
+      "key_moments": [
+        "Habib Diarra opened the scoring for Senegal in the 4th minute, setting an early tone.",
+        "Iraq's Rebin Sulaka received a red card in the 13th minute after a VAR review for denying Sadio Mane a clear goalscoring opportunity.",
+        "Pape Gueye scored two quick goals in the 59th and 71st minutes, extending Senegal's lead and cementing their dominance.",
+        "Abdoulaye Seck made an emotional tribute to his late son after contributing to the opening goal."
+      ],
+      "standout_performers": [
+        {
+          "player": "Pape Gueye",
+          "team": "Senegal",
+          "reason": "Scored two goals and provided an assist, earning a 9.9 Sofascore rating for his impactful performance."
+        },
+        {
+          "player": "Iliman Ndiaye",
+          "team": "Senegal",
+          "reason": "Contributed a goal and an assist, playing a key role in Senegal's second-half attacking surge."
+        }
+      ],
+      "tactical_summary": "Senegal started aggressively, capitalizing on an early goal and Iraq's subsequent red card to control the match. They patiently built attacks in the first half before unleashing a clinical four-goal surge in the second half. Iraq, despite being reduced to ten men, attempted to maintain their passing game but were ultimately undone by individual errors and overwhelmed by Senegal's numerical advantage and attacking prowess.",
+      "stats": {
+        "possession": {
+          "home": 68,
+          "away": 32
+        },
+        "shots": {
+          "home": 28,
+          "away": 6
+        },
+        "xg": {
+          "home": 3.03,
+          "away": 0.18
+        }
+      }
+    }
+  ],
+  "group_standings": [
+    {
+      "group": "I",
+      "provisional": false,
+      "table": [
+        {
+          "team": "France",
+          "played": 3,
+          "pts": 9,
+          "gd": 8,
+          "gf": 10
+        },
+        {
+          "team": "Norway",
+          "played": 3,
+          "pts": 6,
+          "gd": 1,
+          "gf": 8
+        },
+        {
+          "team": "Senegal",
+          "played": 3,
+          "pts": 3,
+          "gd": 2,
+          "gf": 8
+        },
+        {
+          "team": "Iraq",
+          "played": 3,
+          "pts": 0,
+          "gd": -11,
+          "gf": 1
+        }
+      ]
+    }
+  ],
+  "narrative": "Senegal's emphatic 5-0 victory over Iraq secured their first points of the tournament and significantly boosted their goal difference, keeping their hopes alive for a spot in the Round of 32 as one of the best third-placed teams. Iraq, already eliminated, finished their World Cup campaign without a point, having been hampered by an early red card and individual errors throughout the match.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-06-27T02:01:40.956Z"
+}

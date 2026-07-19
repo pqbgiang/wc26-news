@@ -1,0 +1,52 @@
+{
+  "type": "post-match-round_of_16",
+  "date": "2026-07-07",
+  "matches": [
+    {
+      "teams": [
+        "Switzerland",
+        "Colombia"
+      ],
+      "status": "completed",
+      "score": "0-0",
+      "scorers": [],
+      "assists": [],
+      "key_moments": [
+        "Gustavo Puerta's shot from distance was saved by Switzerland goalkeeper Gregor Kobel in the 21st minute, marking an early chance for Colombia.",
+        "Switzerland's Fabian Rieder had a strong shot saved by Colombia goalkeeper Camilo Vargas in the 30th minute.",
+        "Luis Suárez's shot from the edge of the box went wide in the 64th minute, missing a key opportunity for Colombia.",
+        "A collision between Switzerland's Breel Embolo and Colombia's Camilo Vargas in the 73rd minute saw both players require medical attention, though they continued the match.",
+        "Colombia had a potential penalty shout waved away late in the game after Jaminton Campaz went down in the box."
+      ],
+      "standout_performers": [
+        {
+          "player": "Camilo Vargas",
+          "team": "Colombia",
+          "reason": "Made several crucial saves, including denying Fabian Rieder, to keep a clean sheet through 120 minutes."
+        },
+        {
+          "player": "Gregor Kobel",
+          "team": "Switzerland",
+          "reason": "Made an important save from Gustavo Puerta's early attempt and maintained a clean sheet throughout the match."
+        }
+      ],
+      "tactical_summary": "Both teams displayed strong defensive organization and tactical discipline, leading to a cagey affair with limited clear-cut chances. Switzerland aimed for clinical finishing, while Colombia relied on a robust defensive platform, resulting in a goalless draw after extra time.",
+      "stats": {
+        "possession": {
+          "home": 50,
+          "away": 50
+        }
+      },
+      "advancement": {
+        "winner": "Undetermined (Penalty shootout result not available)",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "The Round of 16 clash between Switzerland and Colombia was a tense, cagey affair, with both sides prioritizing defensive solidity over attacking flair, ultimately leading to a goalless stalemate after 120 minutes. The match showcased elite-level goalkeeping and tactical discipline, leaving the outcome to be decided by the lottery of a penalty shootout, the result of which is unconfirmed.",
+  "qf_notes": "The winner of this match will face defending champion Argentina in the Quarterfinals in Kansas City. Switzerland was without midfielder Johan Manzambi due to an injury sustained in training, while Colombia's striker Jhon Córdoba was ruled out for the remainder of the tournament with a hamstring strain, impacting their attacking options.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-07T22:19:21.850Z"
+}

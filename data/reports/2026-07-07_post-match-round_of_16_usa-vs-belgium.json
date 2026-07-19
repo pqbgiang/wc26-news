@@ -1,0 +1,90 @@
+{
+  "type": "post-match-round_of_16",
+  "date": "2026-07-07",
+  "matches": [
+    {
+      "teams": [
+        "USA",
+        "Belgium"
+      ],
+      "status": "completed",
+      "score": "1-4",
+      "scorers": [
+        {
+          "player": "Charles De Ketelaere",
+          "team": "Belgium",
+          "minute": "9'"
+        },
+        {
+          "player": "Malik Tillman",
+          "team": "USA",
+          "minute": "31'"
+        },
+        {
+          "player": "Charles De Ketelaere",
+          "team": "Belgium",
+          "minute": "33'"
+        },
+        {
+          "player": "Hans Vanaken",
+          "team": "Belgium",
+          "minute": "57'"
+        },
+        {
+          "player": "Romelu Lukaku",
+          "team": "Belgium",
+          "minute": "90+3'"
+        }
+      ],
+      "assists": [
+        {
+          "player": "Nicolas Raskin",
+          "team": "Belgium"
+        },
+        {
+          "player": "Leandro Trossard",
+          "team": "Belgium"
+        },
+        {
+          "player": "Charles De Ketelaere",
+          "team": "Belgium"
+        },
+        {
+          "player": "Hans Vanaken",
+          "team": "Belgium"
+        }
+      ],
+      "key_moments": [
+        "Charles De Ketelaere opened the scoring for Belgium in the 9th minute with a close-range finish.",
+        "Malik Tillman equalized for the USA in the 31st minute with a deflected direct free-kick.",
+        "De Ketelaere quickly restored Belgium's lead with a header in the 33rd minute, just 61 seconds after the USA's equalizer.",
+        "A goalkeeping error by Matt Freese allowed Hans Vanaken to score Belgium's third goal in the 57th minute.",
+        "USA captain Christian Pulisic was substituted in the 59th minute due to a right ankle injury."
+      ],
+      "standout_performers": [
+        {
+          "player": "Charles De Ketelaere",
+          "team": "Belgium",
+          "reason": "Scored two crucial goals and assisted another, driving Belgium's attack."
+        },
+        {
+          "player": "Malik Tillman",
+          "team": "USA",
+          "reason": "Scored a direct free-kick goal, becoming the second player since 1966 to score two direct free-kick goals in a single World Cup."
+        }
+      ],
+      "tactical_summary": "Belgium displayed clinical finishing and effectively exploited defensive errors from the USA throughout the match. The USA struggled to maintain control in midfield and their defensive vulnerabilities were repeatedly exposed, particularly after their brief equalizer.",
+      "stats": {},
+      "advancement": {
+        "winner": "Belgium",
+        "advanced_to": "Quarterfinals"
+      }
+    }
+  ],
+  "narrative": "The USA's World Cup dream on home soil came to an end as Belgium delivered a dominant 4-1 performance in the Round of 16. Despite a controversial decision allowing Folarin Balogun to play, Belgium's clinical attack and the USA's defensive lapses ultimately decided the outcome.",
+  "qf_notes": "Belgium will face Spain in the Quarterfinals on July 10 at Los Angeles Stadium (SoFi Stadium). Belgium midfielder Amadou Onana sustained a serious injury in the 19th minute and will miss the Quarterfinal match.",
+  "team": null,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash",
+  "generatedAt": "2026-07-07T12:23:07.332Z"
+}
